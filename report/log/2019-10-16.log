@@ -1,0 +1,958 @@
+2019-10-16 08:49:47,843 - root - INFO - ############################### START ###############################
+2019-10-16 08:49:51,281 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.4381964206695557 seconds
+2019-10-16 08:49:52,536 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2540714740753174 seconds
+2019-10-16 08:50:03,510 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 10.973628044128418 seconds
+2019-10-16 08:50:03,686 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试, Spend 0.1760098934173584 seconds
+2019-10-16 08:50:03,871 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.18401050567626953 seconds
+2019-10-16 08:50:03,883 - root - INFO - SUCCESS    Get current window title, Spend 0.009000778198242188 seconds
+2019-10-16 08:50:06,152 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.268129825592041 seconds
+2019-10-16 08:50:06,154 - root - INFO - ###############################  END  ###############################
+2019-10-16 08:50:06,158 - root - INFO - ############################### START ###############################
+2019-10-16 08:50:08,827 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.6681525707244873 seconds
+2019-10-16 08:50:09,968 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1410653591156006 seconds
+2019-10-16 08:50:14,304 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 4.285244941711426 seconds
+2019-10-16 08:50:14,605 - root - INFO - SUCCESS    Typed element: <id->kw> content: webdriver, Spend 0.3000173568725586 seconds
+2019-10-16 08:50:14,757 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.15100860595703125 seconds
+2019-10-16 08:50:16,772 - root - INFO - SUCCESS    Get current window title, Spend 0.014000892639160156 seconds
+2019-10-16 08:50:19,336 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 2.5631468296051025 seconds
+2019-10-16 08:50:19,509 - root - INFO - SUCCESS    Typed element: <id->kw> content: selenium, Spend 0.17200970649719238 seconds
+2019-10-16 08:50:19,648 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.1370079517364502 seconds
+2019-10-16 08:50:21,673 - root - INFO - SUCCESS    Get current window title, Spend 0.023001432418823242 seconds
+2019-10-16 08:50:21,991 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.31601786613464355 seconds
+2019-10-16 08:50:22,159 - root - INFO - SUCCESS    Typed element: <id->kw> content: github, Spend 0.16800951957702637 seconds
+2019-10-16 08:50:22,278 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.11800646781921387 seconds
+2019-10-16 08:50:24,305 - root - INFO - SUCCESS    Get current window title, Spend 0.026001691818237305 seconds
+2019-10-16 08:50:24,728 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.42302441596984863 seconds
+2019-10-16 08:50:24,938 - root - INFO - SUCCESS    Typed element: <id->kw> content: 小石头tester, Spend 0.20901179313659668 seconds
+2019-10-16 08:50:25,039 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.10100579261779785 seconds
+2019-10-16 08:50:27,058 - root - INFO - SUCCESS    Get current window title, Spend 0.017000913619995117 seconds
+2019-10-16 08:50:29,318 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.259129047393799 seconds
+2019-10-16 08:50:29,320 - root - INFO - ###############################  END  ###############################
+2019-10-16 08:51:04,849 - root - INFO - ############################### START ###############################
+2019-10-16 08:51:08,110 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.259186267852783 seconds
+2019-10-16 08:51:09,276 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1650667190551758 seconds
+2019-10-16 08:51:11,543 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.265129804611206 seconds
+2019-10-16 08:51:11,545 - root - INFO - ###############################  END  ###############################
+2019-10-16 09:09:26,152 - root - INFO - ############################### START ###############################
+2019-10-16 09:09:28,988 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.8351621627807617 seconds
+2019-10-16 09:09:30,159 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.167067050933838 seconds
+2019-10-16 09:09:32,693 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.530144691467285 seconds
+2019-10-16 09:09:32,699 - root - INFO - ###############################  END  ###############################
+2019-10-16 09:11:05,718 - root - INFO - ############################### START ###############################
+2019-10-16 09:11:08,998 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.2781872749328613 seconds
+2019-10-16 09:11:10,150 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1510660648345947 seconds
+2019-10-16 09:11:12,671 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.517144203186035 seconds
+2019-10-16 09:11:12,676 - root - INFO - ###############################  END  ###############################
+2019-10-16 09:12:22,788 - root - INFO - ############################### START ###############################
+2019-10-16 09:12:25,765 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.975170373916626 seconds
+2019-10-16 09:12:26,898 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1310648918151855 seconds
+2019-10-16 09:12:29,493 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.5941483974456787 seconds
+2019-10-16 09:12:29,495 - root - INFO - ###############################  END  ###############################
+2019-10-16 09:12:50,642 - root - INFO - ############################### START ###############################
+2019-10-16 09:12:53,246 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.601148843765259 seconds
+2019-10-16 09:12:54,386 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1390650272369385 seconds
+2019-10-16 09:12:56,931 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.5431454181671143 seconds
+2019-10-16 09:12:56,933 - root - INFO - ###############################  END  ###############################
+2019-10-16 09:13:36,701 - root - INFO - ############################### START ###############################
+2019-10-16 09:13:39,961 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.2581863403320312 seconds
+2019-10-16 09:13:41,110 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1470656394958496 seconds
+2019-10-16 09:13:43,471 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.3601348400115967 seconds
+2019-10-16 09:13:43,473 - root - INFO - ###############################  END  ###############################
+2019-10-16 09:14:10,738 - root - INFO - ############################### START ###############################
+2019-10-16 09:14:13,375 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.634150743484497 seconds
+2019-10-16 09:14:14,533 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1560661792755127 seconds
+2019-10-16 09:14:16,878 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.3451340198516846 seconds
+2019-10-16 09:14:16,879 - root - INFO - ###############################  END  ###############################
+2019-10-16 09:50:39,479 - root - INFO - ############################### START ###############################
+2019-10-16 09:53:06,139 - root - INFO - ############################### START ###############################
+2019-10-16 09:54:34,202 - root - INFO - ############################### START ###############################
+2019-10-16 09:56:06,050 - root - INFO - ############################### START ###############################
+2019-10-16 09:58:09,831 - root - INFO - ############################### START ###############################
+2019-10-16 10:00:31,368 - root - INFO - ############################### START ###############################
+2019-10-16 10:02:26,962 - root - INFO - ############################### START ###############################
+2019-10-16 10:02:30,281 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.3171896934509277 seconds
+2019-10-16 10:02:30,284 - root - INFO - ###############################  END  ###############################
+2019-10-16 10:07:05,337 - root - INFO - ############################### START ###############################
+2019-10-16 10:07:09,265 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.92622447013855 seconds
+2019-10-16 10:07:09,289 - root - INFO - ###############################  END  ###############################
+2019-10-16 10:07:41,276 - root - INFO - ############################### START ###############################
+2019-10-16 10:07:45,588 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 4.30924654006958 seconds
+2019-10-16 10:07:45,609 - root - INFO - ###############################  END  ###############################
+2019-10-16 10:10:26,294 - root - INFO - ############################### START ###############################
+2019-10-16 10:10:29,744 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.448197364807129 seconds
+2019-10-16 10:10:29,767 - root - INFO - ###############################  END  ###############################
+2019-10-16 10:11:45,650 - root - INFO - ############################### START ###############################
+2019-10-16 10:11:48,710 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.0581748485565186 seconds
+2019-10-16 10:11:48,712 - root - INFO - ###############################  END  ###############################
+2019-10-16 10:13:19,021 - root - INFO - ############################### START ###############################
+2019-10-16 10:13:22,304 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.2811875343322754 seconds
+2019-10-16 10:13:22,329 - root - INFO - ###############################  END  ###############################
+2019-10-16 10:17:13,244 - root - INFO - ############################### START ###############################
+2019-10-16 10:17:18,183 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 4.938282489776611 seconds
+2019-10-16 10:17:18,529 - root - INFO - ###############################  END  ###############################
+2019-10-16 10:17:43,271 - root - INFO - ############################### START ###############################
+2019-10-16 10:17:48,521 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 5.249300241470337 seconds
+2019-10-16 10:18:21,607 - root - INFO - ###############################  END  ###############################
+2019-10-16 10:25:43,412 - root - INFO - ############################### START ###############################
+2019-10-16 10:25:50,220 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 6.807389259338379 seconds
+2019-10-16 10:27:21,461 - root - INFO - ############################### START ###############################
+2019-10-16 10:27:24,384 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.9191670417785645 seconds
+2019-10-16 10:27:25,540 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1550660133361816 seconds
+2019-10-16 10:27:55,377 - root - INFO - ###############################  END  ###############################
+2019-10-16 10:37:14,089 - root - INFO - ############################### START ###############################
+2019-10-16 10:37:16,880 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.7901594638824463 seconds
+2019-10-16 10:37:18,156 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2740731239318848 seconds
+2019-10-16 10:37:49,510 - root - INFO - ###############################  END  ###############################
+2019-10-16 10:40:59,940 - root - INFO - ############################### START ###############################
+2019-10-16 10:41:02,897 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.9541687965393066 seconds
+2019-10-16 10:41:04,215 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.3150749206542969 seconds
+2019-10-16 10:44:22,342 - root - INFO - ############################### START ###############################
+2019-10-16 10:44:25,355 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.011172294616699 seconds
+2019-10-16 10:44:26,620 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2620720863342285 seconds
+2019-10-16 10:46:51,036 - root - INFO - ############################### START ###############################
+2019-10-16 10:46:53,892 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.852163076400757 seconds
+2019-10-16 10:46:55,067 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.171067237854004 seconds
+2019-10-16 10:47:31,725 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.894165515899658 seconds
+2019-10-16 10:47:31,729 - root - INFO - ###############################  END  ###############################
+2019-10-16 11:00:15,146 - root - INFO - ############################### START ###############################
+2019-10-16 11:00:18,552 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.4041948318481445 seconds
+2019-10-16 11:00:19,867 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.312074899673462 seconds
+2019-10-16 11:00:19,913 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[1]/div/div[1]/input seconds
+2019-10-16 11:00:20,362 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[2]/div/div[1]/input seconds
+2019-10-16 11:00:20,762 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[4]/div/div[1]/button seconds
+2019-10-16 11:00:30,062 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button seconds
+2019-10-16 11:00:35,267 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1] seconds
+2019-10-16 11:00:37,505 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input seconds
+2019-10-16 11:00:39,746 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="select-append"]/button[1] seconds
+2019-10-16 11:00:42,288 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2] seconds
+2019-10-16 11:00:42,386 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[3]/div/div[3]/div/button[2] seconds
+2019-10-16 11:00:44,598 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea seconds
+2019-10-16 11:00:44,922 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2] seconds
+2019-10-16 11:00:55,697 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.006171941757202 seconds
+2019-10-16 11:00:55,699 - root - INFO - ###############################  END  ###############################
+2019-10-16 11:19:13,730 - root - INFO - ############################### START ###############################
+2019-10-16 11:19:16,808 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.0751757621765137 seconds
+2019-10-16 11:19:18,076 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2660725116729736 seconds
+2019-10-16 11:19:18,110 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[1]/div/div[1]/input seconds
+2019-10-16 11:19:18,603 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[2]/div/div[1]/input seconds
+2019-10-16 11:19:19,020 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[4]/div/div[1]/button seconds
+2019-10-16 11:19:29,111 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button seconds
+2019-10-16 11:19:34,609 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1] seconds
+2019-10-16 11:19:36,846 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input seconds
+2019-10-16 11:19:39,167 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="select-append"]/button[1] seconds
+2019-10-16 11:19:41,357 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2] seconds
+2019-10-16 11:19:41,459 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[3]/div/div[3]/div/button[2] seconds
+2019-10-16 11:19:43,600 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea seconds
+2019-10-16 11:19:43,927 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2] seconds
+2019-10-16 11:19:54,388 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.8141610622406006 seconds
+2019-10-16 11:19:54,390 - root - INFO - ###############################  END  ###############################
+2019-10-16 11:23:38,505 - root - INFO - ############################### START ###############################
+2019-10-16 11:23:40,564 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.0571177005767822 seconds
+2019-10-16 11:23:41,835 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2670726776123047 seconds
+2019-10-16 11:23:41,871 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[1]/div/div[1]/input seconds
+2019-10-16 11:23:42,255 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[2]/div/div[1]/input seconds
+2019-10-16 11:23:42,688 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[4]/div/div[1]/button seconds
+2019-10-16 11:23:51,225 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button seconds
+2019-10-16 11:23:56,612 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1] seconds
+2019-10-16 11:23:58,844 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input seconds
+2019-10-16 11:24:01,065 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="select-append"]/button[1] seconds
+2019-10-16 11:24:03,246 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2] seconds
+2019-10-16 11:24:03,342 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[3]/div/div[3]/div/button[2] seconds
+2019-10-16 11:24:05,477 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea seconds
+2019-10-16 11:24:05,747 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2] seconds
+2019-10-16 11:24:16,062 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.7121551036834717 seconds
+2019-10-16 11:24:16,063 - root - INFO - ###############################  END  ###############################
+2019-10-16 11:29:38,927 - root - INFO - SUCCESS    Start a new browser: <selenium.webdriver.chrome.webdriver.WebDriver (session="04f868af3b414e1c12513c3ace39fbd2")>, Spend 5.4463114738464355 seconds
+2019-10-16 11:29:38,937 - root - INFO - ############################### START ###############################
+2019-10-16 11:29:42,605 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.6642093658447266 seconds
+2019-10-16 11:29:44,410 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.8031032085418701 seconds
+2019-10-16 11:29:44,444 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[1]/div/div[1]/input seconds
+2019-10-16 11:29:44,977 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[2]/div/div[1]/input seconds
+2019-10-16 11:29:45,413 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[4]/div/div[1]/button seconds
+2019-10-16 11:29:55,350 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button seconds
+2019-10-16 11:30:00,594 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1] seconds
+2019-10-16 11:30:02,850 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input seconds
+2019-10-16 11:30:05,077 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="select-append"]/button[1] seconds
+2019-10-16 11:30:07,290 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2] seconds
+2019-10-16 11:30:07,394 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[3]/div/div[3]/div/button[2] seconds
+2019-10-16 11:30:09,510 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea seconds
+2019-10-16 11:30:09,778 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2] seconds
+2019-10-16 11:30:20,382 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.974169969558716 seconds
+2019-10-16 11:30:20,384 - root - INFO - ###############################  END  ###############################
+2019-10-16 11:32:24,832 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 5.0682902336120605 seconds
+2019-10-16 11:32:24,844 - root - INFO - ############################### START ###############################
+2019-10-16 11:32:41,387 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 16.53994584083557 seconds
+2019-10-16 11:32:42,570 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.182067632675171 seconds
+2019-10-16 11:32:42,620 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[1]/div/div[1]/input seconds
+2019-10-16 11:32:42,901 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[2]/div/div[1]/input seconds
+2019-10-16 11:32:43,169 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[4]/div/div[1]/button seconds
+2019-10-16 11:33:06,008 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button seconds
+2019-10-16 11:33:11,296 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1] seconds
+2019-10-16 11:33:13,547 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input seconds
+2019-10-16 11:33:15,799 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="select-append"]/button[1] seconds
+2019-10-16 11:33:17,986 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2] seconds
+2019-10-16 11:33:18,091 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[3]/div/div[3]/div/button[2] seconds
+2019-10-16 11:33:20,263 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea seconds
+2019-10-16 11:33:20,520 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2] seconds
+2019-10-16 11:33:28,353 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.726155996322632 seconds
+2019-10-16 11:33:28,355 - root - INFO - ###############################  END  ###############################
+2019-10-16 11:35:53,288 - root - INFO - ############################### START ###############################
+2019-10-16 11:35:56,659 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.3681929111480713 seconds
+2019-10-16 11:35:56,662 - root - INFO - FAIL       Unable to load https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 0.0 seconds
+2019-10-16 11:38:23,863 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.354192018508911 seconds
+2019-10-16 11:39:15,202 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.7762160301208496 seconds
+2019-10-16 11:39:15,213 - root - INFO - ############################### START ###############################
+2019-10-16 11:39:23,329 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 8.114464044570923 seconds
+2019-10-16 11:39:24,630 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2980742454528809 seconds
+2019-10-16 11:39:24,682 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[1]/div/div[1]/input seconds
+2019-10-16 11:39:25,164 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[2]/div/div[1]/input seconds
+2019-10-16 11:39:25,569 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[4]/div/div[1]/button seconds
+2019-10-16 11:39:57,245 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button seconds
+2019-10-16 11:40:02,438 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1] seconds
+2019-10-16 11:40:04,684 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input seconds
+2019-10-16 11:40:06,901 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="select-append"]/button[1] seconds
+2019-10-16 11:40:09,114 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2] seconds
+2019-10-16 11:40:09,210 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[3]/div/div[3]/div/button[2] seconds
+2019-10-16 11:40:11,342 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea seconds
+2019-10-16 11:40:11,669 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2] seconds
+2019-10-16 11:40:19,367 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.6021485328674316 seconds
+2019-10-16 11:40:19,368 - root - INFO - ###############################  END  ###############################
+2019-10-16 11:41:03,647 - root - INFO - ############################### START ###############################
+2019-10-16 11:41:07,983 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.333247900009155 seconds
+2019-10-16 11:41:16,387 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 8.403480529785156 seconds
+2019-10-16 11:41:17,658 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2700726985931396 seconds
+2019-10-16 11:41:17,723 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[1]/div/div[1]/input seconds
+2019-10-16 11:41:18,126 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[2]/div/div[1]/input seconds
+2019-10-16 11:41:18,531 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="fm1"]/div[4]/div/div[1]/button seconds
+2019-10-16 11:41:43,241 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button seconds
+2019-10-16 11:41:48,378 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1] seconds
+2019-10-16 11:41:50,628 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input seconds
+2019-10-16 11:41:52,843 - root - INFO - SUCCESS    FindXpath, Spend xpath->//*[@id="select-append"]/button[1] seconds
+2019-10-16 11:41:55,043 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2] seconds
+2019-10-16 11:41:55,140 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[3]/div/div[3]/div/button[2] seconds
+2019-10-16 11:41:57,258 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea seconds
+2019-10-16 11:41:57,513 - root - INFO - SUCCESS    FindXpath, Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2] seconds
+2019-10-16 11:42:05,404 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.752157211303711 seconds
+2019-10-16 11:42:05,405 - root - INFO - ###############################  END  ###############################
+2019-10-16 11:46:54,220 - root - INFO - ############################### START ###############################
+2019-10-16 11:46:58,171 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.949225664138794 seconds
+2019-10-16 11:47:09,653 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 11.478656530380249 seconds
+2019-10-16 11:47:12,596 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.9401683807373047 seconds
+2019-10-16 11:47:15,339 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.6761531829833984 seconds
+2019-10-16 11:47:15,342 - root - INFO - ###############################  END  ###############################
+2019-10-16 11:48:30,979 - root - INFO - ############################### START ###############################
+2019-10-16 11:48:35,033 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.052231788635254 seconds
+2019-10-16 11:48:38,624 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.588205337524414 seconds
+2019-10-16 11:48:39,908 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2820734977722168 seconds
+2019-10-16 11:48:39,946 - root - INFO - SUCCESS    Typed element: Spend xpath->//*[@id="fm1"]/div[1]/div/div[1]/input seconds
+2019-10-16 11:48:40,680 - root - INFO - SUCCESS    Typed element: Spend xpath->//*[@id="fm1"]/div[2]/div/div[1]/input seconds
+2019-10-16 11:48:41,613 - root - INFO - SUCCESS    Typed element: Spend xpath->//*[@id="fm1"]/div[4]/div/div[1]/button seconds
+2019-10-16 11:48:53,103 - root - INFO - SUCCESS    Typed element: Spend xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button seconds
+2019-10-16 11:48:58,620 - root - INFO - SUCCESS    Typed element: Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1] seconds
+2019-10-16 11:49:00,868 - root - INFO - SUCCESS    Typed element: Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input seconds
+2019-10-16 11:49:03,089 - root - INFO - SUCCESS    Typed element: Spend xpath->//*[@id="select-append"]/button[1] seconds
+2019-10-16 11:49:05,472 - root - INFO - SUCCESS    Typed element: Spend xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2] seconds
+2019-10-16 11:49:05,569 - root - INFO - SUCCESS    Typed element: Spend xpath->/html/body/div[3]/div/div[3]/div/button[2] seconds
+2019-10-16 11:49:07,700 - root - INFO - SUCCESS    Typed element: Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea seconds
+2019-10-16 11:49:07,953 - root - INFO - SUCCESS    Typed element: Spend xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2] seconds
+2019-10-16 11:49:15,640 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.590148448944092 seconds
+2019-10-16 11:49:15,641 - root - INFO - ###############################  END  ###############################
+2019-10-16 11:50:59,658 - root - INFO - ############################### START ###############################
+2019-10-16 11:51:03,782 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.1232359409332275 seconds
+2019-10-16 11:51:06,309 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.526144504547119 seconds
+2019-10-16 11:51:07,533 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2220699787139893 seconds
+2019-10-16 11:51:07,564 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.03000187873840332 seconds
+2019-10-16 11:51:07,971 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.031001567840576172 seconds
+2019-10-16 11:51:08,390 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.036002159118652344 seconds
+2019-10-16 11:51:17,965 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.029001712799072266 seconds
+2019-10-16 11:51:23,171 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.03000164031982422 seconds
+2019-10-16 11:51:25,724 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.02500128746032715 seconds
+2019-10-16 11:51:27,941 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.02300095558166504 seconds
+2019-10-16 11:51:30,139 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.024001121520996094 seconds
+2019-10-16 11:51:30,238 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.024001121520996094 seconds
+2019-10-16 11:51:32,353 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.024001359939575195 seconds
+2019-10-16 11:51:32,629 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.02500152587890625 seconds
+2019-10-16 11:51:40,341 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.607149124145508 seconds
+2019-10-16 11:51:40,342 - root - INFO - ###############################  END  ###############################
+2019-10-16 14:45:01,210 - root - INFO - ############################### START ###############################
+2019-10-16 14:45:06,872 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 5.658323764801025 seconds
+2019-10-16 14:45:10,234 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.36019229888916 seconds
+2019-10-16 14:45:11,739 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.5010859966278076 seconds
+2019-10-16 14:45:11,775 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.03300213813781738 seconds
+2019-10-16 14:45:14,812 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0341737270355225 seconds
+2019-10-16 14:45:14,814 - root - INFO - ###############################  END  ###############################
+2019-10-16 14:46:41,059 - root - INFO - ############################### START ###############################
+2019-10-16 14:46:45,632 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.571261405944824 seconds
+2019-10-16 14:46:49,138 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.5042004585266113 seconds
+2019-10-16 14:46:50,450 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.309075117111206 seconds
+2019-10-16 14:46:50,488 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.03500199317932129 seconds
+2019-10-16 14:46:53,454 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.9471683502197266 seconds
+2019-10-16 14:46:53,457 - root - INFO - ###############################  END  ###############################
+2019-10-16 14:52:32,463 - root - INFO - ############################### START ###############################
+2019-10-16 14:52:37,659 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 5.192296981811523 seconds
+2019-10-16 14:52:44,364 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 6.701383352279663 seconds
+2019-10-16 14:52:45,637 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2690727710723877 seconds
+2019-10-16 14:52:45,673 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.034001827239990234 seconds
+2019-10-16 14:52:48,538 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.863163709640503 seconds
+2019-10-16 14:52:48,540 - root - INFO - ###############################  END  ###############################
+2019-10-16 14:55:29,127 - root - INFO - ############################### START ###############################
+2019-10-16 14:55:32,942 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.813218116760254 seconds
+2019-10-16 14:56:03,272 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 30.32673454284668 seconds
+2019-10-16 14:56:04,519 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2430708408355713 seconds
+2019-10-16 14:56:04,592 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.07100415229797363 seconds
+2019-10-16 14:56:05,021 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.03000164031982422 seconds
+2019-10-16 14:56:05,402 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.031002044677734375 seconds
+2019-10-16 14:56:20,091 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.029001712799072266 seconds
+2019-10-16 14:56:25,262 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.03000187873840332 seconds
+2019-10-16 14:56:27,551 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.02500176429748535 seconds
+2019-10-16 14:56:29,848 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.03000164031982422 seconds
+2019-10-16 14:56:32,101 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.02800154685974121 seconds
+2019-10-16 14:56:32,223 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.03500199317932129 seconds
+2019-10-16 14:56:34,395 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.04000234603881836 seconds
+2019-10-16 14:56:34,783 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.02800154685974121 seconds
+2019-10-16 14:56:42,829 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.9191670417785645 seconds
+2019-10-16 14:56:42,831 - root - INFO - ###############################  END  ###############################
+2019-10-16 14:57:28,379 - root - INFO - ############################### START ###############################
+2019-10-16 14:57:32,962 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.580261945724487 seconds
+2019-10-16 14:57:42,240 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 9.276530742645264 seconds
+2019-10-16 14:57:43,517 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2730729579925537 seconds
+2019-10-16 14:57:46,463 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.9441683292388916 seconds
+2019-10-16 14:57:46,466 - root - INFO - ###############################  END  ###############################
+2019-10-16 15:14:22,115 - root - INFO - ############################### START ###############################
+2019-10-16 15:14:27,129 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 5.011286735534668 seconds
+2019-10-16 15:14:34,292 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 7.162409543991089 seconds
+2019-10-16 15:14:35,628 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.333076000213623 seconds
+2019-10-16 15:14:35,630 - root - INFO - FAIL       Unable to send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.0 seconds
+2019-10-16 15:14:38,668 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0361735820770264 seconds
+2019-10-16 15:14:38,670 - root - INFO - ###############################  END  ###############################
+2019-10-16 15:16:36,402 - root - INFO - ############################### START ###############################
+2019-10-16 15:16:40,586 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.180238723754883 seconds
+2019-10-16 15:16:43,539 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.9501688480377197 seconds
+2019-10-16 15:16:44,746 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.206068992614746 seconds
+2019-10-16 15:16:44,748 - root - INFO - FAIL       Unable to send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.0 seconds
+2019-10-16 15:16:47,548 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.7991600036621094 seconds
+2019-10-16 15:16:47,550 - root - INFO - ###############################  END  ###############################
+2019-10-16 15:17:57,495 - root - INFO - ############################### START ###############################
+2019-10-16 15:18:02,061 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.564260721206665 seconds
+2019-10-16 15:18:08,956 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 6.891394376754761 seconds
+2019-10-16 15:18:10,192 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2340707778930664 seconds
+2019-10-16 15:18:10,195 - root - INFO - FAIL       Unable to send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.0 seconds
+2019-10-16 15:18:13,229 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0321736335754395 seconds
+2019-10-16 15:18:13,231 - root - INFO - ###############################  END  ###############################
+2019-10-16 15:18:48,193 - root - INFO - ############################### START ###############################
+2019-10-16 15:18:52,381 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.18623948097229 seconds
+2019-10-16 15:18:58,579 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 6.196354389190674 seconds
+2019-10-16 15:18:59,738 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1560664176940918 seconds
+2019-10-16 15:18:59,740 - root - INFO - FAIL       Unable to send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.0 seconds
+2019-10-16 15:19:02,540 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.7981600761413574 seconds
+2019-10-16 15:19:02,542 - root - INFO - ###############################  END  ###############################
+2019-10-16 15:22:16,676 - root - INFO - ############################### START ###############################
+2019-10-16 15:22:20,824 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.145236968994141 seconds
+2019-10-16 15:22:41,095 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 20.269159078598022 seconds
+2019-10-16 15:22:42,246 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1500661373138428 seconds
+2019-10-16 15:22:42,248 - root - INFO - FAIL       Unable to send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.0 seconds
+2019-10-16 15:22:44,981 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.73115611076355 seconds
+2019-10-16 15:22:44,983 - root - INFO - ###############################  END  ###############################
+2019-10-16 15:23:57,114 - root - INFO - ############################### START ###############################
+2019-10-16 15:24:01,495 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.3792502880096436 seconds
+2019-10-16 15:24:06,739 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 5.241299629211426 seconds
+2019-10-16 15:24:08,071 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.3290762901306152 seconds
+2019-10-16 15:24:08,073 - root - INFO - FAIL       Unable to send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.0 seconds
+2019-10-16 15:24:10,948 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.873164415359497 seconds
+2019-10-16 15:24:10,951 - root - INFO - ###############################  END  ###############################
+2019-10-16 15:25:22,796 - root - INFO - ############################### START ###############################
+2019-10-16 15:25:27,370 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.571261644363403 seconds
+2019-10-16 15:25:30,817 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.4451968669891357 seconds
+2019-10-16 15:25:32,114 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2940738201141357 seconds
+2019-10-16 15:25:32,117 - root - INFO - FAIL       Unable to send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.0 seconds
+2019-10-16 15:25:35,033 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.9131667613983154 seconds
+2019-10-16 15:25:35,035 - root - INFO - ###############################  END  ###############################
+2019-10-16 15:27:16,015 - root - INFO - ############################### START ###############################
+2019-10-16 15:27:20,066 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.048231363296509 seconds
+2019-10-16 15:27:24,533 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 4.465255498886108 seconds
+2019-10-16 15:27:25,801 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2660722732543945 seconds
+2019-10-16 15:27:28,688 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.8841652870178223 seconds
+2019-10-16 15:27:28,690 - root - INFO - ###############################  END  ###############################
+2019-10-16 15:37:05,026 - root - INFO - ############################### START ###############################
+2019-10-16 15:37:09,577 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.54826021194458 seconds
+2019-10-16 15:37:13,067 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.488199472427368 seconds
+2019-10-16 15:37:14,255 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1850676536560059 seconds
+2019-10-16 15:37:14,285 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.027001619338989258 seconds
+2019-10-16 15:37:17,084 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.7961599826812744 seconds
+2019-10-16 15:37:17,086 - root - INFO - ###############################  END  ###############################
+2019-10-16 15:38:34,485 - root - INFO - ############################### START ###############################
+2019-10-16 15:38:38,773 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.285244941711426 seconds
+2019-10-16 15:38:44,954 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 6.179353475570679 seconds
+2019-10-16 15:38:46,191 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2340705394744873 seconds
+2019-10-16 15:38:46,234 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.041002511978149414 seconds
+2019-10-16 15:38:46,608 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.41402387619018555 seconds
+2019-10-16 15:38:46,641 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.031001806259155273 seconds
+2019-10-16 15:38:47,134 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.5230300426483154 seconds
+2019-10-16 15:38:47,170 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.03300189971923828 seconds
+2019-10-16 15:38:54,609 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 7.461426734924316 seconds
+2019-10-16 15:38:59,638 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.026001453399658203 seconds
+2019-10-16 15:38:59,953 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.3410193920135498 seconds
+2019-10-16 15:39:07,708 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.751157283782959 seconds
+2019-10-16 15:39:07,710 - root - INFO - ###############################  END  ###############################
+2019-10-16 15:39:55,325 - root - INFO - ############################### START ###############################
+2019-10-16 15:39:59,522 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.19323992729187 seconds
+2019-10-16 15:40:06,713 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 7.188411235809326 seconds
+2019-10-16 15:40:07,975 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2590720653533936 seconds
+2019-10-16 15:40:08,015 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.0370020866394043 seconds
+2019-10-16 15:40:08,467 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.489027738571167 seconds
+2019-10-16 15:40:08,500 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.03000164031982422 seconds
+2019-10-16 15:40:08,866 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.3960225582122803 seconds
+2019-10-16 15:40:08,903 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.03500199317932129 seconds
+2019-10-16 15:40:22,632 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 13.763787269592285 seconds
+2019-10-16 15:40:27,664 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.029001474380493164 seconds
+2019-10-16 15:40:27,792 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.15700888633728027 seconds
+2019-10-16 15:40:32,819 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.023001432418823242 seconds
+2019-10-16 15:40:33,021 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.22501277923583984 seconds
+2019-10-16 15:40:35,032 - root - INFO - FAIL       Unable to send element: <test> content: xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input, Spend 0.0 seconds
+2019-10-16 15:40:37,857 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.8221616744995117 seconds
+2019-10-16 15:40:37,859 - root - INFO - ###############################  END  ###############################
+2019-10-16 15:41:55,929 - root - INFO - ############################### START ###############################
+2019-10-16 15:41:59,966 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.036230802536011 seconds
+2019-10-16 15:42:09,109 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 9.139522552490234 seconds
+2019-10-16 15:42:10,367 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2560720443725586 seconds
+2019-10-16 15:42:10,409 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.039002418518066406 seconds
+2019-10-16 15:42:10,658 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.28801679611206055 seconds
+2019-10-16 15:42:10,687 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.02800154685974121 seconds
+2019-10-16 15:42:10,931 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.2710154056549072 seconds
+2019-10-16 15:42:10,965 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.031001567840576172 seconds
+2019-10-16 15:42:35,714 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 24.779417037963867 seconds
+2019-10-16 15:42:40,740 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.02500152587890625 seconds
+2019-10-16 15:42:40,940 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.22501301765441895 seconds
+2019-10-16 15:42:45,964 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.021001338958740234 seconds
+2019-10-16 15:42:46,208 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.2650151252746582 seconds
+2019-10-16 15:42:48,234 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.023001432418823242 seconds
+2019-10-16 15:42:48,476 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input> content: test, Spend 0.26601529121398926 seconds
+2019-10-16 15:42:50,502 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.024001598358154297 seconds
+2019-10-16 15:42:50,682 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.18301057815551758 seconds
+2019-10-16 15:42:52,708 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.02300119400024414 seconds
+2019-10-16 15:42:52,784 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.1000056266784668 seconds
+2019-10-16 15:42:52,810 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.023001432418823242 seconds
+2019-10-16 15:42:52,932 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.14500832557678223 seconds
+2019-10-16 15:42:54,958 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.024001359939575195 seconds
+2019-10-16 15:42:55,223 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea> content: select, Spend 0.28801631927490234 seconds
+2019-10-16 15:42:55,249 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.026001453399658203 seconds
+2019-10-16 15:42:55,384 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.16000890731811523 seconds
+2019-10-16 15:43:03,138 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.752157211303711 seconds
+2019-10-16 15:43:03,140 - root - INFO - ###############################  END  ###############################
+2019-10-16 15:48:06,022 - root - INFO - ############################### START ###############################
+2019-10-16 15:48:10,310 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.284245252609253 seconds
+2019-10-16 15:48:14,476 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 4.165238380432129 seconds
+2019-10-16 15:48:15,794 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.315075159072876 seconds
+2019-10-16 15:48:15,822 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.026001453399658203 seconds
+2019-10-16 15:48:16,051 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.25501465797424316 seconds
+2019-10-16 15:48:16,083 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.03000164031982422 seconds
+2019-10-16 15:48:16,373 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.3190181255340576 seconds
+2019-10-16 15:48:16,403 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.027001380920410156 seconds
+2019-10-16 15:48:22,790 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 6.414366722106934 seconds
+2019-10-16 15:48:30,850 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0561747550964355 seconds
+2019-10-16 15:48:30,853 - root - INFO - ###############################  END  ###############################
+2019-10-16 15:48:59,792 - root - INFO - ############################### START ###############################
+2019-10-16 15:49:03,973 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.178239107131958 seconds
+2019-10-16 15:49:10,917 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 6.941396951675415 seconds
+2019-10-16 15:49:12,401 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.4820847511291504 seconds
+2019-10-16 15:49:12,436 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.034001827239990234 seconds
+2019-10-16 15:49:12,896 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.4930284023284912 seconds
+2019-10-16 15:49:12,938 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.04000234603881836 seconds
+2019-10-16 15:49:13,355 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.45702624320983887 seconds
+2019-10-16 15:49:13,387 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.031001806259155273 seconds
+2019-10-16 15:49:25,523 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 12.165695905685425 seconds
+2019-10-16 15:49:30,528 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003999948501586914 seconds
+2019-10-16 15:49:30,569 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.04000210762023926 seconds
+2019-10-16 15:49:31,001 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.4710268974304199 seconds
+2019-10-16 15:49:36,045 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.02500152587890625 seconds
+2019-10-16 15:49:36,261 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.2410140037536621 seconds
+2019-10-16 15:49:38,294 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.03200197219848633 seconds
+2019-10-16 15:49:38,501 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input> content: test, Spend 0.23801374435424805 seconds
+2019-10-16 15:49:40,527 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.024001359939575195 seconds
+2019-10-16 15:49:40,717 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.21401214599609375 seconds
+2019-10-16 15:49:42,742 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.023001432418823242 seconds
+2019-10-16 15:49:42,820 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.10100603103637695 seconds
+2019-10-16 15:49:42,852 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.031001806259155273 seconds
+2019-10-16 15:49:42,945 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.12400698661804199 seconds
+2019-10-16 15:49:44,971 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.02500128746032715 seconds
+2019-10-16 15:49:45,213 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea> content: select, Spend 0.2670152187347412 seconds
+2019-10-16 15:49:45,243 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.029001474380493164 seconds
+2019-10-16 15:49:45,400 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.18501043319702148 seconds
+2019-10-16 15:49:53,244 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.8411624431610107 seconds
+2019-10-16 15:49:53,246 - root - INFO - ###############################  END  ###############################
+2019-10-16 15:53:07,293 - root - INFO - ############################### START ###############################
+2019-10-16 15:53:11,964 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.668267011642456 seconds
+2019-10-16 15:53:21,867 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 9.901566505432129 seconds
+2019-10-16 15:53:23,159 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2870733737945557 seconds
+2019-10-16 15:53:23,200 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.03800201416015625 seconds
+2019-10-16 15:53:23,632 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.47002696990966797 seconds
+2019-10-16 15:53:23,638 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.003000020980834961 seconds
+2019-10-16 15:53:23,641 - root - INFO - FAIL       Unable to clear and send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.0 seconds
+2019-10-16 15:53:26,516 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.872164249420166 seconds
+2019-10-16 15:53:26,518 - root - INFO - ###############################  END  ###############################
+2019-10-16 15:56:49,919 - root - INFO - ############################### START ###############################
+2019-10-16 15:56:54,146 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.223241329193115 seconds
+2019-10-16 15:56:57,551 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.4031941890716553 seconds
+2019-10-16 15:56:58,795 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2420713901519775 seconds
+2019-10-16 15:56:58,829 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.031001806259155273 seconds
+2019-10-16 15:56:59,306 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.5080292224884033 seconds
+2019-10-16 15:56:59,316 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.00700068473815918 seconds
+2019-10-16 15:56:59,318 - root - INFO - FAIL       Unable to clear and send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.0 seconds
+2019-10-16 15:57:02,311 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.99117112159729 seconds
+2019-10-16 15:57:02,313 - root - INFO - ###############################  END  ###############################
+2019-10-16 16:00:46,513 - root - INFO - ############################### START ###############################
+2019-10-16 16:00:51,338 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.822275876998901 seconds
+2019-10-16 16:00:55,296 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.955226182937622 seconds
+2019-10-16 16:00:56,543 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2430710792541504 seconds
+2019-10-16 16:00:56,576 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.031001806259155273 seconds
+2019-10-16 16:00:56,990 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.4450254440307617 seconds
+2019-10-16 16:00:56,994 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.003000020980834961 seconds
+2019-10-16 16:00:57,014 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.01800084114074707 seconds
+2019-10-16 16:00:57,353 - root - INFO - SUCCESS    Clear and send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.35702037811279297 seconds
+2019-10-16 16:00:57,378 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.024001359939575195 seconds
+2019-10-16 16:00:57,679 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.32501864433288574 seconds
+2019-10-16 16:00:57,722 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.04200243949890137 seconds
+2019-10-16 16:00:58,490 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.8100464344024658 seconds
+2019-10-16 16:01:03,495 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000497817993164 seconds
+2019-10-16 16:01:13,547 - root - INFO - FAIL       Unable to click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 10.05157470703125 seconds
+2019-10-16 16:01:16,266 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.716155529022217 seconds
+2019-10-16 16:01:16,268 - root - INFO - ###############################  END  ###############################
+2019-10-16 16:01:52,647 - root - INFO - ############################### START ###############################
+2019-10-16 16:01:57,539 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.888279676437378 seconds
+2019-10-16 16:02:03,830 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 6.288359880447388 seconds
+2019-10-16 16:02:05,059 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2260701656341553 seconds
+2019-10-16 16:02:05,099 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.03800225257873535 seconds
+2019-10-16 16:02:05,568 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.5070290565490723 seconds
+2019-10-16 16:02:05,576 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.006000518798828125 seconds
+2019-10-16 16:02:05,601 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.02300119400024414 seconds
+2019-10-16 16:02:05,603 - root - INFO - FAIL       Unable to clear and send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.02500176429748535 seconds
+2019-10-16 16:02:08,507 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.9021658897399902 seconds
+2019-10-16 16:02:08,509 - root - INFO - ###############################  END  ###############################
+2019-10-16 16:06:15,377 - root - INFO - ############################### START ###############################
+2019-10-16 16:06:19,365 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.9852280616760254 seconds
+2019-10-16 16:06:23,904 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 4.536259651184082 seconds
+2019-10-16 16:06:25,077 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1700668334960938 seconds
+2019-10-16 16:06:25,105 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.02500128746032715 seconds
+2019-10-16 16:06:25,347 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.2670152187347412 seconds
+2019-10-16 16:06:25,352 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.003000020980834961 seconds
+2019-10-16 16:06:25,384 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.029001474380493164 seconds
+2019-10-16 16:06:28,388 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.8931655883789062 seconds
+2019-10-16 16:06:28,390 - root - INFO - ###############################  END  ###############################
+2019-10-16 16:07:19,380 - root - INFO - ############################### START ###############################
+2019-10-16 16:07:23,625 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.2412426471710205 seconds
+2019-10-16 16:07:27,894 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 4.267244100570679 seconds
+2019-10-16 16:07:29,123 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2270703315734863 seconds
+2019-10-16 16:07:29,155 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.03000164031982422 seconds
+2019-10-16 16:07:29,390 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.26601529121398926 seconds
+2019-10-16 16:07:29,395 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0030002593994140625 seconds
+2019-10-16 16:07:29,414 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.017000913619995117 seconds
+2019-10-16 16:07:29,478 - root - INFO - SUCCESS    Clear element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.08200454711914062 seconds
+2019-10-16 16:07:29,509 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.029001712799072266 seconds
+2019-10-16 16:07:29,792 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.31201791763305664 seconds
+2019-10-16 16:07:29,819 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.02500128746032715 seconds
+2019-10-16 16:07:36,363 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 6.569375514984131 seconds
+2019-10-16 16:07:41,367 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000497817993164 seconds
+2019-10-16 16:07:41,399 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.03000164031982422 seconds
+2019-10-16 16:07:41,642 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.27301549911499023 seconds
+2019-10-16 16:07:46,685 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.02300119400024414 seconds
+2019-10-16 16:07:46,964 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.3020172119140625 seconds
+2019-10-16 16:07:48,990 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.024001359939575195 seconds
+2019-10-16 16:07:49,188 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input> content: test, Spend 0.22201275825500488 seconds
+2019-10-16 16:07:51,213 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.023001432418823242 seconds
+2019-10-16 16:07:51,409 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.21901226043701172 seconds
+2019-10-16 16:07:53,434 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.024001598358154297 seconds
+2019-10-16 16:07:53,510 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.09900569915771484 seconds
+2019-10-16 16:07:53,536 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.02500128746032715 seconds
+2019-10-16 16:07:53,664 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.1520085334777832 seconds
+2019-10-16 16:07:55,688 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.022001266479492188 seconds
+2019-10-16 16:07:55,954 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea> content: select, Spend 0.28801655769348145 seconds
+2019-10-16 16:07:55,982 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.027001619338989258 seconds
+2019-10-16 16:07:56,078 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.12200689315795898 seconds
+2019-10-16 16:08:03,720 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.640151023864746 seconds
+2019-10-16 16:08:03,722 - root - INFO - ###############################  END  ###############################
+2019-10-16 16:11:06,904 - root - INFO - ############################### START ###############################
+2019-10-16 16:11:11,440 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.532259225845337 seconds
+2019-10-16 16:11:15,438 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.9952287673950195 seconds
+2019-10-16 16:11:16,723 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2830731868743896 seconds
+2019-10-16 16:11:16,757 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.03200173377990723 seconds
+2019-10-16 16:11:17,147 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.42302393913269043 seconds
+2019-10-16 16:11:17,154 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.00500035285949707 seconds
+2019-10-16 16:11:17,176 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.02000117301940918 seconds
+2019-10-16 16:11:17,307 - root - INFO - SUCCESS    Clear element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.15100884437561035 seconds
+2019-10-16 16:11:17,335 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.026001691818237305 seconds
+2019-10-16 16:11:17,748 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.4390251636505127 seconds
+2019-10-16 16:11:17,792 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.04300236701965332 seconds
+2019-10-16 16:11:18,528 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.7790443897247314 seconds
+2019-10-16 16:11:23,532 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-16 16:11:33,588 - root - INFO - FAIL       Unable to click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 10.054575204849243 seconds
+2019-10-16 16:11:36,424 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.8341622352600098 seconds
+2019-10-16 16:11:36,426 - root - INFO - ###############################  END  ###############################
+2019-10-16 16:12:40,433 - root - INFO - ############################### START ###############################
+2019-10-16 16:12:44,324 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.8882222175598145 seconds
+2019-10-16 16:12:48,281 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.95422625541687 seconds
+2019-10-16 16:12:49,477 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.193068265914917 seconds
+2019-10-16 16:12:49,512 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.034002065658569336 seconds
+2019-10-16 16:12:49,902 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.42302417755126953 seconds
+2019-10-16 16:12:49,906 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.003000020980834961 seconds
+2019-10-16 16:12:49,940 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.03200197219848633 seconds
+2019-10-16 16:12:50,347 - root - INFO - SUCCESS    Clear and send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.4390251636505127 seconds
+2019-10-16 16:12:50,379 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.031001806259155273 seconds
+2019-10-16 16:12:50,820 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.471027135848999 seconds
+2019-10-16 16:12:50,854 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.03200173377990723 seconds
+2019-10-16 16:13:06,468 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 15.645894765853882 seconds
+2019-10-16 16:13:11,473 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000020980834961 seconds
+2019-10-16 16:13:11,506 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.031001567840576172 seconds
+2019-10-16 16:13:11,841 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.36602091789245605 seconds
+2019-10-16 16:13:16,883 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.024001121520996094 seconds
+2019-10-16 16:13:17,145 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.28601622581481934 seconds
+2019-10-16 16:13:19,170 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.023001432418823242 seconds
+2019-10-16 16:13:19,380 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input> content: test, Spend 0.23401331901550293 seconds
+2019-10-16 16:13:21,407 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.024001598358154297 seconds
+2019-10-16 16:13:21,598 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.2150125503540039 seconds
+2019-10-16 16:13:23,629 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.029001712799072266 seconds
+2019-10-16 16:13:23,710 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.11000609397888184 seconds
+2019-10-16 16:13:23,735 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.024001121520996094 seconds
+2019-10-16 16:13:23,830 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.11800670623779297 seconds
+2019-10-16 16:13:25,858 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.026001453399658203 seconds
+2019-10-16 16:13:26,087 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea> content: select, Spend 0.25501441955566406 seconds
+2019-10-16 16:13:26,115 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.027001619338989258 seconds
+2019-10-16 16:13:26,213 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.12500739097595215 seconds
+2019-10-16 16:13:34,057 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.84116268157959 seconds
+2019-10-16 16:13:34,059 - root - INFO - ###############################  END  ###############################
+2019-10-16 16:48:35,344 - root - INFO - ############################### START ###############################
+2019-10-16 16:48:39,897 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.551260232925415 seconds
+2019-10-16 16:48:44,796 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 4.89628005027771 seconds
+2019-10-16 16:48:46,561 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.7621004581451416 seconds
+2019-10-16 16:48:46,744 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.18001008033752441 seconds
+2019-10-16 16:48:47,397 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.83304762840271 seconds
+2019-10-16 16:48:47,403 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.003000020980834961 seconds
+2019-10-16 16:48:47,429 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.024001359939575195 seconds
+2019-10-16 16:48:47,929 - root - INFO - SUCCESS    Clear and send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.5240299701690674 seconds
+2019-10-16 16:48:47,971 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.039002180099487305 seconds
+2019-10-16 16:48:48,704 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.7720439434051514 seconds
+2019-10-16 16:48:48,754 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.047002553939819336 seconds
+2019-10-16 16:48:53,534 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 4.82827615737915 seconds
+2019-10-16 16:48:58,544 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0030002593994140625 seconds
+2019-10-16 16:49:11,455 - root - INFO - ############################### START ###############################
+2019-10-16 16:49:15,708 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.251243352890015 seconds
+2019-10-16 16:49:16,253 - root - INFO - FAIL       Unable to load https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 0.5420310497283936 seconds
+2019-10-16 16:49:59,837 - root - INFO - ############################### START ###############################
+2019-10-16 16:49:59,838 - root - INFO - FAIL       Unable to load https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 0.0 seconds
+2019-10-16 16:51:00,143 - root - INFO - ############################### START ###############################
+2019-10-16 16:51:00,145 - root - INFO - FAIL       Unable to load https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 0.0 seconds
+2019-10-16 16:52:22,855 - root - INFO - ############################### START ###############################
+2019-10-16 16:52:22,858 - root - INFO - FAIL       Unable to load https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 0.0 seconds
+2019-10-16 16:52:56,458 - root - INFO - ############################### START ###############################
+2019-10-16 16:52:56,461 - root - INFO - FAIL       Unable to load https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 0.0 seconds
+2019-10-16 16:54:03,272 - root - INFO - ############################### START ###############################
+2019-10-16 16:54:03,275 - root - INFO - FAIL       Unable to load https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 0.0 seconds
+2019-10-16 16:55:51,144 - root - INFO - ############################### START ###############################
+2019-10-16 16:56:00,810 - root - INFO - FAIL       Unable to load https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 0.0 seconds
+2019-10-16 16:59:30,835 - root - INFO - ############################### START ###############################
+2019-10-16 16:59:35,397 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.559260845184326 seconds
+2019-10-16 16:59:37,946 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.5471456050872803 seconds
+2019-10-16 16:59:39,203 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2540717124938965 seconds
+2019-10-16 16:59:39,236 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.031001806259155273 seconds
+2019-10-16 16:59:39,653 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.4480257034301758 seconds
+2019-10-16 16:59:39,657 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0030002593994140625 seconds
+2019-10-16 16:59:39,679 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.02000117301940918 seconds
+2019-10-16 16:59:40,087 - root - INFO - SUCCESS    Clear and send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.4280245304107666 seconds
+2019-10-16 16:59:40,121 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.03300213813781738 seconds
+2019-10-16 16:59:40,519 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.43102478981018066 seconds
+2019-10-16 16:59:40,576 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.05600333213806152 seconds
+2019-10-16 17:00:29,094 - root - INFO - ############################### START ###############################
+2019-10-16 17:00:40,545 - root - INFO - FAIL       Unable to load https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 0.0 seconds
+2019-10-16 17:02:22,926 - root - INFO - ############################### START ###############################
+2019-10-16 17:02:22,930 - root - INFO - FAIL       Unable to load https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 0.0 seconds
+2019-10-16 17:03:32,325 - root - INFO - ############################### START ###############################
+2019-10-16 17:03:32,328 - root - INFO - FAIL       Unable to load https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 0.0 seconds
+2019-10-16 17:05:04,631 - root - INFO - ############################### START ###############################
+2019-10-16 17:05:09,055 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.421252727508545 seconds
+2019-10-16 17:05:13,212 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 4.154237508773804 seconds
+2019-10-16 17:05:14,367 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1530656814575195 seconds
+2019-10-16 17:05:14,396 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.027001380920410156 seconds
+2019-10-16 17:05:14,637 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.26801514625549316 seconds
+2019-10-16 17:05:14,641 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.003000020980834961 seconds
+2019-10-16 17:05:14,659 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.01800084114074707 seconds
+2019-10-16 17:05:14,933 - root - INFO - SUCCESS    Clear and send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.2910165786743164 seconds
+2019-10-16 17:05:14,960 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.02500152587890625 seconds
+2019-10-16 17:05:15,232 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.29701709747314453 seconds
+2019-10-16 17:05:15,262 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.02800154685974121 seconds
+2019-10-16 17:05:24,577 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 9.342534303665161 seconds
+2019-10-16 17:05:29,581 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-16 17:05:30,129 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.5480313301086426 seconds
+2019-10-16 17:05:30,317 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.7350418567657471 seconds
+2019-10-16 17:05:35,358 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.022001028060913086 seconds
+2019-10-16 17:05:35,615 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.27901577949523926 seconds
+2019-10-16 17:05:37,644 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.026001453399658203 seconds
+2019-10-16 17:05:37,852 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input> content: test, Spend 0.23401355743408203 seconds
+2019-10-16 17:05:39,879 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.024001598358154297 seconds
+2019-10-16 17:05:40,054 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.1980113983154297 seconds
+2019-10-16 17:05:42,083 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.024001359939575195 seconds
+2019-10-16 17:05:42,158 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.09900569915771484 seconds
+2019-10-16 17:05:42,183 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.02200150489807129 seconds
+2019-10-16 17:05:42,308 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.14700865745544434 seconds
+2019-10-16 17:05:44,337 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.026001453399658203 seconds
+2019-10-16 17:05:44,677 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea> content: select, Spend 0.3670210838317871 seconds
+2019-10-16 17:05:44,710 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.031001806259155273 seconds
+2019-10-16 17:05:44,799 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.11900663375854492 seconds
+2019-10-16 17:05:52,566 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.764158010482788 seconds
+2019-10-16 17:05:52,568 - root - INFO - ###############################  END  ###############################
+2019-10-16 17:13:32,075 - root - INFO - ############################### START ###############################
+2019-10-16 17:13:36,910 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.834276437759399 seconds
+2019-10-16 17:13:39,809 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.8971657752990723 seconds
+2019-10-16 17:13:41,001 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.191068410873413 seconds
+2019-10-16 17:13:41,031 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.028001785278320312 seconds
+2019-10-16 17:13:41,257 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.25501465797424316 seconds
+2019-10-16 17:13:41,261 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0030002593994140625 seconds
+2019-10-16 17:13:41,285 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.02200150489807129 seconds
+2019-10-16 17:13:41,586 - root - INFO - SUCCESS    Clear and send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.32301855087280273 seconds
+2019-10-16 17:13:41,611 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.024001359939575195 seconds
+2019-10-16 17:13:41,857 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521??, Spend 0.2710154056549072 seconds
+2019-10-16 17:13:41,889 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.03000187873840332 seconds
+2019-10-16 17:13:42,639 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.7800447940826416 seconds
+2019-10-16 17:13:47,644 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-16 17:13:57,710 - root - INFO - FAIL       Unable to click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 10.064575433731079 seconds
+2019-10-16 17:14:00,652 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.9411680698394775 seconds
+2019-10-16 17:14:00,655 - root - INFO - ###############################  END  ###############################
+2019-10-16 17:18:32,128 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.231241941452026 seconds
+2019-10-16 17:18:32,160 - root - INFO - ############################### START ###############################
+2019-10-16 17:18:34,987 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.8241615295410156 seconds
+2019-10-16 17:18:36,292 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.304074764251709 seconds
+2019-10-16 17:18:36,325 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.031001806259155273 seconds
+2019-10-16 17:18:36,685 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.3910222053527832 seconds
+2019-10-16 17:18:36,690 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.004000425338745117 seconds
+2019-10-16 17:18:36,712 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.02100086212158203 seconds
+2019-10-16 17:18:37,151 - root - INFO - SUCCESS    Clear and send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.4590260982513428 seconds
+2019-10-16 17:18:37,182 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.029001474380493164 seconds
+2019-10-16 17:18:37,518 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521??, Spend 0.3650209903717041 seconds
+2019-10-16 17:18:37,550 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.03000164031982422 seconds
+2019-10-16 17:18:38,255 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.7350418567657471 seconds
+2019-10-16 17:18:43,290 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.03300189971923828 seconds
+2019-10-16 17:18:53,312 - root - INFO - FAIL       Unable to click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 10.019573211669922 seconds
+2019-10-16 17:18:56,093 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.7791590690612793 seconds
+2019-10-16 17:18:56,095 - root - INFO - ###############################  END  ###############################
+2019-10-16 17:21:09,444 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.681267738342285 seconds
+2019-10-16 17:21:09,454 - root - INFO - ############################### START ###############################
+2019-10-16 17:21:12,751 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.2951886653900146 seconds
+2019-10-16 17:21:13,926 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1740670204162598 seconds
+2019-10-16 17:21:13,955 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.0260012149810791 seconds
+2019-10-16 17:21:14,203 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.2740156650543213 seconds
+2019-10-16 17:21:14,210 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.004000186920166016 seconds
+2019-10-16 17:21:14,229 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.016000747680664062 seconds
+2019-10-16 17:21:14,522 - root - INFO - SUCCESS    Clear and send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.3090174198150635 seconds
+2019-10-16 17:21:14,548 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.02300119400024414 seconds
+2019-10-16 17:21:14,853 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521??, Spend 0.3280189037322998 seconds
+2019-10-16 17:21:14,886 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.031001567840576172 seconds
+2019-10-16 17:21:15,798 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.9430537223815918 seconds
+2019-10-16 17:21:20,805 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0030002593994140625 seconds
+2019-10-16 17:21:30,879 - root - INFO - FAIL       Unable to click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 10.070575952529907 seconds
+2019-10-16 17:22:00,936 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.783273696899414 seconds
+2019-10-16 17:22:00,967 - root - INFO - ############################### START ###############################
+2019-10-16 17:22:04,085 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.115177869796753 seconds
+2019-10-16 17:22:06,384 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.2961313724517822 seconds
+2019-10-16 17:22:06,678 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.29201674461364746 seconds
+2019-10-16 17:22:07,081 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.6950397491455078 seconds
+2019-10-16 17:22:07,085 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.003000020980834961 seconds
+2019-10-16 17:22:07,110 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.02300119400024414 seconds
+2019-10-16 17:22:07,510 - root - INFO - SUCCESS    Clear and send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.42302417755126953 seconds
+2019-10-16 17:22:07,540 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.029001712799072266 seconds
+2019-10-16 17:22:07,928 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.41602373123168945 seconds
+2019-10-16 17:22:07,964 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.036002159118652344 seconds
+2019-10-16 17:22:08,868 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.9390537738800049 seconds
+2019-10-16 17:22:13,872 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-16 17:22:23,929 - root - INFO - FAIL       Unable to click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 10.055575132369995 seconds
+2019-10-16 17:23:43,857 - root - INFO - ############################### START ###############################
+2019-10-16 17:23:48,226 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.3672497272491455 seconds
+2019-10-16 17:23:50,862 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.633150577545166 seconds
+2019-10-16 17:23:52,103 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2390711307525635 seconds
+2019-10-16 17:23:52,142 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.03600192070007324 seconds
+2019-10-16 17:23:52,524 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.4190237522125244 seconds
+2019-10-16 17:23:52,532 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.00500035285949707 seconds
+2019-10-16 17:23:52,605 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.07000398635864258 seconds
+2019-10-16 17:23:53,109 - root - INFO - SUCCESS    Clear and send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.5740330219268799 seconds
+2019-10-16 17:23:53,140 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.02800154685974121 seconds
+2019-10-16 17:23:53,576 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.4650263786315918 seconds
+2019-10-16 17:23:53,609 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.03000164031982422 seconds
+2019-10-16 17:23:54,430 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.8500485420227051 seconds
+2019-10-16 17:23:59,435 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-16 17:24:09,580 - root - INFO - FAIL       Unable to click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 10.142580032348633 seconds
+2019-10-16 17:26:12,447 - root - INFO - ############################### START ###############################
+2019-10-16 17:26:16,853 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.402252197265625 seconds
+2019-10-16 17:26:20,647 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.7922170162200928 seconds
+2019-10-16 17:26:21,910 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2600719928741455 seconds
+2019-10-16 17:26:21,947 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.03500199317932129 seconds
+2019-10-16 17:26:22,310 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.3980226516723633 seconds
+2019-10-16 17:26:22,316 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.004000425338745117 seconds
+2019-10-16 17:26:22,346 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.027001619338989258 seconds
+2019-10-16 17:26:22,802 - root - INFO - SUCCESS    Clear and send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.48302769660949707 seconds
+2019-10-16 17:26:22,840 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.03500199317932129 seconds
+2019-10-16 17:26:23,232 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.4280245304107666 seconds
+2019-10-16 17:26:23,264 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.029001712799072266 seconds
+2019-10-16 17:26:24,125 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.8900508880615234 seconds
+2019-10-16 17:26:29,130 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-16 17:26:39,167 - root - INFO - FAIL       Unable to click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 10.034573793411255 seconds
+2019-10-16 17:26:41,900 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.730156421661377 seconds
+2019-10-16 17:26:41,902 - root - INFO - ###############################  END  ###############################
+2019-10-16 17:36:05,584 - root - INFO - ############################### START ###############################
+2019-10-16 17:38:17,790 - root - INFO - ############################### START ###############################
+2019-10-16 17:38:58,853 - root - INFO - ############################### START ###############################
+2019-10-16 17:40:14,911 - root - INFO - ############################### START ###############################
+2019-10-16 17:47:42,706 - root - INFO - ############################### START ###############################
+2019-10-16 17:47:48,561 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 5.853334903717041 seconds
+2019-10-16 17:47:51,401 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.8391623497009277 seconds
+2019-10-16 17:47:59,631 - root - INFO - SUCCESS    Set browser window maximized, Spend 8.228470802307129 seconds
+2019-10-16 17:47:59,634 - root - INFO - FAIL       Unable to load https://www.baidu.com/, Spend 0.0 seconds
+2019-10-16 17:48:01,939 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.3031318187713623 seconds
+2019-10-16 17:48:01,941 - root - INFO - ###############################  END  ###############################
+2019-10-16 17:48:20,521 - root - INFO - ############################### START ###############################
+2019-10-16 17:48:24,303 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.7792160511016846 seconds
+2019-10-16 17:48:25,526 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2200696468353271 seconds
+2019-10-16 17:48:25,529 - root - INFO - FAIL       Unable to load https://www.baidu.com/, Spend 0.0 seconds
+2019-10-16 17:48:28,256 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.7241556644439697 seconds
+2019-10-16 17:48:28,259 - root - INFO - ###############################  END  ###############################
+2019-10-16 17:49:51,443 - root - INFO - ############################### START ###############################
+2019-10-16 17:49:55,594 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.148237228393555 seconds
+2019-10-16 17:49:56,899 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.3020744323730469 seconds
+2019-10-16 17:49:58,532 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.6300933361053467 seconds
+2019-10-16 17:49:58,535 - root - INFO - FAIL       Unable to send element: <kw> content: ceshi, Spend 0.0 seconds
+2019-10-16 17:50:01,317 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.7801589965820312 seconds
+2019-10-16 17:50:01,318 - root - INFO - ###############################  END  ###############################
+2019-10-16 17:50:37,182 - root - INFO - ############################### START ###############################
+2019-10-16 17:50:41,561 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.378250360488892 seconds
+2019-10-16 17:50:42,782 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2200698852539062 seconds
+2019-10-16 17:50:44,879 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.0951194763183594 seconds
+2019-10-16 17:50:44,932 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.05200314521789551 seconds
+2019-10-16 17:50:45,405 - root - INFO - SUCCESS    Typed element: <id->kw> content: ceshi, Spend 0.5240302085876465 seconds
+2019-10-16 17:50:45,407 - root - INFO - FAIL       Unable to click element: <dddu>, Spend 0.0 seconds
+2019-10-16 17:50:48,242 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.8321619033813477 seconds
+2019-10-16 17:50:48,244 - root - INFO - ###############################  END  ###############################
+2019-10-16 17:51:08,000 - root - INFO - ############################### START ###############################
+2019-10-16 17:51:12,440 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.43825364112854 seconds
+2019-10-16 17:51:13,671 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2290701866149902 seconds
+2019-10-16 17:51:17,699 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.025230169296265 seconds
+2019-10-16 17:51:17,736 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03300189971923828 seconds
+2019-10-16 17:51:17,981 - root - INFO - SUCCESS    Typed element: <id->kw> content: ceshi, Spend 0.2780158519744873 seconds
+2019-10-16 17:51:18,009 - root - INFO - FAIL       Unable to click element: <id->dddu>, Spend 0.02500128746032715 seconds
+2019-10-16 17:51:20,743 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.73215651512146 seconds
+2019-10-16 17:51:20,744 - root - INFO - ###############################  END  ###############################
+2019-10-16 17:52:37,104 - root - INFO - ############################### START ###############################
+2019-10-16 17:52:41,347 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.2422425746917725 seconds
+2019-10-16 17:52:42,532 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.183068037033081 seconds
+2019-10-16 17:52:44,437 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.9021086692810059 seconds
+2019-10-16 17:52:44,479 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04000234603881836 seconds
+2019-10-16 17:52:44,779 - root - INFO - SUCCESS    Typed element: <id->kw> content: ceshi, Spend 0.3390192985534668 seconds
+2019-10-16 17:52:44,819 - root - INFO - FAIL       Unable to click element: <id->dddu>, Spend 0.036002159118652344 seconds
+2019-10-16 17:52:47,734 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.9121663570404053 seconds
+2019-10-16 17:52:47,735 - root - INFO - ###############################  END  ###############################
+2019-10-16 17:53:49,761 - root - INFO - ############################### START ###############################
+2019-10-16 17:53:53,725 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.9622268676757812 seconds
+2019-10-16 17:53:54,878 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1510658264160156 seconds
+2019-10-16 17:54:15,585 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.8451626300811768 seconds
+2019-10-16 17:54:15,587 - root - INFO - ###############################  END  ###############################
+2019-10-16 17:56:54,505 - root - INFO - ############################### START ###############################
+2019-10-16 17:56:58,538 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.030230522155762 seconds
+2019-10-16 17:56:59,747 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.206068992614746 seconds
+2019-10-16 17:57:04,289 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.539259672164917 seconds
+2019-10-16 17:57:04,325 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03200173377990723 seconds
+2019-10-16 17:57:04,659 - root - INFO - SUCCESS    Typed element: <id->kw> content: ceshi, Spend 0.36602067947387695 seconds
+2019-10-16 17:57:04,713 - root - INFO - FAIL       Unable to click element: <id->dddu>, Spend 0.05200314521789551 seconds
+2019-10-16 17:57:08,051 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.335190773010254 seconds
+2019-10-16 17:57:08,053 - root - INFO - ###############################  END  ###############################
+2019-10-16 17:59:04,368 - root - INFO - ############################### START ###############################
+2019-10-16 17:59:09,703 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1510658264160156 seconds
+2019-10-16 17:59:11,643 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.9371106624603271 seconds
+2019-10-16 17:59:11,678 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03400230407714844 seconds
+2019-10-16 17:59:11,992 - root - INFO - SUCCESS    Typed element: <id->kw> content: ceshi, Spend 0.348020076751709 seconds
+2019-10-16 17:59:12,034 - root - INFO - FAIL       Unable to click element: <id->dddu>, Spend 0.039002180099487305 seconds
+2019-10-16 17:59:14,802 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.766158103942871 seconds
+2019-10-16 17:59:14,803 - root - INFO - ###############################  END  ###############################
+2019-10-16 18:00:43,677 - root - INFO - ############################### START ###############################
+2019-10-16 18:09:49,518 - root - INFO - ############################### START ###############################
+2019-10-16 18:10:06,113 - root - INFO - ############################### START ###############################
+2019-10-16 18:11:18,621 - root - INFO - ############################### START ###############################
+2019-10-16 18:17:55,127 - root - INFO - ############################### START ###############################
+2019-10-16 18:20:16,270 - root - INFO - ############################### START ###############################
+2019-10-16 18:20:32,725 - root - INFO - ############################### START ###############################
+2019-10-16 18:27:01,011 - root - INFO - ############################### START ###############################
+2019-10-16 18:30:15,359 - root - INFO - ############################### START ###############################
+2019-10-16 18:30:21,540 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4850850105285645 seconds
+2019-10-16 18:30:21,590 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04800248146057129 seconds
+2019-10-16 18:30:21,990 - root - INFO - SUCCESS    Typed element: <id->kw> content: ceshi, Spend 0.4480257034301758 seconds
+2019-10-16 18:30:22,023 - root - INFO - FAIL       Unable to click element: <id->dddu>, Spend 0.029001712799072266 seconds
+2019-10-16 18:30:24,903 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.879164695739746 seconds
+2019-10-16 18:30:24,904 - root - INFO - ###############################  END  ###############################
+2019-10-16 18:30:45,624 - root - INFO - ############################### START ###############################
+2019-10-16 18:30:51,314 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.565089464187622 seconds
+2019-10-16 18:30:51,361 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04500246047973633 seconds
+2019-10-16 18:30:51,881 - root - INFO - SUCCESS    Typed element: <id->kw> content: ceshi, Spend 0.5650322437286377 seconds
+2019-10-16 18:30:51,930 - root - INFO - FAIL       Unable to click element: <id->dddu>, Spend 0.047002553939819336 seconds
+2019-10-16 18:30:54,692 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.760157823562622 seconds
+2019-10-16 18:30:54,693 - root - INFO - ###############################  END  ###############################
+2019-10-16 18:32:08,579 - root - INFO - ############################### START ###############################
+2019-10-16 18:32:14,425 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.6870965957641602 seconds
+2019-10-16 18:32:14,478 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.05100297927856445 seconds
+2019-10-16 18:32:15,005 - root - INFO - SUCCESS    Typed element: <id->kw> content: ceshi, Spend 0.5780332088470459 seconds
+2019-10-16 18:32:15,041 - root - INFO - FAIL       Unable to click element: <id->dddu>, Spend 0.034002065658569336 seconds
+2019-10-16 18:32:17,695 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.652151584625244 seconds
+2019-10-16 18:32:17,696 - root - INFO - ###############################  END  ###############################
+2019-10-16 18:35:28,494 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.0621182918548584 seconds
+2019-10-16 18:35:28,562 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.06600356101989746 seconds
+2019-10-16 18:35:29,325 - root - INFO - SUCCESS    Typed element: <id->kw> content: ceshi, Spend 0.8300473690032959 seconds
+2019-10-16 18:35:29,385 - root - INFO - FAIL       Unable to click element: <id->dddu>, Spend 0.059003591537475586 seconds
+2019-10-16 18:35:44,220 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.5881478786468506 seconds
+2019-10-16 18:35:44,271 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04800295829772949 seconds
+2019-10-16 18:35:44,624 - root - INFO - SUCCESS    Typed element: <id->kw> content: ceshi, Spend 0.40102291107177734 seconds
+2019-10-16 18:35:44,659 - root - INFO - FAIL       Unable to click element: <id->dddu>, Spend 0.03300166130065918 seconds
+2019-10-16 18:37:02,389 - root - INFO - ############################### START ###############################
+2019-10-16 18:37:08,079 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.7541003227233887 seconds
+2019-10-16 18:37:08,136 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.05500316619873047 seconds
+2019-10-16 18:37:09,023 - root - INFO - SUCCESS    Typed element: <id->kw> content: ceshi, Spend 0.9430537223815918 seconds
+2019-10-16 18:37:09,073 - root - INFO - FAIL       Unable to click element: <id->dddu>, Spend 0.04800295829772949 seconds
+2019-10-16 18:37:12,096 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0201728343963623 seconds
+2019-10-16 18:37:12,098 - root - INFO - ###############################  END  ###############################
+2019-10-16 18:37:20,598 - root - INFO - ############################### START ###############################
+2019-10-16 18:37:25,977 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3290760517120361 seconds
+2019-10-16 18:37:26,018 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.039002180099487305 seconds
+2019-10-16 18:37:26,416 - root - INFO - SUCCESS    Typed element: <id->kw> content: ceshi, Spend 0.4370250701904297 seconds
+2019-10-16 18:37:26,498 - root - INFO - FAIL       Unable to click element: <id->dddu>, Spend 0.08100461959838867 seconds
+2019-10-16 18:37:29,133 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.633150339126587 seconds
+2019-10-16 18:37:29,134 - root - INFO - ###############################  END  ###############################
+2019-10-16 18:40:44,900 - root - INFO - FAIL       Unable to load https://www.baidu.com/, Spend 0.0 seconds
+2019-10-16 18:41:08,308 - root - INFO - FAIL       Unable to load https://www.baidu.com/, Spend 0.0 seconds
+2019-10-16 18:41:55,547 - root - INFO - FAIL       Unable to load https://www.baidu.com/, Spend 0.0 seconds
+2019-10-16 18:43:11,808 - root - INFO - ############################### START ###############################
+2019-10-16 18:43:17,653 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4970858097076416 seconds
+2019-10-16 18:43:17,699 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.044002532958984375 seconds
+2019-10-16 18:43:18,170 - root - INFO - SUCCESS    Typed element: <id->kw> content: ceshi, Spend 0.5150294303894043 seconds
+2019-10-16 18:43:18,220 - root - INFO - FAIL       Unable to click element: <id->dddu>, Spend 0.04800295829772949 seconds
+2019-10-16 18:43:22,088 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.8672211170196533 seconds
+2019-10-16 18:43:22,089 - root - INFO - ###############################  END  ###############################
+2019-10-16 18:43:52,714 - root - INFO - ############################### START ###############################
+2019-10-16 18:43:58,609 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.8571062088012695 seconds
+2019-10-16 18:43:58,643 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03300189971923828 seconds
+2019-10-16 18:43:58,900 - root - INFO - SUCCESS    Typed element: <id->kw> content: ceshi, Spend 0.2890164852142334 seconds
+2019-10-16 18:43:58,927 - root - INFO - FAIL       Unable to click element: <id->dddu>, Spend 0.02500152587890625 seconds
+2019-10-16 18:44:01,654 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.726155996322632 seconds
+2019-10-16 18:44:01,655 - root - INFO - ###############################  END  ###############################
+2019-10-16 18:48:03,630 - root - INFO - ############################### START ###############################
+2019-10-16 18:48:09,105 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.679095983505249 seconds
+2019-10-16 18:48:09,314 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.20801186561584473 seconds
+2019-10-16 18:48:09,782 - root - INFO - SUCCESS    Typed element: <id->kw> content: ceshi, Spend 0.6750388145446777 seconds
+2019-10-16 18:48:09,825 - root - INFO - FAIL       Unable to click element: <id->dddu>, Spend 0.04300236701965332 seconds
+2019-10-16 18:48:12,744 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.9161665439605713 seconds
+2019-10-16 18:48:12,745 - root - INFO - ###############################  END  ###############################
+2019-10-16 18:49:27,560 - root - INFO - ############################### START ###############################
+2019-10-16 18:49:32,128 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.565261125564575 seconds
+2019-10-16 18:49:32,172 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04200243949890137 seconds
+2019-10-16 18:49:32,760 - root - INFO - SUCCESS    Typed element: <id->kw> content: ceshi, Spend 0.6300358772277832 seconds
+2019-10-16 18:49:32,977 - root - INFO - FAIL       Unable to click element: <id->dddu>, Spend 0.21601247787475586 seconds
+2019-10-16 18:49:35,722 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.743156671524048 seconds
+2019-10-16 18:49:35,723 - root - INFO - ###############################  END  ###############################
+2019-10-16 18:49:48,936 - root - INFO - ############################### START ###############################
+2019-10-16 18:49:50,187 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2490713596343994 seconds
+2019-10-16 18:49:50,220 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.031001806259155273 seconds
+2019-10-16 18:49:50,503 - root - INFO - SUCCESS    Typed element: <id->kw> content: ceshi, Spend 0.31401801109313965 seconds
+2019-10-16 18:49:50,527 - root - INFO - FAIL       Unable to click element: <id->dddu>, Spend 0.024001121520996094 seconds
+2019-10-16 18:49:53,201 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.6721527576446533 seconds
+2019-10-16 18:49:53,202 - root - INFO - ###############################  END  ###############################

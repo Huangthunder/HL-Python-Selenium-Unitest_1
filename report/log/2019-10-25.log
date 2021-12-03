@@ -1,0 +1,1304 @@
+2019-10-25 09:45:48,725 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.3151323795318604 seconds
+2019-10-25 09:45:51,725 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 09:45:51,726 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 09:45:51,726 - root - INFO - SUCCESS    Return current browser session id: f38160d1889841ee17e07f6b4f0afa92, Spend 0.0 seconds
+2019-10-25 09:45:51,727 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 09:45:51,727 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 09:45:51,728 - root - INFO - SUCCESS    Print current value: f38160d1889841ee17e07f6b4f0afa92, Spend 0.0 seconds
+2019-10-25 09:45:51,738 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.01000070571899414 seconds
+2019-10-25 09:46:35,300 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.8741073608398438 seconds
+2019-10-25 09:46:38,302 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 09:46:38,303 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 09:46:38,305 - root - INFO - SUCCESS    Return current browser session id: 4e46d562a183018287ae5bf7164d9dc2, Spend 0.0 seconds
+2019-10-25 09:46:38,306 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 09:46:38,308 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 09:46:38,310 - root - INFO - SUCCESS    Print current value: 4e46d562a183018287ae5bf7164d9dc2, Spend 0.0 seconds
+2019-10-25 09:46:38,338 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.02800154685974121 seconds
+2019-10-25 09:47:30,108 - root - INFO - ############################### START ###############################
+2019-10-25 09:47:32,549 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2800731658935547 seconds
+2019-10-25 09:47:35,552 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 09:47:35,553 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 09:47:35,555 - root - INFO - SUCCESS    Return current browser session id: 0bbaa0f3655937949747bd47c339d399, Spend 0.0 seconds
+2019-10-25 09:47:35,558 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 09:47:35,560 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 09:47:35,561 - root - INFO - SUCCESS    Print current value: 0bbaa0f3655937949747bd47c339d399, Spend 0.0 seconds
+2019-10-25 09:47:35,581 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.019001245498657227 seconds
+2019-10-25 09:47:35,658 - root - INFO - SUCCESS    Delete_all_cookies, Spend 0.07500410079956055 seconds
+2019-10-25 09:47:38,008 - root - INFO - ###############################  END  ###############################
+2019-10-25 09:53:48,917 - root - INFO - ############################### START ###############################
+2019-10-25 09:53:51,560 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4750845432281494 seconds
+2019-10-25 09:53:54,561 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 09:53:54,562 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 09:53:54,563 - root - INFO - SUCCESS    Return current browser session id: 7e90583b7aa626ee637ecc91a6c95790, Spend 0.0 seconds
+2019-10-25 09:53:54,563 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 09:53:54,564 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 09:53:54,564 - root - INFO - SUCCESS    Print current value: 7e90583b7aa626ee637ecc91a6c95790, Spend 0.0 seconds
+2019-10-25 09:53:54,574 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.009000539779663086 seconds
+2019-10-25 09:53:54,643 - root - INFO - SUCCESS    Delete all cookies, Spend 0.06900382041931152 seconds
+2019-10-25 09:53:54,651 - root - INFO - FAIL       Unable add cookie: hhahahah, Spend 0.00700068473815918 seconds
+2019-10-25 09:53:56,923 - root - INFO - ###############################  END  ###############################
+2019-10-25 09:55:52,331 - root - INFO - ############################### START ###############################
+2019-10-25 09:55:54,905 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2800734043121338 seconds
+2019-10-25 09:55:57,907 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 09:55:57,907 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 09:55:57,908 - root - INFO - SUCCESS    Return current browser session id: a39e82503528ecbfcac06b6d179695fa, Spend 0.0 seconds
+2019-10-25 09:55:57,909 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 09:55:57,909 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 09:55:57,910 - root - INFO - SUCCESS    Print current value: a39e82503528ecbfcac06b6d179695fa, Spend 0.0 seconds
+2019-10-25 09:55:57,917 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.00700068473815918 seconds
+2019-10-25 09:55:57,998 - root - INFO - SUCCESS    Delete all cookies, Spend 0.08000469207763672 seconds
+2019-10-25 09:56:00,263 - root - INFO - ###############################  END  ###############################
+2019-10-25 09:56:11,854 - root - INFO - ############################### START ###############################
+2019-10-25 09:56:14,016 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.9970569610595703 seconds
+2019-10-25 09:56:17,017 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 09:56:17,019 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 09:56:17,021 - root - INFO - SUCCESS    Return current browser session id: 91047e9ab2cefdb87982f9ff11d052a5, Spend 0.0 seconds
+2019-10-25 09:56:17,024 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 09:56:17,026 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 09:56:17,028 - root - INFO - SUCCESS    Print current value: 91047e9ab2cefdb87982f9ff11d052a5, Spend 0.0 seconds
+2019-10-25 09:56:17,045 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.016000986099243164 seconds
+2019-10-25 09:56:17,125 - root - INFO - SUCCESS    Delete all cookies, Spend 0.07900476455688477 seconds
+2019-10-25 09:56:19,396 - root - INFO - ###############################  END  ###############################
+2019-10-25 09:57:18,903 - root - INFO - ############################### START ###############################
+2019-10-25 09:57:21,409 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3400766849517822 seconds
+2019-10-25 09:57:24,410 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 09:57:24,411 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 09:57:24,411 - root - INFO - SUCCESS    Return current browser session id: 1e14fc9726fb957dd893ea96d01a47ed, Spend 0.0 seconds
+2019-10-25 09:57:24,412 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 09:57:24,414 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 09:57:24,415 - root - INFO - SUCCESS    Print current value: 1e14fc9726fb957dd893ea96d01a47ed, Spend 0.0 seconds
+2019-10-25 09:57:24,437 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.02000117301940918 seconds
+2019-10-25 09:57:24,530 - root - INFO - SUCCESS    Delete all cookies, Spend 0.09100532531738281 seconds
+2019-10-25 09:57:24,531 - root - INFO - FAIL       Unable add cookie: {'sssss', 'hhahahah'}, Spend 0.0 seconds
+2019-10-25 09:57:26,787 - root - INFO - ###############################  END  ###############################
+2019-10-25 10:04:04,197 - root - INFO - ############################### START ###############################
+2019-10-25 10:04:06,590 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2320704460144043 seconds
+2019-10-25 10:04:09,591 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 10:04:09,592 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 10:04:09,593 - root - INFO - SUCCESS    Return current browser session id: 1ea99ce654b804f8fb94867021c80e02, Spend 0.0 seconds
+2019-10-25 10:04:09,594 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 10:04:09,596 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 10:04:09,597 - root - INFO - SUCCESS    Print current value: 1ea99ce654b804f8fb94867021c80e02, Spend 0.0 seconds
+2019-10-25 10:04:09,615 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.017000913619995117 seconds
+2019-10-25 10:04:09,695 - root - INFO - SUCCESS    Delete all cookies, Spend 0.07900476455688477 seconds
+2019-10-25 10:04:11,977 - root - INFO - ###############################  END  ###############################
+2019-10-25 10:04:32,398 - root - INFO - ############################### START ###############################
+2019-10-25 10:04:34,714 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.1610662937164307 seconds
+2019-10-25 10:04:37,717 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 10:04:37,718 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 10:04:37,719 - root - INFO - SUCCESS    Return current browser session id: 5996c39709b8fe069880aeae53dcbd52, Spend 0.0 seconds
+2019-10-25 10:04:37,721 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 10:04:37,722 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 10:04:37,724 - root - INFO - SUCCESS    Print current value: 5996c39709b8fe069880aeae53dcbd52, Spend 0.0 seconds
+2019-10-25 10:04:37,746 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.021001338958740234 seconds
+2019-10-25 10:04:37,826 - root - INFO - SUCCESS    Delete all cookies, Spend 0.08000445365905762 seconds
+2019-10-25 10:04:37,833 - root - INFO - FAIL       Unable add cookies: ['name'], Spend 0.005000591278076172 seconds
+2019-10-25 10:04:40,098 - root - INFO - ###############################  END  ###############################
+2019-10-25 10:05:56,786 - root - INFO - ############################### START ###############################
+2019-10-25 10:05:58,794 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.8490486145019531 seconds
+2019-10-25 10:06:01,795 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 10:06:01,797 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 10:06:01,798 - root - INFO - SUCCESS    Return current browser session id: 59dd7a031717629051930e8bc9c71a13, Spend 0.0 seconds
+2019-10-25 10:06:01,800 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 10:06:01,802 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 10:06:01,804 - root - INFO - SUCCESS    Print current value: 59dd7a031717629051930e8bc9c71a13, Spend 0.0 seconds
+2019-10-25 10:06:01,826 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.019001007080078125 seconds
+2019-10-25 10:06:01,933 - root - INFO - SUCCESS    Delete all cookies, Spend 0.10700607299804688 seconds
+2019-10-25 10:06:04,231 - root - INFO - ###############################  END  ###############################
+2019-10-25 10:15:15,553 - root - INFO - ############################### START ###############################
+2019-10-25 10:15:17,634 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.9310529232025146 seconds
+2019-10-25 10:15:20,635 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 10:15:20,636 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 10:15:20,638 - root - INFO - SUCCESS    Return current browser session id: b2403b7ef80d3342c68ff8f79534c544, Spend 0.0 seconds
+2019-10-25 10:15:20,640 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 10:15:20,642 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 10:15:20,644 - root - INFO - SUCCESS    Print current value: b2403b7ef80d3342c68ff8f79534c544, Spend 0.0 seconds
+2019-10-25 10:15:20,665 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.02000141143798828 seconds
+2019-10-25 10:15:22,972 - root - INFO - ###############################  END  ###############################
+2019-10-25 10:16:04,157 - root - INFO - ############################### START ###############################
+2019-10-25 10:16:06,099 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.7990458011627197 seconds
+2019-10-25 10:16:09,101 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 10:16:09,103 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 10:16:09,104 - root - INFO - SUCCESS    Return current browser session id: ad69dc9bd5eef78adcd5865a030fb1a6, Spend 0.0 seconds
+2019-10-25 10:16:09,106 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 10:16:09,108 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 10:16:09,109 - root - INFO - SUCCESS    Print current value: ad69dc9bd5eef78adcd5865a030fb1a6, Spend 0.0 seconds
+2019-10-25 10:16:09,134 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.023001432418823242 seconds
+2019-10-25 10:16:11,430 - root - INFO - ###############################  END  ###############################
+2019-10-25 10:16:44,337 - root - INFO - ############################### START ###############################
+2019-10-25 10:16:46,445 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.9360535144805908 seconds
+2019-10-25 10:16:49,447 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 10:16:49,447 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 10:16:49,448 - root - INFO - SUCCESS    Return current browser session id: a4c867d77f6039d532a88eb6d263a991, Spend 0.0 seconds
+2019-10-25 10:16:49,448 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 10:16:49,449 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 10:16:49,449 - root - INFO - SUCCESS    Print current value: a4c867d77f6039d532a88eb6d263a991, Spend 0.0 seconds
+2019-10-25 10:16:49,460 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.009000301361083984 seconds
+2019-10-25 10:16:51,722 - root - INFO - ###############################  END  ###############################
+2019-10-25 10:18:54,569 - root - INFO - ############################### START ###############################
+2019-10-25 10:18:56,730 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.9800562858581543 seconds
+2019-10-25 10:18:59,732 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 10:18:59,733 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 10:18:59,733 - root - INFO - SUCCESS    Return current browser session id: f13bd294dbd6ad0f54b27da95ee1a07b, Spend 0.0 seconds
+2019-10-25 10:18:59,734 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 10:18:59,735 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 10:18:59,735 - root - INFO - SUCCESS    Print current value: f13bd294dbd6ad0f54b27da95ee1a07b, Spend 0.0 seconds
+2019-10-25 10:18:59,743 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.008000612258911133 seconds
+2019-10-25 10:19:02,082 - root - INFO - ###############################  END  ###############################
+2019-10-25 10:26:18,929 - root - INFO - ############################### START ###############################
+2019-10-25 10:26:28,397 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 8.275473594665527 seconds
+2019-10-25 10:26:31,450 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.05300307273864746 seconds
+2019-10-25 10:26:31,451 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 10:26:31,470 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.017000913619995117 seconds
+2019-10-25 10:26:31,470 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.018001079559326172 seconds
+2019-10-25 10:26:31,471 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 10:26:31,471 - root - INFO - SUCCESS    Return current browser session id: e2d8b689efa3d4da179f850cffcf39c2, Spend 0.0 seconds
+2019-10-25 10:26:31,472 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 10:26:31,472 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 10:26:31,473 - root - INFO - SUCCESS    Print current value: e2d8b689efa3d4da179f850cffcf39c2, Spend 0.0 seconds
+2019-10-25 10:26:33,474 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 10:28:44,147 - root - INFO - ############################### START ###############################
+2019-10-25 10:28:55,626 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 10.302589178085327 seconds
+2019-10-25 10:28:58,648 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.022001028060913086 seconds
+2019-10-25 10:28:58,649 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 10:28:58,664 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.01500082015991211 seconds
+2019-10-25 10:28:58,665 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.01500082015991211 seconds
+2019-10-25 10:28:58,665 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 10:28:58,666 - root - INFO - SUCCESS    Return current browser session id: c973d17bfc2ddf0e3056cb500fbaa938, Spend 0.0 seconds
+2019-10-25 10:28:58,666 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 10:28:58,667 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 10:28:58,667 - root - INFO - SUCCESS    Print current value: c973d17bfc2ddf0e3056cb500fbaa938, Spend 0.0 seconds
+2019-10-25 10:29:00,682 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.014000892639160156 seconds
+2019-10-25 10:29:00,683 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.014000892639160156 seconds
+2019-10-25 10:29:00,698 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.01500082015991211 seconds
+2019-10-25 10:29:00,931 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connet:<selenium.webdriver.remote.webelement.WebElement (session="c973d17bfc2ddf0e3056cb500fbaa938", element="0.5378593946840688-1")>, Spend 0.24801397323608398 seconds
+2019-10-25 10:29:00,944 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.013000726699829102 seconds
+2019-10-25 10:29:01,161 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connet:<selenium.webdriver.remote.webelement.WebElement (session="c973d17bfc2ddf0e3056cb500fbaa938", element="0.5378593946840688-2")>, Spend 0.4780271053314209 seconds
+2019-10-25 10:29:01,180 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.019001245498657227 seconds
+2019-10-25 10:29:01,394 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connet:<selenium.webdriver.remote.webelement.WebElement (session="c973d17bfc2ddf0e3056cb500fbaa938", element="0.5378593946840688-3")>, Spend 0.7110404968261719 seconds
+2019-10-25 10:29:01,410 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.01500082015991211 seconds
+2019-10-25 10:29:01,616 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connet:<selenium.webdriver.remote.webelement.WebElement (session="c973d17bfc2ddf0e3056cb500fbaa938", element="0.5378593946840688-4")>, Spend 0.9330534934997559 seconds
+2019-10-25 10:29:01,629 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.012000560760498047 seconds
+2019-10-25 10:29:01,824 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connet:<selenium.webdriver.remote.webelement.WebElement (session="c973d17bfc2ddf0e3056cb500fbaa938", element="0.5378593946840688-5")>, Spend 1.1400649547576904 seconds
+2019-10-25 10:29:01,839 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.01500082015991211 seconds
+2019-10-25 10:29:02,051 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connet:<selenium.webdriver.remote.webelement.WebElement (session="c973d17bfc2ddf0e3056cb500fbaa938", element="0.5378593946840688-6")>, Spend 1.3680782318115234 seconds
+2019-10-25 10:29:12,052 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.000571966171265 seconds
+2019-10-25 10:29:12,054 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 10:33:52,566 - root - INFO - ############################### START ###############################
+2019-10-25 10:34:05,076 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 11.289645671844482 seconds
+2019-10-25 10:34:08,116 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.0390019416809082 seconds
+2019-10-25 10:34:08,117 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 10:34:08,133 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.016001224517822266 seconds
+2019-10-25 10:34:08,134 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.016001224517822266 seconds
+2019-10-25 10:34:08,134 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 10:34:08,135 - root - INFO - SUCCESS    Return current browser session id: a97042c97bdf75c83c6409945848e362, Spend 0.0 seconds
+2019-10-25 10:34:08,135 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 10:34:08,136 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 10:34:08,137 - root - INFO - SUCCESS    Print current value: a97042c97bdf75c83c6409945848e362, Spend 0.0 seconds
+2019-10-25 10:34:10,152 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.01500082015991211 seconds
+2019-10-25 10:34:10,153 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.016000986099243164 seconds
+2019-10-25 10:34:10,184 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.03000164031982422 seconds
+2019-10-25 10:34:10,438 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connect: c, Spend 0.28401613235473633 seconds
+2019-10-25 10:34:10,456 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.01800084114074707 seconds
+2019-10-25 10:34:10,708 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connect: l, Spend 0.5550317764282227 seconds
+2019-10-25 10:34:10,723 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.013000726699829102 seconds
+2019-10-25 10:34:10,992 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connect: a, Spend 0.838047981262207 seconds
+2019-10-25 10:34:11,006 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.013000726699829102 seconds
+2019-10-25 10:34:11,229 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connect: s, Spend 1.075061559677124 seconds
+2019-10-25 10:34:11,243 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.014000892639160156 seconds
+2019-10-25 10:34:11,450 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connect: s, Spend 1.2960741519927979 seconds
+2019-10-25 10:34:11,464 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.014000654220581055 seconds
+2019-10-25 10:34:11,696 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connect: -, Spend 1.542088270187378 seconds
+2019-10-25 10:34:21,698 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.000571727752686 seconds
+2019-10-25 10:34:21,699 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 10:36:08,661 - root - INFO - ############################### START ###############################
+2019-10-25 10:36:28,892 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 19.078091144561768 seconds
+2019-10-25 10:36:31,932 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.03800201416015625 seconds
+2019-10-25 10:36:31,932 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 10:36:31,962 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.02800154685974121 seconds
+2019-10-25 10:36:31,963 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.029001951217651367 seconds
+2019-10-25 10:36:31,963 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 10:36:31,964 - root - INFO - SUCCESS    Return current browser session id: f0a696717e98ff3ae1b7dc404e6f339c, Spend 0.0 seconds
+2019-10-25 10:36:31,964 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 10:36:31,965 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 10:36:31,965 - root - INFO - SUCCESS    Print current value: f0a696717e98ff3ae1b7dc404e6f339c, Spend 0.0 seconds
+2019-10-25 10:36:33,982 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.016000986099243164 seconds
+2019-10-25 10:36:33,982 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.017000913619995117 seconds
+2019-10-25 10:36:34,000 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.017000913619995117 seconds
+2019-10-25 10:36:34,223 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connect: [0], Spend 0.24001359939575195 seconds
+2019-10-25 10:36:34,236 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.012000560760498047 seconds
+2019-10-25 10:36:34,437 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connect: [1], Spend 0.45302581787109375 seconds
+2019-10-25 10:36:34,458 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.02000117301940918 seconds
+2019-10-25 10:36:34,690 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connect: [2], Spend 0.7070403099060059 seconds
+2019-10-25 10:36:34,718 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.027001619338989258 seconds
+2019-10-25 10:36:34,932 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connect: [3], Spend 0.9490542411804199 seconds
+2019-10-25 10:36:34,945 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.012000799179077148 seconds
+2019-10-25 10:36:35,182 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connect: [4], Spend 1.198068380355835 seconds
+2019-10-25 10:36:35,207 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.02500152587890625 seconds
+2019-10-25 10:36:35,441 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connect: [5], Spend 1.4580833911895752 seconds
+2019-10-25 10:36:45,443 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.000572204589844 seconds
+2019-10-25 10:36:45,444 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 10:45:28,256 - root - INFO - ############################### START ###############################
+2019-10-25 10:45:43,391 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 13.973799228668213 seconds
+2019-10-25 10:45:46,413 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.022001028060913086 seconds
+2019-10-25 10:45:46,414 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 10:45:46,429 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.014000892639160156 seconds
+2019-10-25 10:45:46,429 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.01500082015991211 seconds
+2019-10-25 10:45:46,430 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 10:45:46,430 - root - INFO - SUCCESS    Return current browser session id: d9ec97e19de37c6bc5f850735e975e24, Spend 0.0 seconds
+2019-10-25 10:45:46,431 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 10:45:46,432 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 10:45:46,432 - root - INFO - SUCCESS    Print current value: d9ec97e19de37c6bc5f850735e975e24, Spend 0.0 seconds
+2019-10-25 10:45:48,432 - root - INFO - FAIL       Unable clicked element: <class->type-check>, to connect num: [2], Spend 0.0 seconds
+2019-10-25 10:45:48,433 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 10:47:04,572 - root - INFO - ############################### START ###############################
+2019-10-25 10:47:14,904 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 9.188525438308716 seconds
+2019-10-25 10:47:17,959 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.052002906799316406 seconds
+2019-10-25 10:47:17,960 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 10:47:18,030 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.06900405883789062 seconds
+2019-10-25 10:47:18,031 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.07000398635864258 seconds
+2019-10-25 10:47:18,032 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 10:47:18,032 - root - INFO - SUCCESS    Return current browser session id: fedc0237061404cdd1d7e9c3d40467b5, Spend 0.0 seconds
+2019-10-25 10:47:18,033 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 10:47:18,034 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 10:47:18,034 - root - INFO - SUCCESS    Print current value: fedc0237061404cdd1d7e9c3d40467b5, Spend 0.0 seconds
+2019-10-25 10:47:20,056 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.021001100540161133 seconds
+2019-10-25 10:47:20,448 - root - INFO - SUCCESS    Clicked element: <class->type-check>, to connect num: [2], Spend 0.4130237102508545 seconds
+2019-10-25 10:47:30,454 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.003572225570679 seconds
+2019-10-25 10:47:30,455 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 11:23:56,998 - root - INFO - ############################### START ###############################
+2019-10-25 11:24:03,329 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 5.108292102813721 seconds
+2019-10-25 11:24:06,330 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 11:24:06,331 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 11:24:06,332 - root - INFO - SUCCESS    Return current browser session id: 19e96b0a10379fd75b7e74b412f7044c, Spend 0.0 seconds
+2019-10-25 11:24:06,333 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 11:24:06,333 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 11:24:06,334 - root - INFO - SUCCESS    Print current value: 19e96b0a10379fd75b7e74b412f7044c, Spend 0.0 seconds
+2019-10-25 11:24:06,344 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.009000539779663086 seconds
+2019-10-25 11:24:06,400 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.05500316619873047 seconds
+2019-10-25 11:24:06,561 - root - INFO - SUCCESS    Typed element: <id->su> content: 测试输入内容后回车操作, Spend 0.21601271629333496 seconds
+2019-10-25 11:24:06,585 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.02300119400024414 seconds
+2019-10-25 11:24:08,176 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 1.6150925159454346 seconds
+2019-10-25 11:24:18,178 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.000571727752686 seconds
+2019-10-25 11:24:21,098 - root - INFO - ###############################  END  ###############################
+2019-10-25 11:26:07,755 - root - INFO - ############################### START ###############################
+2019-10-25 11:26:13,934 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.972284317016602 seconds
+2019-10-25 11:26:16,934 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 11:26:16,935 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 11:26:16,936 - root - INFO - SUCCESS    Return current browser session id: b12e3a1c46946f86398760a56351be91, Spend 0.0 seconds
+2019-10-25 11:26:16,936 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 11:26:16,937 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 11:26:16,938 - root - INFO - SUCCESS    Print current value: b12e3a1c46946f86398760a56351be91, Spend 0.0 seconds
+2019-10-25 11:26:16,948 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.009000539779663086 seconds
+2019-10-25 11:26:16,976 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.027001619338989258 seconds
+2019-10-25 11:26:17,081 - root - INFO - SUCCESS    Typed element: <id->su> content: 测试输入内容后回车操作, Spend 0.13200783729553223 seconds
+2019-10-25 11:26:17,097 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.01500082015991211 seconds
+2019-10-25 11:26:17,931 - root - INFO - SUCCESS    Clicked element: <id->su>, ENTER, Spend 0.8490486145019531 seconds
+2019-10-25 11:26:27,931 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.000571727752686 seconds
+2019-10-25 11:26:30,715 - root - INFO - ###############################  END  ###############################
+2019-10-25 11:26:58,590 - root - INFO - ############################### START ###############################
+2019-10-25 11:27:02,963 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.253185749053955 seconds
+2019-10-25 11:27:05,965 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 11:27:05,966 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 11:27:05,967 - root - INFO - SUCCESS    Return current browser session id: 2806a507c0f8a295a0080035bff51604, Spend 0.0 seconds
+2019-10-25 11:27:05,968 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 11:27:05,968 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 11:27:05,969 - root - INFO - SUCCESS    Print current value: 2806a507c0f8a295a0080035bff51604, Spend 0.0 seconds
+2019-10-25 11:27:05,981 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.012000799179077148 seconds
+2019-10-25 11:27:06,020 - root - INFO - FAIL       Unable find element id: <id->ku>, Spend 0.039002180099487305 seconds
+2019-10-25 11:27:06,021 - root - INFO - FAIL       Unable to send element: <id->ku> content: 测试输入内容后回车操作, Spend 0.039002180099487305 seconds
+2019-10-25 11:27:08,531 - root - INFO - ###############################  END  ###############################
+2019-10-25 11:27:28,953 - root - INFO - ############################### START ###############################
+2019-10-25 11:27:32,254 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.177124500274658 seconds
+2019-10-25 11:27:35,255 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 11:27:35,256 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 11:27:35,257 - root - INFO - SUCCESS    Return current browser session id: 7aace2e9dac8b7150cf02ccd4e01daeb, Spend 0.0 seconds
+2019-10-25 11:27:35,258 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 11:27:35,258 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 11:27:35,259 - root - INFO - SUCCESS    Print current value: 7aace2e9dac8b7150cf02ccd4e01daeb, Spend 0.0 seconds
+2019-10-25 11:27:35,268 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.009000539779663086 seconds
+2019-10-25 11:27:35,298 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.028001785278320312 seconds
+2019-10-25 11:27:35,697 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试输入内容后回车操作, Spend 0.4280245304107666 seconds
+2019-10-25 11:27:35,717 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.019000768661499023 seconds
+2019-10-25 11:27:35,810 - root - INFO - SUCCESS    Clicked element: <id->kw>, ENTER, Spend 0.11200642585754395 seconds
+2019-10-25 11:27:45,812 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.000571966171265 seconds
+2019-10-25 11:27:48,557 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:05:29,659 - root - INFO - ############################### START ###############################
+2019-10-25 15:06:05,575 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 34.611979484558105 seconds
+2019-10-25 15:06:08,575 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 15:06:08,576 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 15:06:08,577 - root - INFO - SUCCESS    Return current browser session id: 8b70593726e2c2db4b96a3d9a3d4129c, Spend 0.0 seconds
+2019-10-25 15:06:08,577 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 15:06:08,578 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 15:06:08,579 - root - INFO - SUCCESS    Print current value: 8b70593726e2c2db4b96a3d9a3d4129c, Spend 0.0 seconds
+2019-10-25 15:06:08,589 - root - INFO - SUCCESS    Get current window title: www.baidu.com, Spend 0.009000301361083984 seconds
+2019-10-25 15:06:11,182 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:06:27,341 - root - INFO - ############################### START ###############################
+2019-10-25 15:06:36,155 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 7.603435039520264 seconds
+2019-10-25 15:06:39,156 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 15:06:39,157 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 15:06:39,158 - root - INFO - SUCCESS    Return current browser session id: 088a7042c4f75f6b5cc70c66420ddebc, Spend 0.0 seconds
+2019-10-25 15:06:39,159 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 15:06:39,160 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 15:06:39,160 - root - INFO - SUCCESS    Print current value: 088a7042c4f75f6b5cc70c66420ddebc, Spend 0.0 seconds
+2019-10-25 15:06:39,191 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.029001712799072266 seconds
+2019-10-25 15:06:39,224 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.03300166130065918 seconds
+2019-10-25 15:06:40,661 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试输入内容后回车操作, Spend 1.4700841903686523 seconds
+2019-10-25 15:06:40,681 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.018001079559326172 seconds
+2019-10-25 15:06:40,864 - root - INFO - SUCCESS    Clicked element: <id->kw>, operate the Enter key, Spend 0.20101165771484375 seconds
+2019-10-25 15:06:40,930 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.06600379943847656 seconds
+2019-10-25 15:06:40,944 - root - INFO - SUCCESS    Get attribute element: <id->su>, value: 百度一下, Spend 0.07900476455688477 seconds
+2019-10-25 15:06:40,989 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.03300189971923828 seconds
+2019-10-25 15:06:41,006 - root - INFO - SUCCESS    Get attribute element: <id->su>, attribute: 百度一下, Spend 0.049002885818481445 seconds
+2019-10-25 15:06:51,007 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.000572204589844 seconds
+2019-10-25 15:06:53,488 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:08:13,086 - root - INFO - ############################### START ###############################
+2019-10-25 15:08:18,483 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.184239387512207 seconds
+2019-10-25 15:08:21,484 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 15:08:21,485 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 15:08:21,486 - root - INFO - SUCCESS    Return current browser session id: d892246f1e13f51b985c48ef1d67e171, Spend 0.0 seconds
+2019-10-25 15:08:21,487 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 15:08:21,488 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 15:08:21,489 - root - INFO - SUCCESS    Print current value: d892246f1e13f51b985c48ef1d67e171, Spend 0.0 seconds
+2019-10-25 15:08:21,502 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.012000560760498047 seconds
+2019-10-25 15:08:21,539 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.03600192070007324 seconds
+2019-10-25 15:08:22,094 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试输入内容后回车操作, Spend 0.5910336971282959 seconds
+2019-10-25 15:08:22,117 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.022001266479492188 seconds
+2019-10-25 15:08:22,310 - root - INFO - SUCCESS    Clicked element: <id->kw>, operate the Enter key, Spend 0.2150120735168457 seconds
+2019-10-25 15:08:22,337 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.027001619338989258 seconds
+2019-10-25 15:08:22,351 - root - INFO - SUCCESS    Get attribute element: <id->su>, value: 百度一下, Spend 0.04000234603881836 seconds
+2019-10-25 15:08:22,362 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-25 15:08:22,417 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.054003238677978516 seconds
+2019-10-25 15:08:22,429 - root - INFO - SUCCESS    Get attribute element: <id->su>, attribute: 百度一下, Spend 0.06700396537780762 seconds
+2019-10-25 15:08:22,430 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-25 15:08:32,432 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.000571966171265 seconds
+2019-10-25 15:08:34,998 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:08:55,222 - root - INFO - ############################### START ###############################
+2019-10-25 15:08:59,943 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.5322020053863525 seconds
+2019-10-25 15:09:02,944 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 15:09:02,945 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 15:09:02,946 - root - INFO - SUCCESS    Return current browser session id: 40da181ba61cac44207da6fa23b48233, Spend 0.0 seconds
+2019-10-25 15:09:02,947 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 15:09:02,947 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 15:09:02,948 - root - INFO - SUCCESS    Print current value: 40da181ba61cac44207da6fa23b48233, Spend 0.0 seconds
+2019-10-25 15:09:02,958 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.009000778198242188 seconds
+2019-10-25 15:09:02,989 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.03000164031982422 seconds
+2019-10-25 15:09:03,369 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试输入内容后回车操作, Spend 0.41002368927001953 seconds
+2019-10-25 15:09:03,387 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.016000747680664062 seconds
+2019-10-25 15:09:03,482 - root - INFO - SUCCESS    Clicked element: <id->kw>, operate the Enter key, Spend 0.11100649833679199 seconds
+2019-10-25 15:09:03,514 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.03200173377990723 seconds
+2019-10-25 15:09:03,534 - root - INFO - SUCCESS    Get attribute element: <id->su>, value: 百度一下, Spend 0.052002906799316406 seconds
+2019-10-25 15:09:03,544 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-25 15:09:03,562 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.01700115203857422 seconds
+2019-10-25 15:09:03,572 - root - INFO - SUCCESS    Get attribute element: <id->su>, attribute: su, Spend 0.028001785278320312 seconds
+2019-10-25 15:09:03,573 - root - INFO - SUCCESS    Print current value: su, Spend 0.0 seconds
+2019-10-25 15:09:13,575 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.000572204589844 seconds
+2019-10-25 15:09:16,088 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:16:23,096 - root - INFO - ############################### START ###############################
+2019-10-25 15:16:31,072 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 6.7653868198394775 seconds
+2019-10-25 15:16:34,072 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 15:16:34,074 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 15:16:34,075 - root - INFO - SUCCESS    Return current browser session id: 7f829553fd465309a796d84029db0fff, Spend 0.0 seconds
+2019-10-25 15:16:34,076 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 15:16:34,077 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 15:16:34,077 - root - INFO - SUCCESS    Print current value: 7f829553fd465309a796d84029db0fff, Spend 0.0 seconds
+2019-10-25 15:16:34,094 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.016000747680664062 seconds
+2019-10-25 15:16:34,125 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.029001712799072266 seconds
+2019-10-25 15:16:34,676 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试输入内容后回车操作, Spend 0.5810329914093018 seconds
+2019-10-25 15:16:34,696 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.019001007080078125 seconds
+2019-10-25 15:16:34,818 - root - INFO - SUCCESS    Clicked element: <id->kw>, operate the Enter key, Spend 0.14000797271728516 seconds
+2019-10-25 15:16:34,857 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.03800225257873535 seconds
+2019-10-25 15:16:34,871 - root - INFO - SUCCESS    Get attribute element: <id->su>, value: 百度一下, Spend 0.052002906799316406 seconds
+2019-10-25 15:16:34,894 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-25 15:16:34,918 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.022001028060913086 seconds
+2019-10-25 15:16:34,932 - root - INFO - SUCCESS    Get attribute element: <id->su>, attribute: su, Spend 0.03600168228149414 seconds
+2019-10-25 15:16:34,933 - root - INFO - SUCCESS    Print current value: su, Spend 0.0 seconds
+2019-10-25 15:16:34,957 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.024001359939575195 seconds
+2019-10-25 15:16:35,004 - root - INFO - SUCCESS    Get current element: <<selenium.webdriver.remote.webelement.WebElement (session="7f829553fd465309a796d84029db0fff", element="0.8934885487677089-2")>> to connect: True, Spend 0.07100415229797363 seconds
+2019-10-25 15:16:38,034 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-25 15:16:40,866 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:19:30,918 - root - INFO - ############################### START ###############################
+2019-10-25 15:19:35,505 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.445197105407715 seconds
+2019-10-25 15:19:38,507 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 15:19:38,508 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 15:19:38,509 - root - INFO - SUCCESS    Return current browser session id: bcde810b5dca757a244f86941b820c7d, Spend 0.0 seconds
+2019-10-25 15:19:38,510 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 15:19:38,511 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 15:19:38,512 - root - INFO - SUCCESS    Print current value: bcde810b5dca757a244f86941b820c7d, Spend 0.0 seconds
+2019-10-25 15:19:38,524 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.011000633239746094 seconds
+2019-10-25 15:19:38,552 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.026001453399658203 seconds
+2019-10-25 15:19:38,962 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试输入内容后回车操作, Spend 0.4370250701904297 seconds
+2019-10-25 15:19:38,979 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.01500082015991211 seconds
+2019-10-25 15:19:39,061 - root - INFO - SUCCESS    Clicked element: <id->kw>, operate the Enter key, Spend 0.09700536727905273 seconds
+2019-10-25 15:19:39,105 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.04200243949890137 seconds
+2019-10-25 15:19:39,138 - root - INFO - SUCCESS    Get attribute element: <id->su>, value: 百度一下, Spend 0.07500410079956055 seconds
+2019-10-25 15:19:39,229 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-25 15:19:39,261 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.031001806259155273 seconds
+2019-10-25 15:19:39,282 - root - INFO - SUCCESS    Get attribute element: <id->su>, attribute: su, Spend 0.052002906799316406 seconds
+2019-10-25 15:19:39,283 - root - INFO - SUCCESS    Print current value: su, Spend 0.0 seconds
+2019-10-25 15:19:39,313 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.029001712799072266 seconds
+2019-10-25 15:19:42,045 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:20:07,810 - root - INFO - ############################### START ###############################
+2019-10-25 15:20:13,441 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.354248762130737 seconds
+2019-10-25 15:20:16,441 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 15:20:16,443 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 15:20:16,444 - root - INFO - SUCCESS    Return current browser session id: 3cb07fd8e02cdb91b5a8a379458329db, Spend 0.0 seconds
+2019-10-25 15:20:16,445 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 15:20:16,446 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 15:20:16,448 - root - INFO - SUCCESS    Print current value: 3cb07fd8e02cdb91b5a8a379458329db, Spend 0.0 seconds
+2019-10-25 15:20:16,459 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.010000467300415039 seconds
+2019-10-25 15:20:16,484 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.02500152587890625 seconds
+2019-10-25 15:20:16,887 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试输入内容后回车操作, Spend 0.42702436447143555 seconds
+2019-10-25 15:20:16,904 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.016000747680664062 seconds
+2019-10-25 15:20:17,021 - root - INFO - SUCCESS    Clicked element: <id->kw>, operate the Enter key, Spend 0.13300776481628418 seconds
+2019-10-25 15:20:17,050 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.02800154685974121 seconds
+2019-10-25 15:20:17,062 - root - INFO - SUCCESS    Get attribute element: <id->su>, value: 百度一下, Spend 0.04000234603881836 seconds
+2019-10-25 15:20:17,071 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-25 15:20:17,087 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.01500082015991211 seconds
+2019-10-25 15:20:17,100 - root - INFO - SUCCESS    Get attribute element: <id->su>, attribute: su, Spend 0.02800154685974121 seconds
+2019-10-25 15:20:17,101 - root - INFO - SUCCESS    Print current value: su, Spend 0.0 seconds
+2019-10-25 15:20:17,120 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.017000913619995117 seconds
+2019-10-25 15:20:17,121 - root - INFO - SUCCESS    Get current element: <<selenium.webdriver.remote.webelement.WebElement (session="3cb07fd8e02cdb91b5a8a379458329db", element="0.20410578332069984-2")>> True, Spend 0.018001079559326172 seconds
+2019-10-25 15:20:17,148 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 15:20:20,148 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 15:20:22,870 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:21:28,278 - root - INFO - ############################### START ###############################
+2019-10-25 15:21:31,993 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.4841420650482178 seconds
+2019-10-25 15:21:34,994 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 15:21:34,995 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 15:21:34,996 - root - INFO - SUCCESS    Return current browser session id: 9116a8910f18a68449b4cc8291d4c0db, Spend 0.0 seconds
+2019-10-25 15:21:34,997 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 15:21:34,998 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 15:21:34,999 - root - INFO - SUCCESS    Print current value: 9116a8910f18a68449b4cc8291d4c0db, Spend 0.0 seconds
+2019-10-25 15:21:35,011 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.012000560760498047 seconds
+2019-10-25 15:21:35,052 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.039002180099487305 seconds
+2019-10-25 15:21:35,580 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试输入内容后回车操作, Spend 0.5670323371887207 seconds
+2019-10-25 15:21:35,599 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.01800084114074707 seconds
+2019-10-25 15:21:35,753 - root - INFO - SUCCESS    Clicked element: <id->kw>, operate the Enter key, Spend 0.17200970649719238 seconds
+2019-10-25 15:21:35,799 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.04600262641906738 seconds
+2019-10-25 15:21:35,813 - root - INFO - SUCCESS    Get attribute element: <id->su>, value: 百度一下, Spend 0.059003353118896484 seconds
+2019-10-25 15:21:35,827 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-25 15:21:35,846 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.018001079559326172 seconds
+2019-10-25 15:21:35,864 - root - INFO - SUCCESS    Get attribute element: <id->su>, attribute: su, Spend 0.036002159118652344 seconds
+2019-10-25 15:21:35,865 - root - INFO - SUCCESS    Print current value: su, Spend 0.0 seconds
+2019-10-25 15:21:35,896 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.03000164031982422 seconds
+2019-10-25 15:21:35,897 - root - INFO - SUCCESS    Get current element: <id->su> True, Spend 0.031001806259155273 seconds
+2019-10-25 15:21:35,951 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 15:21:38,954 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-25 15:21:41,667 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:23:26,143 - root - INFO - ############################### START ###############################
+2019-10-25 15:23:31,719 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.33624792098999 seconds
+2019-10-25 15:23:34,719 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 15:23:34,721 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 15:23:34,722 - root - INFO - SUCCESS    Return current browser session id: e082091410a94fd5b9fef7728451c83b, Spend 0.0 seconds
+2019-10-25 15:23:34,722 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 15:23:34,723 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 15:23:34,724 - root - INFO - SUCCESS    Print current value: e082091410a94fd5b9fef7728451c83b, Spend 0.0 seconds
+2019-10-25 15:23:34,735 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.009000778198242188 seconds
+2019-10-25 15:23:34,766 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.03000164031982422 seconds
+2019-10-25 15:23:35,142 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试输入内容后回车操作, Spend 0.4060232639312744 seconds
+2019-10-25 15:23:35,177 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.034001827239990234 seconds
+2019-10-25 15:23:35,275 - root - INFO - SUCCESS    Clicked element: <id->kw>, operate the Enter key, Spend 0.13200736045837402 seconds
+2019-10-25 15:23:35,301 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.02500152587890625 seconds
+2019-10-25 15:23:35,313 - root - INFO - SUCCESS    Get attribute element: <id->su>, value: 百度一下, Spend 0.0370020866394043 seconds
+2019-10-25 15:23:35,322 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-25 15:23:35,340 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.016000747680664062 seconds
+2019-10-25 15:23:35,353 - root - INFO - SUCCESS    Get attribute element: <id->su>, attribute: su, Spend 0.029001474380493164 seconds
+2019-10-25 15:23:35,354 - root - INFO - SUCCESS    Print current value: su, Spend 0.0 seconds
+2019-10-25 15:23:35,376 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.021001100540161133 seconds
+2019-10-25 15:23:35,377 - root - INFO - SUCCESS    Get current element: <id->su>, return: True, Spend 0.022001266479492188 seconds
+2019-10-25 15:23:35,402 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 15:23:38,403 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 15:23:41,051 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:24:02,114 - root - INFO - ############################### START ###############################
+2019-10-25 15:24:06,676 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.4171955585479736 seconds
+2019-10-25 15:24:09,677 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 15:24:09,678 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 15:24:09,680 - root - INFO - SUCCESS    Return current browser session id: a06058f5988a7ca069447c6dc14b5cb7, Spend 0.0 seconds
+2019-10-25 15:24:09,680 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 15:24:09,681 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 15:24:09,682 - root - INFO - SUCCESS    Print current value: a06058f5988a7ca069447c6dc14b5cb7, Spend 0.0 seconds
+2019-10-25 15:24:09,701 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.018001079559326172 seconds
+2019-10-25 15:24:09,743 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.041002511978149414 seconds
+2019-10-25 15:24:10,358 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试输入内容后回车操作, Spend 0.6560378074645996 seconds
+2019-10-25 15:24:10,381 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.021001100540161133 seconds
+2019-10-25 15:24:10,608 - root - INFO - SUCCESS    Clicked element: <id->kw>, operate the Enter key, Spend 0.24801397323608398 seconds
+2019-10-25 15:24:10,657 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.049002885818481445 seconds
+2019-10-25 15:24:10,674 - root - INFO - SUCCESS    Get attribute element: <id->su>, value: 百度一下, Spend 0.06500387191772461 seconds
+2019-10-25 15:24:10,689 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-25 15:24:10,709 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.019001007080078125 seconds
+2019-10-25 15:24:10,724 - root - INFO - SUCCESS    Get attribute element: <id->su>, attribute: su, Spend 0.034001827239990234 seconds
+2019-10-25 15:24:10,725 - root - INFO - SUCCESS    Print current value: su, Spend 0.0 seconds
+2019-10-25 15:24:10,765 - root - INFO - FAIL       Unable find element id: <id->dd>, Spend 0.03800201416015625 seconds
+2019-10-25 15:24:10,766 - root - INFO - FAIL       Unable get current element: <id->dd>, return: False, Spend 0.0390019416809082 seconds
+2019-10-25 15:24:13,416 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:26:59,757 - root - INFO - ############################### START ###############################
+2019-10-25 15:27:08,528 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 7.613435506820679 seconds
+2019-10-25 15:27:11,530 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 15:27:11,531 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 15:27:11,532 - root - INFO - SUCCESS    Return current browser session id: 741e49f65a59a9d098ff67bd34c5e204, Spend 0.0 seconds
+2019-10-25 15:27:11,533 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 15:27:11,534 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 15:27:11,535 - root - INFO - SUCCESS    Print current value: 741e49f65a59a9d098ff67bd34c5e204, Spend 0.0 seconds
+2019-10-25 15:27:11,547 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.012000560760498047 seconds
+2019-10-25 15:27:11,580 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.031002044677734375 seconds
+2019-10-25 15:27:12,056 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试输入内容后回车操作, Spend 0.5070290565490723 seconds
+2019-10-25 15:27:12,083 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.026001453399658203 seconds
+2019-10-25 15:27:12,219 - root - INFO - SUCCESS    Clicked element: <id->kw>, operate the Enter key, Spend 0.16200923919677734 seconds
+2019-10-25 15:27:12,287 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.06700396537780762 seconds
+2019-10-25 15:27:12,330 - root - INFO - SUCCESS    Get attribute element: <id->su>, value: 百度一下, Spend 0.11000633239746094 seconds
+2019-10-25 15:27:12,392 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-25 15:27:12,518 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.12500715255737305 seconds
+2019-10-25 15:27:12,627 - root - INFO - SUCCESS    Get attribute element: <id->su>, attribute: su, Spend 0.23401331901550293 seconds
+2019-10-25 15:27:12,628 - root - INFO - SUCCESS    Print current value: su, Spend 0.0 seconds
+2019-10-25 15:27:12,709 - root - INFO - FAIL       Unable find element id: <id->dd>, Spend 0.08000445365905762 seconds
+2019-10-25 15:27:15,502 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:31:31,918 - root - INFO - ############################### START ###############################
+2019-10-25 15:31:35,405 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.2431282997131348 seconds
+2019-10-25 15:31:38,406 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 15:31:38,408 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 15:31:38,408 - root - INFO - SUCCESS    Return current browser session id: 8575f41df58db7887646f5035d9db82e, Spend 0.0 seconds
+2019-10-25 15:31:38,409 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 15:31:38,410 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 15:31:38,411 - root - INFO - SUCCESS    Print current value: 8575f41df58db7887646f5035d9db82e, Spend 0.0 seconds
+2019-10-25 15:31:38,426 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.014000892639160156 seconds
+2019-10-25 15:31:38,466 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.039002418518066406 seconds
+2019-10-25 15:31:39,031 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试输入内容后回车操作, Spend 0.6040346622467041 seconds
+2019-10-25 15:31:39,054 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.022001028060913086 seconds
+2019-10-25 15:31:39,167 - root - INFO - SUCCESS    Clicked element: <id->kw>, operate the Enter key, Spend 0.13300752639770508 seconds
+2019-10-25 15:31:39,198 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.029001474380493164 seconds
+2019-10-25 15:31:39,214 - root - INFO - SUCCESS    Get attribute element: <id->su>, value: 百度一下, Spend 0.04500269889831543 seconds
+2019-10-25 15:31:39,226 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-25 15:31:39,248 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.021001100540161133 seconds
+2019-10-25 15:31:39,261 - root - INFO - SUCCESS    Get attribute element: <id->su>, attribute: su, Spend 0.03300166130065918 seconds
+2019-10-25 15:31:39,262 - root - INFO - SUCCESS    Print current value: su, Spend 0.0 seconds
+2019-10-25 15:31:39,290 - root - INFO - SUCCESS    Set wait current element: <id->su> display in 5 seconds, Spend 0.027001619338989258 seconds
+2019-10-25 15:31:39,291 - root - INFO - SUCCESS    Find element: <id->su> is exist, Spend 0.02800154685974121 seconds
+2019-10-25 15:31:39,292 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 15:31:39,308 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.015001058578491211 seconds
+2019-10-25 15:31:39,309 - root - INFO - SUCCESS    Get current element: <id->su>, return: True, Spend 0.016000986099243164 seconds
+2019-10-25 15:31:39,339 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 15:31:42,339 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 15:31:45,172 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:32:19,720 - root - INFO - ############################### START ###############################
+2019-10-25 15:32:23,711 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.8451626300811768 seconds
+2019-10-25 15:32:26,714 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 15:32:26,715 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 15:32:26,716 - root - INFO - SUCCESS    Return current browser session id: 95660a4380ed6793077678a9ad3aa10a, Spend 0.0 seconds
+2019-10-25 15:32:26,717 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 15:32:26,718 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 15:32:26,719 - root - INFO - SUCCESS    Print current value: 95660a4380ed6793077678a9ad3aa10a, Spend 0.0 seconds
+2019-10-25 15:32:26,731 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.011000633239746094 seconds
+2019-10-25 15:32:26,758 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.02500128746032715 seconds
+2019-10-25 15:32:27,169 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试输入内容后回车操作, Spend 0.43602490425109863 seconds
+2019-10-25 15:32:27,186 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.016000747680664062 seconds
+2019-10-25 15:32:27,279 - root - INFO - SUCCESS    Clicked element: <id->kw>, operate the Enter key, Spend 0.10900616645812988 seconds
+2019-10-25 15:32:27,304 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.024001359939575195 seconds
+2019-10-25 15:32:27,316 - root - INFO - SUCCESS    Get attribute element: <id->su>, value: 百度一下, Spend 0.03600192070007324 seconds
+2019-10-25 15:32:27,325 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-25 15:32:27,341 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.01500082015991211 seconds
+2019-10-25 15:32:27,352 - root - INFO - SUCCESS    Get attribute element: <id->su>, attribute: su, Spend 0.02500152587890625 seconds
+2019-10-25 15:32:27,354 - root - INFO - SUCCESS    Print current value: su, Spend 0.0 seconds
+2019-10-25 15:32:32,606 - root - INFO - FAIL       Unable set wait current element: <id->s> display in 5 seconds, Spend 5.25130033493042 seconds
+2019-10-25 15:32:35,380 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:33:49,660 - root - INFO - ############################### START ###############################
+2019-10-25 15:35:43,632 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 112.74144840240479 seconds
+2019-10-25 15:35:46,633 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 15:35:46,634 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 15:35:46,635 - root - INFO - SUCCESS    Return current browser session id: 21b63f23f578ca868123368f9893ba64, Spend 0.0 seconds
+2019-10-25 15:35:46,636 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 15:35:46,637 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 15:35:46,638 - root - INFO - SUCCESS    Print current value: 21b63f23f578ca868123368f9893ba64, Spend 0.0 seconds
+2019-10-25 15:35:46,650 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.011000633239746094 seconds
+2019-10-25 15:35:46,673 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.022001266479492188 seconds
+2019-10-25 15:35:47,107 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试输入内容后回车操作, Spend 0.4560260772705078 seconds
+2019-10-25 15:35:47,124 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.016001224517822266 seconds
+2019-10-25 15:35:47,230 - root - INFO - SUCCESS    Clicked element: <id->kw>, operate the Enter key, Spend 0.12000703811645508 seconds
+2019-10-25 15:35:47,268 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.0370020866394043 seconds
+2019-10-25 15:35:47,278 - root - INFO - SUCCESS    Get attribute element: <id->su>, value: 百度一下, Spend 0.04800271987915039 seconds
+2019-10-25 15:35:47,291 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-25 15:35:47,307 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.01500082015991211 seconds
+2019-10-25 15:35:47,323 - root - INFO - SUCCESS    Get attribute element: <id->su>, attribute: su, Spend 0.031001567840576172 seconds
+2019-10-25 15:35:47,324 - root - INFO - SUCCESS    Print current value: su, Spend 0.0 seconds
+2019-10-25 15:35:50,324 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-25 15:35:50,365 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 15:35:52,959 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:36:07,573 - root - INFO - ############################### START ###############################
+2019-10-25 15:36:34,449 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 25.69046950340271 seconds
+2019-10-25 15:36:37,450 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 15:36:37,451 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 15:36:37,453 - root - INFO - SUCCESS    Return current browser session id: ac266ee01822bb0d692b7dd998f31306, Spend 0.0 seconds
+2019-10-25 15:36:37,453 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 15:36:37,454 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 15:36:37,455 - root - INFO - SUCCESS    Print current value: ac266ee01822bb0d692b7dd998f31306, Spend 0.0 seconds
+2019-10-25 15:36:37,465 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.009000301361083984 seconds
+2019-10-25 15:36:37,492 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.02500152587890625 seconds
+2019-10-25 15:36:37,831 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试输入内容后回车操作, Spend 0.36402082443237305 seconds
+2019-10-25 15:36:37,848 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.016000747680664062 seconds
+2019-10-25 15:36:37,942 - root - INFO - SUCCESS    Clicked element: <id->kw>, operate the Enter key, Spend 0.10900616645812988 seconds
+2019-10-25 15:36:37,969 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.027001619338989258 seconds
+2019-10-25 15:36:37,983 - root - INFO - SUCCESS    Get attribute element: <id->su>, value: 百度一下, Spend 0.04000234603881836 seconds
+2019-10-25 15:36:37,995 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-25 15:36:38,012 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.016000986099243164 seconds
+2019-10-25 15:36:38,024 - root - INFO - SUCCESS    Get attribute element: <id->su>, attribute: su, Spend 0.028001785278320312 seconds
+2019-10-25 15:36:38,025 - root - INFO - SUCCESS    Print current value: su, Spend 0.0 seconds
+2019-10-25 15:36:41,028 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.001171588897705 seconds
+2019-10-25 15:36:41,109 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 15:36:43,704 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:36:57,190 - root - INFO - ############################### START ###############################
+2019-10-25 15:37:01,254 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.9261674880981445 seconds
+2019-10-25 15:37:04,254 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 15:37:04,255 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 15:37:04,256 - root - INFO - SUCCESS    Return current browser session id: 82b332b47959da56c7a789811cf1ff84, Spend 0.0 seconds
+2019-10-25 15:37:04,257 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 15:37:04,258 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 15:37:04,259 - root - INFO - SUCCESS    Print current value: 82b332b47959da56c7a789811cf1ff84, Spend 0.0 seconds
+2019-10-25 15:37:04,281 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.020000934600830078 seconds
+2019-10-25 15:37:04,312 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.03000164031982422 seconds
+2019-10-25 15:37:04,754 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试输入内容后回车操作, Spend 0.47302699089050293 seconds
+2019-10-25 15:37:04,776 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.02000141143798828 seconds
+2019-10-25 15:37:04,871 - root - INFO - SUCCESS    Clicked element: <id->kw>, operate the Enter key, Spend 0.1150064468383789 seconds
+2019-10-25 15:37:04,902 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.029001474380493164 seconds
+2019-10-25 15:37:04,916 - root - INFO - SUCCESS    Get attribute element: <id->su>, value: 百度一下, Spend 0.04300236701965332 seconds
+2019-10-25 15:37:04,927 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-25 15:37:04,946 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.01800084114074707 seconds
+2019-10-25 15:37:04,959 - root - INFO - SUCCESS    Get attribute element: <id->su>, attribute: su, Spend 0.03200173377990723 seconds
+2019-10-25 15:37:04,961 - root - INFO - SUCCESS    Print current value: su, Spend 0.0 seconds
+2019-10-25 15:37:07,962 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-25 15:37:10,526 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:42:41,916 - root - INFO - ############################### START ###############################
+2019-10-25 15:42:52,347 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 9.148523330688477 seconds
+2019-10-25 15:42:55,348 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 15:42:55,349 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 15:42:55,351 - root - INFO - SUCCESS    Return current browser session id: a4e425ed6c4b6be8ed58828edd86f185, Spend 0.0 seconds
+2019-10-25 15:42:55,352 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 15:42:55,353 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 15:42:55,354 - root - INFO - SUCCESS    Print current value: a4e425ed6c4b6be8ed58828edd86f185, Spend 0.0 seconds
+2019-10-25 15:42:55,363 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.008000612258911133 seconds
+2019-10-25 15:42:55,387 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.02300119400024414 seconds
+2019-10-25 15:42:55,719 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试输入内容后回车操作, Spend 0.3540201187133789 seconds
+2019-10-25 15:42:55,736 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.01500082015991211 seconds
+2019-10-25 15:42:55,825 - root - INFO - SUCCESS    Clicked element: <id->kw>, operate the Enter key, Spend 0.10400581359863281 seconds
+2019-10-25 15:42:55,854 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.02800154685974121 seconds
+2019-10-25 15:42:55,867 - root - INFO - SUCCESS    Get attribute element: <id->su>, value: 百度一下, Spend 0.04200243949890137 seconds
+2019-10-25 15:42:55,877 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-25 15:42:55,902 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.024001598358154297 seconds
+2019-10-25 15:42:55,918 - root - INFO - SUCCESS    Get attribute element: <id->su>, attribute: su, Spend 0.04000234603881836 seconds
+2019-10-25 15:42:55,919 - root - INFO - SUCCESS    Print current value: su, Spend 0.0 seconds
+2019-10-25 15:42:55,938 - root - INFO - SUCCESS    Set wait current element: <id->su> display in 5 seconds, Spend 0.017000913619995117 seconds
+2019-10-25 15:42:55,939 - root - INFO - SUCCESS    Find element: <id->su> is exist, Spend 0.019001007080078125 seconds
+2019-10-25 15:42:55,940 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 15:42:55,960 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.019001245498657227 seconds
+2019-10-25 15:42:55,961 - root - INFO - SUCCESS    Get current element: <id->su>, return: True, Spend 0.02000141143798828 seconds
+2019-10-25 15:42:55,986 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 15:42:58,987 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-25 15:43:01,749 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:43:53,049 - root - INFO - ############################### START ###############################
+2019-10-25 15:43:58,870 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.669267177581787 seconds
+2019-10-25 15:44:01,870 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 15:44:01,871 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 15:44:01,872 - root - INFO - SUCCESS    Return current browser session id: 940ee084e65068715a03d0eadacfc83a, Spend 0.0 seconds
+2019-10-25 15:44:01,873 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 15:44:01,874 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 15:44:01,875 - root - INFO - SUCCESS    Print current value: 940ee084e65068715a03d0eadacfc83a, Spend 0.0 seconds
+2019-10-25 15:44:01,886 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.01000070571899414 seconds
+2019-10-25 15:44:01,916 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.029001712799072266 seconds
+2019-10-25 15:44:02,263 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试输入内容后回车操作, Spend 0.3760213851928711 seconds
+2019-10-25 15:44:02,283 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.019001245498657227 seconds
+2019-10-25 15:44:02,392 - root - INFO - SUCCESS    Clicked element: <id->kw>, operate the Enter key, Spend 0.128007173538208 seconds
+2019-10-25 15:44:02,417 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.024001359939575195 seconds
+2019-10-25 15:44:02,429 - root - INFO - SUCCESS    Get attribute element: <id->su>, value: 百度一下, Spend 0.036002159118652344 seconds
+2019-10-25 15:44:02,440 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-25 15:44:02,458 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.016000747680664062 seconds
+2019-10-25 15:44:02,485 - root - INFO - SUCCESS    Get attribute element: <id->su>, attribute: su, Spend 0.04300236701965332 seconds
+2019-10-25 15:44:02,488 - root - INFO - SUCCESS    Print current value: su, Spend 0.0 seconds
+2019-10-25 15:44:02,513 - root - INFO - SUCCESS    Set wait current element: <id->su> display in 5 seconds, Spend 0.02500152587890625 seconds
+2019-10-25 15:44:02,515 - root - INFO - SUCCESS    Find element: <id->su> is exist, Spend 0.026001691818237305 seconds
+2019-10-25 15:44:02,516 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 15:44:02,533 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.016000986099243164 seconds
+2019-10-25 15:44:02,534 - root - INFO - SUCCESS    Get current element: <id->su>, return: True, Spend 0.018001079559326172 seconds
+2019-10-25 15:44:02,563 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 15:44:05,567 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.001171827316284 seconds
+2019-10-25 15:44:05,633 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.06500363349914551 seconds
+2019-10-25 15:44:05,657 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 15:44:08,248 - root - INFO - ###############################  END  ###############################
+2019-10-25 15:59:20,822 - root - INFO - ############################### START ###############################
+2019-10-25 15:59:38,860 - root - INFO - SUCCESS    Navigated to https://dm.aeptest.ctwing.cn/index.html?token=4&true#/product?t=1&token=c4, Spend 16.7729594707489 seconds
+2019-10-25 15:59:38,911 - root - INFO - FAIL       Unable find element xpaht: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.0500025749206543 seconds
+2019-10-25 15:59:38,912 - root - INFO - FAIL       Unable to send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: huanglei, Spend 0.05100274085998535 seconds
+2019-10-25 15:59:41,665 - root - INFO - ###############################  END  ###############################
+2019-10-25 16:00:02,512 - root - INFO - ############################### START ###############################
+2019-10-25 16:02:26,069 - root - INFO - SUCCESS    Navigated to https://dm.aeptest.ctwing.cn/index.html?token=4&true#/product?t=1&token=c4, Spend 142.40914511680603 seconds
+2019-10-25 16:02:36,072 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.000571727752686 seconds
+2019-10-25 16:02:36,113 - root - INFO - FAIL       Unable find element xpaht: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.04000210762023926 seconds
+2019-10-25 16:02:36,114 - root - INFO - FAIL       Unable to send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: huanglei, Spend 0.042002201080322266 seconds
+2019-10-25 16:02:38,287 - root - INFO - ###############################  END  ###############################
+2019-10-25 16:05:23,582 - root - INFO - ############################### START ###############################
+2019-10-25 16:06:01,922 - root - INFO - SUCCESS    Navigated to https://dm.aeptest.ctwing.cn/index.html?token=4&true#/product?t=1&token=c4, Spend 37.20212769508362 seconds
+2019-10-25 16:06:11,923 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.000571966171265 seconds
+2019-10-25 16:06:28,617 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 16.691954612731934 seconds
+2019-10-25 16:06:29,159 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: huanglei, Spend 17.233985900878906 seconds
+2019-10-25 16:06:29,186 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.026001691818237305 seconds
+2019-10-25 16:06:29,397 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: 3er4#ER$, Spend 0.23801350593566895 seconds
+2019-10-25 16:06:30,398 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0000569820404053 seconds
+2019-10-25 16:06:30,423 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.023001432418823242 seconds
+2019-10-25 16:06:45,535 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 15.134865760803223 seconds
+2019-10-25 16:07:15,536 - root - INFO - SUCCESS    Sleep time: 30s, Spend 30.000715970993042 seconds
+2019-10-25 16:07:15,562 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div[1]/div/div/section/div[2]/div[1]/div[1]/div/div/div[1]/button>, Spend 0.024001359939575195 seconds
+2019-10-25 16:07:15,999 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/div[2]/div[1]/div[1]/div/div/div[1]/button>, Spend 0.4610261917114258 seconds
+2019-10-25 16:07:21,000 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-25 16:07:21,024 - root - INFO - SUCCESS    Typed element id: <id->tab-subscriptionTab>, Spend 0.022001266479492188 seconds
+2019-10-25 16:07:21,240 - root - INFO - SUCCESS    Clicked element: <id->tab-subscriptionTab>, Spend 0.23801374435424805 seconds
+2019-10-25 16:07:24,242 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 16:07:24,266 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="pane-subscriptionTab"]/div/div[1]/div[3]/button>, Spend 0.023001432418823242 seconds
+2019-10-25 16:07:24,518 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="pane-subscriptionTab"]/div/div[1]/div[3]/button>, Spend 0.27501606941223145 seconds
+2019-10-25 16:07:27,519 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-25 16:07:27,543 - root - INFO - SUCCESS    Typed element class: <class->el-input__inner>, Spend 0.022001266479492188 seconds
+2019-10-25 16:07:27,544 - root - INFO - SUCCESS    Get current element: <class->el-input__inner>, return: True, Spend 0.023001432418823242 seconds
+2019-10-25 16:07:27,568 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 16:07:30,162 - root - INFO - ###############################  END  ###############################
+2019-10-25 16:08:11,958 - root - INFO - ############################### START ###############################
+2019-10-25 16:08:18,799 - root - INFO - SUCCESS    Navigated to https://dm.aeptest.ctwing.cn/index.html?token=4&true#/product?t=1&token=c4, Spend 5.6823248863220215 seconds
+2019-10-25 16:08:28,800 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.000572204589844 seconds
+2019-10-25 16:08:28,828 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.026001453399658203 seconds
+2019-10-25 16:08:29,192 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: huanglei, Spend 0.39002251625061035 seconds
+2019-10-25 16:08:29,221 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.028001785278320312 seconds
+2019-10-25 16:08:29,395 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: 3er4#ER$, Spend 0.20301151275634766 seconds
+2019-10-25 16:08:30,397 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0000572204589844 seconds
+2019-10-25 16:08:30,443 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.04500246047973633 seconds
+2019-10-25 16:08:36,419 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 6.020344257354736 seconds
+2019-10-25 16:09:06,420 - root - INFO - SUCCESS    Sleep time: 30s, Spend 30.000715732574463 seconds
+2019-10-25 16:09:06,449 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div[1]/div/div/section/div[2]/div[1]/div[1]/div/div/div[1]/button>, Spend 0.027001619338989258 seconds
+2019-10-25 16:09:06,916 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/div[2]/div[1]/div[1]/div/div/div[1]/button>, Spend 0.4950282573699951 seconds
+2019-10-25 16:09:11,918 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-25 16:09:11,943 - root - INFO - SUCCESS    Typed element id: <id->tab-subscriptionTab>, Spend 0.02300119400024414 seconds
+2019-10-25 16:09:12,311 - root - INFO - SUCCESS    Clicked element: <id->tab-subscriptionTab>, Spend 0.3910224437713623 seconds
+2019-10-25 16:09:15,313 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-25 16:09:15,337 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="pane-subscriptionTab"]/div/div[1]/div[3]/button>, Spend 0.022001266479492188 seconds
+2019-10-25 16:09:15,532 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="pane-subscriptionTab"]/div/div[1]/div[3]/button>, Spend 0.2170121669769287 seconds
+2019-10-25 16:09:18,532 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 16:09:18,556 - root - INFO - SUCCESS    Typed element class: <class->el-input__inner>, Spend 0.022001028060913086 seconds
+2019-10-25 16:09:18,576 - root - INFO - SUCCESS    Get current element: <class->el-input__inner>, return: True, Spend 0.042002201080322266 seconds
+2019-10-25 16:09:18,577 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 16:09:21,275 - root - INFO - ###############################  END  ###############################
+2019-10-25 16:12:58,636 - root - INFO - ############################### START ###############################
+2019-10-25 16:13:17,665 - root - INFO - SUCCESS    Navigated to https://dm.aeptest.ctwing.cn/index.html?token=4&true#/product?t=1&token=c4, Spend 17.8790225982666 seconds
+2019-10-25 16:13:27,666 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.000572204589844 seconds
+2019-10-25 16:13:27,716 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.04800271987915039 seconds
+2019-10-25 16:13:28,091 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: huanglei, Spend 0.42302441596984863 seconds
+2019-10-25 16:13:28,118 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.026001453399658203 seconds
+2019-10-25 16:13:28,306 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: 3er4#ER$, Spend 0.21401238441467285 seconds
+2019-10-25 16:13:29,307 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0000574588775635 seconds
+2019-10-25 16:13:29,333 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.024001359939575195 seconds
+2019-10-25 16:13:34,790 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 5.480313539505005 seconds
+2019-10-25 16:14:04,791 - root - INFO - SUCCESS    Sleep time: 30s, Spend 30.001716136932373 seconds
+2019-10-25 16:14:04,816 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div[1]/div/div/section/div[2]/div[1]/div[1]/div/div/div[1]/button>, Spend 0.023001432418823242 seconds
+2019-10-25 16:14:05,262 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/div[2]/div[1]/div[1]/div/div/div[1]/button>, Spend 0.4690268039703369 seconds
+2019-10-25 16:14:10,263 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286340713501 seconds
+2019-10-25 16:14:10,287 - root - INFO - SUCCESS    Typed element id: <id->tab-subscriptionTab>, Spend 0.022001028060913086 seconds
+2019-10-25 16:14:10,579 - root - INFO - SUCCESS    Clicked element: <id->tab-subscriptionTab>, Spend 0.31401801109313965 seconds
+2019-10-25 16:14:13,579 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-25 16:14:13,605 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="pane-subscriptionTab"]/div/div[1]/div[3]/button>, Spend 0.024001121520996094 seconds
+2019-10-25 16:14:13,852 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="pane-subscriptionTab"]/div/div[1]/div[3]/button>, Spend 0.2710154056549072 seconds
+2019-10-25 16:14:16,852 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-25 16:14:16,897 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 16:14:20,748 - root - INFO - ###############################  END  ###############################
+2019-10-25 16:21:35,346 - root - INFO - ############################### START ###############################
+2019-10-25 16:21:46,269 - root - INFO - SUCCESS    Navigated to https://dm.aeptest.ctwing.cn/index.html?token=4&true#/product?t=1&token=c4, Spend 9.769558906555176 seconds
+2019-10-25 16:21:56,270 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.000571966171265 seconds
+2019-10-25 16:21:56,296 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.024001121520996094 seconds
+2019-10-25 16:21:56,618 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: huanglei, Spend 0.3460197448730469 seconds
+2019-10-25 16:21:56,648 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.029001712799072266 seconds
+2019-10-25 16:21:56,849 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: 3er4#ER$, Spend 0.23001313209533691 seconds
+2019-10-25 16:21:57,850 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0000574588775635 seconds
+2019-10-25 16:21:57,875 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.023001432418823242 seconds
+2019-10-25 16:22:06,461 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 8.609492540359497 seconds
+2019-10-25 16:22:36,463 - root - INFO - SUCCESS    Sleep time: 30s, Spend 30.000715970993042 seconds
+2019-10-25 16:22:36,490 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div[1]/div/div/section/div[2]/div[1]/div[1]/div/div/div[1]/button>, Spend 0.02500152587890625 seconds
+2019-10-25 16:22:36,958 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/div[2]/div[1]/div[1]/div/div/div[1]/button>, Spend 0.4930284023284912 seconds
+2019-10-25 16:22:41,958 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-25 16:22:41,984 - root - INFO - SUCCESS    Typed element id: <id->tab-subscriptionTab>, Spend 0.024001359939575195 seconds
+2019-10-25 16:22:42,277 - root - INFO - SUCCESS    Clicked element: <id->tab-subscriptionTab>, Spend 0.3170182704925537 seconds
+2019-10-25 16:22:45,277 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 16:22:45,303 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="pane-subscriptionTab"]/div/div[1]/div[3]/button>, Spend 0.024001598358154297 seconds
+2019-10-25 16:22:45,557 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="pane-subscriptionTab"]/div/div[1]/div[3]/button>, Spend 0.2780160903930664 seconds
+2019-10-25 16:22:48,559 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 16:22:48,583 - root - INFO - FAIL       Unable find element class: <class->el-input__inne>, Spend 0.02300119400024414 seconds
+2019-10-25 16:22:51,251 - root - INFO - ###############################  END  ###############################
+2019-10-25 16:29:50,231 - root - INFO - ############################### START ###############################
+2019-10-25 16:30:45,071 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 53.651068449020386 seconds
+2019-10-25 16:30:48,170 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.09800553321838379 seconds
+2019-10-25 16:30:48,171 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 16:30:48,193 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.02000141143798828 seconds
+2019-10-25 16:30:48,194 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.021001338958740234 seconds
+2019-10-25 16:30:48,195 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 16:30:48,212 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.016000986099243164 seconds
+2019-10-25 16:30:48,252 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: [''], Spend 0.05600309371948242 seconds
+2019-10-25 16:30:48,282 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: ['', ''], Spend 0.08600497245788574 seconds
+2019-10-25 16:30:48,311 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: ['', '', ''], Spend 0.11600661277770996 seconds
+2019-10-25 16:30:48,339 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: ['', '', '', ''], Spend 0.14400815963745117 seconds
+2019-10-25 16:30:48,369 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: ['', '', '', '', ''], Spend 0.17300987243652344 seconds
+2019-10-25 16:30:48,401 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: ['', '', '', '', '', ''], Spend 0.20501160621643066 seconds
+2019-10-25 16:30:48,402 - root - INFO - SUCCESS    Return current browser session id: 64cad055830ccfc4be8d8f8dfe3fcd1f, Spend 0.0 seconds
+2019-10-25 16:30:48,403 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 16:30:48,404 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 16:30:48,405 - root - INFO - SUCCESS    Print current value: 64cad055830ccfc4be8d8f8dfe3fcd1f, Spend 0.0 seconds
+2019-10-25 16:30:50,429 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.022001028060913086 seconds
+2019-10-25 16:30:50,734 - root - INFO - SUCCESS    Clicked elements: <class->type-check>, to connect number: [2], Spend 0.32701849937438965 seconds
+2019-10-25 16:31:00,735 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.000571727752686 seconds
+2019-10-25 16:31:00,736 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 16:32:35,453 - root - INFO - ############################### START ###############################
+2019-10-25 16:33:03,739 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 27.11755084991455 seconds
+2019-10-25 16:33:06,836 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.09600567817687988 seconds
+2019-10-25 16:33:06,838 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 16:33:06,889 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.0500030517578125 seconds
+2019-10-25 16:33:06,890 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.052002906799316406 seconds
+2019-10-25 16:33:06,893 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 16:33:06,922 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.02800154685974121 seconds
+2019-10-25 16:33:07,071 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: , Spend 0.17701029777526855 seconds
+2019-10-25 16:33:07,436 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: , Spend 0.5420310497283936 seconds
+2019-10-25 16:33:07,501 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: , Spend 0.6070346832275391 seconds
+2019-10-25 16:33:07,583 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: , Spend 0.6890394687652588 seconds
+2019-10-25 16:33:07,668 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: , Spend 0.7740442752838135 seconds
+2019-10-25 16:33:07,757 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: , Spend 0.8630495071411133 seconds
+2019-10-25 16:33:07,758 - root - INFO - SUCCESS    Return current browser session id: 04f7f007dc858f38cdc60c188ae5dc01, Spend 0.0 seconds
+2019-10-25 16:33:07,760 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 16:33:07,761 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 16:33:07,762 - root - INFO - SUCCESS    Print current value: 04f7f007dc858f38cdc60c188ae5dc01, Spend 0.0 seconds
+2019-10-25 16:33:09,783 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.021001338958740234 seconds
+2019-10-25 16:33:10,217 - root - INFO - SUCCESS    Clicked elements: <class->type-check>, to connect number: [2], Spend 0.4540259838104248 seconds
+2019-10-25 16:33:12,220 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001142024993896 seconds
+2019-10-25 16:33:12,221 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 16:34:36,201 - root - INFO - ############################### START ###############################
+2019-10-25 16:35:28,784 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 51.29993438720703 seconds
+2019-10-25 16:35:31,810 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.024001359939575195 seconds
+2019-10-25 16:35:31,811 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 16:35:31,829 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.017000913619995117 seconds
+2019-10-25 16:35:31,830 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.019001007080078125 seconds
+2019-10-25 16:35:31,831 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 16:35:31,884 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.05100297927856445 seconds
+2019-10-25 16:35:31,969 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: None, Spend 0.13600778579711914 seconds
+2019-10-25 16:35:32,057 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: None, Spend 0.2240128517150879 seconds
+2019-10-25 16:35:32,120 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: None, Spend 0.2870166301727295 seconds
+2019-10-25 16:35:32,202 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: None, Spend 0.3690211772918701 seconds
+2019-10-25 16:35:32,277 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: None, Spend 0.44402551651000977 seconds
+2019-10-25 16:35:32,344 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: None, Spend 0.5110292434692383 seconds
+2019-10-25 16:35:32,345 - root - INFO - SUCCESS    Return current browser session id: 2e45466913577f3eedceae005ba9822c, Spend 0.0 seconds
+2019-10-25 16:35:32,346 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-25 16:35:32,347 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-25 16:35:32,348 - root - INFO - SUCCESS    Print current value: 2e45466913577f3eedceae005ba9822c, Spend 0.0 seconds
+2019-10-25 16:35:34,364 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.01500082015991211 seconds
+2019-10-25 16:35:34,690 - root - INFO - SUCCESS    Clicked elements: <class->type-check>, to connect number: [2], Spend 0.34201955795288086 seconds
+2019-10-25 16:35:36,691 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-25 16:35:36,693 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 16:37:11,739 - root - INFO - ############################### START ###############################
+2019-10-25 16:38:31,910 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 79.01051902770996 seconds
+2019-10-25 16:38:34,942 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.029001951217651367 seconds
+2019-10-25 16:38:34,944 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 16:38:35,046 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.10100579261779785 seconds
+2019-10-25 16:38:35,047 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.1020059585571289 seconds
+2019-10-25 16:38:35,048 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 16:38:35,073 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.02300119400024414 seconds
+2019-10-25 16:38:35,119 - root - INFO - SUCCESS    Get element: <class->type-check>, connect: None, Spend 0.06900382041931152 seconds
+2019-10-25 16:38:35,120 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 16:41:21,573 - root - INFO - ############################### START ###############################
+2019-10-25 16:44:33,595 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 190.81591415405273 seconds
+2019-10-25 16:44:36,626 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.029001712799072266 seconds
+2019-10-25 16:44:36,627 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 16:44:36,649 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.019001007080078125 seconds
+2019-10-25 16:44:36,650 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.022001028060913086 seconds
+2019-10-25 16:44:36,651 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 16:44:36,675 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.023001432418823242 seconds
+2019-10-25 16:44:36,875 - root - INFO - SUCCESS    Get element: <class->type-check>, Spend 0.22301268577575684 seconds
+2019-10-25 16:44:36,877 - root - INFO - SUCCESS    Print current value: ['', '', '', '', '', ''], Spend 0.0 seconds
+2019-10-25 16:44:36,877 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 16:48:10,819 - root - INFO - ############################### START ###############################
+2019-10-25 16:49:49,435 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 97.30856585502625 seconds
+2019-10-25 16:49:52,482 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.04500246047973633 seconds
+2019-10-25 16:49:52,485 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 16:49:52,508 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.022001028060913086 seconds
+2019-10-25 16:49:52,509 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.024001359939575195 seconds
+2019-10-25 16:49:52,512 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 16:49:52,539 - root - INFO - SUCCESS    Typed element class: <class->log-xsend>, Spend 0.027001619338989258 seconds
+2019-10-25 16:49:52,588 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: [''], Spend 0.07500410079956055 seconds
+2019-10-25 16:49:52,656 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档'], Spend 0.14300799369812012 seconds
+2019-10-25 16:49:52,706 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', ''], Spend 0.19301080703735352 seconds
+2019-10-25 16:49:52,764 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', ''], Spend 0.25101447105407715 seconds
+2019-10-25 16:49:52,798 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', ''], Spend 0.2850162982940674 seconds
+2019-10-25 16:49:52,838 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', ''], Spend 0.32501864433288574 seconds
+2019-10-25 16:49:52,882 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', ''], Spend 0.3690211772918701 seconds
+2019-10-25 16:49:52,923 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', ''], Spend 0.41002345085144043 seconds
+2019-10-25 16:49:52,959 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', ''], Spend 0.4450252056121826 seconds
+2019-10-25 16:49:53,001 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证'], Spend 0.489027738571167 seconds
+2019-10-25 16:49:53,035 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', ''], Spend 0.5230298042297363 seconds
+2019-10-25 16:49:53,067 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', ''], Spend 0.5540316104888916 seconds
+2019-10-25 16:49:53,097 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', ''], Spend 0.5840332508087158 seconds
+2019-10-25 16:49:53,136 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', ''], Spend 0.6230356693267822 seconds
+2019-10-25 16:49:53,168 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', ''], Spend 0.6550374031066895 seconds
+2019-10-25 16:49:53,219 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', ''], Spend 0.7060403823852539 seconds
+2019-10-25 16:49:53,254 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', ''], Spend 0.7410421371459961 seconds
+2019-10-25 16:49:53,283 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', ''], Spend 0.7710440158843994 seconds
+2019-10-25 16:49:53,311 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', ''], Spend 0.7980456352233887 seconds
+2019-10-25 16:49:53,337 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', ''], Spend 0.8240470886230469 seconds
+2019-10-25 16:49:53,368 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', ''], Spend 0.8560488224029541 seconds
+2019-10-25 16:49:53,403 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 0.8900508880615234 seconds
+2019-10-25 16:49:53,437 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 0.9240527153015137 seconds
+2019-10-25 16:49:53,464 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 0.9510543346405029 seconds
+2019-10-25 16:49:53,498 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 0.9860563278198242 seconds
+2019-10-25 16:49:53,528 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 1.0150578022003174 seconds
+2019-10-25 16:49:53,557 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 1.0440595149993896 seconds
+2019-10-25 16:49:53,588 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 1.075061559677124 seconds
+2019-10-25 16:49:53,630 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 1.1170639991760254 seconds
+2019-10-25 16:49:53,659 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 1.1460654735565186 seconds
+2019-10-25 16:49:53,694 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 1.1810674667358398 seconds
+2019-10-25 16:49:53,738 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 1.2250699996948242 seconds
+2019-10-25 16:49:53,786 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 1.2730729579925537 seconds
+2019-10-25 16:49:53,825 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 1.312074899673462 seconds
+2019-10-25 16:49:53,887 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案'], Spend 1.3740785121917725 seconds
+2019-10-25 16:49:53,930 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库'], Spend 1.4170811176300049 seconds
+2019-10-25 16:49:53,966 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库'], Spend 1.4530830383300781 seconds
+2019-10-25 16:49:54,001 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', ''], Spend 1.4880850315093994 seconds
+2019-10-25 16:49:54,050 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', ''], Spend 1.5370879173278809 seconds
+2019-10-25 16:49:54,087 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', ''], Spend 1.5740900039672852 seconds
+2019-10-25 16:49:54,137 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', ''], Spend 1.6240928173065186 seconds
+2019-10-25 16:49:54,175 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', ''], Spend 1.662095069885254 seconds
+2019-10-25 16:49:54,210 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', ''], Spend 1.697096824645996 seconds
+2019-10-25 16:49:54,239 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', ''], Spend 1.7260987758636475 seconds
+2019-10-25 16:49:54,284 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看'], Spend 1.7711012363433838 seconds
+2019-10-25 16:49:54,350 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看'], Spend 1.8371047973632812 seconds
+2019-10-25 16:49:54,382 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', ''], Spend 1.8691070079803467 seconds
+2019-10-25 16:49:54,420 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', ''], Spend 1.9071087837219238 seconds
+2019-10-25 16:49:54,452 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', ''], Spend 1.9391109943389893 seconds
+2019-10-25 16:49:54,491 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', ''], Spend 1.9781129360198975 seconds
+2019-10-25 16:49:54,555 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', ''], Spend 2.04211688041687 seconds
+2019-10-25 16:49:54,697 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', ''], Spend 2.1841249465942383 seconds
+2019-10-25 16:49:54,812 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', ''], Spend 2.299131393432617 seconds
+2019-10-25 16:49:54,860 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', ''], Spend 2.3471341133117676 seconds
+2019-10-25 16:49:54,899 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', ''], Spend 2.387136459350586 seconds
+2019-10-25 16:49:54,944 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', ''], Spend 2.4321389198303223 seconds
+2019-10-25 16:49:54,995 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', ''], Spend 2.4811418056488037 seconds
+2019-10-25 16:49:55,050 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 2.5371451377868652 seconds
+2019-10-25 16:49:55,086 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 2.5741469860076904 seconds
+2019-10-25 16:49:55,130 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 2.617149591445923 seconds
+2019-10-25 16:49:55,199 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 2.6861534118652344 seconds
+2019-10-25 16:49:55,237 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 2.724155902862549 seconds
+2019-10-25 16:49:55,284 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], Spend 2.771158456802368 seconds
+2019-10-25 16:49:55,329 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '文库会员专享——文档格式转化'], Spend 2.8171608448028564 seconds
+2019-10-25 16:49:55,370 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '文库会员专享——文档格式转化', 'PDF/Word/Excel/PPT无限次转化'], Spend 2.857163190841675 seconds
+2019-10-25 16:49:55,442 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '文库会员专享——文档格式转化', 'PDF/Word/Excel/PPT无限次转化', ''], Spend 2.9291672706604004 seconds
+2019-10-25 16:49:55,486 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '文库会员专享——文档格式转化', 'PDF/Word/Excel/PPT无限次转化', '', '专业PPT定制，满意为止'], Spend 2.9731698036193848 seconds
+2019-10-25 16:49:55,533 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '文库会员专享——文档格式转化', 'PDF/Word/Excel/PPT无限次转化', '', '专业PPT定制，满意为止', '一对一服务，7天免费修改'], Spend 3.0201728343963623 seconds
+2019-10-25 16:49:55,565 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '文库会员专享——文档格式转化', 'PDF/Word/Excel/PPT无限次转化', '', '专业PPT定制，满意为止', '一对一服务，7天免费修改', ''], Spend 3.0521745681762695 seconds
+2019-10-25 16:49:55,601 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '文库会员专享——文档格式转化', 'PDF/Word/Excel/PPT无限次转化', '', '专业PPT定制，满意为止', '一对一服务，7天免费修改', '', '法律服务，合同协议审核拟定'], Spend 3.088176727294922 seconds
+2019-10-25 16:49:55,646 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '文库会员专享——文档格式转化', 'PDF/Word/Excel/PPT无限次转化', '', '专业PPT定制，满意为止', '一对一服务，7天免费修改', '', '法律服务，合同协议审核拟定', '规避法律风险，保障您的权益'], Spend 3.133179187774658 seconds
+2019-10-25 16:49:55,696 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '文库会员专享——文档格式转化', 'PDF/Word/Excel/PPT无限次转化', '', '专业PPT定制，满意为止', '一对一服务，7天免费修改', '', '法律服务，合同协议审核拟定', '规避法律风险，保障您的权益', ''], Spend 3.1831820011138916 seconds
+2019-10-25 16:49:55,764 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '文库会员专享——文档格式转化', 'PDF/Word/Excel/PPT无限次转化', '', '专业PPT定制，满意为止', '一对一服务，7天免费修改', '', '法律服务，合同协议审核拟定', '规避法律风险，保障您的权益', '', '求职简历制作，1V1服务'], Spend 3.251185894012451 seconds
+2019-10-25 16:49:55,816 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '文库会员专享——文档格式转化', 'PDF/Word/Excel/PPT无限次转化', '', '专业PPT定制，满意为止', '一对一服务，7天免费修改', '', '法律服务，合同协议审核拟定', '规避法律风险，保障您的权益', '', '求职简历制作，1V1服务', '高端服务，快速交付'], Spend 3.3031890392303467 seconds
+2019-10-25 16:49:55,865 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '文库会员专享——文档格式转化', 'PDF/Word/Excel/PPT无限次转化', '', '专业PPT定制，满意为止', '一对一服务，7天免费修改', '', '法律服务，合同协议审核拟定', '规避法律风险，保障您的权益', '', '求职简历制作，1V1服务', '高端服务，快速交付', '【有奖调研】\n尊敬的用户： 现邀请您参加互联网学习状况专项调研，调研采用匿名方式，调研结果只用于科研以间接提供决策支持与社会服务，请如实、客观地填写。我们将从有效问卷中抽取30份送百度文库VIP会员卡，欢迎猛戳...\n查看详情'], Spend 3.352191686630249 seconds
+2019-10-25 16:49:55,915 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '文库会员专享——文档格式转化', 'PDF/Word/Excel/PPT无限次转化', '', '专业PPT定制，满意为止', '一对一服务，7天免费修改', '', '法律服务，合同协议审核拟定', '规避法律风险，保障您的权益', '', '求职简历制作，1V1服务', '高端服务，快速交付', '【有奖调研】\n尊敬的用户： 现邀请您参加互联网学习状况专项调研，调研采用匿名方式，调研结果只用于科研以间接提供决策支持与社会服务，请如实、客观地填写。我们将从有效问卷中抽取30份送百度文库VIP会员卡，欢迎猛戳...\n查看详情', ''], Spend 3.4021947383880615 seconds
+2019-10-25 16:49:55,959 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '文库会员专享——文档格式转化', 'PDF/Word/Excel/PPT无限次转化', '', '专业PPT定制，满意为止', '一对一服务，7天免费修改', '', '法律服务，合同协议审核拟定', '规避法律风险，保障您的权益', '', '求职简历制作，1V1服务', '高端服务，快速交付', '【有奖调研】\n尊敬的用户： 现邀请您参加互联网学习状况专项调研，调研采用匿名方式，调研结果只用于科研以间接提供决策支持与社会服务，请如实、客观地填写。我们将从有效问卷中抽取30份送百度文库VIP会员卡，欢迎猛戳...\n查看详情', '', ''], Spend 3.446197032928467 seconds
+2019-10-25 16:49:56,005 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '文库会员专享——文档格式转化', 'PDF/Word/Excel/PPT无限次转化', '', '专业PPT定制，满意为止', '一对一服务，7天免费修改', '', '法律服务，合同协议审核拟定', '规避法律风险，保障您的权益', '', '求职简历制作，1V1服务', '高端服务，快速交付', '【有奖调研】\n尊敬的用户： 现邀请您参加互联网学习状况专项调研，调研采用匿名方式，调研结果只用于科研以间接提供决策支持与社会服务，请如实、客观地填写。我们将从有效问卷中抽取30份送百度文库VIP会员卡，欢迎猛戳...\n查看详情', '', '', ''], Spend 3.492199659347534 seconds
+2019-10-25 16:49:56,051 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '文库会员专享——文档格式转化', 'PDF/Word/Excel/PPT无限次转化', '', '专业PPT定制，满意为止', '一对一服务，7天免费修改', '', '法律服务，合同协议审核拟定', '规避法律风险，保障您的权益', '', '求职简历制作，1V1服务', '高端服务，快速交付', '【有奖调研】\n尊敬的用户： 现邀请您参加互联网学习状况专项调研，调研采用匿名方式，调研结果只用于科研以间接提供决策支持与社会服务，请如实、客观地填写。我们将从有效问卷中抽取30份送百度文库VIP会员卡，欢迎猛戳...\n查看详情', '', '', '', ''], Spend 3.5382022857666016 seconds
+2019-10-25 16:49:56,086 - root - INFO - SUCCESS    Get element: <class->log-xsend>, connect: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '文库会员专享——文档格式转化', 'PDF/Word/Excel/PPT无限次转化', '', '专业PPT定制，满意为止', '一对一服务，7天免费修改', '', '法律服务，合同协议审核拟定', '规避法律风险，保障您的权益', '', '求职简历制作，1V1服务', '高端服务，快速交付', '【有奖调研】\n尊敬的用户： 现邀请您参加互联网学习状况专项调研，调研采用匿名方式，调研结果只用于科研以间接提供决策支持与社会服务，请如实、客观地填写。我们将从有效问卷中抽取30份送百度文库VIP会员卡，欢迎猛戳...\n查看详情', '', '', '', '', ''], Spend 3.573204278945923 seconds
+2019-10-25 16:49:56,088 - root - INFO - SUCCESS    Print current value: ['', '悬赏文档', '', '', '', '', '', '', '', '申请认证', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '中小学教案', '高考题库', '作文库', '', '', '', '', '', '', '', '百度文库VIP\n免费领取会员快速通道\n立即查看', '广告\n营养师必备攻略\n最新报考信息查询指南\n立即查看', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '文库会员专享——文档格式转化', 'PDF/Word/Excel/PPT无限次转化', '', '专业PPT定制，满意为止', '一对一服务，7天免费修改', '', '法律服务，合同协议审核拟定', '规避法律风险，保障您的权益', '', '求职简历制作，1V1服务', '高端服务，快速交付', '【有奖调研】\n尊敬的用户： 现邀请您参加互联网学习状况专项调研，调研采用匿名方式，调研结果只用于科研以间接提供决策支持与社会服务，请如实、客观地填写。我们将从有效问卷中抽取30份送百度文库VIP会员卡，欢迎猛戳...\n查看详情', '', '', '', '', ''], Spend 0.0 seconds
+2019-10-25 16:49:56,089 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 16:51:55,277 - root - INFO - ############################### START ###############################
+2019-10-25 16:52:19,473 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 22.89130926132202 seconds
+2019-10-25 16:52:22,508 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.034001827239990234 seconds
+2019-10-25 16:52:22,509 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 16:52:22,537 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.027001380920410156 seconds
+2019-10-25 16:52:22,538 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.02800154685974121 seconds
+2019-10-25 16:52:22,540 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 16:52:22,570 - root - INFO - SUCCESS    Typed element class: <class->lit-team>, Spend 0.029001712799072266 seconds
+2019-10-25 16:52:22,634 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案'], Spend 0.09400534629821777 seconds
+2019-10-25 16:52:22,681 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库'], Spend 0.14000821113586426 seconds
+2019-10-25 16:52:22,740 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟'], Spend 0.2000114917755127 seconds
+2019-10-25 16:52:22,792 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案'], Spend 0.25101423263549805 seconds
+2019-10-25 16:52:22,836 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', ''], Spend 0.2950167655944824 seconds
+2019-10-25 16:52:22,875 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师'], Spend 0.33401918411254883 seconds
+2019-10-25 16:52:22,934 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师'], Spend 0.3930222988128662 seconds
+2019-10-25 16:52:22,990 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师'], Spend 0.44902563095092773 seconds
+2019-10-25 16:52:23,036 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师', '企业应用软件'], Spend 0.4950284957885742 seconds
+2019-10-25 16:52:23,097 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师', '企业应用软件', 'PDF转换'], Spend 0.5540318489074707 seconds
+2019-10-25 16:52:23,166 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师', '企业应用软件', 'PDF转换', '中高考学习'], Spend 0.6250357627868652 seconds
+2019-10-25 16:52:23,233 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师', '企业应用软件', 'PDF转换', '中高考学习', '优享计划'], Spend 0.6930398941040039 seconds
+2019-10-25 16:52:23,303 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师', '企业应用软件', 'PDF转换', '中高考学习', '优享计划', '百度名师计划'], Spend 0.7620434761047363 seconds
+2019-10-25 16:52:23,378 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师', '企业应用软件', 'PDF转换', '中高考学习', '优享计划', '百度名师计划', '文库校园派'], Spend 0.838047981262207 seconds
+2019-10-25 16:52:23,453 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师', '企业应用软件', 'PDF转换', '中高考学习', '优享计划', '百度名师计划', '文库校园派', '经济师'], Spend 0.9120521545410156 seconds
+2019-10-25 16:52:23,489 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师', '企业应用软件', 'PDF转换', '中高考学习', '优享计划', '百度名师计划', '文库校园派', '经济师', '文曲星计划'], Spend 0.949054479598999 seconds
+2019-10-25 16:52:23,526 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师', '企业应用软件', 'PDF转换', '中高考学习', '优享计划', '百度名师计划', '文库校园派', '经济师', '文曲星计划', 'PPT模板'], Spend 0.9850564002990723 seconds
+2019-10-25 16:52:23,562 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师', '企业应用软件', 'PDF转换', '中高考学习', '优享计划', '百度名师计划', '文库校园派', '经济师', '文曲星计划', 'PPT模板', '健康管理师'], Spend 1.0200583934783936 seconds
+2019-10-25 16:52:23,600 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师', '企业应用软件', 'PDF转换', '中高考学习', '优享计划', '百度名师计划', '文库校园派', '经济师', '文曲星计划', 'PPT模板', '健康管理师', 'BIM'], Spend 1.0600605010986328 seconds
+2019-10-25 16:52:23,633 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师', '企业应用软件', 'PDF转换', '中高考学习', '优享计划', '百度名师计划', '文库校园派', '经济师', '文曲星计划', 'PPT模板', '健康管理师', 'BIM', '会议中心'], Spend 1.0920624732971191 seconds
+2019-10-25 16:52:23,673 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师', '企业应用软件', 'PDF转换', '中高考学习', '优享计划', '百度名师计划', '文库校园派', '经济师', '文曲星计划', 'PPT模板', '健康管理师', 'BIM', '会议中心', '魔"法"学院'], Spend 1.1320645809173584 seconds
+2019-10-25 16:52:23,715 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师', '企业应用软件', 'PDF转换', '中高考学习', '优享计划', '百度名师计划', '文库校园派', '经济师', '文曲星计划', 'PPT模板', '健康管理师', 'BIM', '会议中心', '魔"法"学院', '数据恢复'], Spend 1.1740670204162598 seconds
+2019-10-25 16:52:23,716 - root - INFO - SUCCESS    Print current value: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师', '企业应用软件', 'PDF转换', '中高考学习', '优享计划', '百度名师计划', '文库校园派', '经济师', '文曲星计划', 'PPT模板', '健康管理师', 'BIM', '会议中心', '魔"法"学院', '数据恢复'], Spend 0.0 seconds
+2019-10-25 16:52:23,717 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 16:53:35,263 - root - INFO - ############################### START ###############################
+2019-10-25 16:58:36,862 - root - INFO - FAIL       Unable to load https://wenku.baidu.com/, Spend 300.0671627521515 seconds
+2019-10-25 16:58:36,863 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 16:59:06,153 - root - INFO - ############################### START ###############################
+2019-10-25 16:59:27,147 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 19.738128900527954 seconds
+2019-10-25 16:59:30,373 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.2240128517150879 seconds
+2019-10-25 16:59:30,374 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 16:59:30,805 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.4300246238708496 seconds
+2019-10-25 16:59:30,805 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.43102478981018066 seconds
+2019-10-25 16:59:30,806 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 16:59:30,852 - root - INFO - SUCCESS    Typed element class: <class->lit-team>, Spend 0.04500269889831543 seconds
+2019-10-25 16:59:30,910 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: 2019统编版语文教案, Spend 0.1020057201385498 seconds
+2019-10-25 16:59:30,960 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: 高考题库, Spend 0.15300869941711426 seconds
+2019-10-25 16:59:31,041 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: 高考模拟, Spend 0.23401331901550293 seconds
+2019-10-25 16:59:31,123 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: 2019统编版道法教案, Spend 0.31601810455322266 seconds
+2019-10-25 16:59:31,195 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: , Spend 0.38802218437194824 seconds
+2019-10-25 16:59:31,491 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: 消防工程师, Spend 0.6840391159057617 seconds
+2019-10-25 16:59:31,683 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: 一级建造师, Spend 0.8770503997802734 seconds
+2019-10-25 16:59:31,748 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: 执业药师, Spend 0.9410538673400879 seconds
+2019-10-25 16:59:31,849 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: 企业应用软件, Spend 1.0420596599578857 seconds
+2019-10-25 16:59:31,940 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: PDF转换, Spend 1.1330649852752686 seconds
+2019-10-25 16:59:32,032 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: 中高考学习, Spend 1.2250699996948242 seconds
+2019-10-25 16:59:32,117 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: 优享计划, Spend 1.310074806213379 seconds
+2019-10-25 16:59:32,172 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: 百度名师计划, Spend 1.3650782108306885 seconds
+2019-10-25 16:59:32,224 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: 文库校园派, Spend 1.4170811176300049 seconds
+2019-10-25 16:59:32,281 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: 经济师, Spend 1.4740843772888184 seconds
+2019-10-25 16:59:32,337 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: 文曲星计划, Spend 1.5300877094268799 seconds
+2019-10-25 16:59:32,403 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: PPT模板, Spend 1.5960912704467773 seconds
+2019-10-25 16:59:32,456 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: 健康管理师, Spend 1.6490943431854248 seconds
+2019-10-25 16:59:32,510 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: BIM, Spend 1.7040975093841553 seconds
+2019-10-25 16:59:32,572 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: 会议中心, Spend 1.7651009559631348 seconds
+2019-10-25 16:59:32,630 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: 魔"法"学院, Spend 1.8231041431427002 seconds
+2019-10-25 16:59:32,690 - root - INFO - SUCCESS    Get element: <class->lit-team>, connect: 数据恢复, Spend 1.8831079006195068 seconds
+2019-10-25 16:59:32,692 - root - INFO - SUCCESS    Print current value: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师', '企业应用软件', 'PDF转换', '中高考学习', '优享计划', '百度名师计划', '文库校园派', '经济师', '文曲星计划', 'PPT模板', '健康管理师', 'BIM', '会议中心', '魔"法"学院', '数据恢复'], Spend 0.0 seconds
+2019-10-25 16:59:32,693 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 17:02:19,883 - root - INFO - ############################### START ###############################
+2019-10-25 17:02:34,097 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 13.062747240066528 seconds
+2019-10-25 17:02:37,122 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.023001432418823242 seconds
+2019-10-25 17:02:37,124 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-25 17:02:37,140 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.01500082015991211 seconds
+2019-10-25 17:02:37,141 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.016000986099243164 seconds
+2019-10-25 17:02:37,143 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-25 17:02:37,167 - root - INFO - SUCCESS    Typed element class: <class->lit-team>, Spend 0.023001432418823242 seconds
+2019-10-25 17:02:37,873 - root - INFO - SUCCESS    Get element: <class->lit-team>, return list: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师', '企业应用软件', 'PDF转换', '中高考学习', '优享计划', '百度名师计划', '文库校园派', '经济师', '文曲星计划', 'PPT模板', '健康管理师', 'BIM', '会议中心', '魔"法"学院', '数据恢复'], Spend 0.7290418148040771 seconds
+2019-10-25 17:02:37,874 - root - INFO - SUCCESS    Print current value: ['2019统编版语文教案', '高考题库', '高考模拟', '2019统编版道法教案', '', '消防工程师', '一级建造师', '执业药师', '企业应用软件', 'PDF转换', '中高考学习', '优享计划', '百度名师计划', '文库校园派', '经济师', '文曲星计划', 'PPT模板', '健康管理师', 'BIM', '会议中心', '魔"法"学院', '数据恢复'], Spend 0.0 seconds
+2019-10-25 17:02:37,875 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 17:46:30,559 - root - INFO - ############################### START ###############################
+2019-10-25 17:46:33,256 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5190870761871338 seconds
+2019-10-25 17:46:38,257 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-25 17:46:54,632 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 16.373936653137207 seconds
+2019-10-25 17:46:56,633 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-25 17:46:56,653 - root - INFO - SUCCESS    Window title: <百度新闻——海量中文资讯平台> switch window succee, Spend 0.01800084114074707 seconds
+2019-10-25 17:46:59,653 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 17:47:04,655 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-25 17:47:04,681 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.02500152587890625 seconds
+2019-10-25 17:47:04,711 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.054003238677978516 seconds
+2019-10-25 17:47:07,711 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 17:47:07,728 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.015001058578491211 seconds
+2019-10-25 17:47:07,729 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.01700115203857422 seconds
+2019-10-25 17:47:07,731 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 17:47:07,732 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-25 17:47:07,733 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 17:49:50,246 - root - INFO - ############################### START ###############################
+2019-10-25 17:49:54,509 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.515143632888794 seconds
+2019-10-25 17:49:59,512 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.001286268234253 seconds
+2019-10-25 17:50:09,554 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 10.041574239730835 seconds
+2019-10-25 17:50:11,554 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-25 17:50:11,598 - root - INFO - SUCCESS    Window title: 百度新闻——海量中文资讯平台 switch window success, Spend 0.04300236701965332 seconds
+2019-10-25 17:50:14,599 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 17:50:19,603 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-25 17:50:19,636 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.03300189971923828 seconds
+2019-10-25 17:50:19,666 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.062003374099731445 seconds
+2019-10-25 17:50:22,666 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-25 17:50:22,684 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.016000747680664062 seconds
+2019-10-25 17:50:22,685 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.017000913619995117 seconds
+2019-10-25 17:50:22,686 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 17:50:22,687 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-25 17:50:22,688 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 17:51:15,986 - root - INFO - ############################### START ###############################
+2019-10-25 17:51:20,206 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.0871763229370117 seconds
+2019-10-25 17:51:25,210 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.001286029815674 seconds
+2019-10-25 17:51:33,128 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 7.917452812194824 seconds
+2019-10-25 17:51:35,129 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-25 17:51:35,175 - root - INFO - SUCCESS    Window title: 百度新闻——海量中文资讯平 switch window success, Spend 0.04400229454040527 seconds
+2019-10-25 17:51:38,176 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 17:51:43,177 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-25 17:51:43,212 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.034002065658569336 seconds
+2019-10-25 17:51:43,247 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.06800413131713867 seconds
+2019-10-25 17:51:46,247 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 17:51:46,264 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.01500082015991211 seconds
+2019-10-25 17:51:46,265 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.016000747680664062 seconds
+2019-10-25 17:51:46,266 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 17:51:46,267 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-25 17:51:46,268 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 17:52:09,882 - root - INFO - ############################### START ###############################
+2019-10-25 17:52:12,057 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.0310587882995605 seconds
+2019-10-25 17:52:17,057 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-25 17:52:25,176 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 8.116464138031006 seconds
+2019-10-25 17:52:27,177 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-25 17:52:30,178 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 17:52:35,180 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-25 17:52:35,206 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.024001359939575195 seconds
+2019-10-25 17:52:35,235 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.054003238677978516 seconds
+2019-10-25 17:52:38,236 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-25 17:52:38,254 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.016001224517822266 seconds
+2019-10-25 17:52:38,255 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.018001079559326172 seconds
+2019-10-25 17:52:38,256 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-25 17:52:38,257 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-25 17:52:38,258 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 17:55:37,685 - root - INFO - ############################### START ###############################
+2019-10-25 17:55:43,891 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.9652838706970215 seconds
+2019-10-25 17:55:48,893 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286340713501 seconds
+2019-10-25 17:56:04,879 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 15.984914064407349 seconds
+2019-10-25 17:56:06,881 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-25 17:56:07,112 - root - INFO - SUCCESS    Window title: 习近平对中医药工作作出重要指示强调 传承精华守正创新 为建设健康中国贡献力量 李克强作出批示 switch window success, Spend 0.23001313209533691 seconds
+2019-10-25 17:56:10,113 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-25 17:56:15,117 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.003286361694336 seconds
+2019-10-25 17:56:18,118 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-25 17:56:18,144 - root - INFO - FAIL       Unable find element class: <class->news-location>, Spend 0.024001598358154297 seconds
+2019-10-25 17:56:18,145 - root - INFO - FAIL       Unable get element: <class->news-location>, Spend 0.02500176429748535 seconds
+2019-10-25 17:56:18,146 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 17:57:25,554 - root - INFO - ############################### START ###############################
+2019-10-25 17:57:27,937 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.210069179534912 seconds
+2019-10-25 17:57:32,938 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-25 17:57:38,140 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 5.2002973556518555 seconds
+2019-10-25 17:57:38,876 - root - INFO - SUCCESS    Click by text content: 习近平对中医药工作作出重要指示, Spend 0.7350420951843262 seconds
+2019-10-25 17:57:40,876 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-25 17:57:41,298 - root - INFO - SUCCESS    Window title: 习近平对中医药工作作出重要指示强调 传承精华守正创新 为建设健康中国贡献力量 李克强作出批示 switch window success, Spend 0.42002415657043457 seconds
+2019-10-25 17:57:42,608 - root - INFO - SUCCESS    Window title: 习近平对中医药工作作出重要指示强调 传承精华守正创新 为建设健康中国贡献力量 李克强作出批示 switch window success, Spend 1.7300989627838135 seconds
+2019-10-25 17:57:45,609 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 17:57:50,611 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-25 17:57:53,612 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-25 17:57:53,638 - root - INFO - SUCCESS    Typed element class: <class->news-location>, Spend 0.024001598358154297 seconds
+2019-10-25 17:57:53,670 - root - INFO - SUCCESS    Get element: <class->news-location>, connect: 高层
+>, Spend 0.05600333213806152 seconds
+2019-10-25 17:57:53,671 - root - INFO - SUCCESS    Print current value: 高层
+>, Spend 0.0 seconds
+2019-10-25 17:57:53,672 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-25 17:57:53,673 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 17:58:34,955 - root - INFO - ############################### START ###############################
+2019-10-25 17:58:38,458 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.294131278991699 seconds
+2019-10-25 17:58:43,461 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-25 17:58:55,376 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 11.915681600570679 seconds
+2019-10-25 17:58:56,063 - root - INFO - SUCCESS    Click by text content: 习近平对中医药工作作出重要指示, Spend 0.6850392818450928 seconds
+2019-10-25 17:58:58,065 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001142024993896 seconds
+2019-10-25 17:58:59,800 - root - INFO - SUCCESS    Window title: 习近平对中医药工作作出重要指示强调 传承精华守正创新 为建设健康中国贡献力量 李克强作出批示 switch window success, Spend 1.7320990562438965 seconds
+2019-10-25 17:59:02,800 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 17:59:07,801 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-25 17:59:10,802 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 17:59:10,830 - root - INFO - SUCCESS    Typed element class: <class->news-location>, Spend 0.0260012149810791 seconds
+2019-10-25 17:59:10,867 - root - INFO - SUCCESS    Get element: <class->news-location>, connect: 高层
+>, Spend 0.0630035400390625 seconds
+2019-10-25 17:59:10,868 - root - INFO - SUCCESS    Print current value: 高层
+>, Spend 0.0 seconds
+2019-10-25 17:59:10,869 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-25 17:59:10,870 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 18:01:17,268 - root - INFO - ############################### START ###############################
+2019-10-25 18:01:19,568 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.1610662937164307 seconds
+2019-10-25 18:01:24,570 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-25 18:01:31,132 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 6.560375213623047 seconds
+2019-10-25 18:01:31,821 - root - INFO - SUCCESS    Click by text content: 习近平对中医药工作作出重要指示, Spend 0.6860389709472656 seconds
+2019-10-25 18:01:33,821 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001142024993896 seconds
+2019-10-25 18:01:35,307 - root - INFO - SUCCESS    Window title: 习近平对中医药 传承精华新 为建设健康中国贡献力量 李克强作出批示 switch window success, Spend 1.4830846786499023 seconds
+2019-10-25 18:01:38,310 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-25 18:01:43,310 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-25 18:01:46,312 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 18:01:46,342 - root - INFO - SUCCESS    Typed element class: <class->news-location>, Spend 0.029001474380493164 seconds
+2019-10-25 18:01:46,381 - root - INFO - SUCCESS    Get element: <class->news-location>, connect: 高层
+>, Spend 0.06800389289855957 seconds
+2019-10-25 18:01:46,383 - root - INFO - SUCCESS    Print current value: 高层
+>, Spend 0.0 seconds
+2019-10-25 18:01:46,384 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-25 18:01:46,385 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 18:02:37,732 - root - INFO - ############################### START ###############################
+2019-10-25 18:02:40,798 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.7751014232635498 seconds
+2019-10-25 18:02:45,799 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-25 18:02:58,562 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 12.760729789733887 seconds
+2019-10-25 18:02:58,944 - root - INFO - SUCCESS    Click by text content: 习近平对中医药工作作出重要指示, Spend 0.38102149963378906 seconds
+2019-10-25 18:03:00,945 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-25 18:03:02,548 - root - INFO - SUCCESS    Window title: 百度 switch window success, Spend 1.6010916233062744 seconds
+2019-10-25 18:03:05,551 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 18:03:10,551 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-25 18:03:13,552 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-25 18:03:13,577 - root - INFO - SUCCESS    Typed element class: <class->news-location>, Spend 0.023001432418823242 seconds
+2019-10-25 18:03:13,608 - root - INFO - SUCCESS    Get element: <class->news-location>, connect: 高层
+>, Spend 0.054003238677978516 seconds
+2019-10-25 18:03:13,608 - root - INFO - SUCCESS    Print current value: 高层
+>, Spend 0.0 seconds
+2019-10-25 18:03:13,609 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-25 18:03:13,610 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 18:09:38,138 - root - INFO - ############################### START ###############################
+2019-10-25 18:09:40,473 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.1080634593963623 seconds
+2019-10-25 18:09:45,473 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-25 18:09:51,570 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 6.094348430633545 seconds
+2019-10-25 18:09:51,892 - root - INFO - SUCCESS    Click by text content: 习近平对中医药工作作出重要指示, Spend 0.32101869583129883 seconds
+2019-10-25 18:09:53,892 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-25 18:09:55,333 - root - INFO - SUCCESS    Window title: 百度 switch window success, Spend 1.439082384109497 seconds
+2019-10-25 18:09:58,334 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-25 18:10:03,336 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-25 18:10:06,337 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-25 18:10:06,364 - root - INFO - SUCCESS    Typed element class: <class->news-location>, Spend 0.02500152587890625 seconds
+2019-10-25 18:10:06,397 - root - INFO - SUCCESS    Get element: <class->news-location>, connect: 高层
+>, Spend 0.05800318717956543 seconds
+2019-10-25 18:10:06,398 - root - INFO - SUCCESS    Print current value: 高层
+>, Spend 0.0 seconds
+2019-10-25 18:10:06,399 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-25 18:10:06,399 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 18:12:42,843 - root - INFO - ############################### START ###############################
+2019-10-25 18:12:45,328 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.31107497215271 seconds
+2019-10-25 18:12:50,328 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-25 18:12:56,032 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 5.702326059341431 seconds
+2019-10-25 18:12:56,421 - root - INFO - SUCCESS    Click by text content: 习近平对中医药工作作出重要指示, Spend 0.38802218437194824 seconds
+2019-10-25 18:12:58,422 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-25 18:12:59,874 - root - INFO - SUCCESS    Window title: 百度 switch window success, Spend 1.449082851409912 seconds
+2019-10-25 18:13:02,874 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 18:13:07,875 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-25 18:13:10,876 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 18:13:10,902 - root - INFO - SUCCESS    Typed element class: <class->news-location>, Spend 0.024001359939575195 seconds
+2019-10-25 18:13:10,933 - root - INFO - SUCCESS    Get element: <class->news-location>, connect: 高层
+>, Spend 0.05500316619873047 seconds
+2019-10-25 18:13:10,934 - root - INFO - SUCCESS    Print current value: 高层
+>, Spend 0.0 seconds
+2019-10-25 18:13:10,934 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-25 18:13:10,936 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 18:19:12,941 - root - INFO - ############################### START ###############################
+2019-10-25 18:19:15,127 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.0570604801177979 seconds
+2019-10-25 18:19:20,127 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-25 18:19:23,670 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 3.5392024517059326 seconds
+2019-10-25 18:19:24,139 - root - INFO - SUCCESS    Click by text content: 习近平对中医药工作作出重要指示, Spend 0.46802663803100586 seconds
+2019-10-25 18:19:26,140 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-25 18:19:30,638 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 18:19:35,639 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-25 18:19:38,640 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 18:19:38,665 - root - INFO - SUCCESS    Typed element class: <class->news-location>, Spend 0.02300119400024414 seconds
+2019-10-25 18:19:38,695 - root - INFO - SUCCESS    Get element: <class->news-location>, connect: 高层
+>, Spend 0.054003238677978516 seconds
+2019-10-25 18:19:38,697 - root - INFO - SUCCESS    Print current value: 高层
+>, Spend 0.0 seconds
+2019-10-25 18:19:38,698 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-25 18:19:38,699 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 18:21:11,799 - root - INFO - ############################### START ###############################
+2019-10-25 18:21:14,162 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.1370649337768555 seconds
+2019-10-25 18:21:19,164 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-25 18:21:26,603 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 7.43642520904541 seconds
+2019-10-25 18:21:26,983 - root - INFO - SUCCESS    Click by text content: 习近平对中医药工作作出重要指示, Spend 0.37902188301086426 seconds
+2019-10-25 18:21:28,984 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001142024993896 seconds
+2019-10-25 18:21:32,006 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-25 18:21:37,007 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-25 18:21:40,008 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-25 18:21:40,032 - root - INFO - FAIL       Unable find element class: <class->news-location>, Spend 0.02300119400024414 seconds
+2019-10-25 18:21:40,033 - root - INFO - FAIL       Unable get element: <class->news-location>, Spend 0.02300119400024414 seconds
+2019-10-25 18:21:40,034 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-25 18:25:37,249 - root - INFO - ############################### START ###############################
+2019-10-25 18:25:40,230 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.8271045684814453 seconds
+2019-10-25 18:25:45,230 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-25 18:26:01,071 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 15.838905811309814 seconds
+2019-10-25 18:26:01,470 - root - INFO - SUCCESS    Click by text content: 习近平对中医药工作作出重要指示, Spend 0.3960225582122803 seconds
+2019-10-25 18:26:03,472 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-25 18:26:13,806 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-25 18:26:18,807 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-25 18:26:21,808 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-25 18:26:21,837 - root - INFO - SUCCESS    Typed element class: <class->news-location>, Spend 0.027001619338989258 seconds
+2019-10-25 18:26:21,867 - root - INFO - SUCCESS    Get element: <class->news-location>, connect: 高层
+>, Spend 0.05800342559814453 seconds
+2019-10-25 18:26:21,868 - root - INFO - SUCCESS    Print current value: 高层
+>, Spend 0.0 seconds
+2019-10-25 18:26:21,869 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-25 18:26:21,870 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds

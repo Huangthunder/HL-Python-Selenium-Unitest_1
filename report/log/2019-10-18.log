@@ -1,0 +1,1036 @@
+2019-10-18 09:13:47,018 - root - INFO - ############################### START ###############################
+2019-10-18 09:13:48,175 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1520659923553467 seconds
+2019-10-18 09:14:01,211 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 13.028745412826538 seconds
+2019-10-18 09:14:01,235 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.02300119400024414 seconds
+2019-10-18 09:14:01,410 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.1980113983154297 seconds
+2019-10-18 09:14:01,429 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.01800084114074707 seconds
+2019-10-18 09:14:01,523 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.11100602149963379 seconds
+2019-10-18 09:14:09,027 - root - INFO - ###############################  END  ###############################
+2019-10-18 09:14:50,592 - root - INFO - ############################### START ###############################
+2019-10-18 09:14:52,022 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.4270813465118408 seconds
+2019-10-18 09:14:54,484 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.4601404666900635 seconds
+2019-10-18 09:14:54,512 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.02500152587890625 seconds
+2019-10-18 09:14:54,691 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.2040116786956787 seconds
+2019-10-18 09:14:54,721 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.027001380920410156 seconds
+2019-10-18 09:14:54,839 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.14600825309753418 seconds
+2019-10-18 09:15:02,187 - root - INFO - ###############################  END  ###############################
+2019-10-18 09:44:18,437 - root - INFO - ############################### START ###############################
+2019-10-18 09:45:48,905 - root - INFO - ############################### START ###############################
+2019-10-18 09:46:47,578 - root - INFO - ############################### START ###############################
+2019-10-18 09:48:35,314 - root - INFO - ############################### START ###############################
+2019-10-18 09:49:34,083 - root - INFO - ############################### START ###############################
+2019-10-18 09:51:00,345 - root - INFO - ############################### START ###############################
+2019-10-18 09:51:32,979 - root - INFO - ############################### START ###############################
+2019-10-18 09:57:13,147 - root - INFO - ############################### START ###############################
+2019-10-18 09:58:21,814 - root - INFO - ############################### START ###############################
+2019-10-18 09:59:34,790 - root - INFO - ############################### START ###############################
+2019-10-18 10:00:33,338 - root - INFO - ############################### START ###############################
+2019-10-18 10:07:48,305 - root - INFO - ############################### START ###############################
+2019-10-18 10:08:05,121 - root - INFO - ############################### START ###############################
+2019-10-18 10:08:51,945 - root - INFO - ############################### START ###############################
+2019-10-18 10:10:10,409 - root - INFO - ############################### START ###############################
+2019-10-18 10:11:37,624 - root - INFO - ############################### START ###############################
+2019-10-18 10:18:52,700 - root - INFO - ############################### START ###############################
+2019-10-18 10:22:42,220 - root - INFO - ############################### START ###############################
+2019-10-18 10:22:48,981 - root - INFO - ###############################  END  ###############################
+2019-10-18 10:23:27,030 - root - INFO - ############################### START ###############################
+2019-10-18 10:23:34,004 - root - INFO - ###############################  END  ###############################
+2019-10-18 10:24:47,871 - root - INFO - ############################### START ###############################
+2019-10-18 10:25:16,166 - root - INFO - ###############################  END  ###############################
+2019-10-18 10:25:42,773 - root - INFO - ############################### START ###############################
+2019-10-18 10:26:18,419 - root - INFO - ###############################  END  ###############################
+2019-10-18 10:27:53,579 - root - INFO - ############################### START ###############################
+2019-10-18 10:28:26,744 - root - INFO - ###############################  END  ###############################
+2019-10-18 10:29:23,339 - root - INFO - ############################### START ###############################
+2019-10-18 10:29:31,656 - root - INFO - ###############################  END  ###############################
+2019-10-18 10:32:24,153 - root - INFO - ############################### START ###############################
+2019-10-18 10:32:30,315 - root - INFO - ###############################  END  ###############################
+2019-10-18 10:45:20,061 - root - INFO - ############################### START ###############################
+2019-10-18 10:45:25,715 - root - INFO - ###############################  END  ###############################
+2019-10-18 10:50:36,676 - root - INFO - ############################### START ###############################
+2019-10-18 10:50:42,860 - root - INFO - ###############################  END  ###############################
+2019-10-18 10:52:42,536 - root - INFO - ############################### START ###############################
+2019-10-18 10:52:46,624 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.9291675090789795 seconds
+2019-10-18 10:53:21,875 - root - INFO - ###############################  END  ###############################
+2019-10-18 10:54:20,919 - root - INFO - ############################### START ###############################
+2019-10-18 10:54:38,422 - root - INFO - ###############################  END  ###############################
+2019-10-18 11:01:51,782 - root - INFO - ############################### START ###############################
+2019-10-18 11:01:52,990 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2060692310333252 seconds
+2019-10-18 11:03:38,876 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 105.8850564956665 seconds
+2019-10-18 11:03:38,911 - root - INFO - FAIL       Unable find element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.03300166130065918 seconds
+2019-10-18 11:03:41,495 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.5831477642059326 seconds
+2019-10-18 11:03:41,497 - root - INFO - ###############################  END  ###############################
+2019-10-18 11:04:23,485 - root - INFO - ############################### START ###############################
+2019-10-18 11:04:24,659 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1730670928955078 seconds
+2019-10-18 11:06:15,011 - root - INFO - ############################### START ###############################
+2019-10-18 11:06:16,171 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1590662002563477 seconds
+2019-10-18 11:07:22,014 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 65.83976602554321 seconds
+2019-10-18 11:07:22,037 - root - INFO - FAIL       Unable find element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.02000141143798828 seconds
+2019-10-18 11:08:18,135 - root - INFO - ############################### START ###############################
+2019-10-18 11:08:19,416 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2790732383728027 seconds
+2019-10-18 11:08:27,622 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 8.203469276428223 seconds
+2019-10-18 11:08:27,664 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.04000234603881836 seconds
+2019-10-18 11:08:28,186 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.025001049041748047 seconds
+2019-10-18 11:08:28,452 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.029001712799072266 seconds
+2019-10-18 11:08:42,387 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.02500176429748535 seconds
+2019-10-18 11:08:47,593 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.02300119400024414 seconds
+2019-10-18 11:08:49,843 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.02500152587890625 seconds
+2019-10-18 11:08:52,072 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.022001266479492188 seconds
+2019-10-18 11:08:54,287 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.024001359939575195 seconds
+2019-10-18 11:08:54,384 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.024001359939575195 seconds
+2019-10-18 11:08:56,524 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.02300119400024414 seconds
+2019-10-18 11:08:56,820 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.02500128746032715 seconds
+2019-10-18 11:10:00,586 - root - INFO - ############################### START ###############################
+2019-10-18 11:10:01,735 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1470656394958496 seconds
+2019-10-18 11:10:04,642 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.9031662940979004 seconds
+2019-10-18 11:10:04,750 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.10600614547729492 seconds
+2019-10-18 11:10:05,268 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.03000164031982422 seconds
+2019-10-18 11:10:05,523 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.03000187873840332 seconds
+2019-10-18 11:10:14,773 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.028001785278320312 seconds
+2019-10-18 11:10:19,955 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.02300119400024414 seconds
+2019-10-18 11:10:22,209 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.026001453399658203 seconds
+2019-10-18 11:10:24,439 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.02300119400024414 seconds
+2019-10-18 11:10:26,626 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.024001121520996094 seconds
+2019-10-18 11:10:26,721 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.023001432418823242 seconds
+2019-10-18 11:10:28,866 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.022001266479492188 seconds
+2019-10-18 11:10:29,186 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.024001359939575195 seconds
+2019-10-18 11:10:37,063 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.7861597537994385 seconds
+2019-10-18 11:10:37,065 - root - INFO - ###############################  END  ###############################
+2019-10-18 11:12:35,183 - root - INFO - ############################### START ###############################
+2019-10-18 11:12:36,356 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.171067237854004 seconds
+2019-10-18 11:12:40,515 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 4.157238006591797 seconds
+2019-10-18 11:12:40,961 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.44402551651000977 seconds
+2019-10-18 11:12:41,715 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.02500128746032715 seconds
+2019-10-18 11:12:42,051 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.027001380920410156 seconds
+2019-10-18 11:12:53,060 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.02500128746032715 seconds
+2019-10-18 11:12:58,402 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.027001619338989258 seconds
+2019-10-18 11:13:00,639 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.026001453399658203 seconds
+2019-10-18 11:13:02,850 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.022001266479492188 seconds
+2019-10-18 11:13:05,067 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.023001432418823242 seconds
+2019-10-18 11:13:05,165 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.027001619338989258 seconds
+2019-10-18 11:13:07,304 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.02300119400024414 seconds
+2019-10-18 11:13:07,598 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.0260012149810791 seconds
+2019-10-18 11:13:15,998 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.3081891536712646 seconds
+2019-10-18 11:13:16,000 - root - INFO - ###############################  END  ###############################
+2019-10-18 11:16:06,488 - root - INFO - ############################### START ###############################
+2019-10-18 11:16:08,011 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.5220873355865479 seconds
+2019-10-18 11:16:52,888 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 44.875566720962524 seconds
+2019-10-18 11:16:52,920 - root - INFO - FAIL       Unable find element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.029001712799072266 seconds
+2019-10-18 11:16:55,421 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.498142957687378 seconds
+2019-10-18 11:16:55,423 - root - INFO - ###############################  END  ###############################
+2019-10-18 11:25:01,585 - root - INFO - ############################### START ###############################
+2019-10-18 11:25:02,793 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.206068992614746 seconds
+2019-10-18 11:25:08,375 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 5.579319477081299 seconds
+2019-10-18 11:25:08,562 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.18401050567626953 seconds
+2019-10-18 11:25:08,978 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.044002532958984375 seconds
+2019-10-18 11:25:09,529 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.036002159118652344 seconds
+2019-10-18 11:25:17,643 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001359939575195 seconds
+2019-10-18 11:25:22,805 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.021001100540161133 seconds
+2019-10-18 11:25:25,036 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.02800154685974121 seconds
+2019-10-18 11:25:27,290 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.0370020866394043 seconds
+2019-10-18 11:25:29,509 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.03000164031982422 seconds
+2019-10-18 11:25:29,634 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.03200221061706543 seconds
+2019-10-18 11:25:31,805 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.022001266479492188 seconds
+2019-10-18 11:25:32,106 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.02500152587890625 seconds
+2019-10-18 11:25:39,987 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.7881593704223633 seconds
+2019-10-18 11:25:39,988 - root - INFO - ###############################  END  ###############################
+2019-10-18 11:27:56,683 - root - INFO - ############################### START ###############################
+2019-10-18 11:28:26,616 - root - INFO - ############################### START ###############################
+2019-10-18 11:29:14,143 - root - INFO - ############################### START ###############################
+2019-10-18 11:29:14,144 - root - INFO - FAIL       Unable set browser window maximized, Spend <function browser at 0x03030C48> seconds
+2019-10-18 11:30:05,741 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 51.59395122528076 seconds
+2019-10-18 11:30:05,822 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.07900452613830566 seconds
+2019-10-18 11:30:06,118 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.02500152587890625 seconds
+2019-10-18 11:30:06,385 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.028001785278320312 seconds
+2019-10-18 11:30:36,377 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.02500152587890625 seconds
+2019-10-18 11:30:41,653 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.023001432418823242 seconds
+2019-10-18 11:30:43,898 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.026001453399658203 seconds
+2019-10-18 11:30:46,118 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.02300119400024414 seconds
+2019-10-18 11:30:48,328 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.024001359939575195 seconds
+2019-10-18 11:30:48,424 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.024001598358154297 seconds
+2019-10-18 11:30:50,592 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.025001049041748047 seconds
+2019-10-18 11:30:50,877 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.02800130844116211 seconds
+2019-10-18 11:30:58,530 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.5551462173461914 seconds
+2019-10-18 11:30:58,532 - root - INFO - ###############################  END  ###############################
+2019-10-18 11:32:19,957 - root - INFO - ############################### START ###############################
+2019-10-18 11:32:21,150 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.189068078994751 seconds
+2019-10-18 11:32:24,772 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.6182069778442383 seconds
+2019-10-18 11:32:24,941 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.16600918769836426 seconds
+2019-10-18 11:32:25,740 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.031001806259155273 seconds
+2019-10-18 11:32:26,218 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.034001827239990234 seconds
+2019-10-18 11:32:36,166 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001598358154297 seconds
+2019-10-18 11:32:41,333 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.023001432418823242 seconds
+2019-10-18 11:32:43,602 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.02500152587890625 seconds
+2019-10-18 11:32:45,828 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.02300119400024414 seconds
+2019-10-18 11:32:48,116 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.08300495147705078 seconds
+2019-10-18 11:32:48,277 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.027001619338989258 seconds
+2019-10-18 11:32:50,421 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.024001359939575195 seconds
+2019-10-18 11:32:50,672 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.02500128746032715 seconds
+2019-10-18 11:32:58,530 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.756157875061035 seconds
+2019-10-18 11:32:58,532 - root - INFO - ###############################  END  ###############################
+2019-10-18 11:34:34,397 - root - INFO - ############################### START ###############################
+2019-10-18 11:34:35,778 - root - INFO - SUCCESS    Set browser window wide: 100,high: 200, Spend 0.24001359939575195 seconds
+2019-10-18 11:34:38,279 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.498142719268799 seconds
+2019-10-18 11:34:38,397 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.11600685119628906 seconds
+2019-10-18 11:34:38,822 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.027001142501831055 seconds
+2019-10-18 11:34:39,091 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.026001453399658203 seconds
+2019-10-18 11:34:47,417 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001598358154297 seconds
+2019-10-18 11:34:52,615 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.02300119400024414 seconds
+2019-10-18 11:34:54,925 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.031001806259155273 seconds
+2019-10-18 11:34:57,150 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.024001359939575195 seconds
+2019-10-18 11:35:02,198 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.849163055419922 seconds
+2019-10-18 11:35:02,200 - root - INFO - ###############################  END  ###############################
+2019-10-18 11:35:36,679 - root - INFO - ############################### START ###############################
+2019-10-18 11:35:38,124 - root - INFO - SUCCESS    Set browser window wide: 100,high: 200, Spend 0.3080177307128906 seconds
+2019-10-18 11:35:40,969 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.8441624641418457 seconds
+2019-10-18 11:35:41,212 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.241013765335083 seconds
+2019-10-18 11:35:41,767 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.03000164031982422 seconds
+2019-10-18 11:35:42,238 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.029001951217651367 seconds
+2019-10-18 11:35:48,223 - root - INFO - FAIL       Unable find element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.002000093460083008 seconds
+2019-10-18 11:35:50,502 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.272129774093628 seconds
+2019-10-18 11:35:50,504 - root - INFO - ###############################  END  ###############################
+2019-10-18 11:36:45,733 - root - INFO - ############################### START ###############################
+2019-10-18 11:36:50,806 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.919224262237549 seconds
+2019-10-18 11:36:50,846 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.0370023250579834 seconds
+2019-10-18 11:36:51,476 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.03000187873840332 seconds
+2019-10-18 11:36:51,745 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.026001453399658203 seconds
+2019-10-18 11:37:04,447 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.02500128746032715 seconds
+2019-10-18 11:37:09,717 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.024001121520996094 seconds
+2019-10-18 11:37:11,956 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.02800154685974121 seconds
+2019-10-18 11:37:14,174 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.02300095558166504 seconds
+2019-10-18 11:37:16,653 - root - INFO - SUCCESS    Closed current window, Spend 0.28401613235473633 seconds
+2019-10-18 11:37:16,655 - root - INFO - ###############################  END  ###############################
+2019-10-18 11:39:02,496 - root - INFO - ############################### START ###############################
+2019-10-18 11:39:07,136 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.485198974609375 seconds
+2019-10-18 11:39:07,174 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.03500199317932129 seconds
+2019-10-18 11:39:07,759 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.024001598358154297 seconds
+2019-10-18 11:39:08,025 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.023001432418823242 seconds
+2019-10-18 11:39:16,763 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.023001432418823242 seconds
+2019-10-18 11:40:47,047 - root - INFO - ############################### START ###############################
+2019-10-18 11:40:53,175 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 4.9662840366363525 seconds
+2019-10-18 11:40:53,320 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.14200806617736816 seconds
+2019-10-18 11:40:54,015 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.029001474380493164 seconds
+2019-10-18 11:40:54,535 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.03300166130065918 seconds
+2019-10-18 11:41:12,572 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.9291675090789795 seconds
+2019-10-18 11:41:12,575 - root - INFO - ###############################  END  ###############################
+2019-10-18 11:44:00,991 - root - INFO - ############################### START ###############################
+2019-10-18 11:44:05,883 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.57120418548584 seconds
+2019-10-18 11:44:06,014 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.128007173538208 seconds
+2019-10-18 11:44:06,293 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.029001951217651367 seconds
+2019-10-18 11:44:07,373 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.03400230407714844 seconds
+2019-10-18 11:44:17,136 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.021001100540161133 seconds
+2019-10-18 11:44:20,486 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0431742668151855 seconds
+2019-10-18 11:44:20,488 - root - INFO - ###############################  END  ###############################
+2019-10-18 11:49:33,783 - root - INFO - ############################### START ###############################
+2019-10-18 11:49:36,361 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4240813255310059 seconds
+2019-10-18 11:49:36,401 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03800225257873535 seconds
+2019-10-18 11:49:36,679 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.023001432418823242 seconds
+2019-10-18 11:49:44,542 - root - INFO - ###############################  END  ###############################
+2019-10-18 11:51:23,250 - root - INFO - ############################### START ###############################
+2019-10-18 11:51:25,666 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2650723457336426 seconds
+2019-10-18 11:51:25,676 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.007000446319580078 seconds
+2019-10-18 11:51:25,722 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.044002532958984375 seconds
+2019-10-18 11:51:26,118 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03300166130065918 seconds
+2019-10-18 11:51:34,363 - root - INFO - ###############################  END  ###############################
+2019-10-18 11:52:13,391 - root - INFO - ############################### START ###############################
+2019-10-18 11:52:15,673 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.0960626602172852 seconds
+2019-10-18 11:52:15,678 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-18 11:52:15,713 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03300189971923828 seconds
+2019-10-18 11:52:16,091 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.016000747680664062 seconds
+2019-10-18 11:52:23,986 - root - INFO - ###############################  END  ###############################
+2019-10-18 11:55:34,134 - root - INFO - ############################### START ###############################
+2019-10-18 11:55:36,942 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.6060917377471924 seconds
+2019-10-18 11:55:36,949 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0060002803802490234 seconds
+2019-10-18 11:55:36,953 - root - INFO - FAIL       Unable to send element: <id->kw> content: 测试05, Spend 0.0 seconds
+2019-10-18 11:55:39,980 - root - INFO - ###############################  END  ###############################
+2019-10-18 11:57:52,694 - root - INFO - ############################### START ###############################
+2019-10-18 11:58:02,240 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 8.400480508804321 seconds
+2019-10-18 11:58:02,245 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-18 11:58:02,247 - root - INFO - FAIL       Unable to send element: <id->kw> content: 测试05, Spend 0.0 seconds
+2019-10-18 11:58:05,008 - root - INFO - ###############################  END  ###############################
+2019-10-18 11:59:40,505 - root - INFO - ############################### START ###############################
+2019-10-18 11:59:43,571 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.7711012363433838 seconds
+2019-10-18 11:59:43,577 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000497817993164 seconds
+2019-10-18 11:59:46,665 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:00:26,994 - root - INFO - ############################### START ###############################
+2019-10-18 12:00:29,539 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3970799446105957 seconds
+2019-10-18 12:00:29,544 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0030002593994140625 seconds
+2019-10-18 12:00:29,547 - root - INFO - FAIL       Unable to send element: <id->kw> content: 测试05, Spend 0.0 seconds
+2019-10-18 12:00:32,357 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:00:53,885 - root - INFO - ############################### START ###############################
+2019-10-18 12:00:57,913 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.887165069580078 seconds
+2019-10-18 12:00:57,921 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.00500035285949707 seconds
+2019-10-18 12:00:57,923 - root - INFO - FAIL       Unable to send element: <id->kw> content: 测试05, Spend 0.0 seconds
+2019-10-18 12:01:00,764 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:04:46,828 - root - INFO - ############################### START ###############################
+2019-10-18 12:04:49,249 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2800731658935547 seconds
+2019-10-18 12:04:49,254 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000020980834961 seconds
+2019-10-18 12:04:49,256 - root - INFO - FAIL       Unable to send element: <id->kw> content: 测试05, Spend 0.0 seconds
+2019-10-18 12:04:52,022 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:06:15,838 - root - INFO - ############################### START ###############################
+2019-10-18 12:06:18,432 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4130809307098389 seconds
+2019-10-18 12:06:18,437 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-18 12:06:18,524 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.016001224517822266 seconds
+2019-10-18 12:06:27,110 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:07:25,619 - root - INFO - ############################### START ###############################
+2019-10-18 12:07:34,063 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 7.30741810798645 seconds
+2019-10-18 12:07:34,069 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000020980834961 seconds
+2019-10-18 12:07:34,100 - root - INFO - FAIL       Unable to send element: <id->kw> content: 测试05, Spend 0.0 seconds
+2019-10-18 12:07:38,132 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:08:05,300 - root - INFO - ############################### START ###############################
+2019-10-18 12:08:08,001 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5170867443084717 seconds
+2019-10-18 12:08:08,006 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-18 12:08:10,827 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:10:48,538 - root - INFO - ############################### START ###############################
+2019-10-18 12:10:51,702 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.020115375518799 seconds
+2019-10-18 12:10:51,707 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-18 12:10:51,742 - root - INFO - FAIL       Unable to send element: <id->kw> content: 测试05, Spend 0.0 seconds
+2019-10-18 12:10:54,702 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:12:50,302 - root - INFO - ############################### START ###############################
+2019-10-18 12:12:52,927 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3920795917510986 seconds
+2019-10-18 12:12:52,938 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.010000467300415039 seconds
+2019-10-18 12:12:52,984 - root - INFO - FAIL       Unable to clear and send element: <id->kw> content: 测试05, Spend 0.0 seconds
+2019-10-18 12:12:55,858 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:19:07,712 - root - INFO - ############################### START ###############################
+2019-10-18 12:19:10,040 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.1760673522949219 seconds
+2019-10-18 12:19:10,045 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0030002593994140625 seconds
+2019-10-18 12:19:10,399 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02800154685974121 seconds
+2019-10-18 12:19:18,306 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:20:54,275 - root - INFO - ############################### START ###############################
+2019-10-18 12:20:56,644 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2370705604553223 seconds
+2019-10-18 12:20:56,650 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004000186920166016 seconds
+2019-10-18 12:20:59,377 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:21:47,124 - root - INFO - ############################### START ###############################
+2019-10-18 12:21:49,888 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5160865783691406 seconds
+2019-10-18 12:21:49,903 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.012000799179077148 seconds
+2019-10-18 12:21:52,964 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:28:04,745 - root - INFO - ############################### START ###############################
+2019-10-18 12:28:07,190 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.315075397491455 seconds
+2019-10-18 12:28:07,195 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000020980834961 seconds
+2019-10-18 12:28:07,256 - root - INFO - FAIL       Unable to click element: <id->su>, Spend 0.0 seconds
+2019-10-18 12:28:10,036 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:28:53,944 - root - INFO - ############################### START ###############################
+2019-10-18 12:28:56,351 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.173067331314087 seconds
+2019-10-18 12:28:56,355 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-18 12:28:56,857 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.44202542304992676 seconds
+2019-10-18 12:29:04,612 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:29:46,608 - root - INFO - ############################### START ###############################
+2019-10-18 12:29:49,883 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.0641183853149414 seconds
+2019-10-18 12:29:49,891 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0060002803802490234 seconds
+2019-10-18 12:29:50,168 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.24201369285583496 seconds
+2019-10-18 12:29:50,389 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.19201087951660156 seconds
+2019-10-18 12:29:58,329 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:32:35,323 - root - INFO - ############################### START ###############################
+2019-10-18 12:32:37,915 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3820788860321045 seconds
+2019-10-18 12:32:37,923 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0060002803802490234 seconds
+2019-10-18 12:32:38,250 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.2950170040130615 seconds
+2019-10-18 12:32:38,279 - root - INFO - SUCCESS    Set wait all element display in 5 seconds, Spend 0.026001453399658203 seconds
+2019-10-18 12:32:38,281 - root - INFO - FAIL       Unable set wait all element display in 5 seconds, Spend 0.02800154685974121 seconds
+2019-10-18 12:32:38,458 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.17501020431518555 seconds
+2019-10-18 12:32:46,191 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:36:19,115 - root - INFO - ############################### START ###############################
+2019-10-18 12:36:23,163 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.8341622352600098 seconds
+2019-10-18 12:36:23,168 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0030002593994140625 seconds
+2019-10-18 12:36:23,531 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.31801819801330566 seconds
+2019-10-18 12:36:23,618 - root - INFO - Element: SUCCESS    not found in 5 seconds.
+2019-10-18 12:36:23,862 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.241013765335083 seconds
+2019-10-18 12:36:31,576 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:40:15,987 - root - INFO - ############################### START ###############################
+2019-10-18 12:40:18,357 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2180695533752441 seconds
+2019-10-18 12:40:18,363 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004000186920166016 seconds
+2019-10-18 12:40:18,898 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.4280245304107666 seconds
+2019-10-18 12:40:18,940 - root - INFO - Set wait current element display: SUCCESS    in 5 seconds.
+2019-10-18 12:40:19,205 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.26201510429382324 seconds
+2019-10-18 12:40:26,828 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:41:38,281 - root - INFO - ############################### START ###############################
+2019-10-18 12:41:42,329 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.9051663875579834 seconds
+2019-10-18 12:41:42,335 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004000186920166016 seconds
+2019-10-18 12:41:42,742 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.35302019119262695 seconds
+2019-10-18 12:41:42,783 - root - INFO - Set wait current element display: 5 in SUCCESS    seconds.
+2019-10-18 12:41:42,995 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.21001195907592773 seconds
+2019-10-18 12:41:50,816 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:45:18,876 - root - INFO - ############################### START ###############################
+2019-10-18 12:45:21,697 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.682096004486084 seconds
+2019-10-18 12:45:21,707 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.007000446319580078 seconds
+2019-10-18 12:45:22,144 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.39002251625061035 seconds
+2019-10-18 12:45:22,201 - root - INFO - SUCCESS    Set wait current element display: 5 seconds.
+2019-10-18 12:45:22,492 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.28801631927490234 seconds
+2019-10-18 12:45:30,498 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:48:16,761 - root - INFO - ############################### START ###############################
+2019-10-18 12:48:19,516 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.6080920696258545 seconds
+2019-10-18 12:48:19,521 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-18 12:48:19,844 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.28101611137390137 seconds
+2019-10-18 12:48:19,880 - root - INFO - SUCCESS    Set wait current element display in su seconds, Spend 5 seconds
+2019-10-18 12:48:20,055 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.17300987243652344 seconds
+2019-10-18 12:48:28,650 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:51:02,603 - root - INFO - ############################### START ###############################
+2019-10-18 12:51:07,277 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.5382022857666016 seconds
+2019-10-18 12:51:07,283 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0030002593994140625 seconds
+2019-10-18 12:51:07,593 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.2740156650543213 seconds
+2019-10-18 12:51:07,617 - root - INFO - SUCCESS    Set wait current element display in 5 seconds, Spend su seconds
+2019-10-18 12:51:07,770 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.14900851249694824 seconds
+2019-10-18 12:51:15,525 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:54:23,649 - root - INFO - ############################### START ###############################
+2019-10-18 12:54:30,366 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 5.576318979263306 seconds
+2019-10-18 12:54:30,375 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.007000446319580078 seconds
+2019-10-18 12:54:30,812 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.4000227451324463 seconds
+2019-10-18 12:54:30,868 - root - INFO - SUCCESS    Set wait current element id display in 5 seconds, Spend 0.054003000259399414 seconds
+2019-10-18 12:54:31,076 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.20801186561584473 seconds
+2019-10-18 12:54:39,067 - root - INFO - ###############################  END  ###############################
+2019-10-18 12:59:14,421 - root - INFO - ############################### START ###############################
+2019-10-18 12:59:18,864 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.2791876792907715 seconds
+2019-10-18 12:59:18,873 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0070002079010009766 seconds
+2019-10-18 12:59:19,296 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.37502145767211914 seconds
+2019-10-18 12:59:19,334 - root - INFO - SUCCESS    Set wait current element <id->su> display in 5 seconds, Spend 0.034002065658569336 seconds
+2019-10-18 12:59:19,589 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2520143985748291 seconds
+2019-10-18 12:59:27,548 - root - INFO - ###############################  END  ###############################
+2019-10-18 13:01:06,747 - root - INFO - ############################### START ###############################
+2019-10-18 13:01:11,795 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.847219944000244 seconds
+2019-10-18 13:01:11,804 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.00700068473815918 seconds
+2019-10-18 13:01:12,373 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.4890279769897461 seconds
+2019-10-18 13:01:26,352 - root - INFO - ###############################  END  ###############################
+2019-10-18 13:02:05,940 - root - INFO - ############################### START ###############################
+2019-10-18 13:02:08,739 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.675095796585083 seconds
+2019-10-18 13:02:08,749 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.007000446319580078 seconds
+2019-10-18 13:02:09,199 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.4040229320526123 seconds
+2019-10-18 13:02:22,985 - root - INFO - ###############################  END  ###############################
+2019-10-18 13:03:06,390 - root - INFO - ############################### START ###############################
+2019-10-18 13:03:10,324 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.7041547298431396 seconds
+2019-10-18 13:03:10,341 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.014000892639160156 seconds
+2019-10-18 13:03:10,826 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.4450252056121826 seconds
+2019-10-18 13:03:24,713 - root - INFO - ###############################  END  ###############################
+2019-10-18 13:40:32,364 - root - INFO - ############################### START ###############################
+2019-10-18 13:40:37,104 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.585205316543579 seconds
+2019-10-18 13:40:37,111 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.005000114440917969 seconds
+2019-10-18 13:40:37,719 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.5680325031280518 seconds
+2019-10-18 13:40:48,743 - root - INFO - SUCCESS    Unable set wait current element <id->sss> display in 5 seconds, Spend 11.024630546569824 seconds
+2019-10-18 13:40:48,933 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.1890108585357666 seconds
+2019-10-18 13:40:57,054 - root - INFO - ###############################  END  ###############################
+2019-10-18 13:47:22,286 - root - INFO - ############################### START ###############################
+2019-10-18 13:47:25,197 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.7470998764038086 seconds
+2019-10-18 13:47:25,203 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004000186920166016 seconds
+2019-10-18 13:47:25,536 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.2980170249938965 seconds
+2019-10-18 13:47:36,550 - root - INFO - SUCCESS    Unable set wait current element <id->sss> display in 5 seconds, Spend 11.012629985809326 seconds
+2019-10-18 13:47:39,821 - root - INFO - ###############################  END  ###############################
+2019-10-18 13:49:37,741 - root - INFO - ############################### START ###############################
+2019-10-18 13:49:40,389 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4060804843902588 seconds
+2019-10-18 13:49:40,394 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-18 13:49:40,722 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.29401683807373047 seconds
+2019-10-18 13:49:51,783 - root - INFO - FAIL       Unable set wait current element <id->sss> display in 5 seconds, Spend 11.060632705688477 seconds
+2019-10-18 13:49:54,452 - root - INFO - ###############################  END  ###############################
+2019-10-18 13:51:33,430 - root - INFO - ############################### START ###############################
+2019-10-18 13:51:42,450 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 7.8304479122161865 seconds
+2019-10-18 13:51:42,458 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.006000518798828125 seconds
+2019-10-18 13:51:42,839 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.3370194435119629 seconds
+2019-10-18 13:51:42,887 - root - INFO - SUCCESS    Set wait current element <id->su> display in 5 seconds, Spend 0.04400229454040527 seconds
+2019-10-18 13:51:45,749 - root - INFO - ###############################  END  ###############################
+2019-10-18 13:53:36,663 - root - INFO - ############################### START ###############################
+2019-10-18 13:53:42,552 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.749271631240845 seconds
+2019-10-18 13:53:42,555 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-18 13:53:42,836 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.24601411819458008 seconds
+2019-10-18 13:53:42,860 - root - INFO - SUCCESS    Set wait current element <id->su> display in 5 seconds, Spend 0.022001266479492188 seconds
+2019-10-18 13:53:42,861 - root - INFO - FAIL       Unable set wait current element <id->su> display in 5 seconds, Spend 0.024001359939575195 seconds
+2019-10-18 13:53:42,862 - root - INFO - FAIL       Unable set wait current element <id->su> display in 5 seconds, Spend 0.02500152587890625 seconds
+2019-10-18 13:53:42,864 - root - INFO - FAIL       Unable set wait current element <id->su> display in 5 seconds, Spend 0.027001619338989258 seconds
+2019-10-18 13:53:42,865 - root - INFO - FAIL       Unable set wait current element <id->su> display in 5 seconds, Spend 0.02800154685974121 seconds
+2019-10-18 13:53:42,866 - root - INFO - FAIL       Unable set wait current element <id->su> display in 5 seconds, Spend 0.029001474380493164 seconds
+2019-10-18 13:53:42,928 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.061003684997558594 seconds
+2019-10-18 13:53:43,356 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.23601341247558594 seconds
+2019-10-18 13:53:51,617 - root - INFO - ###############################  END  ###############################
+2019-10-18 13:55:39,040 - root - INFO - ############################### START ###############################
+2019-10-18 13:55:52,848 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 12.645723581314087 seconds
+2019-10-18 13:55:52,853 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000020980834961 seconds
+2019-10-18 13:55:53,114 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.23501348495483398 seconds
+2019-10-18 13:55:53,147 - root - INFO - SUCCESS    Set wait current element <id->su> display in 5 seconds, Spend 0.030002117156982422 seconds
+2019-10-18 13:55:53,169 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.019001007080078125 seconds
+2019-10-18 13:55:53,439 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.12700724601745605 seconds
+2019-10-18 13:56:01,078 - root - INFO - ###############################  END  ###############################
+2019-10-18 13:56:24,142 - root - INFO - ############################### START ###############################
+2019-10-18 13:56:30,722 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 5.4403111934661865 seconds
+2019-10-18 13:56:30,727 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0030002593994140625 seconds
+2019-10-18 13:56:31,078 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.30101704597473145 seconds
+2019-10-18 13:56:42,141 - root - INFO - FAIL       Unable set wait current element <id->sssu> display in 5 seconds, Spend 11.060632467269897 seconds
+2019-10-18 13:56:42,165 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.022001266479492188 seconds
+2019-10-18 13:56:42,506 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.1480085849761963 seconds
+2019-10-18 13:56:50,391 - root - INFO - ###############################  END  ###############################
+2019-10-18 14:01:03,631 - root - INFO - ############################### START ###############################
+2019-10-18 14:01:06,622 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.8111038208007812 seconds
+2019-10-18 14:01:06,626 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000020980834961 seconds
+2019-10-18 14:01:07,018 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.33601927757263184 seconds
+2019-10-18 14:01:18,060 - root - INFO - FAIL       Unable set wait current element <id->sssu> display in 5 seconds, Spend 11.040631532669067 seconds
+2019-10-18 14:01:21,136 - root - INFO - ###############################  END  ###############################
+2019-10-18 14:04:06,247 - root - INFO - ############################### START ###############################
+2019-10-18 14:04:12,408 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 5.004286527633667 seconds
+2019-10-18 14:04:12,422 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.013000726699829102 seconds
+2019-10-18 14:04:12,905 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.44202518463134766 seconds
+2019-10-18 14:04:23,994 - root - INFO - FAIL       Unable set wait current element <id->sssu> display in 5 seconds, Spend 11.087633848190308 seconds
+2019-10-18 14:04:27,177 - root - INFO - ###############################  END  ###############################
+2019-10-18 14:05:37,667 - root - INFO - ############################### START ###############################
+2019-10-18 14:05:43,706 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.90328049659729 seconds
+2019-10-18 14:05:43,714 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.006000041961669922 seconds
+2019-10-18 14:05:43,984 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试05, Spend 0.2370133399963379 seconds
+2019-10-18 14:05:49,099 - root - INFO - FAIL       Unable set wait current element <class->bg s_btn> display in 5 seconds, Spend 5.113292455673218 seconds
+2019-10-18 14:05:51,783 - root - INFO - ###############################  END  ###############################
+2019-10-18 14:06:53,787 - root - INFO - ############################### START ###############################
+2019-10-18 14:06:57,176 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.153123140335083 seconds
+2019-10-18 14:06:57,190 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.012000799179077148 seconds
+2019-10-18 14:06:57,747 - root - INFO - SUCCESS    Typed element: <class->s_ipt> content: 测试05, Spend 0.5070290565490723 seconds
+2019-10-18 14:06:57,771 - root - INFO - SUCCESS    Set wait current element <id->su> display in 5 seconds, Spend 0.022001266479492188 seconds
+2019-10-18 14:06:57,792 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.019001007080078125 seconds
+2019-10-18 14:06:58,990 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.8470480442047119 seconds
+2019-10-18 14:07:06,879 - root - INFO - ###############################  END  ###############################
+2019-10-18 14:08:07,279 - root - INFO - ############################### START ###############################
+2019-10-18 14:08:09,863 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3710787296295166 seconds
+2019-10-18 14:08:09,871 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.006000518798828125 seconds
+2019-10-18 14:08:09,926 - root - INFO - SUCCESS    Set wait current element <class->s_ipt> display in 5 seconds, Spend 0.022001266479492188 seconds
+2019-10-18 14:08:10,199 - root - INFO - SUCCESS    Typed element: <class->s_ipt> content: 测试05, Spend 0.2700154781341553 seconds
+2019-10-18 14:08:10,228 - root - INFO - SUCCESS    Set wait current element <id->su> display in 5 seconds, Spend 0.02800154685974121 seconds
+2019-10-18 14:08:10,246 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.01500082015991211 seconds
+2019-10-18 14:08:10,529 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.11100625991821289 seconds
+2019-10-18 14:08:18,223 - root - INFO - ###############################  END  ###############################
+2019-10-18 14:11:41,141 - root - INFO - ############################### START ###############################
+2019-10-18 14:11:43,939 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4770843982696533 seconds
+2019-10-18 14:11:43,942 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-18 14:11:55,032 - root - INFO - FAIL       Unable set wait current element <class->_ipt> display in 5 seconds, Spend 11.058632373809814 seconds
+2019-10-18 14:11:57,691 - root - INFO - ###############################  END  ###############################
+2019-10-18 14:36:55,060 - root - INFO - ############################### START ###############################
+2019-10-18 14:37:06,663 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 10.361592769622803 seconds
+2019-10-18 14:37:06,667 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0030002593994140625 seconds
+2019-10-18 14:37:06,723 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.019001007080078125 seconds
+2019-10-18 14:37:06,764 - root - INFO - SUCCESS    Set wait current element <class->s_ipt> display in 5 seconds, Spend 0.04000234603881836 seconds
+2019-10-18 14:37:07,151 - root - INFO - SUCCESS    Typed element: <class->s_ipt> content: 测试05, Spend 0.3850221633911133 seconds
+2019-10-18 14:37:07,205 - root - INFO - SUCCESS    Set wait current element <id->su> display in 5 seconds, Spend 0.05300307273864746 seconds
+2019-10-18 14:37:07,229 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.023001670837402344 seconds
+2019-10-18 14:37:07,808 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.14300799369812012 seconds
+2019-10-18 14:37:15,711 - root - INFO - ###############################  END  ###############################
+2019-10-18 14:38:12,109 - root - INFO - ############################### START ###############################
+2019-10-18 14:38:18,705 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 5.4443113803863525 seconds
+2019-10-18 14:38:18,709 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0030002593994140625 seconds
+2019-10-18 14:38:28,798 - root - INFO - FAIL       Unable find element: <id->w>, Spend 10.029573917388916 seconds
+2019-10-18 14:38:31,440 - root - INFO - ###############################  END  ###############################
+2019-10-18 14:39:30,278 - root - INFO - ############################### START ###############################
+2019-10-18 14:39:49,421 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 17.998029470443726 seconds
+2019-10-18 14:39:49,426 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-18 14:39:59,513 - root - INFO - FAIL       Unable find element: <xpath->jj>, Spend 10.058575630187988 seconds
+2019-10-18 14:40:02,276 - root - INFO - ###############################  END  ###############################
+2019-10-18 14:48:16,157 - root - INFO - ############################### START ###############################
+2019-10-18 14:48:34,418 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 16.0559184551239 seconds
+2019-10-18 14:48:34,428 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.007000446319580078 seconds
+2019-10-18 14:48:37,183 - root - INFO - ###############################  END  ###############################
+2019-10-18 14:48:59,255 - root - INFO - ############################### START ###############################
+2019-10-18 14:49:40,629 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 40.24130153656006 seconds
+2019-10-18 14:49:40,635 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004000186920166016 seconds
+2019-10-18 14:49:50,711 - root - INFO - FAIL       Unable find element: <xpath->jj>, Spend 10.040574073791504 seconds
+2019-10-18 14:49:53,310 - root - INFO - ###############################  END  ###############################
+2019-10-18 14:50:20,177 - root - INFO - ############################### START ###############################
+2019-10-18 14:50:25,686 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.274244546890259 seconds
+2019-10-18 14:50:25,691 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004000186920166016 seconds
+2019-10-18 14:50:25,733 - root - INFO - FAIL       Unable find element: <id>kw>, Spend 0.0 seconds
+2019-10-18 14:50:28,442 - root - INFO - ###############################  END  ###############################
+2019-10-18 15:14:58,016 - root - INFO - ############################### START ###############################
+2019-10-18 15:15:13,869 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 14.61283564567566 seconds
+2019-10-18 15:15:13,874 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004000425338745117 seconds
+2019-10-18 15:15:13,915 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.039002418518066406 seconds
+2019-10-18 15:15:13,932 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.01500082015991211 seconds
+2019-10-18 15:15:13,955 - root - INFO - SUCCESS    Set wait current element <class->s_ipt> display in 5 seconds, Spend 0.021001100540161133 seconds
+2019-10-18 15:15:13,957 - root - INFO - SUCCESS    Unable find element: <class->s_ipt>, Spend 0.0 seconds
+2019-10-18 15:15:13,958 - root - INFO - FAIL       Unable to send element: <class->s_ipt> content: 测试05, Spend 0.0009999275207519531 seconds
+2019-10-18 15:15:16,625 - root - INFO - ###############################  END  ###############################
+2019-10-18 15:16:25,593 - root - INFO - ############################### START ###############################
+2019-10-18 15:16:37,859 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 11.106635093688965 seconds
+2019-10-18 15:16:37,863 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0020003318786621094 seconds
+2019-10-18 15:16:37,897 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.034001827239990234 seconds
+2019-10-18 15:16:45,946 - root - INFO - ###############################  END  ###############################
+2019-10-18 15:17:01,356 - root - INFO - ############################### START ###############################
+2019-10-18 15:17:11,742 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 9.254529237747192 seconds
+2019-10-18 15:17:11,748 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004000425338745117 seconds
+2019-10-18 15:17:11,775 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.026001453399658203 seconds
+2019-10-18 15:17:14,530 - root - INFO - ###############################  END  ###############################
+2019-10-18 15:17:39,213 - root - INFO - ############################### START ###############################
+2019-10-18 15:17:43,147 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.777158737182617 seconds
+2019-10-18 15:17:43,152 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004000663757324219 seconds
+2019-10-18 15:17:45,801 - root - INFO - ###############################  END  ###############################
+2019-10-18 15:18:17,770 - root - INFO - ############################### START ###############################
+2019-10-18 15:18:25,632 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 6.635379314422607 seconds
+2019-10-18 15:18:25,637 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004000425338745117 seconds
+2019-10-18 15:18:35,650 - root - INFO - SUCCESS    Unable find element: <id->w>, Spend 10.011572360992432 seconds
+2019-10-18 15:18:38,408 - root - INFO - ###############################  END  ###############################
+2019-10-18 15:33:32,269 - root - INFO - ############################### START ###############################
+2019-10-18 15:33:36,157 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.6991546154022217 seconds
+2019-10-18 15:33:36,162 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000020980834961 seconds
+2019-10-18 15:33:46,215 - root - INFO - FAIL       Unable find element: <id->w>, Spend 10.050574541091919 seconds
+2019-10-18 15:33:48,927 - root - INFO - ###############################  END  ###############################
+2019-10-18 15:40:36,083 - root - INFO - ############################### START ###############################
+2019-10-18 15:40:40,486 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.203183174133301 seconds
+2019-10-18 15:40:40,491 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0030002593994140625 seconds
+2019-10-18 15:40:40,493 - root - INFO - FAIL       Unable find element: <name->wd>, Spend 0.0 seconds
+2019-10-18 15:40:43,673 - root - INFO - ###############################  END  ###############################
+2019-10-18 15:45:44,998 - root - INFO - ############################### START ###############################
+2019-10-18 15:45:48,863 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.5951483249664307 seconds
+2019-10-18 15:45:48,881 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.01700115203857422 seconds
+2019-10-18 15:45:49,174 - root - INFO - SUCCESS    Typed element: <name->wd>, Spend 0.2910165786743164 seconds
+2019-10-18 15:45:52,162 - root - INFO - ###############################  END  ###############################
+2019-10-18 15:46:18,221 - root - INFO - ############################### START ###############################
+2019-10-18 15:46:26,234 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 6.713383913040161 seconds
+2019-10-18 15:46:26,238 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000020980834961 seconds
+2019-10-18 15:46:29,309 - root - INFO - ###############################  END  ###############################
+2019-10-18 15:46:59,509 - root - INFO - ############################### START ###############################
+2019-10-18 15:47:45,007 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 44.14152479171753 seconds
+2019-10-18 15:47:45,012 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0030002593994140625 seconds
+2019-10-18 15:47:45,013 - root - INFO - FAIL       Unable find element: <nae->wd>, Spend 0.0 seconds
+2019-10-18 15:47:47,852 - root - INFO - ###############################  END  ###############################
+2019-10-18 15:51:27,948 - root - INFO - ############################### START ###############################
+2019-10-18 15:51:33,109 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.9082233905792236 seconds
+2019-10-18 15:51:33,115 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000497817993164 seconds
+2019-10-18 15:51:33,117 - root - INFO - FAIL       Unable find element: <nae->wd>, Spend 0.0 seconds
+2019-10-18 15:51:35,834 - root - INFO - ###############################  END  ###############################
+2019-10-18 15:52:46,938 - root - INFO - ############################### START ###############################
+2019-10-18 15:52:51,405 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.995171308517456 seconds
+2019-10-18 15:52:51,416 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.009000539779663086 seconds
+2019-10-18 15:52:54,329 - root - INFO - ###############################  END  ###############################
+2019-10-18 15:53:44,408 - root - INFO - ############################### START ###############################
+2019-10-18 15:53:51,300 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 5.6753246784210205 seconds
+2019-10-18 15:53:51,306 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000020980834961 seconds
+2019-10-18 15:53:51,309 - root - INFO - FAIL       Unable find element: <nae->wd>, Spend 0.0 seconds
+2019-10-18 15:53:54,088 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:03:32,619 - root - INFO - ############################### START ###############################
+2019-10-18 16:03:36,300 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.546145439147949 seconds
+2019-10-18 16:03:36,306 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.006000518798828125 seconds
+2019-10-18 16:03:36,307 - root - INFO - FAIL       Unable find element: <nae->wd>, Spend 0.0 seconds
+2019-10-18 16:03:36,310 - root - INFO - FAIL       Unable find element: <nae->wd>, Spend 0.002000093460083008 seconds
+2019-10-18 16:03:39,252 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:05:21,714 - root - INFO - ############################### START ###############################
+2019-10-18 16:05:37,028 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 14.17681074142456 seconds
+2019-10-18 16:05:37,033 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-18 16:05:37,035 - root - INFO - FAIL       Unable find element: <nae->wd>, Spend 0.0 seconds
+2019-10-18 16:05:37,037 - root - INFO - FAIL       Unable find element: <nae->wd>, Spend 0.0030002593994140625 seconds
+2019-10-18 16:05:39,736 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:06:49,235 - root - INFO - ############################### START ###############################
+2019-10-18 16:06:53,924 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.3321902751922607 seconds
+2019-10-18 16:06:53,932 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.005000114440917969 seconds
+2019-10-18 16:06:53,934 - root - INFO - FAIL       Unable find element: <nae->wd>, Spend 0.0 seconds
+2019-10-18 16:06:53,936 - root - INFO - FAIL       Unable find element: <nae->wd>, Spend 0.002000093460083008 seconds
+2019-10-18 16:06:56,945 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:09:23,063 - root - INFO - ############################### START ###############################
+2019-10-18 16:09:26,191 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.003114700317383 seconds
+2019-10-18 16:09:26,195 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-18 16:09:29,019 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:10:14,606 - root - INFO - ############################### START ###############################
+2019-10-18 16:10:18,248 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.508143663406372 seconds
+2019-10-18 16:10:18,253 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-18 16:10:18,255 - root - INFO - FAIL       Unable find element: <nae->wd>, Spend 0.0 seconds
+2019-10-18 16:10:21,217 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:11:54,922 - root - INFO - ############################### START ###############################
+2019-10-18 16:11:57,585 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5200867652893066 seconds
+2019-10-18 16:11:57,591 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.00500035285949707 seconds
+2019-10-18 16:12:00,292 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:16:53,522 - root - INFO - ############################### START ###############################
+2019-10-18 16:16:56,750 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.0851192474365234 seconds
+2019-10-18 16:16:56,758 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004000425338745117 seconds
+2019-10-18 16:16:56,761 - root - INFO - FAIL       Unable find element: <nae->wd>, Spend 0.0 seconds
+2019-10-18 16:16:59,736 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:18:36,941 - root - INFO - ############################### START ###############################
+2019-10-18 16:18:40,997 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.8201613426208496 seconds
+2019-10-18 16:18:41,026 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.027001380920410156 seconds
+2019-10-18 16:18:41,070 - root - INFO - SUCCESS    Typed element: <name->wd>, Spend 0.04200243949890137 seconds
+2019-10-18 16:18:43,926 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:21:22,745 - root - INFO - ############################### START ###############################
+2019-10-18 16:21:25,913 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.021115779876709 seconds
+2019-10-18 16:21:25,917 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0019998550415039062 seconds
+2019-10-18 16:21:25,954 - root - INFO - SUCCESS    Typed element: <name->wd>, Spend 0.036002159118652344 seconds
+2019-10-18 16:21:25,984 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.02800154685974121 seconds
+2019-10-18 16:21:28,833 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:23:05,569 - root - INFO - ############################### START ###############################
+2019-10-18 16:23:10,182 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.487199306488037 seconds
+2019-10-18 16:23:10,189 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.005000114440917969 seconds
+2019-10-18 16:23:10,224 - root - INFO - SUCCESS    Typed element: <name->wd>, Spend 0.03200197219848633 seconds
+2019-10-18 16:23:10,251 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.026001453399658203 seconds
+2019-10-18 16:23:10,281 - root - INFO - SUCCESS    Typed element: <class->quickdelete>, Spend 0.029001712799072266 seconds
+2019-10-18 16:23:13,180 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:25:13,290 - root - INFO - ############################### START ###############################
+2019-10-18 16:25:17,166 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.750157356262207 seconds
+2019-10-18 16:25:17,174 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004000186920166016 seconds
+2019-10-18 16:25:17,213 - root - INFO - SUCCESS    Typed element: <name->wd>, Spend 0.0370020866394043 seconds
+2019-10-18 16:25:17,240 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.02500176429748535 seconds
+2019-10-18 16:25:17,268 - root - INFO - SUCCESS    Typed element: <class->quickdelete>, Spend 0.026001691818237305 seconds
+2019-10-18 16:25:30,325 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:26:28,345 - root - INFO - ############################### START ###############################
+2019-10-18 16:26:39,783 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 10.21658444404602 seconds
+2019-10-18 16:26:39,789 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0030002593994140625 seconds
+2019-10-18 16:26:39,821 - root - INFO - SUCCESS    Typed element: <name->wd>, Spend 0.029001712799072266 seconds
+2019-10-18 16:26:39,847 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.024001598358154297 seconds
+2019-10-18 16:26:39,877 - root - INFO - SUCCESS    Typed element: <class->quickdelete>, Spend 0.027001380920410156 seconds
+2019-10-18 16:26:49,909 - root - INFO - FAIL       Unable find element: <xpath->//*[@id="s_kw_wrap"]>, Spend 10.029573678970337 seconds
+2019-10-18 16:26:52,801 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:28:17,662 - root - INFO - ############################### START ###############################
+2019-10-18 16:28:20,130 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.309074878692627 seconds
+2019-10-18 16:28:20,137 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004000186920166016 seconds
+2019-10-18 16:28:20,180 - root - INFO - SUCCESS    Typed element: <name->wd>, Spend 0.04000210762023926 seconds
+2019-10-18 16:28:20,206 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.02500152587890625 seconds
+2019-10-18 16:28:20,233 - root - INFO - SUCCESS    Typed element: <class->quickdelete>, Spend 0.024001359939575195 seconds
+2019-10-18 16:28:20,258 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="kw"]>, Spend 0.023001432418823242 seconds
+2019-10-18 16:28:23,052 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:28:42,379 - root - INFO - ############################### START ###############################
+2019-10-18 16:28:44,611 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.074061632156372 seconds
+2019-10-18 16:28:44,620 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.00500035285949707 seconds
+2019-10-18 16:28:44,659 - root - INFO - SUCCESS    Typed element: <name->wd>, Spend 0.0370020866394043 seconds
+2019-10-18 16:28:44,688 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.0260012149810791 seconds
+2019-10-18 16:28:44,712 - root - INFO - SUCCESS    Typed element: <class->quickdelete>, Spend 0.021001100540161133 seconds
+2019-10-18 16:28:54,774 - root - INFO - FAIL       Unable find element: <xpath->//*[@id="s_kw_wrap"]>, Spend 10.059575319290161 seconds
+2019-10-18 16:28:57,465 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:29:58,355 - root - INFO - ############################### START ###############################
+2019-10-18 16:30:03,707 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.123235464096069 seconds
+2019-10-18 16:30:03,715 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.006000518798828125 seconds
+2019-10-18 16:30:03,758 - root - INFO - SUCCESS    Typed element: <name->wd>, Spend 0.041002511978149414 seconds
+2019-10-18 16:30:03,793 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03200173377990723 seconds
+2019-10-18 16:30:03,829 - root - INFO - SUCCESS    Typed element: <class->quickdelete>, Spend 0.034002065658569336 seconds
+2019-10-18 16:30:16,714 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:31:17,059 - root - INFO - ############################### START ###############################
+2019-10-18 16:31:20,034 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.8391053676605225 seconds
+2019-10-18 16:31:20,040 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000497817993164 seconds
+2019-10-18 16:31:20,080 - root - INFO - SUCCESS    Typed element: <name->wd>, Spend 0.03800201416015625 seconds
+2019-10-18 16:31:20,107 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.02500128746032715 seconds
+2019-10-18 16:31:20,132 - root - INFO - SUCCESS    Typed element: <class->quickdelete>, Spend 0.022001266479492188 seconds
+2019-10-18 16:31:20,159 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="kw"]>, Spend 0.026001453399658203 seconds
+2019-10-18 16:31:22,855 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:31:56,258 - root - INFO - ############################### START ###############################
+2019-10-18 16:31:59,319 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.8371052742004395 seconds
+2019-10-18 16:31:59,325 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.005000114440917969 seconds
+2019-10-18 16:31:59,368 - root - INFO - SUCCESS    Typed element: <name->wd>, Spend 0.04100227355957031 seconds
+2019-10-18 16:31:59,395 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.024001359939575195 seconds
+2019-10-18 16:31:59,427 - root - INFO - SUCCESS    Typed element: <class->quickdelete>, Spend 0.03000164031982422 seconds
+2019-10-18 16:32:12,131 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:33:00,085 - root - INFO - ############################### START ###############################
+2019-10-18 16:33:03,273 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.9631125926971436 seconds
+2019-10-18 16:33:03,279 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003999948501586914 seconds
+2019-10-18 16:33:03,339 - root - INFO - SUCCESS    Typed element: <name->wd>, Spend 0.05700325965881348 seconds
+2019-10-18 16:33:03,381 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04000234603881836 seconds
+2019-10-18 16:33:03,412 - root - INFO - SUCCESS    Typed element: <class->quickdelete>, Spend 0.03000164031982422 seconds
+2019-10-18 16:33:06,342 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:34:43,667 - root - INFO - ############################### START ###############################
+2019-10-18 16:34:51,116 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 6.238356828689575 seconds
+2019-10-18 16:34:51,130 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.011000633239746094 seconds
+2019-10-18 16:34:51,210 - root - INFO - SUCCESS    Typed element: <name->wd>, Spend 0.07700443267822266 seconds
+2019-10-18 16:34:51,247 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03500199317932129 seconds
+2019-10-18 16:34:51,322 - root - INFO - SUCCESS    Typed element: <class->quickdelete>, Spend 0.07300400733947754 seconds
+2019-10-18 16:34:54,112 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:35:19,220 - root - INFO - ############################### START ###############################
+2019-10-18 16:35:25,169 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.746271371841431 seconds
+2019-10-18 16:35:25,257 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.08600473403930664 seconds
+2019-10-18 16:35:25,652 - root - INFO - SUCCESS    Typed element: <name->wd>, Spend 0.39202237129211426 seconds
+2019-10-18 16:35:25,685 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.031001567840576172 seconds
+2019-10-18 16:35:25,723 - root - INFO - SUCCESS    Typed element: <class->quickdelete>, Spend 0.03500199317932129 seconds
+2019-10-18 16:35:25,804 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="kw"]>, Spend 0.07900452613830566 seconds
+2019-10-18 16:35:28,567 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:35:59,572 - root - INFO - ############################### START ###############################
+2019-10-18 16:36:04,487 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.813103437423706 seconds
+2019-10-18 16:36:04,493 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000020980834961 seconds
+2019-10-18 16:36:04,538 - root - INFO - SUCCESS    Typed element: <name->wd>, Spend 0.04200243949890137 seconds
+2019-10-18 16:36:04,567 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.026001453399658203 seconds
+2019-10-18 16:36:04,594 - root - INFO - SUCCESS    Typed element: <class->quickdelete>, Spend 0.02500152587890625 seconds
+2019-10-18 16:36:17,658 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:41:56,058 - root - INFO - ############################### START ###############################
+2019-10-18 16:41:58,693 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4650838375091553 seconds
+2019-10-18 16:41:58,702 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.008000612258911133 seconds
+2019-10-18 16:41:58,763 - root - INFO - SUCCESS    Typed element: <name->wd>, Spend 0.05800318717956543 seconds
+2019-10-18 16:41:58,789 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.023001432418823242 seconds
+2019-10-18 16:41:58,814 - root - INFO - SUCCESS    Typed element: <class->quickdelete>, Spend 0.022001266479492188 seconds
+2019-10-18 16:42:11,694 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:43:44,681 - root - INFO - ############################### START ###############################
+2019-10-18 16:43:47,439 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5090866088867188 seconds
+2019-10-18 16:43:47,444 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000020980834961 seconds
+2019-10-18 16:43:47,505 - root - INFO - SUCCESS    Typed element: <name->wd>, Spend 0.05700325965881348 seconds
+2019-10-18 16:43:47,577 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.07000374794006348 seconds
+2019-10-18 16:43:47,606 - root - INFO - SUCCESS    Typed element: <class->quickdelete>, Spend 0.027001619338989258 seconds
+2019-10-18 16:43:57,676 - root - INFO - FAIL       Unable find element: <xpath->//*[@id="w"]>, Spend 10.066575765609741 seconds
+2019-10-18 16:44:00,701 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:46:07,268 - root - INFO - ############################### START ###############################
+2019-10-18 16:46:10,140 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.674095630645752 seconds
+2019-10-18 16:46:10,145 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0020003318786621094 seconds
+2019-10-18 16:46:10,187 - root - INFO - SUCCESS    Typed element: <name->wd>, Spend 0.0390019416809082 seconds
+2019-10-18 16:46:10,213 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.02300119400024414 seconds
+2019-10-18 16:46:10,242 - root - INFO - SUCCESS    Typed element: <class->quickdelete>, Spend 0.026001453399658203 seconds
+2019-10-18 16:46:20,308 - root - INFO - FAIL       Unable find element: <xpath->//*[@id="w"]>, Spend 10.06557559967041 seconds
+2019-10-18 16:46:23,194 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:54:36,653 - root - INFO - ############################### START ###############################
+2019-10-18 16:54:45,079 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 7.269415616989136 seconds
+2019-10-18 16:54:45,087 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0060002803802490234 seconds
+2019-10-18 16:54:45,134 - root - INFO - SUCCESS    Typed element name: <name->wd>, Spend 0.044002532958984375 seconds
+2019-10-18 16:54:45,174 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.03800225257873535 seconds
+2019-10-18 16:54:45,209 - root - INFO - SUCCESS    Typed element class: <class->quickdelete>, Spend 0.03200173377990723 seconds
+2019-10-18 16:54:55,265 - root - INFO - FAIL       Unable find element xpaht: <xpath->//*[@id="w"]>, Spend 10.053575038909912 seconds
+2019-10-18 16:54:58,119 - root - INFO - ###############################  END  ###############################
+2019-10-18 16:58:43,082 - root - INFO - ############################### START ###############################
+2019-10-18 16:58:46,471 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.2011258602142334 seconds
+2019-10-18 16:58:46,480 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.006000041961669922 seconds
+2019-10-18 16:58:46,520 - root - INFO - SUCCESS    Typed element name: <name->wd>, Spend 0.03800201416015625 seconds
+2019-10-18 16:58:46,554 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.03200173377990723 seconds
+2019-10-18 16:58:46,613 - root - INFO - SUCCESS    Typed element class: <class->quickdelete>, Spend 0.05700325965881348 seconds
+2019-10-18 16:58:46,644 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="kw"]>, Spend 0.029001712799072266 seconds
+2019-10-18 16:58:56,717 - root - INFO - FAIL       Unable find element xpath: <xpath->//*[@id="s_kw_wrap"]>, Spend 10.070575952529907 seconds
+2019-10-18 16:58:59,680 - root - INFO - ###############################  END  ###############################
+2019-10-18 17:00:23,020 - root - INFO - ############################### START ###############################
+2019-10-18 17:00:30,770 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 6.563375234603882 seconds
+2019-10-18 17:00:30,780 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.009000539779663086 seconds
+2019-10-18 17:00:30,819 - root - INFO - SUCCESS    Typed element name: <name->wd>, Spend 0.0370023250579834 seconds
+2019-10-18 17:00:30,851 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.03000164031982422 seconds
+2019-10-18 17:00:30,881 - root - INFO - SUCCESS    Typed element class: <class->quickdelete>, Spend 0.02800154685974121 seconds
+2019-10-18 17:00:30,917 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="kw"]>, Spend 0.03500175476074219 seconds
+2019-10-18 17:00:30,951 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="kw"]>, Spend 0.03300189971923828 seconds
+2019-10-18 17:00:30,980 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.027001619338989258 seconds
+2019-10-18 17:00:34,731 - root - INFO - ###############################  END  ###############################
+2019-10-18 17:23:21,118 - root - INFO - ############################### START ###############################
+2019-10-18 17:23:41,420 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 18.5000581741333 seconds
+2019-10-18 17:23:41,429 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.008000373840332031 seconds
+2019-10-18 17:23:41,463 - root - INFO - SUCCESS    Typed element name: <name->wd>, Spend 0.03200173377990723 seconds
+2019-10-18 17:23:41,487 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.023001432418823242 seconds
+2019-10-18 17:23:41,512 - root - INFO - SUCCESS    Typed element class: <class->quickdelete>, Spend 0.024001121520996094 seconds
+2019-10-18 17:23:41,544 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="kw"]>, Spend 0.03000187873840332 seconds
+2019-10-18 17:23:41,563 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="kw"]>, Spend 0.019001007080078125 seconds
+2019-10-18 17:23:41,581 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.016000747680664062 seconds
+2019-10-18 17:23:41,602 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.02000117301940918 seconds
+2019-10-18 17:23:52,674 - root - INFO - FAIL       Unable set wait current element <class->_ipt> display in 5 seconds, Spend 11.070633172988892 seconds
+2019-10-18 17:23:55,673 - root - INFO - ###############################  END  ###############################
+2019-10-18 17:24:44,871 - root - INFO - ############################### START ###############################
+2019-10-18 17:25:02,096 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 16.06691884994507 seconds
+2019-10-18 17:25:02,100 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0019998550415039062 seconds
+2019-10-18 17:25:02,131 - root - INFO - SUCCESS    Typed element name: <name->wd>, Spend 0.03000164031982422 seconds
+2019-10-18 17:25:02,161 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.02800154685974121 seconds
+2019-10-18 17:25:02,187 - root - INFO - SUCCESS    Typed element class: <class->quickdelete>, Spend 0.024001598358154297 seconds
+2019-10-18 17:25:02,212 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="kw"]>, Spend 0.024001121520996094 seconds
+2019-10-18 17:25:02,233 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="kw"]>, Spend 0.019000768661499023 seconds
+2019-10-18 17:25:02,255 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.021001338958740234 seconds
+2019-10-18 17:25:02,280 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.024001121520996094 seconds
+2019-10-18 17:25:02,308 - root - INFO - SUCCESS    Set wait current element <class->s_ipt> display in 5 seconds, Spend 0.026001453399658203 seconds
+2019-10-18 17:25:02,325 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.016001224517822266 seconds
+2019-10-18 17:25:02,592 - root - INFO - SUCCESS    Typed element: <class->s_ipt> content: 测试05, Spend 0.2830162048339844 seconds
+2019-10-18 17:25:02,618 - root - INFO - SUCCESS    Set wait current element <id->su> display in 5 seconds, Spend 0.024001598358154297 seconds
+2019-10-18 17:25:02,634 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.01500082015991211 seconds
+2019-10-18 17:25:02,883 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.07200407981872559 seconds
+2019-10-18 17:25:03,044 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.23301315307617188 seconds
+2019-10-18 17:25:05,740 - root - INFO - ###############################  END  ###############################
+2019-10-18 17:27:43,222 - root - INFO - ############################### START ###############################
+2019-10-18 17:28:16,100 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 31.73381495475769 seconds
+2019-10-18 17:28:16,105 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-18 17:28:16,145 - root - INFO - SUCCESS    Typed element name: <name->wd>, Spend 0.03800225257873535 seconds
+2019-10-18 17:28:16,172 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.02500128746032715 seconds
+2019-10-18 17:28:16,197 - root - INFO - SUCCESS    Typed element class: <class->quickdelete>, Spend 0.022001028060913086 seconds
+2019-10-18 17:28:16,225 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="kw"]>, Spend 0.02500176429748535 seconds
+2019-10-18 17:28:16,243 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="kw"]>, Spend 0.017000913619995117 seconds
+2019-10-18 17:28:16,265 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.019001007080078125 seconds
+2019-10-18 17:28:16,283 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.016000986099243164 seconds
+2019-10-18 17:28:16,324 - root - INFO - SUCCESS    Set wait current element: <class->s_ipt> display in 5 seconds, Spend 0.04000234603881836 seconds
+2019-10-18 17:28:16,347 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.021001338958740234 seconds
+2019-10-18 17:28:16,575 - root - INFO - SUCCESS    Typed element: <class->s_ipt> content: 测试05, Spend 0.24801421165466309 seconds
+2019-10-18 17:28:16,607 - root - INFO - SUCCESS    Set wait current element: <id->su> display in 5 seconds, Spend 0.029001474380493164 seconds
+2019-10-18 17:28:16,625 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.016000747680664062 seconds
+2019-10-18 17:28:16,815 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.022001266479492188 seconds
+2019-10-18 17:28:16,925 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.13200759887695312 seconds
+2019-10-18 17:28:20,118 - root - INFO - ###############################  END  ###############################
+2019-10-18 17:31:27,485 - root - INFO - ############################### START ###############################
+2019-10-18 17:31:30,825 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.9701125621795654 seconds
+2019-10-18 17:31:30,834 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.00700068473815918 seconds
+2019-10-18 17:31:30,889 - root - INFO - SUCCESS    Typed element name: <name->wd>, Spend 0.054003000259399414 seconds
+2019-10-18 17:31:30,923 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.03200197219848633 seconds
+2019-10-18 17:31:30,958 - root - INFO - SUCCESS    Typed element class: <class->quickdelete>, Spend 0.034002065658569336 seconds
+2019-10-18 17:31:30,988 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="kw"]>, Spend 0.02800154685974121 seconds
+2019-10-18 17:31:31,011 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="kw"]>, Spend 0.022001028060913086 seconds
+2019-10-18 17:31:31,036 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.024001598358154297 seconds
+2019-10-18 17:31:31,057 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.02000141143798828 seconds
+2019-10-18 17:31:31,089 - root - INFO - SUCCESS    Set wait current element: <class->s_ipt> display in 5 seconds, Spend 0.03000164031982422 seconds
+2019-10-18 17:31:31,114 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.023001432418823242 seconds
+2019-10-18 17:31:31,554 - root - INFO - SUCCESS    Typed element: <class->s_ipt> content: 测试05, Spend 0.4630262851715088 seconds
+2019-10-18 17:31:31,599 - root - INFO - SUCCESS    Set wait current element: <id->su> display in 5 seconds, Spend 0.044002532958984375 seconds
+2019-10-18 17:31:31,621 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.02000117301940918 seconds
+2019-10-18 17:31:31,876 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.08600497245788574 seconds
+2019-10-18 17:31:32,034 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.24501395225524902 seconds
+2019-10-18 17:31:32,519 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.48302793502807617 seconds
+2019-10-18 17:31:33,220 - root - INFO - SUCCESS    Clear and send element: <class->s_ipt> content: 测试05, Spend 1.184067964553833 seconds
+2019-10-18 17:31:36,006 - root - INFO - ###############################  END  ###############################
+2019-10-18 17:32:48,819 - root - INFO - ############################### START ###############################
+2019-10-18 17:32:51,305 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3630781173706055 seconds
+2019-10-18 17:32:51,312 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.005000114440917969 seconds
+2019-10-18 17:32:51,358 - root - INFO - SUCCESS    Typed element name: <name->wd>, Spend 0.044002532958984375 seconds
+2019-10-18 17:32:51,387 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.02800154685974121 seconds
+2019-10-18 17:32:51,441 - root - INFO - SUCCESS    Typed element class: <class->quickdelete>, Spend 0.052002668380737305 seconds
+2019-10-18 17:32:51,470 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="kw"]>, Spend 0.029001712799072266 seconds
+2019-10-18 17:32:51,499 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="kw"]>, Spend 0.02800130844116211 seconds
+2019-10-18 17:32:51,522 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.021001100540161133 seconds
+2019-10-18 17:32:51,546 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.022001266479492188 seconds
+2019-10-18 17:32:51,579 - root - INFO - SUCCESS    Set wait current element: <class->s_ipt> display in 5 seconds, Spend 0.031001806259155273 seconds
+2019-10-18 17:32:51,604 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.024001359939575195 seconds
+2019-10-18 17:32:52,030 - root - INFO - SUCCESS    Typed element: <class->s_ipt> content: 测试05, Spend 0.4500257968902588 seconds
+2019-10-18 17:32:52,083 - root - INFO - SUCCESS    Set wait current element: <id->su> display in 5 seconds, Spend 0.05200314521789551 seconds
+2019-10-18 17:32:52,119 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.034001827239990234 seconds
+2019-10-18 17:32:52,447 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.04600238800048828 seconds
+2019-10-18 17:32:53,086 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.6840388774871826 seconds
+2019-10-18 17:32:53,306 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.21901249885559082 seconds
+2019-10-18 17:32:54,005 - root - INFO - SUCCESS    Clear and send element: <class->s_ipt> content: 测试05, Spend 0.9180524349212646 seconds
+2019-10-18 17:32:54,071 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.06500387191772461 seconds
+2019-10-18 17:32:54,240 - root - INFO - SUCCESS    Clear element: <class->s_ipt>, Spend 0.23301362991333008 seconds
+2019-10-18 17:32:54,244 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0030002593994140625 seconds
+2019-10-18 17:32:57,094 - root - INFO - ###############################  END  ###############################
+2019-10-18 17:34:18,165 - root - INFO - ############################### START ###############################
+2019-10-18 17:34:20,654 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3510773181915283 seconds
+2019-10-18 17:34:20,664 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.008000373840332031 seconds
+2019-10-18 17:34:20,698 - root - INFO - SUCCESS    Typed element name: <name->wd>, Spend 0.031002044677734375 seconds
+2019-10-18 17:34:20,722 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.022001266479492188 seconds
+2019-10-18 17:34:20,746 - root - INFO - SUCCESS    Typed element class: <class->quickdelete>, Spend 0.024001598358154297 seconds
+2019-10-18 17:34:20,772 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="kw"]>, Spend 0.024001359939575195 seconds
+2019-10-18 17:34:20,791 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="kw"]>, Spend 0.018001079559326172 seconds
+2019-10-18 17:34:20,807 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.014000892639160156 seconds
+2019-10-18 17:34:20,824 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.01500082015991211 seconds
+2019-10-18 17:34:20,850 - root - INFO - SUCCESS    Set wait current element: <class->s_ipt> display in 5 seconds, Spend 0.024001359939575195 seconds
+2019-10-18 17:34:20,869 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.019001245498657227 seconds
+2019-10-18 17:34:21,212 - root - INFO - SUCCESS    Typed element: <class->s_ipt> content: 测试05, Spend 0.3610208034515381 seconds
+2019-10-18 17:34:21,236 - root - INFO - SUCCESS    Set wait current element: <id->su> display in 5 seconds, Spend 0.022001028060913086 seconds
+2019-10-18 17:34:21,258 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.021001100540161133 seconds
+2019-10-18 17:34:21,434 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.04800271987915039 seconds
+2019-10-18 17:34:21,546 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.15900897979736328 seconds
+2019-10-18 17:34:21,567 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.02000141143798828 seconds
+2019-10-18 17:34:22,433 - root - INFO - SUCCESS    Clear and send element: <class->s_ipt> content: 测试05, Spend 0.8850507736206055 seconds
+2019-10-18 17:34:22,461 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.027001619338989258 seconds
+2019-10-18 17:34:22,568 - root - INFO - SUCCESS    Clear element: <class->s_ipt>, Spend 0.13300752639770508 seconds
+2019-10-18 17:34:22,572 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004000425338745117 seconds
+2019-10-18 17:34:25,605 - root - INFO - ###############################  END  ###############################
+2019-10-18 17:36:32,075 - root - INFO - ############################### START ###############################
+2019-10-18 17:36:35,317 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.030116319656372 seconds
+2019-10-18 17:36:35,322 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000020980834961 seconds
+2019-10-18 17:36:35,376 - root - INFO - SUCCESS    Typed element name: <name->wd>, Spend 0.05200314521789551 seconds
+2019-10-18 17:36:35,405 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.027001619338989258 seconds
+2019-10-18 17:36:35,439 - root - INFO - SUCCESS    Typed element class: <class->quickdelete>, Spend 0.03200173377990723 seconds
+2019-10-18 17:36:35,471 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="kw"]>, Spend 0.03000164031982422 seconds
+2019-10-18 17:36:35,495 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="kw"]>, Spend 0.021001100540161133 seconds
+2019-10-18 17:36:35,520 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.02200150489807129 seconds
+2019-10-18 17:36:35,543 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.02000117301940918 seconds
+2019-10-18 17:36:35,586 - root - INFO - SUCCESS    Set wait current element: <class->s_ipt> display in 5 seconds, Spend 0.04000210762023926 seconds
+2019-10-18 17:36:35,609 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.02000117301940918 seconds
+2019-10-18 17:36:36,109 - root - INFO - SUCCESS    Typed element: <class->s_ipt> content: 测试05, Spend 0.5210297107696533 seconds
+2019-10-18 17:36:36,155 - root - INFO - SUCCESS    Set wait current element: <id->su> display in 5 seconds, Spend 0.04300236701965332 seconds
+2019-10-18 17:36:36,183 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.026001453399658203 seconds
+2019-10-18 17:36:36,472 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.059003353118896484 seconds
+2019-10-18 17:36:36,601 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.18801069259643555 seconds
+2019-10-18 17:36:37,197 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.59403395652771 seconds
+2019-10-18 17:36:37,801 - root - INFO - SUCCESS    Clear and send element: <class->s_ipt> content: 测试05, Spend 1.197068214416504 seconds
+2019-10-18 17:36:37,850 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.047002553939819336 seconds
+2019-10-18 17:36:37,990 - root - INFO - SUCCESS    Clear element: <class->s_ipt>, Spend 0.1870105266571045 seconds
+2019-10-18 17:36:38,013 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.022001266479492188 seconds
+2019-10-18 17:36:40,844 - root - INFO - ###############################  END  ###############################
+2019-10-18 17:37:04,210 - root - INFO - ############################### START ###############################
+2019-10-18 17:37:06,987 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.547088384628296 seconds
+2019-10-18 17:37:06,992 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000020980834961 seconds
+2019-10-18 17:37:07,032 - root - INFO - SUCCESS    Typed element name: <name->wd>, Spend 0.03800225257873535 seconds
+2019-10-18 17:37:07,060 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.02800154685974121 seconds
+2019-10-18 17:37:07,085 - root - INFO - SUCCESS    Typed element class: <class->quickdelete>, Spend 0.02300119400024414 seconds
+2019-10-18 17:37:07,113 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="kw"]>, Spend 0.027001380920410156 seconds
+2019-10-18 17:37:07,134 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="kw"]>, Spend 0.019001007080078125 seconds
+2019-10-18 17:37:07,152 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.016000747680664062 seconds
+2019-10-18 17:37:07,169 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.01500082015991211 seconds
+2019-10-18 17:37:07,217 - root - INFO - SUCCESS    Set wait current element: <class->s_ipt> display in 5 seconds, Spend 0.04700279235839844 seconds
+2019-10-18 17:37:07,237 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.019001007080078125 seconds
+2019-10-18 17:37:07,707 - root - INFO - SUCCESS    Typed element: <class->s_ipt> content: 测试05, Spend 0.489027738571167 seconds
+2019-10-18 17:37:07,765 - root - INFO - SUCCESS    Set wait current element: <id->su> display in 5 seconds, Spend 0.05700325965881348 seconds
+2019-10-18 17:37:07,788 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.02200150489807129 seconds
+2019-10-18 17:37:08,086 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.09400534629821777 seconds
+2019-10-18 17:37:08,692 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.7000401020050049 seconds
+2019-10-18 17:37:08,907 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.2130122184753418 seconds
+2019-10-18 17:37:09,200 - root - INFO - SUCCESS    Clear and send element: <class->s_ipt> content: 测试05, Spend 0.5060286521911621 seconds
+2019-10-18 17:37:09,234 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.03200221061706543 seconds
+2019-10-18 17:37:09,388 - root - INFO - SUCCESS    Clear element: <class->s_ipt>, Spend 0.1870110034942627 seconds
+2019-10-18 17:37:09,393 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003999948501586914 seconds
+2019-10-18 17:37:13,445 - root - INFO - ###############################  END  ###############################
+2019-10-18 17:58:27,313 - root - INFO - ############################### START ###############################
+2019-10-18 17:58:30,889 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.290130615234375 seconds
+2019-10-18 17:58:30,904 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.012000322341918945 seconds
+2019-10-18 17:58:30,962 - root - INFO - SUCCESS    Typed element name: <name->wd>, Spend 0.05600309371948242 seconds
+2019-10-18 17:58:31,020 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.05600309371948242 seconds
+2019-10-18 17:58:31,082 - root - INFO - SUCCESS    Typed element class: <class->quickdelete>, Spend 0.05900311470031738 seconds
+2019-10-18 17:58:31,314 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="kw"]>, Spend 0.23001313209533691 seconds
+2019-10-18 17:58:31,513 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="kw"]>, Spend 0.19601106643676758 seconds
+2019-10-18 17:58:31,557 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.04300236701965332 seconds
+2019-10-18 17:58:31,691 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.13100743293762207 seconds
+2019-10-18 17:58:31,805 - root - INFO - SUCCESS    Set wait current element: <class->s_ipt> display in 5 seconds, Spend 0.11100649833679199 seconds
+2019-10-18 17:58:32,141 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.33401942253112793 seconds
+2019-10-18 17:58:33,439 - root - INFO - SUCCESS    Typed element: <class->s_ipt> content: 测试05, Spend 1.6320934295654297 seconds
+2019-10-18 17:58:33,492 - root - INFO - SUCCESS    Set wait current element: <id->su> display in 5 seconds, Spend 0.04900312423706055 seconds
+2019-10-18 17:58:33,514 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.02000117301940918 seconds
+2019-10-18 17:58:34,725 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.8950512409210205 seconds
+2019-10-18 17:58:35,264 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 1.433081865310669 seconds
+2019-10-18 17:58:35,294 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.027001619338989258 seconds
+2019-10-18 17:58:35,946 - root - INFO - SUCCESS    Clear and send element: <class->s_ipt> content: 测试05, Spend 0.6800389289855957 seconds
+2019-10-18 17:58:35,992 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.04300236701965332 seconds
+2019-10-18 17:58:36,163 - root - INFO - SUCCESS    Clear element: <class->s_ipt>, Spend 0.21401214599609375 seconds
+2019-10-18 17:58:36,171 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.006000518798828125 seconds
+2019-10-18 17:58:40,745 - root - INFO - ###############################  END  ###############################
+2019-10-18 17:58:50,379 - root - INFO - 发送邮件成功
+2019-10-18 23:43:09,767 - root - INFO - ############################### START ###############################
+2019-10-18 23:43:11,674 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.7780444622039795 seconds
+2019-10-18 23:43:11,706 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.029001712799072266 seconds
+2019-10-18 23:43:11,905 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.2280130386352539 seconds
+2019-10-18 23:43:11,925 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.019001007080078125 seconds
+2019-10-18 23:43:12,035 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.1280074119567871 seconds
+2019-10-18 23:43:18,712 - root - INFO - ###############################  END  ###############################
+2019-10-18 23:43:21,820 - root - INFO - ############################### START ###############################
+2019-10-18 23:43:27,675 - root - INFO - ###############################  END  ###############################
+2019-10-18 23:43:27,680 - root - INFO - ############################### START ###############################
+2019-10-18 23:43:31,465 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1340651512145996 seconds
+2019-10-18 23:43:32,234 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.7650437355041504 seconds
+2019-10-18 23:43:32,240 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.003999948501586914 seconds
+2019-10-18 23:43:32,266 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.02500152587890625 seconds
+2019-10-18 23:43:32,419 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.1780104637145996 seconds
+2019-10-18 23:43:32,421 - root - INFO - FAIL       Unable to click element: <id-su>, Spend 0.0 seconds
+2019-10-18 23:43:36,045 - root - INFO - ###############################  END  ###############################
+2019-10-18 23:43:38,785 - root - INFO - ############################### START ###############################
+2019-10-18 23:43:40,919 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.9900567531585693 seconds
+2019-10-18 23:43:40,950 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.029001712799072266 seconds
+2019-10-18 23:43:41,165 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.24301385879516602 seconds
+2019-10-18 23:43:41,188 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.021001100540161133 seconds
+2019-10-18 23:43:41,317 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.1500086784362793 seconds
+2019-10-18 23:43:48,838 - root - INFO - ###############################  END  ###############################
+2019-10-18 23:43:51,540 - root - INFO - ############################### START ###############################
+2019-10-18 23:43:53,822 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.084062099456787 seconds
+2019-10-18 23:43:53,826 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-18 23:43:53,855 - root - INFO - SUCCESS    Typed element name: <name->wd>, Spend 0.02800154685974121 seconds
+2019-10-18 23:43:53,875 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.018001079559326172 seconds
+2019-10-18 23:43:53,892 - root - INFO - SUCCESS    Typed element class: <class->quickdelete>, Spend 0.016000747680664062 seconds
+2019-10-18 23:43:53,914 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="kw"]>, Spend 0.020000934600830078 seconds
+2019-10-18 23:43:53,929 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="kw"]>, Spend 0.01500082015991211 seconds
+2019-10-18 23:43:53,942 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.012000322341918945 seconds
+2019-10-18 23:43:53,954 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.011000633239746094 seconds
+2019-10-18 23:43:53,972 - root - INFO - SUCCESS    Set wait current element: <class->s_ipt> display in 5 seconds, Spend 0.016000986099243164 seconds
+2019-10-18 23:43:53,984 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.012000560760498047 seconds
+2019-10-18 23:43:54,144 - root - INFO - SUCCESS    Typed element: <class->s_ipt> content: 测试05, Spend 0.17101001739501953 seconds
+2019-10-18 23:43:54,172 - root - INFO - SUCCESS    Set wait current element: <id->su> display in 5 seconds, Spend 0.027001380920410156 seconds
+2019-10-18 23:43:54,188 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.014000654220581055 seconds
+2019-10-18 23:43:54,294 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.019001007080078125 seconds
+2019-10-18 23:43:54,356 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08100438117980957 seconds
+2019-10-18 23:43:54,373 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.01500082015991211 seconds
+2019-10-18 23:43:54,905 - root - INFO - SUCCESS    Clear and send element: <class->s_ipt> content: 测试05, Spend 0.5470311641693115 seconds
+2019-10-18 23:43:54,932 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.02500152587890625 seconds
+2019-10-18 23:43:55,028 - root - INFO - SUCCESS    Clear element: <class->s_ipt>, Spend 0.12200689315795898 seconds
+2019-10-18 23:43:55,032 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000020980834961 seconds
+2019-10-18 23:43:58,418 - root - INFO - ###############################  END  ###############################
+2019-10-18 23:44:02,947 - root - INFO - 发送邮件成功
+2019-10-18 23:49:39,011 - root - INFO - ############################### START ###############################
+2019-10-18 23:49:40,867 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.6920394897460938 seconds
+2019-10-18 23:49:40,873 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.005000591278076172 seconds
+2019-10-18 23:49:40,897 - root - INFO - SUCCESS    Typed element name: <name->wd>, Spend 0.022001028060913086 seconds
+2019-10-18 23:49:40,917 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.018001079559326172 seconds
+2019-10-18 23:49:40,937 - root - INFO - SUCCESS    Typed element class: <class->quickdelete>, Spend 0.017000913619995117 seconds
+2019-10-18 23:49:40,957 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="kw"]>, Spend 0.019001007080078125 seconds
+2019-10-18 23:49:40,972 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="kw"]>, Spend 0.014000415802001953 seconds
+2019-10-18 23:49:40,986 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.011000633239746094 seconds
+2019-10-18 23:49:41,000 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.012000322341918945 seconds
+2019-10-18 23:49:41,023 - root - INFO - SUCCESS    Set wait current element: <class->s_ipt> display in 5 seconds, Spend 0.02000117301940918 seconds
+2019-10-18 23:49:41,036 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.012000799179077148 seconds
+2019-10-18 23:49:41,241 - root - INFO - SUCCESS    Typed element: <class->s_ipt> content: 测试05, Spend 0.21601223945617676 seconds
+2019-10-18 23:49:41,263 - root - INFO - SUCCESS    Set wait current element: <id->su> display in 5 seconds, Spend 0.02000117301940918 seconds
+2019-10-18 23:49:41,279 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.014000654220581055 seconds
+2019-10-18 23:49:41,395 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.019001007080078125 seconds
+2019-10-18 23:49:41,465 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.0890049934387207 seconds
+2019-10-18 23:49:41,484 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.014001131057739258 seconds
+2019-10-18 23:49:42,061 - root - INFO - SUCCESS    Clear and send element: <class->s_ipt> content: 测试05, Spend 0.5910341739654541 seconds
+2019-10-18 23:49:42,076 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.012000799179077148 seconds
+2019-10-18 23:49:42,173 - root - INFO - SUCCESS    Clear element: <class->s_ipt>, Spend 0.10900640487670898 seconds
+2019-10-18 23:49:42,176 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0019998550415039062 seconds
+2019-10-18 23:49:44,869 - root - INFO - ###############################  END  ###############################

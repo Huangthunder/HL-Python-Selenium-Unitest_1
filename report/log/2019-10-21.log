@@ -1,0 +1,1007 @@
+2019-10-21 09:37:43,919 - root - INFO - ############################### START ###############################
+2019-10-21 09:37:47,521 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.0111148357391357 seconds
+2019-10-21 09:37:47,588 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.06400346755981445 seconds
+2019-10-21 09:37:47,871 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.34701967239379883 seconds
+2019-10-21 09:37:47,900 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.027001619338989258 seconds
+2019-10-21 09:37:48,056 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.18301033973693848 seconds
+2019-10-21 09:37:54,740 - root - INFO - ###############################  END  ###############################
+2019-10-21 09:37:56,970 - root - INFO - 发送邮件成功
+2019-10-21 09:42:19,494 - root - INFO - ############################### START ###############################
+2019-10-21 09:42:23,476 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.8301618099212646 seconds
+2019-10-21 09:42:23,506 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03000164031982422 seconds
+2019-10-21 09:42:23,691 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.21401214599609375 seconds
+2019-10-21 09:42:23,721 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.029001712799072266 seconds
+2019-10-21 09:42:23,831 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.13800787925720215 seconds
+2019-10-21 09:42:28,104 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.24901437759399414 seconds
+2019-10-21 09:42:28,121 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.016000986099243164 seconds
+2019-10-21 09:42:28,249 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试02, Spend 0.14400815963745117 seconds
+2019-10-21 09:42:28,263 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.012000799179077148 seconds
+2019-10-21 09:42:28,356 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.10600614547729492 seconds
+2019-10-21 09:42:33,499 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.23401331901550293 seconds
+2019-10-21 09:42:33,526 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.026001453399658203 seconds
+2019-10-21 09:42:33,648 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.14900851249694824 seconds
+2019-10-21 09:42:33,671 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.022001266479492188 seconds
+2019-10-21 09:42:33,758 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.10800600051879883 seconds
+2019-10-21 09:42:37,450 - root - INFO - ###############################  END  ###############################
+2019-10-21 09:47:24,859 - root - INFO - ############################### START ###############################
+2019-10-21 09:47:27,968 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.1100635528564453 seconds
+2019-10-21 09:47:28,004 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03300189971923828 seconds
+2019-10-21 09:47:28,300 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.3280186653137207 seconds
+2019-10-21 09:47:28,334 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03200173377990723 seconds
+2019-10-21 09:47:28,555 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.25301432609558105 seconds
+2019-10-21 09:47:32,885 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.31801819801330566 seconds
+2019-10-21 09:47:32,918 - root - INFO - FAIL       Unable to send element: <id->w> content: 测试02, Spend 0.031001806259155273 seconds
+2019-10-21 09:47:33,279 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.34901976585388184 seconds
+2019-10-21 09:47:33,299 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.01700115203857422 seconds
+2019-10-21 09:47:33,454 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.17100977897644043 seconds
+2019-10-21 09:47:33,476 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.020000934600830078 seconds
+2019-10-21 09:47:33,605 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.14900827407836914 seconds
+2019-10-21 09:47:36,216 - root - INFO - ###############################  END  ###############################
+2019-10-21 09:48:09,595 - root - INFO - ############################### START ###############################
+2019-10-21 09:48:11,927 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.1700668334960938 seconds
+2019-10-21 09:48:11,957 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.028001785278320312 seconds
+2019-10-21 09:48:12,176 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.24701428413391113 seconds
+2019-10-21 09:48:12,199 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02100086212158203 seconds
+2019-10-21 09:48:12,328 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.15100836753845215 seconds
+2019-10-21 09:48:18,796 - root - INFO - ###############################  END  ###############################
+2019-10-21 09:49:28,289 - root - INFO - ############################### START ###############################
+2019-10-21 09:49:30,638 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2160694599151611 seconds
+2019-10-21 09:49:30,745 - root - INFO - FAIL       Unable to send element: <id->w> content: 测试02, Spend 0.10500621795654297 seconds
+2019-10-21 09:49:33,333 - root - INFO - ###############################  END  ###############################
+2019-10-21 09:49:46,106 - root - INFO - ############################### START ###############################
+2019-10-21 09:49:48,437 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.192068338394165 seconds
+2019-10-21 09:49:48,467 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.02800130844116211 seconds
+2019-10-21 09:49:48,707 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.2690150737762451 seconds
+2019-10-21 09:49:48,732 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.023001432418823242 seconds
+2019-10-21 09:49:48,852 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.14200854301452637 seconds
+2019-10-21 09:49:51,432 - root - INFO - ###############################  END  ###############################
+2019-10-21 09:50:06,090 - root - INFO - ############################### START ###############################
+2019-10-21 09:50:08,737 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4990859031677246 seconds
+2019-10-21 09:50:08,769 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.029001712799072266 seconds
+2019-10-21 09:50:08,959 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.22001266479492188 seconds
+2019-10-21 09:50:08,980 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.019000768661499023 seconds
+2019-10-21 09:50:09,102 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.1390078067779541 seconds
+2019-10-21 09:50:13,554 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.4300243854522705 seconds
+2019-10-21 09:50:13,576 - root - INFO - FAIL       Unable to send element: <id->w> content: 测试02, Spend 0.019001007080078125 seconds
+2019-10-21 09:50:14,836 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.36202073097229004 seconds
+2019-10-21 09:50:14,859 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.020000934600830078 seconds
+2019-10-21 09:50:14,994 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.15500879287719727 seconds
+2019-10-21 09:50:15,015 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.018001079559326172 seconds
+2019-10-21 09:50:15,087 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.09000515937805176 seconds
+2019-10-21 09:50:18,551 - root - INFO - ###############################  END  ###############################
+2019-10-21 09:50:21,878 - root - INFO - ############################### START ###############################
+2019-10-21 09:50:28,722 - root - INFO - ###############################  END  ###############################
+2019-10-21 09:50:28,724 - root - INFO - ############################### START ###############################
+2019-10-21 09:50:39,154 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 5.723327159881592 seconds
+2019-10-21 09:50:39,199 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.034002065658569336 seconds
+2019-10-21 09:50:39,403 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.2370138168334961 seconds
+2019-10-21 09:50:39,406 - root - INFO - FAIL       Unable to click element: <id-su>, Spend 0.0 seconds
+2019-10-21 09:50:42,752 - root - INFO - ###############################  END  ###############################
+2019-10-21 09:50:46,129 - root - INFO - ############################### START ###############################
+2019-10-21 09:50:50,214 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.9341678619384766 seconds
+2019-10-21 09:50:50,254 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03800201416015625 seconds
+2019-10-21 09:50:50,491 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.27501559257507324 seconds
+2019-10-21 09:50:50,519 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.0260012149810791 seconds
+2019-10-21 09:50:50,621 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.12700724601745605 seconds
+2019-10-21 09:50:58,242 - root - INFO - ###############################  END  ###############################
+2019-10-21 09:51:00,999 - root - INFO - ############################### START ###############################
+2019-10-21 09:51:05,283 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.1571807861328125 seconds
+2019-10-21 09:51:05,287 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000020980834961 seconds
+2019-10-21 09:51:05,311 - root - INFO - SUCCESS    Typed element name: <name->wd>, Spend 0.022001266479492188 seconds
+2019-10-21 09:51:05,330 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.01800084114074707 seconds
+2019-10-21 09:51:05,350 - root - INFO - SUCCESS    Typed element class: <class->quickdelete>, Spend 0.019001245498657227 seconds
+2019-10-21 09:51:05,368 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="kw"]>, Spend 0.018001079559326172 seconds
+2019-10-21 09:51:05,382 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="kw"]>, Spend 0.012000799179077148 seconds
+2019-10-21 09:51:05,396 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.013000965118408203 seconds
+2019-10-21 09:51:05,409 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.012000560760498047 seconds
+2019-10-21 09:51:05,429 - root - INFO - SUCCESS    Set wait current element: <class->s_ipt> display in 5 seconds, Spend 0.01800084114074707 seconds
+2019-10-21 09:51:05,442 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.012000560760498047 seconds
+2019-10-21 09:51:05,598 - root - INFO - SUCCESS    Typed element: <class->s_ipt> content: 测试05, Spend 0.16900968551635742 seconds
+2019-10-21 09:51:05,617 - root - INFO - SUCCESS    Set wait current element: <id->su> display in 5 seconds, Spend 0.017000913619995117 seconds
+2019-10-21 09:51:05,630 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.012000799179077148 seconds
+2019-10-21 09:51:05,730 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.019001007080078125 seconds
+2019-10-21 09:51:05,780 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.07000398635864258 seconds
+2019-10-21 09:51:05,810 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.02800154685974121 seconds
+2019-10-21 09:51:05,977 - root - INFO - SUCCESS    Clear and send element: <class->s_ipt> content: 测试05, Spend 0.19501137733459473 seconds
+2019-10-21 09:51:05,990 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.012000560760498047 seconds
+2019-10-21 09:51:06,059 - root - INFO - SUCCESS    Clear element: <class->s_ipt>, Spend 0.08000445365905762 seconds
+2019-10-21 09:51:06,062 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-21 09:51:07,729 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.7750442028045654 seconds
+2019-10-21 09:51:07,734 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-21 09:51:07,749 - root - INFO - SUCCESS    Typed element name: <name->wd>, Spend 0.014000654220581055 seconds
+2019-10-21 09:51:07,764 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.014000654220581055 seconds
+2019-10-21 09:51:07,778 - root - INFO - SUCCESS    Typed element class: <class->quickdelete>, Spend 0.012000799179077148 seconds
+2019-10-21 09:51:07,792 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="kw"]>, Spend 0.013000726699829102 seconds
+2019-10-21 09:51:07,805 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="kw"]>, Spend 0.012000799179077148 seconds
+2019-10-21 09:51:07,819 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.013000726699829102 seconds
+2019-10-21 09:51:07,832 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.012000560760498047 seconds
+2019-10-21 09:51:07,845 - root - INFO - SUCCESS    Set wait current element: <class->s_ipt> display in 5 seconds, Spend 0.012000322341918945 seconds
+2019-10-21 09:51:07,858 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.011000394821166992 seconds
+2019-10-21 09:51:07,969 - root - INFO - SUCCESS    Typed element: <class->s_ipt> content: 测试05, Spend 0.12300682067871094 seconds
+2019-10-21 09:51:07,985 - root - INFO - SUCCESS    Set wait current element: <id->su> display in 5 seconds, Spend 0.014000892639160156 seconds
+2019-10-21 09:51:07,999 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.012000799179077148 seconds
+2019-10-21 09:51:08,093 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.02000117301940918 seconds
+2019-10-21 09:51:08,157 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08400487899780273 seconds
+2019-10-21 09:51:08,175 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.014000654220581055 seconds
+2019-10-21 09:51:08,316 - root - INFO - SUCCESS    Clear and send element: <class->s_ipt> content: 测试05, Spend 0.15600872039794922 seconds
+2019-10-21 09:51:08,329 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.011000633239746094 seconds
+2019-10-21 09:51:08,399 - root - INFO - SUCCESS    Clear element: <class->s_ipt>, Spend 0.08200478553771973 seconds
+2019-10-21 09:51:08,402 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0010001659393310547 seconds
+2019-10-21 09:51:17,047 - root - INFO - ###############################  END  ###############################
+2019-10-21 10:03:40,285 - root - INFO - ############################### START ###############################
+2019-10-21 10:03:42,509 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.069061279296875 seconds
+2019-10-21 10:03:42,539 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.029001474380493164 seconds
+2019-10-21 10:03:42,693 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.18201041221618652 seconds
+2019-10-21 10:03:42,719 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.024001121520996094 seconds
+2019-10-21 10:03:42,809 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.11400651931762695 seconds
+2019-10-21 10:03:47,083 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.26001477241516113 seconds
+2019-10-21 10:03:47,107 - root - INFO - FAIL       Unable to send element: <id->w> content: 测试02, Spend 0.021001338958740234 seconds
+2019-10-21 10:03:48,252 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.2630147933959961 seconds
+2019-10-21 10:03:48,269 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.015001058578491211 seconds
+2019-10-21 10:03:48,419 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.1650094985961914 seconds
+2019-10-21 10:03:48,435 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.014000654220581055 seconds
+2019-10-21 10:03:48,545 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.12300705909729004 seconds
+2019-10-21 10:03:52,146 - root - INFO - ###############################  END  ###############################
+2019-10-21 10:03:55,385 - root - INFO - ############################### START ###############################
+2019-10-21 10:04:04,966 - root - INFO - ###############################  END  ###############################
+2019-10-21 10:04:04,968 - root - INFO - ############################### START ###############################
+2019-10-21 10:04:11,661 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.6610949039459229 seconds
+2019-10-21 10:04:11,716 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04200243949890137 seconds
+2019-10-21 10:04:12,014 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.34001946449279785 seconds
+2019-10-21 10:04:12,016 - root - INFO - FAIL       Unable to click element: <id-su>, Spend 0.0 seconds
+2019-10-21 10:04:15,486 - root - INFO - ###############################  END  ###############################
+2019-10-21 10:04:18,627 - root - INFO - ############################### START ###############################
+2019-10-21 10:04:21,127 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3670780658721924 seconds
+2019-10-21 10:04:21,164 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03500199317932129 seconds
+2019-10-21 10:04:21,421 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.29201674461364746 seconds
+2019-10-21 10:04:21,452 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.027001619338989258 seconds
+2019-10-21 10:04:21,602 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.17701029777526855 seconds
+2019-10-21 10:04:29,107 - root - INFO - ###############################  END  ###############################
+2019-10-21 10:04:31,889 - root - INFO - ############################### START ###############################
+2019-10-21 10:04:34,124 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.083061933517456 seconds
+2019-10-21 10:04:34,129 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003000020980834961 seconds
+2019-10-21 10:04:34,160 - root - INFO - SUCCESS    Typed element name: <name->wd>, Spend 0.03000164031982422 seconds
+2019-10-21 10:04:34,180 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.018001079559326172 seconds
+2019-10-21 10:04:34,198 - root - INFO - SUCCESS    Typed element class: <class->quickdelete>, Spend 0.017000913619995117 seconds
+2019-10-21 10:04:34,219 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="kw"]>, Spend 0.019001245498657227 seconds
+2019-10-21 10:04:34,234 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="kw"]>, Spend 0.014000654220581055 seconds
+2019-10-21 10:04:34,249 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.013000726699829102 seconds
+2019-10-21 10:04:34,262 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.013000726699829102 seconds
+2019-10-21 10:04:34,284 - root - INFO - SUCCESS    Set wait current element: <class->s_ipt> display in 5 seconds, Spend 0.02000117301940918 seconds
+2019-10-21 10:04:34,300 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.01500082015991211 seconds
+2019-10-21 10:04:34,491 - root - INFO - SUCCESS    Typed element: <class->s_ipt> content: 测试05, Spend 0.20701193809509277 seconds
+2019-10-21 10:04:34,516 - root - INFO - SUCCESS    Set wait current element: <id->su> display in 5 seconds, Spend 0.023001432418823242 seconds
+2019-10-21 10:04:34,534 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.017000913619995117 seconds
+2019-10-21 10:04:34,657 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.018001079559326172 seconds
+2019-10-21 10:04:34,723 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08400464057922363 seconds
+2019-10-21 10:04:34,740 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.015001058578491211 seconds
+2019-10-21 10:04:35,274 - root - INFO - SUCCESS    Clear and send element: <class->s_ipt> content: 测试05, Spend 0.5500316619873047 seconds
+2019-10-21 10:04:35,395 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.11900711059570312 seconds
+2019-10-21 10:04:35,574 - root - INFO - SUCCESS    Clear element: <class->s_ipt>, Spend 0.29901719093322754 seconds
+2019-10-21 10:04:35,580 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004000425338745117 seconds
+2019-10-21 10:04:36,986 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.239013671875 seconds
+2019-10-21 10:04:36,989 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-21 10:04:37,013 - root - INFO - SUCCESS    Typed element name: <name->wd>, Spend 0.02200150489807129 seconds
+2019-10-21 10:04:37,029 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.014000892639160156 seconds
+2019-10-21 10:04:37,045 - root - INFO - SUCCESS    Typed element class: <class->quickdelete>, Spend 0.014000892639160156 seconds
+2019-10-21 10:04:37,061 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="kw"]>, Spend 0.014000892639160156 seconds
+2019-10-21 10:04:37,077 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="kw"]>, Spend 0.016000747680664062 seconds
+2019-10-21 10:04:37,091 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.013000726699829102 seconds
+2019-10-21 10:04:37,107 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.014000654220581055 seconds
+2019-10-21 10:04:37,121 - root - INFO - SUCCESS    Set wait current element: <class->s_ipt> display in 5 seconds, Spend 0.013000726699829102 seconds
+2019-10-21 10:04:37,136 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.014000654220581055 seconds
+2019-10-21 10:04:37,266 - root - INFO - SUCCESS    Typed element: <class->s_ipt> content: 测试05, Spend 0.14400839805603027 seconds
+2019-10-21 10:04:37,282 - root - INFO - SUCCESS    Set wait current element: <id->su> display in 5 seconds, Spend 0.015001058578491211 seconds
+2019-10-21 10:04:37,296 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.013000726699829102 seconds
+2019-10-21 10:04:37,446 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.01800084114074707 seconds
+2019-10-21 10:04:37,522 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.09100508689880371 seconds
+2019-10-21 10:04:37,545 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.019001007080078125 seconds
+2019-10-21 10:04:37,893 - root - INFO - SUCCESS    Clear and send element: <class->s_ipt> content: 测试05, Spend 0.36602091789245605 seconds
+2019-10-21 10:04:37,917 - root - INFO - SUCCESS    Typed element class: <class->s_ipt>, Spend 0.02300119400024414 seconds
+2019-10-21 10:04:37,997 - root - INFO - SUCCESS    Clear element: <class->s_ipt>, Spend 0.10300588607788086 seconds
+2019-10-21 10:04:38,000 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-21 10:04:46,602 - root - INFO - ###############################  END  ###############################
+2019-10-21 10:04:53,314 - root - INFO - 发送邮件成功
+2019-10-21 10:31:06,405 - root - INFO - ############################### START ###############################
+2019-10-21 10:31:11,631 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 4.066232681274414 seconds
+2019-10-21 10:31:11,660 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.026001453399658203 seconds
+2019-10-21 10:31:12,022 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.039002418518066406 seconds
+2019-10-21 10:31:17,287 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.031001806259155273 seconds
+2019-10-21 10:31:23,656 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 6.4003660678863525 seconds
+2019-10-21 10:31:23,684 - root - INFO - FAIL       Unable find element xpath: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.02500128746032715 seconds
+2019-10-21 10:31:26,151 - root - INFO - ###############################  END  ###############################
+2019-10-21 10:32:19,669 - root - INFO - ############################### START ###############################
+2019-10-21 10:32:23,398 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.5881478786468506 seconds
+2019-10-21 10:32:23,492 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.09100532531738281 seconds
+2019-10-21 10:32:23,786 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.019001483917236328 seconds
+2019-10-21 10:32:24,992 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.04000234603881836 seconds
+2019-10-21 10:32:27,960 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 3.008172035217285 seconds
+2019-10-21 10:32:33,006 - root - INFO - SUCCESS    Typed element xpath: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.04300236701965332 seconds
+2019-10-21 10:32:35,658 - root - INFO - ###############################  END  ###############################
+2019-10-21 10:36:16,203 - root - INFO - ############################### START ###############################
+2019-10-21 10:36:20,457 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.112177848815918 seconds
+2019-10-21 10:36:20,490 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.03000187873840332 seconds
+2019-10-21 10:36:20,815 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.021001100540161133 seconds
+2019-10-21 10:36:21,995 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.02800154685974121 seconds
+2019-10-21 10:36:27,051 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 5.0832908153533936 seconds
+2019-10-21 10:36:32,097 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.04300260543823242 seconds
+2019-10-21 10:36:32,222 - root - INFO - SUCCESS    Right click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.1670093536376953 seconds
+2019-10-21 10:36:34,684 - root - INFO - ###############################  END  ###############################
+2019-10-21 10:37:05,430 - root - INFO - ############################### START ###############################
+2019-10-21 10:37:09,446 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.850163221359253 seconds
+2019-10-21 10:37:09,529 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.07900476455688477 seconds
+2019-10-21 10:37:09,812 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.026001691818237305 seconds
+2019-10-21 10:37:11,027 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.04300236701965332 seconds
+2019-10-21 10:37:16,552 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 5.568318605422974 seconds
+2019-10-21 10:37:21,597 - root - INFO - FAIL       Unable find element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/butto>, Spend 0.04300236701965332 seconds
+2019-10-21 10:37:21,599 - root - INFO - FAIL       Unable to right click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/butto>, Spend 0.044002532958984375 seconds
+2019-10-21 10:37:24,020 - root - INFO - ###############################  END  ###############################
+2019-10-21 10:40:03,480 - root - INFO - ############################### START ###############################
+2019-10-21 10:40:08,432 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.7992172241210938 seconds
+2019-10-21 10:40:08,464 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.030002117156982422 seconds
+2019-10-21 10:40:08,856 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.03000164031982422 seconds
+2019-10-21 10:40:10,087 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.029001712799072266 seconds
+2019-10-21 10:41:20,663 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 70.60603857040405 seconds
+2019-10-21 10:41:25,665 - root - INFO - FAIL       Unable to right click element: <xpath-/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.0 seconds
+2019-10-21 10:41:28,056 - root - INFO - ###############################  END  ###############################
+2019-10-21 10:44:09,116 - root - INFO - ############################### START ###############################
+2019-10-21 10:44:41,184 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 30.8937668800354 seconds
+2019-10-21 10:44:41,251 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.06500387191772461 seconds
+2019-10-21 10:44:41,531 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.024001121520996094 seconds
+2019-10-21 10:44:42,816 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.024001359939575195 seconds
+2019-10-21 10:44:49,393 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 6.601377725601196 seconds
+2019-10-21 10:44:54,420 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.02500128746032715 seconds
+2019-10-21 10:44:54,606 - root - INFO - SUCCESS    Right click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.2110118865966797 seconds
+2019-10-21 10:44:54,630 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.02300119400024414 seconds
+2019-10-21 10:44:54,675 - root - INFO - SUCCESS    Move to element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.06700372695922852 seconds
+2019-10-21 10:44:57,447 - root - INFO - ###############################  END  ###############################
+2019-10-21 10:45:36,746 - root - INFO - ############################### START ###############################
+2019-10-21 10:45:40,501 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.610149383544922 seconds
+2019-10-21 10:45:40,704 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.2020115852355957 seconds
+2019-10-21 10:45:41,505 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.029001474380493164 seconds
+2019-10-21 10:45:42,907 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.031001567840576172 seconds
+2019-10-21 10:45:46,471 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 3.594205379486084 seconds
+2019-10-21 10:45:51,500 - root - INFO - FAIL       Unable find element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/butto>, Spend 0.026001453399658203 seconds
+2019-10-21 10:45:51,501 - root - INFO - FAIL       Unable to right click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/butto>, Spend 0.02800154685974121 seconds
+2019-10-21 10:45:54,179 - root - INFO - ###############################  END  ###############################
+2019-10-21 10:50:01,601 - root - INFO - ############################### START ###############################
+2019-10-21 10:50:06,601 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.834219217300415 seconds
+2019-10-21 10:50:06,832 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.2280130386352539 seconds
+2019-10-21 10:50:07,274 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.024001359939575195 seconds
+2019-10-21 10:50:08,559 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.023001432418823242 seconds
+2019-10-21 10:50:11,560 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 3.0231728553771973 seconds
+2019-10-21 10:50:16,590 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.02800154685974121 seconds
+2019-10-21 10:50:16,623 - root - INFO - SUCCESS    Move to element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.06000328063964844 seconds
+2019-10-21 10:50:16,648 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.023001432418823242 seconds
+2019-10-21 10:50:16,754 - root - INFO - SUCCESS    Right click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.13000774383544922 seconds
+2019-10-21 10:50:16,773 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.017000913619995117 seconds
+2019-10-21 10:50:16,877 - root - INFO - SUCCESS    Double click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.12200689315795898 seconds
+2019-10-21 10:50:19,682 - root - INFO - ###############################  END  ###############################
+2019-10-21 10:51:28,024 - root - INFO - ############################### START ###############################
+2019-10-21 10:51:31,899 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.728156089782715 seconds
+2019-10-21 10:51:32,013 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.113006591796875 seconds
+2019-10-21 10:51:33,516 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.0500028133392334 seconds
+2019-10-21 10:51:34,935 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.027001380920410156 seconds
+2019-10-21 10:51:38,602 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 3.693211078643799 seconds
+2019-10-21 10:51:43,626 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.023001432418823242 seconds
+2019-10-21 10:51:43,656 - root - INFO - SUCCESS    Move to element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.05300307273864746 seconds
+2019-10-21 10:51:43,682 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.02300119400024414 seconds
+2019-10-21 10:51:43,779 - root - INFO - SUCCESS    Right click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.12100672721862793 seconds
+2019-10-21 10:51:51,486 - root - INFO - ###############################  END  ###############################
+2019-10-21 10:53:08,306 - root - INFO - ############################### START ###############################
+2019-10-21 10:53:12,049 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.604149103164673 seconds
+2019-10-21 10:53:12,117 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.06600379943847656 seconds
+2019-10-21 10:53:12,990 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.037001848220825195 seconds
+2019-10-21 10:53:14,466 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.03000164031982422 seconds
+2019-10-21 10:53:19,476 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 5.040288209915161 seconds
+2019-10-21 10:53:24,510 - root - INFO - FAIL       Unable find element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/butto>, Spend 0.03300166130065918 seconds
+2019-10-21 10:53:24,512 - root - INFO - FAIL       Unable to double click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/butto>, Spend 0.034001827239990234 seconds
+2019-10-21 10:53:27,396 - root - INFO - ###############################  END  ###############################
+2019-10-21 11:01:37,971 - root - INFO - ############################### START ###############################
+2019-10-21 11:01:43,271 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.61220645904541 seconds
+2019-10-21 11:01:43,406 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.13300776481628418 seconds
+2019-10-21 11:01:44,360 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.0370020866394043 seconds
+2019-10-21 11:01:45,824 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.05200314521789551 seconds
+2019-10-21 11:01:51,521 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 5.748328685760498 seconds
+2019-10-21 11:01:56,547 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001598358154297 seconds
+2019-10-21 11:01:56,761 - root - INFO - SUCCESS    Double click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.2370138168334961 seconds
+2019-10-21 11:01:56,797 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.03500175476074219 seconds
+2019-10-21 11:01:56,826 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.027001619338989258 seconds
+2019-10-21 11:01:56,988 - root - INFO - SUCCESS    Drag and drop element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button> to element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.2260127067565918 seconds
+2019-10-21 11:02:04,890 - root - INFO - ###############################  END  ###############################
+2019-10-21 11:11:44,701 - root - INFO - ############################### START ###############################
+2019-10-21 11:11:48,279 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.4301393032073975 seconds
+2019-10-21 11:11:48,314 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.03300166130065918 seconds
+2019-10-21 11:11:48,935 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.024001598358154297 seconds
+2019-10-21 11:11:50,412 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.21901249885559082 seconds
+2019-10-21 11:11:54,773 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 4.580261707305908 seconds
+2019-10-21 11:11:59,799 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001598358154297 seconds
+2019-10-21 11:11:59,951 - root - INFO - SUCCESS    Double click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.1760101318359375 seconds
+2019-10-21 11:11:59,985 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.03200197219848633 seconds
+2019-10-21 11:12:00,033 - root - INFO - FAIL       Unable find element xpaht: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/buttn[1]>, Spend 0.04600238800048828 seconds
+2019-10-21 11:12:00,034 - root - INFO - FAIL       Unable to drag and drop element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button> to element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/buttn[1]>, Spend 0.08200478553771973 seconds
+2019-10-21 11:12:02,785 - root - INFO - ###############################  END  ###############################
+2019-10-21 11:15:05,545 - root - INFO - ############################### START ###############################
+2019-10-21 11:15:09,824 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.8281617164611816 seconds
+2019-10-21 11:15:09,934 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.10800623893737793 seconds
+2019-10-21 11:15:10,708 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.03500199317932129 seconds
+2019-10-21 11:15:12,117 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.027001619338989258 seconds
+2019-10-21 11:15:15,201 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 3.110177993774414 seconds
+2019-10-21 11:15:20,228 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.02500128746032715 seconds
+2019-10-21 11:15:20,260 - root - INFO - SUCCESS    Left click on an element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.05700325965881348 seconds
+2019-10-21 11:15:28,013 - root - INFO - ###############################  END  ###############################
+2019-10-21 11:25:25,927 - root - INFO - ############################### START ###############################
+2019-10-21 11:25:30,230 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.0201728343963623 seconds
+2019-10-21 11:25:30,438 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.20501160621643066 seconds
+2019-10-21 11:25:31,039 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.031001806259155273 seconds
+2019-10-21 11:25:32,406 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.02500152587890625 seconds
+2019-10-21 11:25:36,616 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 4.2352423667907715 seconds
+2019-10-21 11:25:41,643 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001359939575195 seconds
+2019-10-21 11:25:41,749 - root - INFO - SUCCESS    Click and hold to element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.13000726699829102 seconds
+2019-10-21 11:25:49,503 - root - INFO - ###############################  END  ###############################
+2019-10-21 11:26:21,842 - root - INFO - ############################### START ###############################
+2019-10-21 11:26:27,366 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 4.3652496337890625 seconds
+2019-10-21 11:26:27,593 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.22301292419433594 seconds
+2019-10-21 11:26:28,363 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.039002180099487305 seconds
+2019-10-21 11:26:29,814 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.06700396537780762 seconds
+2019-10-21 11:26:34,802 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 5.055289030075073 seconds
+2019-10-21 11:26:39,832 - root - INFO - FAIL       Unable find element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/butto>, Spend 0.026001453399658203 seconds
+2019-10-21 11:26:39,834 - root - INFO - FAIL       Unable click and hold to element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/butto>, Spend 0.029001712799072266 seconds
+2019-10-21 11:26:42,616 - root - INFO - ###############################  END  ###############################
+2019-10-21 11:36:39,825 - root - INFO - ############################### START ###############################
+2019-10-21 11:36:44,286 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.1671812534332275 seconds
+2019-10-21 11:36:44,414 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.12500715255737305 seconds
+2019-10-21 11:36:45,126 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.03300189971923828 seconds
+2019-10-21 11:36:46,583 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.028001785278320312 seconds
+2019-10-21 11:36:49,962 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 3.4061949253082275 seconds
+2019-10-21 11:36:54,990 - root - INFO - FAIL       Unable find element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/butto>, Spend 0.024001598358154297 seconds
+2019-10-21 11:36:54,992 - root - INFO - FAIL       Unable drag and drop by offset element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/butto>, Spend 0.026001691818237305 seconds
+2019-10-21 11:36:57,791 - root - INFO - ###############################  END  ###############################
+2019-10-21 11:37:37,794 - root - INFO - ############################### START ###############################
+2019-10-21 11:37:42,510 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.219183921813965 seconds
+2019-10-21 11:37:42,578 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.06600356101989746 seconds
+2019-10-21 11:37:43,210 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.031001567840576172 seconds
+2019-10-21 11:37:44,708 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.028001785278320312 seconds
+2019-10-21 11:37:49,101 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 4.421252965927124 seconds
+2019-10-21 11:37:54,127 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001359939575195 seconds
+2019-10-21 11:37:54,391 - root - INFO - SUCCESS    Drag and drop by offset element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.28801655769348145 seconds
+2019-10-21 11:38:02,111 - root - INFO - ###############################  END  ###############################
+2019-10-21 11:48:51,056 - root - INFO - ############################### START ###############################
+2019-10-21 11:48:53,320 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.1120636463165283 seconds
+2019-10-21 11:48:58,440 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 5.119292974472046 seconds
+2019-10-21 11:49:07,100 - root - INFO - ###############################  END  ###############################
+2019-10-21 14:01:25,715 - root - INFO - ############################### START ###############################
+2019-10-21 14:01:35,794 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 8.896508932113647 seconds
+2019-10-21 14:01:36,347 - root - INFO - SUCCESS    Click by text content: 登录, Spend 0.5510315895080566 seconds
+2019-10-21 14:01:36,448 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.09800577163696289 seconds
+2019-10-21 14:01:36,661 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 0.3110177516937256 seconds
+2019-10-21 14:01:36,696 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 0.03200197219848633 seconds
+2019-10-21 14:01:36,914 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 0.2500143051147461 seconds
+2019-10-21 14:01:36,974 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.05800342559814453 seconds
+2019-10-21 14:01:37,193 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 0.2760159969329834 seconds
+2019-10-21 14:02:15,383 - root - INFO - ############################### START ###############################
+2019-10-21 14:02:24,241 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 7.057403564453125 seconds
+2019-10-21 14:02:24,937 - root - INFO - SUCCESS    Click by text content: 登录, Spend 0.6930396556854248 seconds
+2019-10-21 14:02:24,995 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.05500316619873047 seconds
+2019-10-21 14:02:25,124 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 0.18301057815551758 seconds
+2019-10-21 14:02:25,153 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 0.027001619338989258 seconds
+2019-10-21 14:02:25,290 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 0.1650094985961914 seconds
+2019-10-21 14:02:25,334 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.041002511978149414 seconds
+2019-10-21 14:02:25,446 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 0.15300893783569336 seconds
+2019-10-21 14:05:55,888 - root - INFO - ############################### START ###############################
+2019-10-21 14:06:01,420 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 4.339248180389404 seconds
+2019-10-21 14:06:02,270 - root - INFO - SUCCESS    Click by text content: 登录, Spend 0.8490486145019531 seconds
+2019-10-21 14:06:02,371 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.09900569915771484 seconds
+2019-10-21 14:06:02,567 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 0.2950170040130615 seconds
+2019-10-21 14:06:02,601 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 0.03200197219848633 seconds
+2019-10-21 14:06:02,814 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 0.24501419067382812 seconds
+2019-10-21 14:06:02,902 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.08600497245788574 seconds
+2019-10-21 14:06:03,302 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 0.48602795600891113 seconds
+2019-10-21 14:06:08,340 - root - INFO - FAIL       Unable find element class: <class->geetest_slider_button>, Spend 0.036002159118652344 seconds
+2019-10-21 14:06:08,342 - root - INFO - FAIL       Unable drag and drop by offset element: <class->geetest_slider_button>, Spend 0.03800225257873535 seconds
+2019-10-21 14:06:11,220 - root - INFO - ###############################  END  ###############################
+2019-10-21 14:06:50,974 - root - INFO - ############################### START ###############################
+2019-10-21 14:06:55,506 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 3.0571749210357666 seconds
+2019-10-21 14:07:00,002 - root - INFO - SUCCESS    Click by text content: 登录, Spend 4.496257066726685 seconds
+2019-10-21 14:07:00,254 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.24901390075683594 seconds
+2019-10-21 14:07:01,194 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 1.189068078994751 seconds
+2019-10-21 14:07:01,229 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 0.03200173377990723 seconds
+2019-10-21 14:07:01,619 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 0.4220242500305176 seconds
+2019-10-21 14:07:01,717 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.09500551223754883 seconds
+2019-10-21 14:07:03,285 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 1.6630949974060059 seconds
+2019-10-21 14:07:08,310 - root - INFO - SUCCESS    Typed element class: <class->geetest_slider_button>, Spend 0.022001028060913086 seconds
+2019-10-21 14:07:08,387 - root - INFO - SUCCESS    Drag and drop by offset element: <class->geetest_slider_button>, Spend 0.09900569915771484 seconds
+2019-10-21 14:07:11,233 - root - INFO - ###############################  END  ###############################
+2019-10-21 14:07:51,211 - root - INFO - ############################### START ###############################
+2019-10-21 14:07:54,058 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 1.6920967102050781 seconds
+2019-10-21 14:07:54,671 - root - INFO - SUCCESS    Click by text content: 登录, Spend 0.6100349426269531 seconds
+2019-10-21 14:07:54,714 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.040001869201660156 seconds
+2019-10-21 14:07:54,827 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 0.15300846099853516 seconds
+2019-10-21 14:07:54,863 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 0.03300189971923828 seconds
+2019-10-21 14:07:55,005 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 0.17500996589660645 seconds
+2019-10-21 14:07:55,045 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.0370020866394043 seconds
+2019-10-21 14:07:55,174 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 0.16600942611694336 seconds
+2019-10-21 14:08:00,205 - root - INFO - SUCCESS    Typed element class: <class->geetest_slider_button>, Spend 0.02800154685974121 seconds
+2019-10-21 14:08:00,300 - root - INFO - SUCCESS    Drag and drop by offset element: <class->geetest_slider_button>, Spend 0.12300705909729004 seconds
+2019-10-21 14:08:13,210 - root - INFO - ###############################  END  ###############################
+2019-10-21 14:10:41,029 - root - INFO - ############################### START ###############################
+2019-10-21 14:10:43,445 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 1.208069086074829 seconds
+2019-10-21 14:10:44,056 - root - INFO - SUCCESS    Click by text content: 登录, Spend 0.6080343723297119 seconds
+2019-10-21 14:10:44,109 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.0500028133392334 seconds
+2019-10-21 14:10:44,236 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 0.17701005935668945 seconds
+2019-10-21 14:10:44,268 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 0.029001712799072266 seconds
+2019-10-21 14:10:44,414 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 0.17501020431518555 seconds
+2019-10-21 14:10:44,539 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.12300729751586914 seconds
+2019-10-21 14:10:46,535 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 2.1181211471557617 seconds
+2019-10-21 14:11:06,659 - root - INFO - ###############################  END  ###############################
+2019-10-21 14:16:15,234 - root - INFO - ############################### START ###############################
+2019-10-21 14:16:22,283 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 5.832333564758301 seconds
+2019-10-21 14:16:23,146 - root - INFO - SUCCESS    Click by text content: 登录, Spend 0.8600492477416992 seconds
+2019-10-21 14:16:23,238 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.0890049934387207 seconds
+2019-10-21 14:16:23,408 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 0.2590148448944092 seconds
+2019-10-21 14:16:23,438 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 0.02800154685974121 seconds
+2019-10-21 14:16:24,991 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 1.5800902843475342 seconds
+2019-10-21 14:16:25,068 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.0740041732788086 seconds
+2019-10-21 14:16:26,242 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 1.2480714321136475 seconds
+2019-10-21 14:16:33,269 - root - INFO - SUCCESS    Typed element class: <class->geetest_slider_button>, Spend 0.02300119400024414 seconds
+2019-10-21 14:16:33,381 - root - INFO - SUCCESS    Drag and drop by offset element: <class->geetest_slider_button>, Spend 0.13500761985778809 seconds
+2019-10-21 14:16:46,228 - root - INFO - ###############################  END  ###############################
+2019-10-21 14:28:02,285 - root - INFO - ############################### START ###############################
+2019-10-21 14:28:06,062 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 2.4461398124694824 seconds
+2019-10-21 14:28:06,757 - root - INFO - SUCCESS    Click by text content: 登录, Spend 0.6940395832061768 seconds
+2019-10-21 14:28:06,845 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.08600521087646484 seconds
+2019-10-21 14:28:07,024 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 0.2650153636932373 seconds
+2019-10-21 14:28:07,054 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 0.028001785278320312 seconds
+2019-10-21 14:28:07,337 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 0.3110179901123047 seconds
+2019-10-21 14:28:07,372 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.03300189971923828 seconds
+2019-10-21 14:28:07,563 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 0.2240128517150879 seconds
+2019-10-21 14:28:14,596 - root - INFO - SUCCESS    Typed element class: <class->geetest_slider_button>, Spend 0.03000164031982422 seconds
+2019-10-21 14:28:14,700 - root - INFO - SUCCESS    Drag and drop by offset element: <class->geetest_slider_button>, Spend 0.13400745391845703 seconds
+2019-10-21 14:28:27,354 - root - INFO - ###############################  END  ###############################
+2019-10-21 14:36:20,837 - root - INFO - ############################### START ###############################
+2019-10-21 14:36:23,455 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 1.3930797576904297 seconds
+2019-10-21 14:36:24,548 - root - INFO - SUCCESS    Click by text content: 登录, Spend 1.0900623798370361 seconds
+2019-10-21 14:36:24,584 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.034002065658569336 seconds
+2019-10-21 14:36:24,746 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 0.19601106643676758 seconds
+2019-10-21 14:36:24,783 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 0.036002159118652344 seconds
+2019-10-21 14:36:25,047 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 0.3000171184539795 seconds
+2019-10-21 14:36:25,079 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.029001712799072266 seconds
+2019-10-21 14:36:26,524 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 1.4750843048095703 seconds
+2019-10-21 14:36:33,550 - root - INFO - FAIL       Unable find element class: <class->geetest_slider_button>, Spend 0.024001359939575195 seconds
+2019-10-21 14:36:33,552 - root - INFO - FAIL       Unable drag and drop by offset element: <class->geetest_slider_button>, Spend 0.026001453399658203 seconds
+2019-10-21 14:36:36,291 - root - INFO - ###############################  END  ###############################
+2019-10-21 14:36:56,525 - root - INFO - ############################### START ###############################
+2019-10-21 14:36:59,313 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 1.6130924224853516 seconds
+2019-10-21 14:37:00,136 - root - INFO - SUCCESS    Click by text content: 登录, Spend 0.8190469741821289 seconds
+2019-10-21 14:37:00,195 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.05600309371948242 seconds
+2019-10-21 14:37:00,444 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 0.30501747131347656 seconds
+2019-10-21 14:37:00,485 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 0.03800177574157715 seconds
+2019-10-21 14:37:00,696 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 0.24901390075683594 seconds
+2019-10-21 14:37:00,837 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.13800764083862305 seconds
+2019-10-21 14:37:02,283 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 1.5840904712677002 seconds
+2019-10-21 14:37:09,310 - root - INFO - FAIL       Unable find element class: <class->geetest_slider_button>, Spend 0.024001598358154297 seconds
+2019-10-21 14:37:09,313 - root - INFO - FAIL       Unable drag and drop by offset element: <class->geetest_slider_button>, Spend 0.027001619338989258 seconds
+2019-10-21 14:37:11,976 - root - INFO - ###############################  END  ###############################
+2019-10-21 14:37:34,800 - root - INFO - ############################### START ###############################
+2019-10-21 14:37:37,804 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 1.8481059074401855 seconds
+2019-10-21 14:37:38,277 - root - INFO - SUCCESS    Click by text content: 登录, Spend 0.4690268039703369 seconds
+2019-10-21 14:37:38,353 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.07300424575805664 seconds
+2019-10-21 14:37:38,574 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 0.29401683807373047 seconds
+2019-10-21 14:37:39,882 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 1.3050744533538818 seconds
+2019-10-21 14:37:40,229 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 1.6520943641662598 seconds
+2019-10-21 14:37:40,286 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.05500292778015137 seconds
+2019-10-21 14:37:41,423 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 1.191068172454834 seconds
+2019-10-21 14:37:48,467 - root - INFO - SUCCESS    Typed element class: <class->geetest_slider_button>, Spend 0.0370023250579834 seconds
+2019-10-21 14:37:48,711 - root - INFO - SUCCESS    Drag and drop by offset element: <class->geetest_slider_button>, Spend 0.28401637077331543 seconds
+2019-10-21 14:38:01,527 - root - INFO - ###############################  END  ###############################
+2019-10-21 14:48:17,261 - root - INFO - ############################### START ###############################
+2019-10-21 14:48:19,867 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 1.4570832252502441 seconds
+2019-10-21 14:48:20,447 - root - INFO - SUCCESS    Click by text content: 登录, Spend 0.5780327320098877 seconds
+2019-10-21 14:48:20,592 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.14300823211669922 seconds
+2019-10-21 14:48:20,733 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 0.28401637077331543 seconds
+2019-10-21 14:48:20,761 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 0.027001380920410156 seconds
+2019-10-21 14:48:20,919 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 0.18401050567626953 seconds
+2019-10-21 14:48:20,957 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.037001848220825195 seconds
+2019-10-21 14:48:21,135 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 0.2150120735168457 seconds
+2019-10-21 14:48:28,168 - root - INFO - SUCCESS    Typed element class: <class->geetest_slider_button>, Spend 0.031001806259155273 seconds
+2019-10-21 14:48:28,346 - root - INFO - SUCCESS    Drag and drop by offset element: <class->geetest_slider_button>, Spend 0.20901203155517578 seconds
+2019-10-21 14:48:41,177 - root - INFO - ###############################  END  ###############################
+2019-10-21 14:54:11,012 - root - INFO - ############################### START ###############################
+2019-10-21 14:54:20,380 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 8.198468923568726 seconds
+2019-10-21 14:54:21,138 - root - INFO - SUCCESS    Click by text content: 登录, Spend 0.7550432682037354 seconds
+2019-10-21 14:54:21,947 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.8050460815429688 seconds
+2019-10-21 14:54:22,255 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 1.1130638122558594 seconds
+2019-10-21 14:54:22,288 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 0.03000187873840332 seconds
+2019-10-21 14:54:22,537 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 0.27901625633239746 seconds
+2019-10-21 14:54:22,582 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.04200243949890137 seconds
+2019-10-21 14:54:23,795 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 1.2550716400146484 seconds
+2019-10-21 14:54:30,824 - root - INFO - SUCCESS    Typed element class: <class->geetest_slider_button>, Spend 0.02800154685974121 seconds
+2019-10-21 14:54:30,957 - root - INFO - SUCCESS    Drag and drop by offset element: <class->geetest_slider_button>, Spend 0.16000914573669434 seconds
+2019-10-21 14:54:43,973 - root - INFO - ###############################  END  ###############################
+2019-10-21 15:10:22,042 - root - INFO - ############################### START ###############################
+2019-10-21 15:10:26,104 - root - INFO - ###############################  END  ###############################
+2019-10-21 15:11:02,075 - root - INFO - ############################### START ###############################
+2019-10-21 15:11:04,545 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 1.2660722732543945 seconds
+2019-10-21 15:11:05,405 - root - INFO - SUCCESS    Click by text content: 登录, Spend 0.8580491542816162 seconds
+2019-10-21 15:11:05,463 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.05600309371948242 seconds
+2019-10-21 15:11:05,567 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 0.15900897979736328 seconds
+2019-10-21 15:11:05,601 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 0.034001827239990234 seconds
+2019-10-21 15:11:06,959 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 1.3910794258117676 seconds
+2019-10-21 15:11:07,041 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.08100461959838867 seconds
+2019-10-21 15:11:08,570 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 1.6100921630859375 seconds
+2019-10-21 15:11:15,599 - root - INFO - SUCCESS    Typed element class: <class->geetest_slider_button>, Spend 0.024001359939575195 seconds
+2019-10-21 15:11:15,730 - root - INFO - SUCCESS    Drag and drop by offset element: <class->geetest_slider_button>, Spend 0.15500879287719727 seconds
+2019-10-21 15:11:28,707 - root - INFO - ###############################  END  ###############################
+2019-10-21 15:12:04,772 - root - INFO - ############################### START ###############################
+2019-10-21 15:12:11,398 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 5.291302442550659 seconds
+2019-10-21 15:12:13,635 - root - INFO - SUCCESS    Click by text content: 登录, Spend 2.235128164291382 seconds
+2019-10-21 15:12:13,677 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.04200243949890137 seconds
+2019-10-21 15:12:13,833 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 0.19701123237609863 seconds
+2019-10-21 15:12:13,867 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 0.03200197219848633 seconds
+2019-10-21 15:12:14,106 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 0.27101564407348633 seconds
+2019-10-21 15:12:14,148 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.039002418518066406 seconds
+2019-10-21 15:12:14,336 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 0.228013277053833 seconds
+2019-10-21 15:12:22,373 - root - INFO - ###############################  END  ###############################
+2019-10-21 15:12:43,872 - root - INFO - ############################### START ###############################
+2019-10-21 15:12:50,360 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 5.305303573608398 seconds
+2019-10-21 15:12:51,190 - root - INFO - SUCCESS    Click by text content: 登录, Spend 0.8280472755432129 seconds
+2019-10-21 15:12:51,252 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.06000351905822754 seconds
+2019-10-21 15:12:51,396 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 0.2040116786956787 seconds
+2019-10-21 15:12:51,423 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 0.02500152587890625 seconds
+2019-10-21 15:12:51,563 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 0.1650094985961914 seconds
+2019-10-21 15:12:51,620 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.05500316619873047 seconds
+2019-10-21 15:12:51,735 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 0.17000985145568848 seconds
+2019-10-21 15:13:00,830 - root - INFO - ###############################  END  ###############################
+2019-10-21 15:13:37,388 - root - INFO - ############################### START ###############################
+2019-10-21 15:13:43,337 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 4.745271444320679 seconds
+2019-10-21 15:13:44,323 - root - INFO - SUCCESS    Click by text content: 登录, Spend 0.9840562343597412 seconds
+2019-10-21 15:13:44,360 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.034001827239990234 seconds
+2019-10-21 15:13:44,491 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 0.16700959205627441 seconds
+2019-10-21 15:13:44,519 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 0.026001453399658203 seconds
+2019-10-21 15:13:44,665 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 0.17300987243652344 seconds
+2019-10-21 15:13:44,702 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.03500223159790039 seconds
+2019-10-21 15:13:44,888 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 0.22101283073425293 seconds
+2019-10-21 15:14:11,797 - root - INFO - ###############################  END  ###############################
+2019-10-21 15:14:38,225 - root - INFO - ############################### START ###############################
+2019-10-21 15:14:41,493 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 1.785102128982544 seconds
+2019-10-21 15:14:44,197 - root - INFO - SUCCESS    Click by text content: 登录, Spend 2.7021546363830566 seconds
+2019-10-21 15:14:44,468 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.2690150737762451 seconds
+2019-10-21 15:14:45,374 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 1.1750669479370117 seconds
+2019-10-21 15:14:45,431 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 0.05500316619873047 seconds
+2019-10-21 15:14:45,673 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 0.2960169315338135 seconds
+2019-10-21 15:14:45,721 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.04600262641906738 seconds
+2019-10-21 15:14:46,975 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 1.2990741729736328 seconds
+2019-10-21 15:15:11,875 - root - INFO - ###############################  END  ###############################
+2019-10-21 15:22:02,707 - root - INFO - ############################### START ###############################
+2019-10-21 15:22:06,106 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 2.1101207733154297 seconds
+2019-10-21 15:22:08,204 - root - INFO - SUCCESS    Click by text content: 登录, Spend 2.0971200466156006 seconds
+2019-10-21 15:22:08,340 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.13400745391845703 seconds
+2019-10-21 15:22:09,406 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 1.200068473815918 seconds
+2019-10-21 15:22:09,497 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 0.0890049934387207 seconds
+2019-10-21 15:22:09,819 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 0.4110236167907715 seconds
+2019-10-21 15:22:09,874 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.05300283432006836 seconds
+2019-10-21 15:22:11,215 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 1.3940796852111816 seconds
+2019-10-21 15:22:36,241 - root - INFO - ###############################  END  ###############################
+2019-10-21 15:25:24,444 - root - INFO - ############################### START ###############################
+2019-10-21 15:25:27,302 - root - INFO - SUCCESS    Navigated to https://account.cnblogs.com, Spend 1.687096357345581 seconds
+2019-10-21 15:25:28,079 - root - INFO - SUCCESS    Click by text content: 登录, Spend 0.7770447731018066 seconds
+2019-10-21 15:25:28,268 - root - INFO - SUCCESS    Typed element id: <id->LoginName>, Spend 0.1870105266571045 seconds
+2019-10-21 15:25:28,481 - root - INFO - SUCCESS    Typed element: <id->LoginName> content: test, Spend 0.39902281761169434 seconds
+2019-10-21 15:25:29,909 - root - INFO - SUCCESS    Typed element id: <id->Password>, Spend 1.4270813465118408 seconds
+2019-10-21 15:25:30,360 - root - INFO - SUCCESS    Typed element: <id->Password> content: 123456, Spend 1.8791072368621826 seconds
+2019-10-21 15:25:30,406 - root - INFO - SUCCESS    Typed element class: <class->ladda-label>, Spend 0.044002532958984375 seconds
+2019-10-21 15:25:31,541 - root - INFO - SUCCESS    Clicked element: <class->ladda-label>, Spend 1.1790673732757568 seconds
+2019-10-21 15:25:56,472 - root - INFO - ###############################  END  ###############################
+2019-10-21 15:32:34,759 - root - INFO - ############################### START ###############################
+2019-10-21 15:33:00,036 - root - INFO - SUCCESS    Navigated to https://www.jd.com, Spend 24.0583758354187 seconds
+2019-10-21 15:33:00,113 - root - INFO - SUCCESS    Typed element class: <class->link-login>, Spend 0.0740044116973877 seconds
+2019-10-21 15:33:11,107 - root - INFO - SUCCESS    Clicked element: <class->link-login>, Spend 11.067633152008057 seconds
+2019-10-21 15:33:15,278 - root - INFO - SUCCESS    Click by text content: 账户登录, Spend 1.1680667400360107 seconds
+2019-10-21 15:33:18,303 - root - INFO - SUCCESS    Typed element name: <name->loginname>, Spend 0.022001266479492188 seconds
+2019-10-21 15:33:18,602 - root - INFO - SUCCESS    Typed element: <name->loginname> content: test, Spend 0.3210182189941406 seconds
+2019-10-21 15:33:18,667 - root - INFO - SUCCESS    Typed element name: <name->nloginpwd>, Spend 0.0630035400390625 seconds
+2019-10-21 15:33:18,892 - root - INFO - SUCCESS    Typed element: <name->nloginpwd> content: 123456, Spend 0.2870163917541504 seconds
+2019-10-21 15:33:18,928 - root - INFO - SUCCESS    Typed element id: <id->loginsubmit>, Spend 0.03300189971923828 seconds
+2019-10-21 15:33:22,010 - root - INFO - SUCCESS    Clicked element: <id->loginsubmit>, Spend 3.115178346633911 seconds
+2019-10-21 15:33:47,819 - root - INFO - ###############################  END  ###############################
+2019-10-21 15:34:44,662 - root - INFO - ############################### START ###############################
+2019-10-21 15:36:00,735 - root - INFO - SUCCESS    Navigated to https://www.jd.com, Spend 74.77427673339844 seconds
+2019-10-21 15:36:00,859 - root - INFO - SUCCESS    Typed element class: <class->link-login>, Spend 0.12200689315795898 seconds
+2019-10-21 15:36:05,192 - root - INFO - SUCCESS    Clicked element: <class->link-login>, Spend 4.454254627227783 seconds
+2019-10-21 15:36:08,411 - root - INFO - SUCCESS    Click by text content: 账户登录, Spend 0.21801233291625977 seconds
+2019-10-21 15:36:11,435 - root - INFO - SUCCESS    Typed element name: <name->loginname>, Spend 0.022001028060913086 seconds
+2019-10-21 15:36:11,695 - root - INFO - SUCCESS    Typed element: <name->loginname> content: test, Spend 0.2820160388946533 seconds
+2019-10-21 15:36:11,736 - root - INFO - SUCCESS    Typed element name: <name->nloginpwd>, Spend 0.039002418518066406 seconds
+2019-10-21 15:36:11,981 - root - INFO - SUCCESS    Typed element: <name->nloginpwd> content: 123456, Spend 0.28401637077331543 seconds
+2019-10-21 15:36:12,028 - root - INFO - SUCCESS    Typed element id: <id->loginsubmit>, Spend 0.04500246047973633 seconds
+2019-10-21 15:36:12,448 - root - INFO - SUCCESS    Clicked element: <id->loginsubmit>, Spend 0.4650266170501709 seconds
+2019-10-21 15:36:24,476 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="JDJRV-wrap-loginsubmit"]/div/div/div/div[2]/div[3]>, Spend 0.02500128746032715 seconds
+2019-10-21 15:36:24,613 - root - INFO - SUCCESS    Drag and drop by offset element: <xpath->//*[@id="JDJRV-wrap-loginsubmit"]/div/div/div/div[2]/div[3]>, Spend 0.16200923919677734 seconds
+2019-10-21 15:36:37,445 - root - INFO - ###############################  END  ###############################
+2019-10-21 15:44:18,067 - root - INFO - ############################### START ###############################
+2019-10-21 15:44:20,611 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3960797786712646 seconds
+2019-10-21 15:44:23,011 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 2.398137331008911 seconds
+2019-10-21 15:44:26,495 - root - INFO - ###############################  END  ###############################
+2019-10-21 15:45:16,295 - root - INFO - ############################### START ###############################
+2019-10-21 15:45:19,134 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.6270928382873535 seconds
+2019-10-21 15:45:23,219 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 4.082233428955078 seconds
+2019-10-21 15:45:31,984 - root - INFO - ###############################  END  ###############################
+2019-10-21 15:47:18,988 - root - INFO - ############################### START ###############################
+2019-10-21 15:47:22,412 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.249128818511963 seconds
+2019-10-21 15:47:30,045 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 7.629436492919922 seconds
+2019-10-21 15:47:41,292 - root - INFO - ###############################  END  ###############################
+2019-10-21 15:49:44,639 - root - INFO - ############################### START ###############################
+2019-10-21 15:49:46,921 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.1450655460357666 seconds
+2019-10-21 15:49:50,722 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 3.7992172241210938 seconds
+2019-10-21 15:49:50,868 - root - INFO - SUCCESS    Typed element id: <id->ww>, Spend 0.14500808715820312 seconds
+2019-10-21 15:49:51,052 - root - INFO - SUCCESS    Typed element: <id->ww> content: 刷新, Spend 0.32901883125305176 seconds
+2019-10-21 15:50:00,456 - root - INFO - ###############################  END  ###############################
+2019-10-21 15:50:46,208 - root - INFO - ############################### START ###############################
+2019-10-21 15:50:48,525 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.089061975479126 seconds
+2019-10-21 15:50:51,235 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 2.7081549167633057 seconds
+2019-10-21 15:50:51,272 - root - INFO - SUCCESS    Typed element id: <id->ww>, Spend 0.03500223159790039 seconds
+2019-10-21 15:50:51,372 - root - INFO - SUCCESS    Typed element: <id->ww> content: 刷新, Spend 0.1350078582763672 seconds
+2019-10-21 15:50:54,072 - root - INFO - ###############################  END  ###############################
+2019-10-21 15:54:01,123 - root - INFO - ############################### START ###############################
+2019-10-21 15:54:03,611 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2760732173919678 seconds
+2019-10-21 15:54:06,792 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 3.1781818866729736 seconds
+2019-10-21 15:54:06,845 - root - INFO - SUCCESS    Typed element id: <id->ww>, Spend 0.0500028133392334 seconds
+2019-10-21 15:54:07,045 - root - INFO - SUCCESS    Typed element: <id->ww> content: 刷新, Spend 0.2520146369934082 seconds
+2019-10-21 15:54:10,784 - root - INFO - ###############################  END  ###############################
+2019-10-21 15:55:45,007 - root - INFO - ############################### START ###############################
+2019-10-21 15:55:47,339 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.192068099975586 seconds
+2019-10-21 15:55:51,463 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 4.1222357749938965 seconds
+2019-10-21 15:55:51,511 - root - INFO - SUCCESS    Typed element id: <id->ww>, Spend 0.047002553939819336 seconds
+2019-10-21 15:55:51,657 - root - INFO - SUCCESS    Typed element: <id->ww> content: 刷新, Spend 0.19301128387451172 seconds
+2019-10-21 15:55:55,196 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:00:25,907 - root - INFO - ############################### START ###############################
+2019-10-21 16:00:28,364 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.305074691772461 seconds
+2019-10-21 16:00:31,453 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 3.086176633834839 seconds
+2019-10-21 16:00:31,490 - root - INFO - SUCCESS    Typed element id: <id->ww>, Spend 0.03500175476074219 seconds
+2019-10-21 16:00:31,603 - root - INFO - SUCCESS    Typed element: <id->ww> content: 刷新, Spend 0.1480083465576172 seconds
+2019-10-21 16:00:34,720 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:01:04,118 - root - INFO - ############################### START ###############################
+2019-10-21 16:01:07,283 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.9301104545593262 seconds
+2019-10-21 16:01:15,584 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 8.298474788665771 seconds
+2019-10-21 16:01:15,648 - root - INFO - SUCCESS    Typed element id: <id->ww>, Spend 0.062003374099731445 seconds
+2019-10-21 16:01:15,866 - root - INFO - SUCCESS    Typed element: <id->ww> content: 刷新, Spend 0.2800161838531494 seconds
+2019-10-21 16:01:22,736 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:04:35,392 - root - INFO - ############################### START ###############################
+2019-10-21 16:04:38,715 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.175124406814575 seconds
+2019-10-21 16:04:43,819 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 5.102292060852051 seconds
+2019-10-21 16:04:43,859 - root - INFO - SUCCESS    Typed element id: <id->ww>, Spend 0.03600192070007324 seconds
+2019-10-21 16:04:44,024 - root - INFO - SUCCESS    Typed element: <id->ww> content: 刷新, Spend 0.20301151275634766 seconds
+2019-10-21 16:04:48,346 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:06:04,479 - root - INFO - ############################### START ###############################
+2019-10-21 16:06:06,957 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.296074390411377 seconds
+2019-10-21 16:06:09,594 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 2.637150764465332 seconds
+2019-10-21 16:06:09,631 - root - INFO - SUCCESS    Typed element id: <id->ww>, Spend 0.03500199317932129 seconds
+2019-10-21 16:06:09,734 - root - INFO - SUCCESS    Typed element: <id->ww> content: 刷新, Spend 0.13800787925720215 seconds
+2019-10-21 16:06:09,885 - root - INFO - SUCCESS    Browser forward
+2019-10-21 16:06:17,716 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:11:50,225 - root - INFO - ############################### START ###############################
+2019-10-21 16:11:52,973 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5430879592895508 seconds
+2019-10-21 16:11:56,723 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 3.7482147216796875 seconds
+2019-10-21 16:11:56,772 - root - INFO - SUCCESS    Typed element id: <id->ww>, Spend 0.04800271987915039 seconds
+2019-10-21 16:11:56,964 - root - INFO - SUCCESS    Typed element: <id->ww> content: 刷新, Spend 0.239013671875 seconds
+2019-10-21 16:11:57,743 - root - INFO - SUCCESS    Refresh the current page, Spend 0.7770442962646484 seconds
+2019-10-21 16:11:57,769 - root - INFO - SUCCESS    Browser forward, Spend 0.024001121520996094 seconds
+2019-10-21 16:12:05,720 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:13:59,633 - root - INFO - ############################### START ###############################
+2019-10-21 16:14:01,968 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.1220641136169434 seconds
+2019-10-21 16:14:05,500 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 3.5302019119262695 seconds
+2019-10-21 16:14:05,536 - root - INFO - SUCCESS    Typed element id: <id->ww>, Spend 0.03400158882141113 seconds
+2019-10-21 16:14:05,872 - root - INFO - SUCCESS    Typed element: <id->ww> content: 刷新, Spend 0.37002086639404297 seconds
+2019-10-21 16:14:06,897 - root - INFO - SUCCESS    Refresh the current page, Spend 1.0230586528778076 seconds
+2019-10-21 16:14:06,925 - root - INFO - SUCCESS    Browser forward, Spend 0.026001453399658203 seconds
+2019-10-21 16:14:14,895 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:19:59,760 - root - INFO - ############################### START ###############################
+2019-10-21 16:20:03,213 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.0871193408966064 seconds
+2019-10-21 16:20:03,930 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 0.7140407562255859 seconds
+2019-10-21 16:20:03,974 - root - INFO - FAIL       Unable find element id: <id->ww>, Spend 0.04200267791748047 seconds
+2019-10-21 16:20:03,976 - root - INFO - FAIL       Unable to send element: <id->ww> content: 刷新, Spend 0.04400300979614258 seconds
+2019-10-21 16:20:06,772 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:20:20,085 - root - INFO - ############################### START ###############################
+2019-10-21 16:20:25,126 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.822218418121338 seconds
+2019-10-21 16:20:35,874 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 10.746614933013916 seconds
+2019-10-21 16:20:35,920 - root - INFO - SUCCESS    Typed element id: <id->ww>, Spend 0.042002201080322266 seconds
+2019-10-21 16:20:36,072 - root - INFO - SUCCESS    Typed element: <id->ww> content: 刷新, Spend 0.19301080703735352 seconds
+2019-10-21 16:20:36,910 - root - INFO - SUCCESS    Refresh the current page, Spend 0.836047887802124 seconds
+2019-10-21 16:20:37,683 - root - INFO - SUCCESS    Browser Back, Spend 0.7710440158843994 seconds
+2019-10-21 16:20:45,586 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:24:40,055 - root - INFO - ############################### START ###############################
+2019-10-21 16:24:42,490 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2240700721740723 seconds
+2019-10-21 16:24:45,302 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 2.8111608028411865 seconds
+2019-10-21 16:24:45,354 - root - INFO - SUCCESS    Typed element id: <id->ww>, Spend 0.0500030517578125 seconds
+2019-10-21 16:24:45,452 - root - INFO - SUCCESS    Typed element: <id->ww> content: 刷新, Spend 0.1480085849761963 seconds
+2019-10-21 16:24:45,993 - root - INFO - SUCCESS    Refresh the current page, Spend 0.5390307903289795 seconds
+2019-10-21 16:24:46,755 - root - INFO - SUCCESS    Browser Back, Spend 0.7610435485839844 seconds
+2019-10-21 16:24:49,579 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:26:18,484 - root - INFO - ############################### START ###############################
+2019-10-21 16:26:21,319 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5360877513885498 seconds
+2019-10-21 16:26:25,026 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 3.706212043762207 seconds
+2019-10-21 16:26:25,092 - root - INFO - SUCCESS    Typed element id: <id->ww>, Spend 0.06500387191772461 seconds
+2019-10-21 16:26:25,346 - root - INFO - SUCCESS    Typed element: <id->ww> content: 刷新, Spend 0.31801819801330566 seconds
+2019-10-21 16:26:25,962 - root - INFO - SUCCESS    Refresh the current page, Spend 0.6150350570678711 seconds
+2019-10-21 16:26:26,965 - root - INFO - SUCCESS    Browser Back, Spend 0.9990572929382324 seconds
+2019-10-21 16:26:29,851 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:27:50,477 - root - INFO - ############################### START ###############################
+2019-10-21 16:27:55,081 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.3811933994293213 seconds
+2019-10-21 16:27:55,669 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 0.5860335826873779 seconds
+2019-10-21 16:27:55,958 - root - INFO - FAIL       Unable find element id: <id->ww>, Spend 0.28801631927490234 seconds
+2019-10-21 16:27:55,964 - root - INFO - FAIL       Unable to send element: <id->ww> content: 刷新, Spend 0.2890167236328125 seconds
+2019-10-21 16:27:58,952 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:28:17,478 - root - INFO - ############################### START ###############################
+2019-10-21 16:28:21,089 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.3111319541931152 seconds
+2019-10-21 16:28:25,264 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 4.173238754272461 seconds
+2019-10-21 16:28:25,381 - root - INFO - SUCCESS    Typed element id: <id->ww>, Spend 0.11400651931762695 seconds
+2019-10-21 16:28:25,578 - root - INFO - SUCCESS    Typed element: <id->ww> content: 刷新, Spend 0.3110177516937256 seconds
+2019-10-21 16:28:26,945 - root - INFO - SUCCESS    Refresh the current page, Spend 1.3660781383514404 seconds
+2019-10-21 16:28:27,982 - root - INFO - SUCCESS    Browser Back, Spend 1.0360593795776367 seconds
+2019-10-21 16:28:35,807 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:35:50,515 - root - INFO - ############################### START ###############################
+2019-10-21 16:35:52,920 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2550718784332275 seconds
+2019-10-21 16:35:55,387 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 2.4631409645080566 seconds
+2019-10-21 16:35:55,418 - root - INFO - SUCCESS    Typed element id: <id->ww>, Spend 0.02800154685974121 seconds
+2019-10-21 16:35:55,535 - root - INFO - SUCCESS    Typed element: <id->ww> content: 刷新, Spend 0.14500856399536133 seconds
+2019-10-21 16:35:56,194 - root - INFO - SUCCESS    Refresh the current page, Spend 0.6560373306274414 seconds
+2019-10-21 16:35:57,122 - root - INFO - SUCCESS    Browser Back, Spend 0.9250528812408447 seconds
+2019-10-21 16:35:57,139 - root - INFO - SUCCESS    Execute javascript scripts: window.scrollTo(200,1000);, Spend 0.014000892639160156 seconds
+2019-10-21 16:36:04,856 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:47:33,990 - root - INFO - ############################### START ###############################
+2019-10-21 16:47:36,998 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.7551000118255615 seconds
+2019-10-21 16:47:37,600 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 0.60103440284729 seconds
+2019-10-21 16:47:37,691 - root - INFO - FAIL       Unable find element id: <id->ww>, Spend 0.09000515937805176 seconds
+2019-10-21 16:47:37,693 - root - INFO - FAIL       Unable to send element: <id->ww> content: 刷新, Spend 0.09100532531738281 seconds
+2019-10-21 16:47:40,464 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:48:13,813 - root - INFO - ############################### START ###############################
+2019-10-21 16:48:15,980 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.0050575733184814 seconds
+2019-10-21 16:48:20,676 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 2.6941540241241455 seconds
+2019-10-21 16:48:21,732 - root - INFO - SUCCESS    Typed element id: <id->ww>, Spend 0.05100297927856445 seconds
+2019-10-21 16:48:21,972 - root - INFO - SUCCESS    Typed element: <id->ww> content: 刷新, Spend 0.2910168170928955 seconds
+2019-10-21 16:48:22,814 - root - INFO - SUCCESS    Refresh the current page, Spend 0.841048002243042 seconds
+2019-10-21 16:48:22,937 - root - INFO - SUCCESS    Execute javascript scripts: window.scrollTo(200,1000);, Spend 0.12100696563720703 seconds
+2019-10-21 16:48:23,982 - root - INFO - FAIL       Execute JavaScript script to the bottom: window.scrollTo(0, document.body.scrollHeight), Spend 0.04300236701965332 seconds
+2019-10-21 16:48:24,028 - root - INFO - FAIL       Execute JavaScript script to top: window.scrollTo(0,0), Spend 0.044002532958984375 seconds
+2019-10-21 16:48:31,888 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:49:08,197 - root - INFO - ############################### START ###############################
+2019-10-21 16:49:11,451 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.9821133613586426 seconds
+2019-10-21 16:49:18,741 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 5.288302659988403 seconds
+2019-10-21 16:49:19,832 - root - INFO - SUCCESS    Typed element id: <id->ww>, Spend 0.0890049934387207 seconds
+2019-10-21 16:49:20,105 - root - INFO - SUCCESS    Typed element: <id->ww> content: 刷新, Spend 0.36202073097229004 seconds
+2019-10-21 16:49:20,700 - root - INFO - SUCCESS    Refresh the current page, Spend 0.593034029006958 seconds
+2019-10-21 16:49:20,769 - root - INFO - SUCCESS    Execute javascript scripts: window.scrollTo(200,1000);, Spend 0.06700372695922852 seconds
+2019-10-21 16:49:29,612 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:50:02,445 - root - INFO - ############################### START ###############################
+2019-10-21 16:50:05,009 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3330762386322021 seconds
+2019-10-21 16:50:11,362 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 4.352248907089233 seconds
+2019-10-21 16:50:13,019 - root - INFO - SUCCESS    Refresh the current page, Spend 0.6550376415252686 seconds
+2019-10-21 16:50:14,095 - root - INFO - FAIL       Execute JavaScript script to the bottom: window.scrollTo(0, document.body.scrollHeight), Spend 0.0740041732788086 seconds
+2019-10-21 16:50:21,962 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:51:49,001 - root - INFO - ############################### START ###############################
+2019-10-21 16:51:51,396 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2070693969726562 seconds
+2019-10-21 16:51:55,790 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 2.391136646270752 seconds
+2019-10-21 16:51:57,385 - root - INFO - SUCCESS    Refresh the current page, Spend 0.59403395652771 seconds
+2019-10-21 16:51:58,549 - root - INFO - SUCCESS    Execute JavaScript script to the bottom: window.scrollTo(0, document.body.scrollHeight), Spend 0.1630094051361084 seconds
+2019-10-21 16:52:06,361 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:53:10,320 - root - INFO - ############################### START ###############################
+2019-10-21 16:53:13,095 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5220868587493896 seconds
+2019-10-21 16:53:18,911 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 3.814218282699585 seconds
+2019-10-21 16:53:20,429 - root - INFO - SUCCESS    Refresh the current page, Spend 0.5160293579101562 seconds
+2019-10-21 16:53:20,483 - root - INFO - SUCCESS    Execute javascript scripts: window.scrollTo(200,1000);, Spend 0.05200314521789551 seconds
+2019-10-21 16:53:23,505 - root - INFO - SUCCESS    Execute JavaScript script to top: window.scrollTo(0,0), Spend 0.02000117301940918 seconds
+2019-10-21 16:53:31,399 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:56:28,657 - root - INFO - ############################### START ###############################
+2019-10-21 16:56:32,457 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.5821475982666016 seconds
+2019-10-21 16:57:07,473 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 33.013888120651245 seconds
+2019-10-21 16:57:09,017 - root - INFO - SUCCESS    Refresh the current page, Spend 0.5410308837890625 seconds
+2019-10-21 16:57:12,057 - root - INFO - SUCCESS    Execute JavaScript script to the bottom: window.scrollTo(0,100000000000), Spend 0.037001848220825195 seconds
+2019-10-21 16:57:20,028 - root - INFO - ###############################  END  ###############################
+2019-10-21 16:59:00,540 - root - INFO - ############################### START ###############################
+2019-10-21 16:59:09,149 - root - INFO - SUCCESS    Navigated to https://www.jd.com, Spend 7.013401031494141 seconds
+2019-10-21 16:59:10,783 - root - INFO - SUCCESS    Execute JavaScript script to the bottom: window.scrollTo(0,100000000000), Spend 1.6330935955047607 seconds
+2019-10-21 16:59:14,246 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:00:39,069 - root - INFO - ############################### START ###############################
+2019-10-21 17:00:46,633 - root - INFO - SUCCESS    Navigated to https://www.jd.com, Spend 6.293359756469727 seconds
+2019-10-21 17:00:46,984 - root - INFO - SUCCESS    Execute JavaScript script to the bottom: window.scrollTo(0, document.body.scrollHeight), Spend 0.3480198383331299 seconds
+2019-10-21 17:00:50,178 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:01:06,146 - root - INFO - ############################### START ###############################
+2019-10-21 17:01:19,132 - root - INFO - SUCCESS    Navigated to https://www.jd.com, Spend 11.186639547348022 seconds
+2019-10-21 17:01:19,915 - root - INFO - SUCCESS    Execute JavaScript script to the bottom: window.scrollTo(0, document.body.scrollHeight), Spend 0.7800445556640625 seconds
+2019-10-21 17:01:23,329 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:01:50,176 - root - INFO - ############################### START ###############################
+2019-10-21 17:02:03,231 - root - INFO - SUCCESS    Navigated to https://www.jd.com, Spend 11.78567385673523 seconds
+2019-10-21 17:02:06,967 - root - INFO - SUCCESS    Execute JavaScript script to the bottom: window.scrollTo(0, document.body.scrollHeight), Spend 0.7300417423248291 seconds
+2019-10-21 17:02:16,367 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:09:42,065 - root - INFO - ############################### START ###############################
+2019-10-21 17:09:44,900 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.6940968036651611 seconds
+2019-10-21 17:09:46,939 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.03800201416015625 seconds
+2019-10-21 17:09:46,950 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.049002885818481445 seconds
+2019-10-21 17:09:58,658 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:16:45,176 - root - INFO - ############################### START ###############################
+2019-10-21 17:16:48,519 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.1991257667541504 seconds
+2019-10-21 17:16:50,573 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.05100297927856445 seconds
+2019-10-21 17:16:50,590 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.06800389289855957 seconds
+2019-10-21 17:16:50,592 - root - INFO - FAIL       Unable to get attribute element: <linktext->新闻>,attribute: link, Spend 0.0 seconds
+2019-10-21 17:16:53,418 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:18:25,268 - root - INFO - ############################### START ###############################
+2019-10-21 17:18:27,654 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.207068920135498 seconds
+2019-10-21 17:18:29,702 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.044002532958984375 seconds
+2019-10-21 17:18:29,715 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.05700325965881348 seconds
+2019-10-21 17:18:29,717 - root - INFO - FAIL       Unable to get attribute element: <id->su>,attribute: <built-in function id>, Spend 0.0 seconds
+2019-10-21 17:18:32,501 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:21:30,001 - root - INFO - ############################### START ###############################
+2019-10-21 17:21:33,332 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.90510892868042 seconds
+2019-10-21 17:21:35,384 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.049002885818481445 seconds
+2019-10-21 17:21:35,399 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.06400394439697266 seconds
+2019-10-21 17:21:35,402 - root - INFO - FAIL       Unable to get attribute element: <id->su>,attribute: id, Spend 0.0 seconds
+2019-10-21 17:21:38,177 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:23:32,222 - root - INFO - ############################### START ###############################
+2019-10-21 17:23:35,996 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.630150556564331 seconds
+2019-10-21 17:23:38,048 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.049002647399902344 seconds
+2019-10-21 17:23:38,074 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.07500410079956055 seconds
+2019-10-21 17:23:38,076 - root - INFO - FAIL       Unable to get attribute element: <id->su>,attribute: value, Spend 0.0 seconds
+2019-10-21 17:23:40,775 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:24:31,904 - root - INFO - ############################### START ###############################
+2019-10-21 17:24:35,163 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.048117160797119 seconds
+2019-10-21 17:24:37,239 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.07300424575805664 seconds
+2019-10-21 17:24:37,255 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.0890049934387207 seconds
+2019-10-21 17:24:37,296 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.03800225257873535 seconds
+2019-10-21 17:24:37,312 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: value, Spend 0.054003000259399414 seconds
+2019-10-21 17:24:49,055 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:25:23,120 - root - INFO - ############################### START ###############################
+2019-10-21 17:25:25,331 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.080061674118042 seconds
+2019-10-21 17:25:27,375 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.041002511978149414 seconds
+2019-10-21 17:25:27,387 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.05300307273864746 seconds
+2019-10-21 17:25:27,411 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.021001338958740234 seconds
+2019-10-21 17:25:27,428 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: id, Spend 0.03800225257873535 seconds
+2019-10-21 17:25:39,067 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:26:52,167 - root - INFO - ############################### START ###############################
+2019-10-21 17:26:54,699 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3350763320922852 seconds
+2019-10-21 17:26:56,742 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.04000234603881836 seconds
+2019-10-21 17:26:56,755 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.05300307273864746 seconds
+2019-10-21 17:26:56,782 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.02500152587890625 seconds
+2019-10-21 17:26:56,796 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: id, Spend 0.04000234603881836 seconds
+2019-10-21 17:26:56,815 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.01500082015991211 seconds
+2019-10-21 17:26:56,830 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: value, Spend 0.031001806259155273 seconds
+2019-10-21 17:26:56,852 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.02000141143798828 seconds
+2019-10-21 17:26:56,865 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: class, Spend 0.03200221061706543 seconds
+2019-10-21 17:26:56,885 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.017000913619995117 seconds
+2019-10-21 17:26:56,899 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: link, Spend 0.031001567840576172 seconds
+2019-10-21 17:27:08,742 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:31:05,760 - root - INFO - ############################### START ###############################
+2019-10-21 17:31:11,888 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.9472832679748535 seconds
+2019-10-21 17:31:13,944 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.054003238677978516 seconds
+2019-10-21 17:31:13,958 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.06800413131713867 seconds
+2019-10-21 17:31:13,983 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.02300119400024414 seconds
+2019-10-21 17:31:13,997 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: id, Spend 0.0370020866394043 seconds
+2019-10-21 17:31:14,016 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.01700115203857422 seconds
+2019-10-21 17:31:14,030 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: textContent, Spend 0.031002044677734375 seconds
+2019-10-21 17:31:14,048 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.01500082015991211 seconds
+2019-10-21 17:31:14,060 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: innerHTML, Spend 0.029001474380493164 seconds
+2019-10-21 17:31:14,078 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.016000747680664062 seconds
+2019-10-21 17:31:14,092 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: outerHTML, Spend 0.03000164031982422 seconds
+2019-10-21 17:31:25,922 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:33:11,698 - root - INFO - ############################### START ###############################
+2019-10-21 17:33:15,100 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.0811190605163574 seconds
+2019-10-21 17:33:17,146 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.044002532958984375 seconds
+2019-10-21 17:33:17,160 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.059003353118896484 seconds
+2019-10-21 17:33:17,190 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.028001785278320312 seconds
+2019-10-21 17:33:17,204 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: id, Spend 0.04200243949890137 seconds
+2019-10-21 17:33:17,221 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.016000747680664062 seconds
+2019-10-21 17:33:17,234 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: textContent, Spend 0.029001712799072266 seconds
+2019-10-21 17:33:17,251 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.016000986099243164 seconds
+2019-10-21 17:33:17,263 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: innerHTML, Spend 0.02800154685974121 seconds
+2019-10-21 17:33:17,281 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.016000986099243164 seconds
+2019-10-21 17:33:17,298 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: outerHTML, Spend 0.03300213813781738 seconds
+2019-10-21 17:33:29,200 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:38:02,844 - root - INFO - ############################### START ###############################
+2019-10-21 17:38:05,855 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.7701013088226318 seconds
+2019-10-21 17:38:07,908 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.0500028133392334 seconds
+2019-10-21 17:38:07,925 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.06700396537780762 seconds
+2019-10-21 17:38:07,954 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.028001785278320312 seconds
+2019-10-21 17:38:07,973 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: id, Spend 0.046002864837646484 seconds
+2019-10-21 17:38:07,994 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.019001245498657227 seconds
+2019-10-21 17:38:08,010 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: textContent, Spend 0.03500223159790039 seconds
+2019-10-21 17:38:11,445 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:39:46,418 - root - INFO - ############################### START ###############################
+2019-10-21 17:39:48,866 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2870738506317139 seconds
+2019-10-21 17:39:50,914 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.04600262641906738 seconds
+2019-10-21 17:39:50,924 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.05600333213806152 seconds
+2019-10-21 17:39:50,950 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.02500128746032715 seconds
+2019-10-21 17:39:50,963 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: id, Spend 0.03800201416015625 seconds
+2019-10-21 17:39:50,981 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.016001224517822266 seconds
+2019-10-21 17:39:50,993 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: textContent, Spend 0.029001712799072266 seconds
+2019-10-21 17:39:50,995 - root - INFO - 
+2019-10-21 17:39:51,012 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.016000747680664062 seconds
+2019-10-21 17:39:51,025 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: innerHTML, Spend 0.02800154685974121 seconds
+2019-10-21 17:39:51,027 - root - INFO - 
+2019-10-21 17:39:51,046 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.018001079559326172 seconds
+2019-10-21 17:39:51,058 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: outerHTML, Spend 0.031001806259155273 seconds
+2019-10-21 17:39:51,060 - root - INFO - <input type="submit" id="su" value="百度一下" class="bg s_btn">
+2019-10-21 17:40:02,871 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:42:08,082 - root - INFO - ############################### START ###############################
+2019-10-21 17:42:15,245 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 5.161295175552368 seconds
+2019-10-21 17:42:17,521 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.2740159034729004 seconds
+2019-10-21 17:42:17,719 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.47302722930908203 seconds
+2019-10-21 17:42:18,134 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.41202354431152344 seconds
+2019-10-21 17:42:18,653 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: id, Spend 0.9320530891418457 seconds
+2019-10-21 17:42:18,941 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.28601622581481934 seconds
+2019-10-21 17:42:19,597 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: outerHTML, Spend 0.9420537948608398 seconds
+2019-10-21 17:42:19,599 - root - INFO - <input type="submit" id="su" value="百度一下" class="bg s_btn">
+2019-10-21 17:42:19,972 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.37002110481262207 seconds
+2019-10-21 17:42:20,153 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: value, Spend 0.5510315895080566 seconds
+2019-10-21 17:42:20,155 - root - INFO - <input type="submit" id="su" value="百度一下" class="bg s_btn">
+2019-10-21 17:42:33,513 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:43:50,190 - root - INFO - ############################### START ###############################
+2019-10-21 17:43:55,031 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.9401681423187256 seconds
+2019-10-21 17:43:57,830 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.7750444412231445 seconds
+2019-10-21 17:43:57,996 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.9410538673400879 seconds
+2019-10-21 17:43:58,180 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.18101024627685547 seconds
+2019-10-21 17:43:58,304 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: id, Spend 0.3040173053741455 seconds
+2019-10-21 17:43:58,560 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.25301456451416016 seconds
+2019-10-21 17:43:58,640 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: outerHTML, Spend 0.3330192565917969 seconds
+2019-10-21 17:43:58,643 - root - INFO - <input type="submit" id="su" value="百度一下" class="bg s_btn">
+2019-10-21 17:43:58,833 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.18801069259643555 seconds
+2019-10-21 17:43:59,169 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: value, Spend 0.5240299701690674 seconds
+2019-10-21 17:43:59,172 - root - INFO - 百度一下
+2019-10-21 17:44:12,746 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:46:40,644 - root - INFO - ############################### START ###############################
+2019-10-21 17:46:57,748 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 8.082462549209595 seconds
+2019-10-21 17:47:00,033 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.2820160388946533 seconds
+2019-10-21 17:47:00,451 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.7000398635864258 seconds
+2019-10-21 17:47:00,755 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.3020172119140625 seconds
+2019-10-21 17:47:00,936 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: su, Spend 0.48302769660949707 seconds
+2019-10-21 17:47:01,061 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.12300682067871094 seconds
+2019-10-21 17:47:01,210 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: <input type="submit" id="su" value="百度一下" class="bg s_btn">, Spend 0.2720155715942383 seconds
+2019-10-21 17:47:01,841 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.6280357837677002 seconds
+2019-10-21 17:47:02,655 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: 百度一下, Spend 1.44108247756958 seconds
+2019-10-21 17:47:15,886 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:54:52,910 - root - INFO - ############################### START ###############################
+2019-10-21 17:54:56,087 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.9641122817993164 seconds
+2019-10-21 17:54:58,497 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.3780214786529541 seconds
+2019-10-21 17:54:58,702 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.5830330848693848 seconds
+2019-10-21 17:54:58,867 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.1630094051361084 seconds
+2019-10-21 17:54:59,032 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: su, Spend 0.3280189037322998 seconds
+2019-10-21 17:54:59,304 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.2710154056549072 seconds
+2019-10-21 17:54:59,393 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: <input type="submit" id="su" value="百度一下" class="bg s_btn">, Spend 0.3590202331542969 seconds
+2019-10-21 17:54:59,445 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.05100274085998535 seconds
+2019-10-21 17:54:59,628 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: 百度一下, Spend 0.23401331901550293 seconds
+2019-10-21 17:54:59,630 - root - INFO - hahah
+2019-10-21 17:55:11,890 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:57:55,642 - root - INFO - ############################### START ###############################
+2019-10-21 17:57:58,304 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5340876579284668 seconds
+2019-10-21 17:58:00,346 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.03800225257873535 seconds
+2019-10-21 17:58:00,358 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.0500030517578125 seconds
+2019-10-21 17:58:00,384 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.024001359939575195 seconds
+2019-10-21 17:58:00,396 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: su, Spend 0.0370020866394043 seconds
+2019-10-21 17:58:00,415 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.016000986099243164 seconds
+2019-10-21 17:58:00,428 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: <input type="submit" id="su" value="百度一下" class="bg s_btn">, Spend 0.029001712799072266 seconds
+2019-10-21 17:58:00,446 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.015000581741333008 seconds
+2019-10-21 17:58:00,458 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: 百度一下, Spend 0.027001380920410156 seconds
+2019-10-21 17:58:00,461 - root - INFO - hahah
+2019-10-21 17:58:00,463 - root - INFO - SUCCESS    Print information : <hahah>, Spend 0.002000093460083008 seconds
+2019-10-21 17:58:12,151 - root - INFO - ###############################  END  ###############################
+2019-10-21 17:59:49,606 - root - INFO - ############################### START ###############################
+2019-10-21 17:59:52,038 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2950737476348877 seconds
+2019-10-21 17:59:54,080 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.039002418518066406 seconds
+2019-10-21 17:59:54,092 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.05100297927856445 seconds
+2019-10-21 17:59:54,119 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.024001598358154297 seconds
+2019-10-21 17:59:54,132 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: su, Spend 0.0370023250579834 seconds
+2019-10-21 17:59:54,150 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.016000986099243164 seconds
+2019-10-21 17:59:54,164 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: <input type="submit" id="su" value="百度一下" class="bg s_btn">, Spend 0.03000164031982422 seconds
+2019-10-21 17:59:54,182 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.016000986099243164 seconds
+2019-10-21 17:59:54,197 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: 百度一下, Spend 0.031001806259155273 seconds
+2019-10-21 17:59:54,199 - root - INFO - SUCCESS    Print current value: <hahah>, Spend 0.0 seconds
+2019-10-21 18:00:05,908 - root - INFO - ###############################  END  ###############################
+2019-10-21 18:02:23,190 - root - INFO - ############################### START ###############################
+2019-10-21 18:02:25,909 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5640895366668701 seconds
+2019-10-21 18:02:27,948 - root - INFO - SUCCESS    Typed element linktext: <linktext->新闻>, Spend 0.0370020866394043 seconds
+2019-10-21 18:02:27,959 - root - INFO - SUCCESS    Execute script focus element: linktext->新闻, Spend 0.04800248146057129 seconds
+2019-10-21 18:02:27,985 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.02300095558166504 seconds
+2019-10-21 18:02:27,998 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: su, Spend 0.03600168228149414 seconds
+2019-10-21 18:02:28,016 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.01500082015991211 seconds
+2019-10-21 18:02:28,030 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: 百度一下, Spend 0.029001712799072266 seconds
+2019-10-21 18:02:28,032 - root - INFO - SUCCESS    Print current value: 测试一下打印, Spend 0.0 seconds
+2019-10-21 18:02:28,034 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-21 18:02:39,719 - root - INFO - ###############################  END  ###############################

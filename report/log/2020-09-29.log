@@ -1,0 +1,59 @@
+2020-09-29 15:14:40,087 - root - INFO - ############################### START ###############################
+2020-09-29 15:14:42,490 - root - INFO - SUCCESS    Navigated to https://www.taobao.com, Spend 2.265263795852661 seconds
+2020-09-29 15:14:52,494 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.003218173980713 seconds
+2020-09-29 15:14:52,525 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.029487133026123047 seconds
+2020-09-29 15:14:52,534 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.00887298583984375 seconds
+2020-09-29 15:14:52,534 - root - INFO - SUCCESS    Get the number of current elements: name->q, count: 1, Spend 0.009242057800292969 seconds
+2020-09-29 15:14:52,544 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.009981870651245117 seconds
+2020-09-29 15:14:52,620 - root - INFO - SUCCESS    Typed element: <name->q> content: selenium, Spend 0.08525896072387695 seconds
+2020-09-29 15:14:55,626 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0050220489501953 seconds
+2020-09-29 15:14:55,627 - root - INFO - FAIL       Unable element <name>q> input content: 男士冬装, sleep 2s,input ENTER key, Spend 1.5974044799804688e-05 seconds
+2020-09-29 15:14:55,736 - root - INFO - ###############################  END  ###############################
+2020-09-29 15:34:12,780 - root - INFO - ############################### START ###############################
+2020-09-29 15:34:15,271 - root - INFO - SUCCESS    Navigated to https://www.taobao.com, Spend 2.306025981903076 seconds
+2020-09-29 15:34:25,275 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.003530979156494 seconds
+2020-09-29 15:34:25,292 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.015865802764892578 seconds
+2020-09-29 15:34:25,300 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.0070269107818603516 seconds
+2020-09-29 15:34:25,300 - root - INFO - SUCCESS    Get the number of current elements: name->q, count: 1, Spend 0.007615089416503906 seconds
+2020-09-29 15:34:25,310 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.009437799453735352 seconds
+2020-09-29 15:34:25,400 - root - INFO - SUCCESS    Typed element: <name->q> content: selenium, Spend 0.09922027587890625 seconds
+2020-09-29 15:34:28,404 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0036091804504395 seconds
+2020-09-29 15:34:28,416 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.010390043258666992 seconds
+2020-09-29 15:34:37,177 - root - INFO - SUCCESS    Typed element <name->q> input content: 男士冬装, sleep 2s,input ENTER key, Spend 8.772043228149414 seconds
+2020-09-29 15:34:37,555 - root - INFO - ###############################  END  ###############################
+2020-09-29 15:37:31,842 - root - INFO - ############################### START ###############################
+2020-09-29 15:37:34,392 - root - INFO - SUCCESS    Navigated to https://www.taobao.com, Spend 2.3341479301452637 seconds
+2020-09-29 15:37:44,398 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.004966259002686 seconds
+2020-09-29 15:37:44,426 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.026777267456054688 seconds
+2020-09-29 15:37:44,434 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.008137941360473633 seconds
+2020-09-29 15:37:44,435 - root - INFO - SUCCESS    Get the number of current elements: name->q, count: 1, Spend 0.008515119552612305 seconds
+2020-09-29 15:37:44,445 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.009788036346435547 seconds
+2020-09-29 15:37:44,516 - root - INFO - SUCCESS    Typed element: <name->q> content: selenium, Spend 0.08092617988586426 seconds
+2020-09-29 15:37:47,522 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0050578117370605 seconds
+2020-09-29 15:37:47,539 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.016379833221435547 seconds
+2020-09-29 15:37:52,171 - root - INFO - SUCCESS    Typed element <name->q> input content: 男士冬装, sleep 2s,input ENTER key, Spend 4.648514032363892 seconds
+2020-09-29 15:37:52,288 - root - INFO - ###############################  END  ###############################
+2020-09-29 15:56:56,391 - root - INFO - ############################### START ###############################
+2020-09-29 15:56:58,962 - root - INFO - SUCCESS    Navigated to https://www.taobao.com, Spend 2.3570499420166016 seconds
+2020-09-29 15:57:08,964 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.000892877578735 seconds
+2020-09-29 15:57:08,988 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.022783994674682617 seconds
+2020-09-29 15:57:08,996 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.007326364517211914 seconds
+2020-09-29 15:57:08,996 - root - INFO - SUCCESS    Get the number of current elements: name->q, count: 1, Spend 0.00769495964050293 seconds
+2020-09-29 15:57:09,006 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.009605169296264648 seconds
+2020-09-29 15:57:09,081 - root - INFO - SUCCESS    Typed element: <name->q> content: selenium, Spend 0.0843048095703125 seconds
+2020-09-29 15:57:12,086 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0049469470977783 seconds
+2020-09-29 15:57:12,102 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.014403820037841797 seconds
+2020-09-29 15:57:16,468 - root - INFO - SUCCESS    Typed element <name->q> input content: 男士冬装, sleep 2s,input ENTER key, Spend 4.380432844161987 seconds
+2020-09-29 15:57:16,569 - root - INFO - ###############################  END  ###############################
+2020-09-29 16:03:39,416 - root - INFO - ############################### START ###############################
+2020-09-29 16:03:41,825 - root - INFO - SUCCESS    Navigated to https://www.taobao.com, Spend 2.2851641178131104 seconds
+2020-09-29 16:03:51,831 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.005120992660522 seconds
+2020-09-29 16:03:51,858 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.02630901336669922 seconds
+2020-09-29 16:03:51,866 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.007154941558837891 seconds
+2020-09-29 16:03:51,866 - root - INFO - SUCCESS    Get the number of current elements: name->q, count: 1, Spend 0.007504940032958984 seconds
+2020-09-29 16:03:51,876 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.009286880493164062 seconds
+2020-09-29 16:03:51,952 - root - INFO - SUCCESS    Typed element: <name->q> content: selenium, Spend 0.08528399467468262 seconds
+2020-09-29 16:03:54,957 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0043959617614746 seconds
+2020-09-29 16:03:54,966 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.00903010368347168 seconds
+2020-09-29 16:03:58,985 - root - INFO - SUCCESS    Typed element <name->q> input content: 男士冬装, sleep 2s,input ENTER key, Spend 4.027275085449219 seconds
+2020-09-29 16:03:59,074 - root - INFO - ###############################  END  ###############################

@@ -1,0 +1,305 @@
+2019-10-28 09:16:02,614 - root - INFO - ############################### START ###############################
+2019-10-28 09:16:08,114 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.353248834609985 seconds
+2019-10-28 09:16:13,115 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 09:17:42,794 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 89.67812943458557 seconds
+2019-10-28 09:17:42,893 - root - INFO - FAIL       Unable to Click by text content: 习近平对中医药工作作出重要指示, Spend 0.09700560569763184 seconds
+2019-10-28 09:17:42,894 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-28 09:18:31,525 - root - INFO - ############################### START ###############################
+2019-10-28 09:18:35,969 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.247185707092285 seconds
+2019-10-28 09:18:40,969 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 09:18:59,522 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 18.551060914993286 seconds
+2019-10-28 09:18:59,677 - root - INFO - FAIL       Unable to Click by text content: 习近平对中医药工作作出重要指示, Spend 0.1540088653564453 seconds
+2019-10-28 09:18:59,679 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-28 09:19:23,350 - root - INFO - ############################### START ###############################
+2019-10-28 09:19:27,013 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.4851419925689697 seconds
+2019-10-28 09:19:32,014 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 09:20:00,756 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 28.739643812179565 seconds
+2019-10-28 09:20:00,946 - root - INFO - SUCCESS    Click by text content: 开辟“中国之治”新境界, Spend 0.1890108585357666 seconds
+2019-10-28 09:20:02,947 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-28 09:20:13,115 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-28 09:20:18,116 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 09:20:21,116 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-28 09:20:21,137 - root - INFO - SUCCESS    Typed element class: <class->news-location>, Spend 0.020000934600830078 seconds
+2019-10-28 09:20:21,173 - root - INFO - SUCCESS    Get element: <class->news-location>, connect: 时政
+>, Spend 0.05500316619873047 seconds
+2019-10-28 09:20:21,174 - root - INFO - SUCCESS    Print current value: 时政
+>, Spend 0.0 seconds
+2019-10-28 09:20:21,175 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0009999275207519531 seconds
+2019-10-28 09:20:21,176 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-28 09:24:55,341 - root - INFO - ############################### START ###############################
+2019-10-28 09:25:01,188 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.71226954460144 seconds
+2019-10-28 09:25:06,190 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286340713501 seconds
+2019-10-28 09:25:58,303 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 52.11098051071167 seconds
+2019-10-28 09:25:58,485 - root - INFO - SUCCESS    Click by text content: 开辟“中国之治”新境界, Spend 0.18101048469543457 seconds
+2019-10-28 09:26:00,486 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-28 09:26:06,530 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-28 09:26:11,532 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-28 09:26:14,533 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-28 09:26:14,555 - root - INFO - FAIL       Unable find element class: <class->news-location>, Spend 0.02000117301940918 seconds
+2019-10-28 09:26:14,556 - root - INFO - FAIL       Unable get element: <class->news-location>, Spend 0.021001338958740234 seconds
+2019-10-28 09:26:14,557 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-28 09:32:25,892 - root - INFO - ############################### START ###############################
+2019-10-28 09:32:31,584 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.530259370803833 seconds
+2019-10-28 09:32:36,585 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 09:33:21,732 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 45.14558219909668 seconds
+2019-10-28 09:33:21,915 - root - INFO - SUCCESS    Click by text content: 开辟“中国之治”新境界, Spend 0.18001008033752441 seconds
+2019-10-28 09:33:23,916 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-28 09:33:29,991 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-28 09:33:34,994 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 09:33:37,994 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-28 09:33:38,033 - root - INFO - FAIL       Unable find element class: <class->news-location>, Spend 0.0370023250579834 seconds
+2019-10-28 09:33:38,034 - root - INFO - FAIL       Unable get element: <class->news-location>, Spend 0.03800225257873535 seconds
+2019-10-28 09:33:38,035 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-28 09:35:25,038 - root - INFO - ############################### START ###############################
+2019-10-28 09:35:27,970 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.7761015892028809 seconds
+2019-10-28 09:35:32,970 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 09:35:56,975 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 24.00237274169922 seconds
+2019-10-28 09:35:57,180 - root - INFO - SUCCESS    Click by text content: 开辟“中国之治”新境界, Spend 0.2040119171142578 seconds
+2019-10-28 09:35:59,181 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-28 09:36:02,286 - root - INFO - SUCCESS    Window title: 百度新闻——海量中文资讯平台 switch window success, Spend 3.104177236557007 seconds
+2019-10-28 09:36:05,286 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-28 09:36:10,287 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 09:36:13,289 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-28 09:36:13,331 - root - INFO - FAIL       Unable find element class: <class->news-location>, Spend 0.04100227355957031 seconds
+2019-10-28 09:36:13,332 - root - INFO - FAIL       Unable get element: <class->news-location>, Spend 0.04200243949890137 seconds
+2019-10-28 09:36:13,333 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-28 09:36:32,775 - root - INFO - ############################### START ###############################
+2019-10-28 09:36:36,029 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.0901196002960205 seconds
+2019-10-28 09:36:41,030 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286340713501 seconds
+2019-10-28 09:36:47,917 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 6.8853936195373535 seconds
+2019-10-28 09:36:48,140 - root - INFO - SUCCESS    Click by text content: 开辟“中国之治”新境界, Spend 0.22201275825500488 seconds
+2019-10-28 09:36:50,141 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-28 09:36:53,247 - root - INFO - FAIL       Window title: 百度—海量中文资讯平台 failed to switch window, Spend 3.104177713394165 seconds
+2019-10-28 09:36:57,354 - root - INFO - FAIL       Window title: 百度—海量中文资讯平台 failed to switch window, Spend 7.21141242980957 seconds
+2019-10-28 09:37:00,355 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-28 09:37:05,356 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 09:37:08,358 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.001171588897705 seconds
+2019-10-28 09:37:08,391 - root - INFO - SUCCESS    Typed element class: <class->news-location>, Spend 0.027001619338989258 seconds
+2019-10-28 09:37:08,428 - root - INFO - SUCCESS    Get element: <class->news-location>, connect: 时政
+>, Spend 0.06400370597839355 seconds
+2019-10-28 09:37:08,429 - root - INFO - SUCCESS    Print current value: 时政
+>, Spend 0.0 seconds
+2019-10-28 09:37:08,429 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-28 09:37:08,430 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-28 09:44:14,004 - root - INFO - ############################### START ###############################
+2019-10-28 09:44:17,877 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.744157075881958 seconds
+2019-10-28 09:44:22,880 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-28 09:44:36,787 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 13.905795335769653 seconds
+2019-10-28 09:44:36,991 - root - INFO - SUCCESS    Click by text content: 开辟“中国之治”新境界, Spend 0.20301151275634766 seconds
+2019-10-28 09:44:38,993 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-28 09:44:42,089 - root - INFO - SUCCESS    Window title: 百度—海量中文资讯平台 failed to switch window, Spend 3.094177007675171 seconds
+2019-10-28 09:44:46,169 - root - INFO - SUCCESS    Window title: 百度—海量中文资讯平台 failed to switch window, Spend 7.174410343170166 seconds
+2019-10-28 09:44:49,169 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-28 09:44:54,170 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.001286268234253 seconds
+2019-10-28 09:44:57,173 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-28 09:44:57,196 - root - INFO - SUCCESS    Typed element class: <class->news-location>, Spend 0.023001432418823242 seconds
+2019-10-28 09:44:57,226 - root - INFO - SUCCESS    Get element: <class->news-location>, connect: 时政
+>, Spend 0.05300307273864746 seconds
+2019-10-28 09:44:57,227 - root - INFO - SUCCESS    Print current value: 时政
+>, Spend 0.0 seconds
+2019-10-28 09:44:57,228 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-28 09:44:57,228 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-28 09:56:09,825 - root - INFO - ############################### START ###############################
+2019-10-28 09:56:12,195 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.211069107055664 seconds
+2019-10-28 09:56:15,196 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-28 09:56:15,234 - root - INFO - SUCCESS    Typed element class: <class->soutu-btn>, Spend 0.0370023250579834 seconds
+2019-10-28 09:56:15,320 - root - INFO - SUCCESS    Clicked element: <class->soutu-btn>, Spend 0.12300705909729004 seconds
+2019-10-28 09:56:18,322 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-28 09:56:20,669 - root - INFO - ###############################  END  ###############################
+2019-10-28 09:57:03,294 - root - INFO - ############################### START ###############################
+2019-10-28 09:57:05,864 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4010803699493408 seconds
+2019-10-28 09:57:08,866 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-28 09:57:08,904 - root - INFO - SUCCESS    Typed element class: <class->soutu-btn>, Spend 0.03600192070007324 seconds
+2019-10-28 09:57:08,985 - root - INFO - SUCCESS    Clicked element: <class->soutu-btn>, Spend 0.11800670623779297 seconds
+2019-10-28 09:57:11,988 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-28 09:57:12,027 - root - INFO - SUCCESS    Typed element class: <class->upload-pic>, Spend 0.0370020866394043 seconds
+2019-10-28 09:57:17,100 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-28 09:57:19,433 - root - INFO - ###############################  END  ###############################
+2019-10-28 10:14:05,897 - root - INFO - ############################### START ###############################
+2019-10-28 10:14:07,926 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.8910508155822754 seconds
+2019-10-28 10:14:10,926 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-28 10:14:10,948 - root - INFO - SUCCESS    Typed element class: <class->soutu-btn>, Spend 0.022001266479492188 seconds
+2019-10-28 10:14:11,047 - root - INFO - SUCCESS    Clicked element: <class->soutu-btn>, Spend 0.12000679969787598 seconds
+2019-10-28 10:14:14,047 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-28 10:14:14,069 - root - INFO - SUCCESS    Typed element class: <class->upload-pic>, Spend 0.021001100540161133 seconds
+2019-10-28 10:14:14,124 - root - INFO - SUCCESS    Get file path: D:\黄雷\1.jpg, upload file success, Spend 0.0760042667388916 seconds
+2019-10-28 10:14:19,125 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286340713501 seconds
+2019-10-28 10:14:21,430 - root - INFO - ###############################  END  ###############################
+2019-10-28 10:14:44,918 - root - INFO - ############################### START ###############################
+2019-10-28 10:14:47,374 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.310075044631958 seconds
+2019-10-28 10:14:50,376 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-28 10:14:50,420 - root - INFO - SUCCESS    Typed element class: <class->soutu-btn>, Spend 0.04300236701965332 seconds
+2019-10-28 10:14:50,507 - root - INFO - SUCCESS    Clicked element: <class->soutu-btn>, Spend 0.13000750541687012 seconds
+2019-10-28 10:14:53,508 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-28 10:14:53,527 - root - INFO - SUCCESS    Typed element class: <class->upload-pic>, Spend 0.01800084114074707 seconds
+2019-10-28 10:14:53,547 - root - INFO - FAIL       Get file path: D:\黄雷\.jpg, failed to upload file, Spend 0.03800225257873535 seconds
+2019-10-28 10:14:55,835 - root - INFO - ###############################  END  ###############################
+2019-10-28 10:20:49,460 - root - INFO - ############################### START ###############################
+2019-10-28 10:20:51,682 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.0540602207183838 seconds
+2019-10-28 10:20:54,683 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-28 10:20:54,708 - root - INFO - SUCCESS    Typed element class: <class->soutu-btn>, Spend 0.02500128746032715 seconds
+2019-10-28 10:20:54,804 - root - INFO - SUCCESS    Clicked element: <class->soutu-btn>, Spend 0.12000679969787598 seconds
+2019-10-28 10:20:56,804 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-28 10:20:56,824 - root - INFO - SUCCESS    Typed element class: <class->upload-pic>, Spend 0.019001245498657227 seconds
+2019-10-28 10:20:56,936 - root - INFO - SUCCESS    Clicked element: <class->upload-pic>, Spend 0.13000774383544922 seconds
+2019-10-28 10:21:01,938 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-28 10:21:08,050 - root - INFO - SUCCESS    Sleep time: 6s, Spend 6.000343322753906 seconds
+2019-10-28 10:21:10,402 - root - INFO - ###############################  END  ###############################
+2019-10-28 10:25:39,334 - root - INFO - ############################### START ###############################
+2019-10-28 10:25:41,735 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2420709133148193 seconds
+2019-10-28 10:25:44,738 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-28 10:25:44,771 - root - INFO - SUCCESS    Typed element class: <class->soutu-btn>, Spend 0.03200173377990723 seconds
+2019-10-28 10:25:44,858 - root - INFO - SUCCESS    Clicked element: <class->soutu-btn>, Spend 0.11900663375854492 seconds
+2019-10-28 10:25:46,858 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-28 10:25:46,878 - root - INFO - SUCCESS    Typed element class: <class->upload-pic>, Spend 0.01800084114074707 seconds
+2019-10-28 10:25:46,950 - root - INFO - SUCCESS    Clicked element: <class->upload-pic>, Spend 0.09000515937805176 seconds
+2019-10-28 10:25:51,952 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-28 10:25:52,055 - root - INFO - SUCCESS    Get file path: D:\黄雷\1.jpg, upload file success, Spend 0.10100579261779785 seconds
+2019-10-28 10:25:58,055 - root - INFO - SUCCESS    Sleep time: 6s, Spend 6.000343084335327 seconds
+2019-10-28 10:26:00,389 - root - INFO - ###############################  END  ###############################
+2019-10-28 10:28:36,483 - root - INFO - ############################### START ###############################
+2019-10-28 10:28:37,998 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2250702381134033 seconds
+2019-10-28 10:28:41,001 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-28 10:28:41,012 - root - INFO - SUCCESS    Typed element class: <class->soutu-btn>, Spend 0.01000070571899414 seconds
+2019-10-28 10:28:41,257 - root - INFO - SUCCESS    Clicked element: <class->soutu-btn>, Spend 0.25501465797424316 seconds
+2019-10-28 10:28:43,257 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001139640808105 seconds
+2019-10-28 10:28:43,267 - root - INFO - SUCCESS    Typed element class: <class->upload-pic>, Spend 0.009000301361083984 seconds
+2019-10-28 10:28:43,285 - root - INFO - FAIL       Unable to click element: <class->upload-pic>, Spend 0.0260012149810791 seconds
+2019-10-28 10:28:49,577 - root - INFO - ###############################  END  ###############################
+2019-10-28 10:30:34,271 - root - INFO - ############################### START ###############################
+2019-10-28 10:30:35,996 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.449082851409912 seconds
+2019-10-28 10:30:38,998 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-28 10:30:39,020 - root - INFO - SUCCESS    Typed element class: <class->soutu-btn>, Spend 0.02000117301940918 seconds
+2019-10-28 10:30:39,271 - root - INFO - SUCCESS    Clicked element: <class->soutu-btn>, Spend 0.2710154056549072 seconds
+2019-10-28 10:30:44,275 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.001286268234253 seconds
+2019-10-28 10:30:44,296 - root - INFO - SUCCESS    Typed element class: <class->upload-pic>, Spend 0.02000117301940918 seconds
+2019-10-28 10:30:44,319 - root - INFO - FAIL       Unable to click element: <class->upload-pic>, Spend 0.04300260543823242 seconds
+2019-10-28 10:30:45,955 - root - INFO - ###############################  END  ###############################
+2019-10-28 10:32:23,211 - root - INFO - ############################### START ###############################
+2019-10-28 10:32:27,691 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.333190679550171 seconds
+2019-10-28 10:32:30,692 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-28 10:32:30,723 - root - INFO - SUCCESS    Typed element class: <class->soutu-btn>, Spend 0.029001474380493164 seconds
+2019-10-28 10:32:30,809 - root - INFO - SUCCESS    Clicked element: <class->soutu-btn>, Spend 0.11500692367553711 seconds
+2019-10-28 10:32:35,810 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 10:32:35,853 - root - INFO - SUCCESS    Typed element class: <class->upload-pic>, Spend 0.039002180099487305 seconds
+2019-10-28 10:32:35,958 - root - INFO - SUCCESS    Clicked element: <class->upload-pic>, Spend 0.14500832557678223 seconds
+2019-10-28 10:32:40,961 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 10:32:41,088 - root - INFO - SUCCESS    Get file path: D:\黄雷\1.jpg, upload file success, Spend 0.12500715255737305 seconds
+2019-10-28 10:32:47,089 - root - INFO - SUCCESS    Sleep time: 6s, Spend 6.000343322753906 seconds
+2019-10-28 10:32:49,423 - root - INFO - ###############################  END  ###############################
+2019-10-28 10:33:40,861 - root - INFO - ############################### START ###############################
+2019-10-28 10:33:44,362 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.9481112957000732 seconds
+2019-10-28 10:33:44,376 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.014000654220581055 seconds
+2019-10-28 10:33:44,477 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.11400651931762695 seconds
+2019-10-28 10:33:44,488 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.01000070571899414 seconds
+2019-10-28 10:33:44,754 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2760159969329834 seconds
+2019-10-28 10:33:50,504 - root - INFO - ###############################  END  ###############################
+2019-10-28 10:33:50,505 - root - INFO - ############################### START ###############################
+2019-10-28 10:33:54,546 - root - INFO - ############################### START ###############################
+2019-10-28 10:33:58,566 - root - INFO - ############################### START ###############################
+2019-10-28 10:34:02,582 - root - INFO - ############################### START ###############################
+2019-10-28 10:34:35,154 - root - INFO - ############################### START ###############################
+2019-10-28 10:34:36,431 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.0000572204589844 seconds
+2019-10-28 10:34:39,433 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-28 10:34:39,454 - root - INFO - SUCCESS    Typed element class: <class->soutu-btn>, Spend 0.02000141143798828 seconds
+2019-10-28 10:34:39,712 - root - INFO - SUCCESS    Clicked element: <class->soutu-btn>, Spend 0.2780160903930664 seconds
+2019-10-28 10:34:44,712 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 10:34:44,725 - root - INFO - SUCCESS    Typed element class: <class->upload-pic>, Spend 0.010000467300415039 seconds
+2019-10-28 10:34:44,795 - root - INFO - FAIL       Unable to click element: <class->upload-pic>, Spend 0.08000469207763672 seconds
+2019-10-28 10:34:46,420 - root - INFO - ###############################  END  ###############################
+2019-10-28 10:35:28,412 - root - INFO - ############################### START ###############################
+2019-10-28 10:35:30,212 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5020859241485596 seconds
+2019-10-28 10:35:33,214 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-28 10:35:33,232 - root - INFO - SUCCESS    Typed element class: <class->soutu-btn>, Spend 0.01700115203857422 seconds
+2019-10-28 10:35:33,476 - root - INFO - SUCCESS    Clicked element: <class->soutu-btn>, Spend 0.2610151767730713 seconds
+2019-10-28 10:35:38,479 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 10:35:38,503 - root - INFO - SUCCESS    Typed element xpath: <xpath->/html/body/div[1]/div[1]/div/div[1]/div/form/div/div[2]/div[2]/input>, Spend 0.022001266479492188 seconds
+2019-10-28 10:35:38,527 - root - INFO - FAIL       Unable to click element: <xpath->/html/body/div[1]/div[1]/div/div[1]/div/form/div/div[2]/div[2]/input>, Spend 0.04700303077697754 seconds
+2019-10-28 10:35:40,006 - root - INFO - ###############################  END  ###############################
+2019-10-28 10:36:47,425 - root - INFO - ############################### START ###############################
+2019-10-28 10:36:49,425 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.686096429824829 seconds
+2019-10-28 10:36:52,427 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-28 10:36:52,446 - root - INFO - SUCCESS    Typed element class: <class->soutu-btn>, Spend 0.018001079559326172 seconds
+2019-10-28 10:36:52,699 - root - INFO - SUCCESS    Clicked element: <class->soutu-btn>, Spend 0.27101564407348633 seconds
+2019-10-28 10:36:57,701 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 10:36:57,718 - root - INFO - SUCCESS    Typed element xpath: <xpath->/html/body/div[1]/div[1]/div/div[1]/div/form/div/div[2]/div[2]/input>, Spend 0.016000986099243164 seconds
+2019-10-28 10:36:57,748 - root - INFO - FAIL       Unable to click element: <xpath->/html/body/div[1]/div[1]/div/div[1]/div/form/div/div[2]/div[2]/input>, Spend 0.04600262641906738 seconds
+2019-10-28 10:36:59,350 - root - INFO - ###############################  END  ###############################
+2019-10-28 10:41:13,163 - root - INFO - ############################### START ###############################
+2019-10-28 10:41:16,538 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.0851762294769287 seconds
+2019-10-28 10:41:19,541 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-28 10:41:19,566 - root - INFO - SUCCESS    Typed element class: <class->soutu-btn>, Spend 0.022001028060913086 seconds
+2019-10-28 10:41:19,813 - root - INFO - SUCCESS    Clicked element: <class->soutu-btn>, Spend 0.2700154781341553 seconds
+2019-10-28 10:41:24,814 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 10:41:24,827 - root - INFO - SUCCESS    Typed element class: <class->upload-wrap>, Spend 0.012000560760498047 seconds
+2019-10-28 10:41:25,374 - root - INFO - SUCCESS    Clicked element: <class->upload-wrap>, Spend 0.5590319633483887 seconds
+2019-10-28 10:41:30,376 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 10:41:30,467 - root - INFO - SUCCESS    Get file path: D:\黄雷\1.jpg, upload file success, Spend 0.0890052318572998 seconds
+2019-10-28 10:41:36,468 - root - INFO - SUCCESS    Sleep time: 6s, Spend 6.000343084335327 seconds
+2019-10-28 10:41:38,217 - root - INFO - ###############################  END  ###############################
+2019-10-28 10:41:57,029 - root - INFO - ############################### START ###############################
+2019-10-28 10:41:59,634 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4500830173492432 seconds
+2019-10-28 10:42:02,636 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-28 10:42:02,665 - root - INFO - SUCCESS    Typed element class: <class->soutu-btn>, Spend 0.02800154685974121 seconds
+2019-10-28 10:42:02,759 - root - INFO - SUCCESS    Clicked element: <class->soutu-btn>, Spend 0.12100672721862793 seconds
+2019-10-28 10:42:07,760 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-28 10:42:07,805 - root - INFO - SUCCESS    Typed element class: <class->upload-wrap>, Spend 0.04200243949890137 seconds
+2019-10-28 10:42:07,924 - root - INFO - SUCCESS    Clicked element: <class->upload-wrap>, Spend 0.16200923919677734 seconds
+2019-10-28 10:42:12,926 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 10:42:12,928 - root - INFO - SUCCESS    Get file path: D:\黄雷\1.jpg, upload file success, Spend 0.0010001659393310547 seconds
+2019-10-28 10:42:18,931 - root - INFO - SUCCESS    Sleep time: 6s, Spend 6.000343084335327 seconds
+2019-10-28 10:42:21,295 - root - INFO - ###############################  END  ###############################
+2019-10-28 10:43:13,343 - root - INFO - ############################### START ###############################
+2019-10-28 10:43:17,536 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.0351736545562744 seconds
+2019-10-28 10:43:20,537 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-28 10:43:20,575 - root - INFO - SUCCESS    Typed element class: <class->soutu-btn>, Spend 0.03800201416015625 seconds
+2019-10-28 10:43:20,664 - root - INFO - SUCCESS    Clicked element: <class->soutu-btn>, Spend 0.12700724601745605 seconds
+2019-10-28 10:43:25,667 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 10:43:25,706 - root - INFO - SUCCESS    Typed element class: <class->upload-wrap>, Spend 0.0370023250579834 seconds
+2019-10-28 10:43:25,804 - root - INFO - SUCCESS    Clicked element: <class->upload-wrap>, Spend 0.1350078582763672 seconds
+2019-10-28 10:43:30,806 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-28 10:43:30,808 - root - INFO - SUCCESS    Get file path: D:\黄雷\1.jpg, upload file success, Spend 0.0 seconds
+2019-10-28 10:44:00,810 - root - INFO - SUCCESS    Sleep time: 30s, Spend 30.000715732574463 seconds
+2019-10-28 10:44:03,172 - root - INFO - ###############################  END  ###############################
+2019-10-28 10:46:01,152 - root - INFO - ############################### START ###############################
+2019-10-28 10:46:02,805 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3860793113708496 seconds
+2019-10-28 10:46:05,806 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-28 10:46:05,831 - root - INFO - SUCCESS    Typed element class: <class->soutu-btn>, Spend 0.022001028060913086 seconds
+2019-10-28 10:46:06,080 - root - INFO - SUCCESS    Clicked element: <class->soutu-btn>, Spend 0.2720153331756592 seconds
+2019-10-28 10:46:11,082 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-28 10:46:11,091 - root - INFO - SUCCESS    Typed element class: <class->upload-wrap>, Spend 0.009000301361083984 seconds
+2019-10-28 10:46:11,715 - root - INFO - SUCCESS    Clicked element: <class->upload-wrap>, Spend 0.6330358982086182 seconds
+2019-10-28 10:46:16,716 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-28 10:46:18,947 - root - INFO - ###############################  END  ###############################
+2019-10-28 10:47:15,747 - root - INFO - ############################### START ###############################
+2019-10-28 10:47:17,411 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3930797576904297 seconds
+2019-10-28 10:47:20,411 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-28 10:47:20,423 - root - INFO - SUCCESS    Typed element class: <class->soutu-btn>, Spend 0.012000560760498047 seconds
+2019-10-28 10:47:20,670 - root - INFO - SUCCESS    Clicked element: <class->soutu-btn>, Spend 0.2580146789550781 seconds
+2019-10-28 10:47:25,670 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-28 10:47:25,681 - root - INFO - SUCCESS    Typed element class: <class->upload-wrap>, Spend 0.009000539779663086 seconds
+2019-10-28 10:47:26,269 - root - INFO - SUCCESS    Clicked element: <class->upload-wrap>, Spend 0.598034143447876 seconds
+2019-10-28 10:47:31,270 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-28 10:47:31,346 - root - INFO - SUCCESS    Get file path: D:\黄雷\1.jpg, upload file success, Spend 0.0740041732788086 seconds
+2019-10-28 10:48:01,348 - root - INFO - SUCCESS    Sleep time: 30s, Spend 30.000715732574463 seconds
+2019-10-28 10:48:03,866 - root - INFO - ###############################  END  ###############################
+2019-10-28 10:48:56,087 - root - INFO - ############################### START ###############################
+2019-10-28 10:49:00,646 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.334190845489502 seconds
+2019-10-28 10:49:28,243 - root - INFO - ############################### START ###############################
+2019-10-28 10:49:32,042 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.6611521244049072 seconds
+2019-10-28 10:49:32,077 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.034002065658569336 seconds
+2019-10-28 10:49:32,300 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.25701475143432617 seconds
+2019-10-28 10:49:32,325 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.024001359939575195 seconds
+2019-10-28 10:49:32,577 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2760155200958252 seconds
+2019-10-28 10:49:47,344 - root - INFO - ############################### START ###############################
+2019-10-28 10:49:50,003 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4860849380493164 seconds
+2019-10-28 10:49:53,004 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-28 10:49:53,037 - root - INFO - SUCCESS    Typed element class: <class->soutu-btn>, Spend 0.031001567840576172 seconds
+2019-10-28 10:49:53,180 - root - INFO - SUCCESS    Clicked element: <class->soutu-btn>, Spend 0.1740097999572754 seconds
+2019-10-28 10:49:58,181 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-28 10:49:58,206 - root - INFO - SUCCESS    Typed element class: <class->upload-wrap>, Spend 0.024001121520996094 seconds
+2019-10-28 10:49:58,326 - root - INFO - SUCCESS    Clicked element: <class->upload-wrap>, Spend 0.14400815963745117 seconds
+2019-10-28 10:50:03,328 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-28 10:50:03,431 - root - INFO - SUCCESS    Get file path: D:\黄雷\1.jpg, upload file success, Spend 0.10200619697570801 seconds
+2019-10-28 10:50:33,433 - root - INFO - SUCCESS    Sleep time: 30s, Spend 30.000715970993042 seconds
+2019-10-28 10:50:36,003 - root - INFO - ###############################  END  ###############################

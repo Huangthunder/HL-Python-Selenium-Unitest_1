@@ -1,0 +1,912 @@
+2019-10-24 10:08:29,510 - root - INFO - ############################### START ###############################
+2019-10-24 10:09:11,792 - root - INFO - ############################### START ###############################
+2019-10-24 10:09:14,012 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.0130579471588135 seconds
+2019-10-24 10:09:19,015 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.001286268234253 seconds
+2019-10-24 10:09:28,827 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 9.812561511993408 seconds
+2019-10-24 10:09:30,829 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 10:09:35,930 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.10029149055481 seconds
+2019-10-24 10:09:38,930 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-24 10:09:43,933 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.001286029815674 seconds
+2019-10-24 10:09:43,969 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.034002065658569336 seconds
+2019-10-24 10:09:44,003 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.06900405883789062 seconds
+2019-10-24 10:09:47,005 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-24 10:09:47,037 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.031001806259155273 seconds
+2019-10-24 10:09:47,039 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.03200173377990723 seconds
+2019-10-24 10:09:47,040 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-24 10:09:49,453 - root - INFO - ###############################  END  ###############################
+2019-10-24 10:12:22,059 - root - INFO - ############################### START ###############################
+2019-10-24 10:12:24,474 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2480714321136475 seconds
+2019-10-24 10:12:29,474 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 10:12:45,564 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 16.08892035484314 seconds
+2019-10-24 10:12:47,565 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 10:12:52,658 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.092291355133057 seconds
+2019-10-24 10:12:55,661 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.001171588897705 seconds
+2019-10-24 10:13:00,663 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 10:13:00,695 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.031002044677734375 seconds
+2019-10-24 10:13:00,717 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.05200314521789551 seconds
+2019-10-24 10:13:03,717 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 10:13:03,747 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.02800154685974121 seconds
+2019-10-24 10:13:03,748 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.03000164031982422 seconds
+2019-10-24 10:13:03,749 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-24 10:13:06,095 - root - INFO - ###############################  END  ###############################
+2019-10-24 10:18:45,863 - root - INFO - ############################### START ###############################
+2019-10-24 10:18:48,513 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.316075325012207 seconds
+2019-10-24 10:18:53,517 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 10:19:05,877 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 12.356706857681274 seconds
+2019-10-24 10:19:07,880 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001142024993896 seconds
+2019-10-24 10:19:12,946 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.064289569854736 seconds
+2019-10-24 10:19:15,947 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-24 10:19:20,948 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 10:19:20,989 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.03800249099731445 seconds
+2019-10-24 10:19:21,014 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.06400394439697266 seconds
+2019-10-24 10:19:24,016 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 10:19:24,045 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.027001619338989258 seconds
+2019-10-24 10:19:24,046 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.02800154685974121 seconds
+2019-10-24 10:19:24,047 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-24 10:19:26,746 - root - INFO - ###############################  END  ###############################
+2019-10-24 10:20:37,718 - root - INFO - ############################### START ###############################
+2019-10-24 10:20:40,690 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.8081035614013672 seconds
+2019-10-24 10:20:45,692 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 10:20:59,822 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 14.12880825996399 seconds
+2019-10-24 10:21:01,824 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 10:21:06,890 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.065289735794067 seconds
+2019-10-24 10:21:09,892 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 10:21:14,893 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 10:21:14,917 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.022001266479492188 seconds
+2019-10-24 10:21:14,937 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.04300236701965332 seconds
+2019-10-24 10:21:17,937 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 10:21:17,961 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.02300119400024414 seconds
+2019-10-24 10:21:17,963 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.024001121520996094 seconds
+2019-10-24 10:21:17,964 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-24 10:21:20,294 - root - INFO - ###############################  END  ###############################
+2019-10-24 10:23:37,815 - root - INFO - ############################### START ###############################
+2019-10-24 10:23:38,989 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.173067331314087 seconds
+2019-10-24 10:23:39,231 - root - INFO - SUCCESS    Set browser window wide: 1000,high: 2000, Spend 0.24201393127441406 seconds
+2019-10-24 10:23:40,893 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.6620948314666748 seconds
+2019-10-24 10:23:45,894 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 10:24:06,941 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 21.044203996658325 seconds
+2019-10-24 10:24:08,941 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001142024993896 seconds
+2019-10-24 10:24:14,027 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.0842907428741455 seconds
+2019-10-24 10:24:17,027 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-24 10:24:22,031 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 10:24:22,068 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.036002159118652344 seconds
+2019-10-24 10:24:22,095 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.06400370597839355 seconds
+2019-10-24 10:24:25,095 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-24 10:24:25,126 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.03000187873840332 seconds
+2019-10-24 10:24:25,127 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.031001806259155273 seconds
+2019-10-24 10:24:25,128 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-24 10:24:27,460 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.3311336040496826 seconds
+2019-10-24 10:24:27,461 - root - INFO - ###############################  END  ###############################
+2019-10-24 10:25:00,537 - root - INFO - ############################### START ###############################
+2019-10-24 10:25:01,697 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1590662002563477 seconds
+2019-10-24 10:25:01,929 - root - INFO - SUCCESS    Set browser window wide: 1000,high: 2000, Spend 0.23101353645324707 seconds
+2019-10-24 10:25:02,806 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.8760502338409424 seconds
+2019-10-24 10:25:07,806 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 10:25:21,534 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 13.726784944534302 seconds
+2019-10-24 10:25:23,534 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 10:25:28,609 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.0742902755737305 seconds
+2019-10-24 10:25:31,610 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 10:25:36,611 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 10:25:36,654 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.041002511978149414 seconds
+2019-10-24 10:25:36,675 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.06200361251831055 seconds
+2019-10-24 10:25:39,677 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-24 10:25:39,717 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.03800225257873535 seconds
+2019-10-24 10:25:39,718 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.04000234603881836 seconds
+2019-10-24 10:25:39,720 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-24 10:25:42,033 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.3111321926116943 seconds
+2019-10-24 10:25:42,033 - root - INFO - ###############################  END  ###############################
+2019-10-24 10:28:12,395 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1590662002563477 seconds
+2019-10-24 10:28:12,396 - root - INFO - ############################### START ###############################
+2019-10-24 10:28:12,640 - root - INFO - SUCCESS    Set browser window wide: 1000,high: 2000, Spend 0.24301433563232422 seconds
+2019-10-24 10:28:14,961 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.3201324939727783 seconds
+2019-10-24 10:28:19,961 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 10:28:47,432 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 27.468570709228516 seconds
+2019-10-24 10:28:49,432 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 10:28:54,543 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.109292268753052 seconds
+2019-10-24 10:28:57,543 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 10:29:02,544 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 10:29:02,565 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.021001100540161133 seconds
+2019-10-24 10:29:02,591 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.047002553939819336 seconds
+2019-10-24 10:29:05,591 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-24 10:29:10,755 - root - INFO - FAIL       Unable set wait current element: <xpath->//*[@i="hannel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 5.162295341491699 seconds
+2019-10-24 10:29:13,062 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.290131092071533 seconds
+2019-10-24 10:29:13,063 - root - INFO - ###############################  END  ###############################
+2019-10-24 10:30:11,089 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1410651206970215 seconds
+2019-10-24 10:30:11,090 - root - INFO - ############################### START ###############################
+2019-10-24 10:30:11,312 - root - INFO - SUCCESS    Set browser window wide: 1000,high: 2000, Spend 0.22201275825500488 seconds
+2019-10-24 10:30:12,749 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.435081958770752 seconds
+2019-10-24 10:30:17,749 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 10:30:31,339 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 13.588777303695679 seconds
+2019-10-24 10:30:33,341 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 10:30:38,434 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.092291355133057 seconds
+2019-10-24 10:30:41,435 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-24 10:30:46,448 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.009286403656006 seconds
+2019-10-24 10:30:46,473 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.02300119400024414 seconds
+2019-10-24 10:30:46,494 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.04400229454040527 seconds
+2019-10-24 10:30:49,495 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-24 10:30:49,516 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.018001079559326172 seconds
+2019-10-24 10:30:49,516 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.019001245498657227 seconds
+2019-10-24 10:30:49,517 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-24 10:30:51,850 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.3321335315704346 seconds
+2019-10-24 10:30:51,851 - root - INFO - ###############################  END  ###############################
+2019-10-24 10:32:13,261 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1240642070770264 seconds
+2019-10-24 10:32:13,262 - root - INFO - ############################### START ###############################
+2019-10-24 10:32:13,486 - root - INFO - SUCCESS    Set browser window wide: 1000,high: 2000, Spend 0.2240128517150879 seconds
+2019-10-24 10:32:14,616 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.1290643215179443 seconds
+2019-10-24 10:32:19,616 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 10:36:09,473 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 229.8551468849182 seconds
+2019-10-24 10:36:11,474 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001142024993896 seconds
+2019-10-24 10:36:16,674 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.1982972621917725 seconds
+2019-10-24 10:36:19,675 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 10:36:24,676 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 10:36:24,711 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.03300166130065918 seconds
+2019-10-24 10:36:24,737 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.05900311470031738 seconds
+2019-10-24 10:36:27,738 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 10:36:27,781 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.04000210762023926 seconds
+2019-10-24 10:36:27,783 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.04300260543823242 seconds
+2019-10-24 10:36:27,783 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-24 10:36:30,051 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.266129493713379 seconds
+2019-10-24 10:36:30,052 - root - INFO - ###############################  END  ###############################
+2019-10-24 10:37:44,550 - root - INFO - ############################### START ###############################
+2019-10-24 10:37:45,707 - root - INFO - SUCCESS    Set browser window wide: 1000,high: 2000, Spend 1.1550660133361816 seconds
+2019-10-24 10:37:45,836 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.12900733947753906 seconds
+2019-10-24 10:37:47,119 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2820734977722168 seconds
+2019-10-24 10:37:52,121 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 10:38:11,743 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 19.62012219429016 seconds
+2019-10-24 10:38:13,743 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 10:38:18,789 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.045288562774658 seconds
+2019-10-24 10:38:21,791 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 10:38:26,792 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 10:38:26,833 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.039002180099487305 seconds
+2019-10-24 10:38:26,861 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.06800365447998047 seconds
+2019-10-24 10:38:29,861 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 10:38:29,881 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.018001079559326172 seconds
+2019-10-24 10:38:29,881 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.019001007080078125 seconds
+2019-10-24 10:38:29,882 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-24 10:38:29,883 - root - INFO - ###############################  END  ###############################
+2019-10-24 10:38:32,576 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.6931540966033936 seconds
+2019-10-24 10:40:47,483 - root - INFO - ############################### START ###############################
+2019-10-24 10:40:48,607 - root - INFO - SUCCESS    Set browser window wide: 1000,high: 2000, Spend 1.1240642070770264 seconds
+2019-10-24 10:40:48,726 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.11800670623779297 seconds
+2019-10-24 10:40:50,232 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5040860176086426 seconds
+2019-10-24 10:40:55,233 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 10:41:13,702 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 18.467056274414062 seconds
+2019-10-24 10:41:15,703 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 10:41:20,763 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.058289527893066 seconds
+2019-10-24 10:41:23,764 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.001171588897705 seconds
+2019-10-24 10:41:28,765 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 10:41:28,791 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.02500128746032715 seconds
+2019-10-24 10:41:28,823 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.05600309371948242 seconds
+2019-10-24 10:41:31,823 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-24 10:41:31,840 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.01500082015991211 seconds
+2019-10-24 10:41:31,840 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.016000986099243164 seconds
+2019-10-24 10:41:31,841 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-24 10:41:31,842 - root - INFO - ###############################  END  ###############################
+2019-10-24 10:41:34,662 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.8191611766815186 seconds
+2019-10-24 10:42:01,686 - root - INFO - ############################### START ###############################
+2019-10-24 10:42:02,806 - root - INFO - SUCCESS    Set browser window wide: 1000,high: 2000, Spend 1.1190640926361084 seconds
+2019-10-24 10:42:02,951 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.14300823211669922 seconds
+2019-10-24 10:42:06,300 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.348191499710083 seconds
+2019-10-24 10:42:11,302 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 10:42:27,443 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 16.138922929763794 seconds
+2019-10-24 10:42:29,444 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 10:42:34,497 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.052289009094238 seconds
+2019-10-24 10:42:37,498 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-24 10:42:42,499 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 10:42:42,525 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.02500152587890625 seconds
+2019-10-24 10:42:42,557 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.05700325965881348 seconds
+2019-10-24 10:42:45,559 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-24 10:42:45,577 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.016000986099243164 seconds
+2019-10-24 10:42:45,578 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.017000913619995117 seconds
+2019-10-24 10:42:45,578 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-24 10:42:45,579 - root - INFO - ###############################  END  ###############################
+2019-10-24 10:42:48,194 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.61514949798584 seconds
+2019-10-24 10:44:08,305 - root - INFO - ############################### START ###############################
+2019-10-24 10:44:09,434 - root - INFO - SUCCESS    Set browser window wide: 1000,high: 2000, Spend 1.1290647983551025 seconds
+2019-10-24 10:44:09,559 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.12400674819946289 seconds
+2019-10-24 10:44:11,204 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.6420941352844238 seconds
+2019-10-24 10:44:16,204 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 10:44:39,616 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 23.411339044570923 seconds
+2019-10-24 10:44:41,617 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 10:44:46,668 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.049288511276245 seconds
+2019-10-24 10:44:49,669 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-24 10:44:54,670 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 10:44:54,698 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.026001453399658203 seconds
+2019-10-24 10:44:54,730 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.059003591537475586 seconds
+2019-10-24 10:44:57,730 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 10:44:57,749 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.017000913619995117 seconds
+2019-10-24 10:44:57,750 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.01800084114074707 seconds
+2019-10-24 10:44:57,750 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-24 10:45:00,600 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.8491628170013428 seconds
+2019-10-24 10:45:00,601 - root - INFO - ###############################  END  ###############################
+2019-10-24 10:45:36,480 - root - INFO - ############################### START ###############################
+2019-10-24 10:45:37,604 - root - INFO - SUCCESS    Set browser window wide: 1000,high: 2000, Spend 1.1230640411376953 seconds
+2019-10-24 10:45:37,735 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.13000750541687012 seconds
+2019-10-24 10:45:39,291 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.554089069366455 seconds
+2019-10-24 10:45:44,292 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 10:46:01,122 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 16.827962160110474 seconds
+2019-10-24 10:46:03,122 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 10:46:08,171 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.047288656234741 seconds
+2019-10-24 10:46:11,171 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-24 10:46:16,173 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 10:46:16,200 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.02500152587890625 seconds
+2019-10-24 10:46:16,230 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.05600333213806152 seconds
+2019-10-24 10:46:19,231 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-24 10:46:19,248 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.01500082015991211 seconds
+2019-10-24 10:46:19,248 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.016000986099243164 seconds
+2019-10-24 10:46:19,249 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-24 10:46:22,582 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.33219051361084 seconds
+2019-10-24 10:46:22,582 - root - INFO - ###############################  END  ###############################
+2019-10-24 11:04:59,009 - root - INFO - ############################### START ###############################
+2019-10-24 11:05:00,169 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1590664386749268 seconds
+2019-10-24 11:05:01,412 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2430713176727295 seconds
+2019-10-24 11:05:06,413 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.001285791397095 seconds
+2019-10-24 11:05:26,125 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 19.711127281188965 seconds
+2019-10-24 11:05:28,127 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 11:05:33,179 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.052288770675659 seconds
+2019-10-24 11:05:36,180 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 11:05:41,181 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 11:05:41,209 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.027001619338989258 seconds
+2019-10-24 11:05:41,239 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.05700373649597168 seconds
+2019-10-24 11:05:41,241 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-24 11:05:44,242 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-24 11:05:44,259 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.01500082015991211 seconds
+2019-10-24 11:05:44,260 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.016000986099243164 seconds
+2019-10-24 11:05:47,576 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.316189765930176 seconds
+2019-10-24 11:05:47,577 - root - INFO - ###############################  END  ###############################
+2019-10-24 11:06:06,035 - root - INFO - ############################### START ###############################
+2019-10-24 11:06:07,166 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1290647983551025 seconds
+2019-10-24 11:06:08,491 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.324075698852539 seconds
+2019-10-24 11:06:13,491 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 11:06:28,514 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 15.021859407424927 seconds
+2019-10-24 11:06:30,515 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 11:06:35,560 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.043288469314575 seconds
+2019-10-24 11:06:38,578 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.016172409057617 seconds
+2019-10-24 11:06:43,579 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 11:06:43,637 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.05700325965881348 seconds
+2019-10-24 11:06:43,671 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.09100508689880371 seconds
+2019-10-24 11:06:43,672 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-24 11:06:46,672 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-24 11:06:46,691 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.01800084114074707 seconds
+2019-10-24 11:06:46,692 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.019001007080078125 seconds
+2019-10-24 11:06:49,353 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.6611521244049072 seconds
+2019-10-24 11:06:49,354 - root - INFO - ###############################  END  ###############################
+2019-10-24 11:09:19,012 - root - INFO - ############################### START ###############################
+2019-10-24 11:09:20,134 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1210641860961914 seconds
+2019-10-24 11:09:26,359 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 6.224355936050415 seconds
+2019-10-24 11:09:31,360 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 11:09:52,216 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 20.85419273376465 seconds
+2019-10-24 11:09:54,217 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0011146068573 seconds
+2019-10-24 11:09:59,266 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.048288583755493 seconds
+2019-10-24 11:10:02,267 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-24 11:10:07,269 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 11:10:07,298 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.02800154685974121 seconds
+2019-10-24 11:10:07,328 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.05700325965881348 seconds
+2019-10-24 11:10:07,329 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-24 11:10:10,329 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 11:10:10,347 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.017000913619995117 seconds
+2019-10-24 11:10:10,348 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.01800084114074707 seconds
+2019-10-24 11:10:13,224 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.87516450881958 seconds
+2019-10-24 11:10:13,225 - root - INFO - ###############################  END  ###############################
+2019-10-24 11:20:47,252 - root - INFO - ############################### START ###############################
+2019-10-24 11:20:48,388 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1340649127960205 seconds
+2019-10-24 11:20:50,187 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.797102451324463 seconds
+2019-10-24 11:20:50,226 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03800201416015625 seconds
+2019-10-24 11:20:50,545 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.356020450592041 seconds
+2019-10-24 11:20:50,583 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.037001848220825195 seconds
+2019-10-24 11:20:50,720 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.1740097999572754 seconds
+2019-10-24 11:20:55,161 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.4280242919921875 seconds
+2019-10-24 11:20:55,284 - root - INFO - FAIL       Unable to send element: <id->w> content: 测试02, Spend 0.12200689315795898 seconds
+2019-10-24 11:20:55,721 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.42502427101135254 seconds
+2019-10-24 11:20:55,744 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.02200150489807129 seconds
+2019-10-24 11:20:56,047 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.32501864433288574 seconds
+2019-10-24 11:20:56,066 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.019001245498657227 seconds
+2019-10-24 11:20:56,298 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.25101423263549805 seconds
+2019-10-24 11:20:59,158 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.846163034439087 seconds
+2019-10-24 11:20:59,160 - root - INFO - ###############################  END  ###############################
+2019-10-24 11:20:59,161 - root - INFO - ############################### START ###############################
+2019-10-24 11:21:16,369 - root - INFO - ############################### START ###############################
+2019-10-24 11:21:17,548 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1780674457550049 seconds
+2019-10-24 11:21:18,970 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4200811386108398 seconds
+2019-10-24 11:21:23,970 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 11:21:39,176 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 15.204869747161865 seconds
+2019-10-24 11:21:41,177 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 11:21:46,227 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.04728889465332 seconds
+2019-10-24 11:21:49,227 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-24 11:21:54,228 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 11:21:54,255 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.02500128746032715 seconds
+2019-10-24 11:21:54,284 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.05500316619873047 seconds
+2019-10-24 11:21:57,285 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-24 11:21:57,301 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.01500082015991211 seconds
+2019-10-24 11:21:57,302 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.016000986099243164 seconds
+2019-10-24 11:21:57,303 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-24 11:21:57,304 - root - INFO - SUCCESS    Print current value: 测试一下单独执行, Spend 0.0 seconds
+2019-10-24 11:22:00,004 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.6991546154022217 seconds
+2019-10-24 11:22:00,004 - root - INFO - ###############################  END  ###############################
+2019-10-24 11:22:37,662 - root - INFO - ############################### START ###############################
+2019-10-24 11:22:38,911 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2460711002349854 seconds
+2019-10-24 11:22:40,335 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4220812320709229 seconds
+2019-10-24 11:22:45,338 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.001286029815674 seconds
+2019-10-24 11:23:02,822 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 17.48300004005432 seconds
+2019-10-24 11:23:04,823 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 11:23:09,877 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.052289009094238 seconds
+2019-10-24 11:23:12,878 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-24 11:23:17,879 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286340713501 seconds
+2019-10-24 11:23:17,907 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.026001453399658203 seconds
+2019-10-24 11:23:17,935 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.05400276184082031 seconds
+2019-10-24 11:23:20,935 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 11:23:26,036 - root - INFO - FAIL       Unable set wait current element: <xpath->//*[@i="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 5.100291728973389 seconds
+2019-10-24 11:23:26,037 - root - INFO - SUCCESS    Print current value: 测试一下单独执行, Spend 0.0 seconds
+2019-10-24 11:23:28,930 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.889164924621582 seconds
+2019-10-24 11:23:28,931 - root - INFO - ###############################  END  ###############################
+2019-10-24 11:26:11,731 - root - INFO - ############################### START ###############################
+2019-10-24 11:26:12,871 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1400654315948486 seconds
+2019-10-24 11:26:23,942 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 11.070633172988892 seconds
+2019-10-24 11:26:26,944 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-24 11:26:26,986 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.04000210762023926 seconds
+2019-10-24 11:26:26,986 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.041002511978149414 seconds
+2019-10-24 11:26:26,987 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-24 11:26:26,988 - root - INFO - SUCCESS    Return current browser session id: 1de33f8829767a838dc83267730bf15e, Spend 0.0 seconds
+2019-10-24 11:26:26,989 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-24 11:26:26,989 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-24 11:26:26,990 - root - INFO - SUCCESS    Print current value: 1de33f8829767a838dc83267730bf15e, Spend 0.0 seconds
+2019-10-24 11:26:28,990 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-24 11:26:31,812 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.8211612701416016 seconds
+2019-10-24 11:26:31,813 - root - INFO - ###############################  END  ###############################
+2019-10-24 11:27:57,311 - root - INFO - ############################### START ###############################
+2019-10-24 11:27:58,493 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1800673007965088 seconds
+2019-10-24 11:28:10,183 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 11.687668561935425 seconds
+2019-10-24 11:28:13,191 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-24 11:28:13,654 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.46202659606933594 seconds
+2019-10-24 11:28:13,655 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.463026762008667 seconds
+2019-10-24 11:28:13,655 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-24 11:28:13,656 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-24 11:28:16,439 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.7801589965820312 seconds
+2019-10-24 11:28:16,440 - root - INFO - ###############################  END  ###############################
+2019-10-24 11:28:43,499 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.336076259613037 seconds
+2019-10-24 11:28:48,500 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 11:29:08,652 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 20.150152444839478 seconds
+2019-10-24 11:29:10,652 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 11:29:15,702 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.049288749694824 seconds
+2019-10-24 11:29:18,703 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-24 11:29:23,705 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 11:29:23,733 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.026001453399658203 seconds
+2019-10-24 11:29:23,827 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.12000703811645508 seconds
+2019-10-24 11:29:26,827 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 11:29:31,924 - root - INFO - FAIL       Unable set wait current element: <xpath->//*[@i="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 5.096291780471802 seconds
+2019-10-24 11:29:31,925 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-24 11:30:15,990 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3670780658721924 seconds
+2019-10-24 11:30:20,991 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 11:30:38,287 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 17.294989347457886 seconds
+2019-10-24 11:30:40,288 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 11:30:42,852 - root - INFO - FAIL       Unable switch to the new window, Spend 2.5631468296051025 seconds
+2019-10-24 11:30:42,853 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-24 11:31:03,921 - root - INFO - ############################### START ###############################
+2019-10-24 11:31:05,147 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.223069667816162 seconds
+2019-10-24 11:31:18,027 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 12.878736734390259 seconds
+2019-10-24 11:31:21,028 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-24 11:31:21,072 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.04300236701965332 seconds
+2019-10-24 11:31:21,074 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.04500246047973633 seconds
+2019-10-24 11:31:21,075 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-24 11:31:21,076 - root - INFO - SUCCESS    Return current browser session id: 488db072182503153b56ad600c94126e, Spend 0.0 seconds
+2019-10-24 11:31:21,077 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-24 11:31:21,078 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-24 11:31:21,079 - root - INFO - SUCCESS    Print current value: 488db072182503153b56ad600c94126e, Spend 0.0 seconds
+2019-10-24 11:31:23,080 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-24 11:31:26,308 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.227184772491455 seconds
+2019-10-24 11:31:31,309 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 11:31:46,936 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 15.625893592834473 seconds
+2019-10-24 11:31:48,937 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 11:31:53,994 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.0552895069122314 seconds
+2019-10-24 11:31:56,994 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 11:32:01,996 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 11:32:02,023 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.02500128746032715 seconds
+2019-10-24 11:32:02,052 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.054003000259399414 seconds
+2019-10-24 11:32:05,052 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 11:32:10,150 - root - INFO - FAIL       Unable set wait current element: <xpath->//*[@i="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 5.097291469573975 seconds
+2019-10-24 11:32:10,151 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-24 11:32:13,168 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.014172315597534 seconds
+2019-10-24 11:32:13,169 - root - INFO - ###############################  END  ###############################
+2019-10-24 11:32:44,098 - root - INFO - ############################### START ###############################
+2019-10-24 11:32:45,278 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1780674457550049 seconds
+2019-10-24 11:32:58,425 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 13.146751880645752 seconds
+2019-10-24 11:33:01,426 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-24 11:33:01,451 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.024001359939575195 seconds
+2019-10-24 11:33:01,452 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.02500128746032715 seconds
+2019-10-24 11:33:01,453 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-24 11:33:01,454 - root - INFO - SUCCESS    Return current browser session id: 2f9f6853ced91044d2397c21161694cf, Spend 0.0 seconds
+2019-10-24 11:33:01,454 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-24 11:33:01,455 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-24 11:33:01,456 - root - INFO - SUCCESS    Print current value: 2f9f6853ced91044d2397c21161694cf, Spend 0.0 seconds
+2019-10-24 11:33:03,458 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-24 11:33:06,718 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.2581863403320312 seconds
+2019-10-24 11:33:11,719 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 11:35:31,565 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 139.843998670578 seconds
+2019-10-24 11:35:33,566 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 11:35:35,637 - root - INFO - FAIL       Unable switch to the new window, Spend 2.0691182613372803 seconds
+2019-10-24 11:35:35,638 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-24 11:35:37,825 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1811249256134033 seconds
+2019-10-24 11:35:37,826 - root - INFO - ###############################  END  ###############################
+2019-10-24 11:35:49,077 - root - INFO - ############################### START ###############################
+2019-10-24 11:35:50,249 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1700668334960938 seconds
+2019-10-24 11:36:21,688 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 31.437798261642456 seconds
+2019-10-24 11:36:24,689 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-24 11:36:24,740 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.049002885818481445 seconds
+2019-10-24 11:36:24,741 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.0500030517578125 seconds
+2019-10-24 11:36:24,742 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-24 11:36:24,743 - root - INFO - SUCCESS    Return current browser session id: b5c548c6d4f5a33752680d59c2c15f7f, Spend 0.0 seconds
+2019-10-24 11:36:24,744 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-24 11:36:24,745 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-24 11:36:24,746 - root - INFO - SUCCESS    Print current value: b5c548c6d4f5a33752680d59c2c15f7f, Spend 0.0 seconds
+2019-10-24 11:36:26,746 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-24 11:36:32,184 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 5.436310768127441 seconds
+2019-10-24 11:36:37,185 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 11:41:27,187 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 290.0015871524811 seconds
+2019-10-24 11:41:29,188 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 11:41:34,548 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.357306480407715 seconds
+2019-10-24 11:41:37,548 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 11:41:42,549 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 11:41:42,576 - root - INFO - FAIL       Unable find element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.026001691818237305 seconds
+2019-10-24 11:41:42,577 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-24 11:41:46,125 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.510143518447876 seconds
+2019-10-24 11:41:46,125 - root - INFO - ###############################  END  ###############################
+2019-10-24 13:40:03,473 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.6841537952423096 seconds
+2019-10-24 13:40:08,478 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.004286289215088 seconds
+2019-10-24 13:41:25,231 - root - INFO - ############################### START ###############################
+2019-10-24 13:41:46,230 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 19.847135305404663 seconds
+2019-10-24 13:41:49,230 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-24 13:41:49,295 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.0630033016204834 seconds
+2019-10-24 13:41:49,296 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.06400346755981445 seconds
+2019-10-24 13:41:49,296 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-24 13:41:49,297 - root - INFO - SUCCESS    Return current browser session id: 58ef4db8f0b29ae5c07ef8731903116b, Spend 0.0 seconds
+2019-10-24 13:41:49,298 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-24 13:41:49,299 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-24 13:41:49,299 - root - INFO - SUCCESS    Print current value: 58ef4db8f0b29ae5c07ef8731903116b, Spend 0.0 seconds
+2019-10-24 13:41:51,300 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-24 13:41:53,930 - root - INFO - ###############################  END  ###############################
+2019-10-24 13:42:30,291 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 21.773245334625244 seconds
+2019-10-24 13:42:35,291 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 13:44:50,088 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 32.33284902572632 seconds
+2019-10-24 13:44:55,088 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 13:49:00,999 - root - INFO - ############################### START ###############################
+2019-10-24 13:49:15,525 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 13.317761659622192 seconds
+2019-10-24 13:49:15,556 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.031001806259155273 seconds
+2019-10-24 13:49:15,837 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.3110179901123047 seconds
+2019-10-24 13:49:15,869 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03200173377990723 seconds
+2019-10-24 13:49:16,059 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.22201275825500488 seconds
+2019-10-24 13:49:20,519 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.4470252990722656 seconds
+2019-10-24 13:49:20,552 - root - INFO - FAIL       Unable to send element: <id->w> content: 测试02, Spend 0.03300189971923828 seconds
+2019-10-24 13:49:20,944 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.38602209091186523 seconds
+2019-10-24 13:49:20,974 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.028001785278320312 seconds
+2019-10-24 13:49:21,162 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.21601247787475586 seconds
+2019-10-24 13:49:21,190 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.027001380920410156 seconds
+2019-10-24 13:49:21,327 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.16400933265686035 seconds
+2019-10-24 13:49:24,309 - root - INFO - ###############################  END  ###############################
+2019-10-24 13:49:24,310 - root - INFO - ############################### START ###############################
+2019-10-24 13:57:58,460 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3910796642303467 seconds
+2019-10-24 13:58:00,508 - root - INFO - FAIL       Unable to Click by text content: linktext->新闻, Spend 0.047002553939819336 seconds
+2019-10-24 14:00:03,232 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.7741014957427979 seconds
+2019-10-24 14:00:05,232 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001142024993896 seconds
+2019-10-24 14:00:24,256 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 19.022087812423706 seconds
+2019-10-24 14:00:24,305 - root - INFO - FAIL       Unable find element id: <id->su>, Spend 0.04800271987915039 seconds
+2019-10-24 14:01:36,019 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.6980972290039062 seconds
+2019-10-24 14:01:38,020 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001142024993896 seconds
+2019-10-24 14:01:38,052 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.031001567840576172 seconds
+2019-10-24 14:01:38,064 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: su, Spend 0.04300236701965332 seconds
+2019-10-24 14:01:38,083 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.017000913619995117 seconds
+2019-10-24 14:01:38,094 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: 百度一下, Spend 0.029001474380493164 seconds
+2019-10-24 14:01:38,095 - root - INFO - SUCCESS    Print current value: 测试一下打印, Spend 0.0 seconds
+2019-10-24 14:01:38,096 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-24 14:01:39,096 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0000574588775635 seconds
+2019-10-24 14:01:42,130 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0331735610961914 seconds
+2019-10-24 14:18:10,661 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.1480658054351807 seconds
+2019-10-24 14:18:15,662 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 14:18:24,170 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 8.505486726760864 seconds
+2019-10-24 14:18:26,170 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 14:18:28,266 - root - INFO - FAIL       Unable switch to the new window, Spend 2.0951201915740967 seconds
+2019-10-24 14:18:28,267 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-24 14:19:33,075 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 18.53306007385254 seconds
+2019-10-24 14:19:59,731 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 15.032859802246094 seconds
+2019-10-24 14:20:02,733 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-24 14:20:02,763 - root - INFO - SUCCESS    Typed element class: <class->type-check>, Spend 0.02800154685974121 seconds
+2019-10-24 14:20:02,763 - root - INFO - SUCCESS    Get the number of current elements: class->type-check, count: 6, Spend 0.029001474380493164 seconds
+2019-10-24 14:20:02,764 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-24 14:20:02,765 - root - INFO - SUCCESS    Return current browser session id: 4d951a422cd090cae4355fbf0688e90d, Spend 0.0 seconds
+2019-10-24 14:20:02,766 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-24 14:20:02,767 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-24 14:20:02,768 - root - INFO - SUCCESS    Print current value: 4d951a422cd090cae4355fbf0688e90d, Spend 0.0 seconds
+2019-10-24 14:21:32,527 - root - INFO - SUCCESS    Navigated to https://wenku.baidu.com/, Spend 66.46580171585083 seconds
+2019-10-24 14:21:35,535 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-24 14:21:35,543 - root - INFO - FAIL       Unable find element class: <class->type-check>, Spend 0.007000446319580078 seconds
+2019-10-24 14:21:57,897 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 5.00528621673584 seconds
+2019-10-24 14:22:00,903 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-24 14:22:00,904 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-24 14:22:00,905 - root - INFO - SUCCESS    Return current browser session id: 031dc7affc480b165b96804d5727d03a, Spend 0.0 seconds
+2019-10-24 14:22:00,906 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-24 14:22:00,907 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-24 14:22:00,907 - root - INFO - SUCCESS    Print current value: 031dc7affc480b165b96804d5727d03a, Spend 0.0 seconds
+2019-10-24 14:23:49,716 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2800731658935547 seconds
+2019-10-24 14:23:52,718 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-24 14:23:52,719 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-24 14:23:52,721 - root - INFO - SUCCESS    Return current browser session id: 3d5f5f8100f8a6ceb4e5e7287aab4204, Spend 0.0 seconds
+2019-10-24 14:23:52,722 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-24 14:23:52,723 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-24 14:23:52,724 - root - INFO - SUCCESS    Print current value: 3d5f5f8100f8a6ceb4e5e7287aab4204, Spend 0.0 seconds
+2019-10-24 14:30:08,494 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4770848751068115 seconds
+2019-10-24 14:30:11,495 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-24 14:30:11,496 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-24 14:30:11,497 - root - INFO - SUCCESS    Return current browser session id: 81882c2ef847d3d5918bb6bf3d54d2d2, Spend 0.0 seconds
+2019-10-24 14:30:11,498 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-24 14:30:11,498 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-24 14:30:11,499 - root - INFO - SUCCESS    Print current value: 81882c2ef847d3d5918bb6bf3d54d2d2, Spend 0.0 seconds
+2019-10-24 14:31:53,827 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.431082010269165 seconds
+2019-10-24 14:31:56,827 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-24 14:31:56,828 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-24 14:31:56,829 - root - INFO - SUCCESS    Return current browser session id: efddd2ae0ffa29a286c400a6546a3cb4, Spend 0.0 seconds
+2019-10-24 14:31:56,829 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-24 14:31:56,830 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-24 14:31:56,831 - root - INFO - SUCCESS    Print current value: efddd2ae0ffa29a286c400a6546a3cb4, Spend 0.0 seconds
+2019-10-24 14:39:41,719 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 6.0343451499938965 seconds
+2019-10-24 14:39:44,719 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-24 14:39:44,720 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-24 14:39:44,721 - root - INFO - SUCCESS    Return current browser session id: f7effeca3ef3f9258e37f6a42c6ba9a4, Spend 0.0 seconds
+2019-10-24 14:39:44,722 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-24 14:39:44,723 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-24 14:39:44,724 - root - INFO - SUCCESS    Print current value: f7effeca3ef3f9258e37f6a42c6ba9a4, Spend 0.0 seconds
+2019-10-24 14:40:16,767 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.1340649127960205 seconds
+2019-10-24 14:40:18,767 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 14:40:18,817 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.04800248146057129 seconds
+2019-10-24 14:40:18,832 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: su, Spend 0.0630037784576416 seconds
+2019-10-24 14:40:18,863 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.031001806259155273 seconds
+2019-10-24 14:40:18,887 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: 百度一下, Spend 0.05400276184082031 seconds
+2019-10-24 14:40:18,887 - root - INFO - SUCCESS    Print current value: 测试一下打印, Spend 0.0 seconds
+2019-10-24 14:40:18,888 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-24 14:40:19,888 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0000572204589844 seconds
+2019-10-24 14:40:22,889 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-24 14:43:32,685 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3570775985717773 seconds
+2019-10-24 14:43:34,686 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 14:43:34,734 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.04600238800048828 seconds
+2019-10-24 14:43:34,749 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: su, Spend 0.06100344657897949 seconds
+2019-10-24 14:43:34,769 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.018001317977905273 seconds
+2019-10-24 14:43:34,912 - root - INFO - SUCCESS    Typed element: <id->su> content: selenium, Spend 0.16200947761535645 seconds
+2019-10-24 14:43:34,935 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.023001432418823242 seconds
+2019-10-24 14:43:34,948 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: 百度一下, Spend 0.03600192070007324 seconds
+2019-10-24 14:43:34,949 - root - INFO - SUCCESS    Print current value: 测试一下打印, Spend 0.0 seconds
+2019-10-24 14:43:34,950 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-24 14:43:35,950 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0000572204589844 seconds
+2019-10-24 14:43:38,951 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-24 14:43:38,953 - root - INFO - SUCCESS    Print current value: 测试一下调用basepage, Spend 0.0 seconds
+2019-10-24 14:45:00,629 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5900909900665283 seconds
+2019-10-24 14:45:02,630 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 14:45:02,661 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.029001712799072266 seconds
+2019-10-24 14:45:02,677 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: su, Spend 0.04500269889831543 seconds
+2019-10-24 14:45:02,702 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.02300119400024414 seconds
+2019-10-24 14:45:03,392 - root - INFO - SUCCESS    Typed element: <id->kw> content: selenium, Spend 0.7130405902862549 seconds
+2019-10-24 14:45:03,410 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.01700115203857422 seconds
+2019-10-24 14:45:03,439 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: 百度一下, Spend 0.04700279235839844 seconds
+2019-10-24 14:45:03,440 - root - INFO - SUCCESS    Print current value: 测试一下打印, Spend 0.0 seconds
+2019-10-24 14:45:03,441 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-24 14:45:04,441 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0000572204589844 seconds
+2019-10-24 14:45:07,442 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171661376953 seconds
+2019-10-24 14:45:07,443 - root - INFO - SUCCESS    Print current value: 测试一下调用basepage, Spend 0.0 seconds
+2019-10-24 14:47:58,564 - root - INFO - ############################### START ###############################
+2019-10-24 14:48:02,416 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.6791532039642334 seconds
+2019-10-24 14:48:04,417 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 14:48:04,471 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.052002906799316406 seconds
+2019-10-24 14:48:04,486 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: su, Spend 0.06800365447998047 seconds
+2019-10-24 14:48:04,510 - root - INFO - SUCCESS    Typed element id: <id->kw>, Spend 0.024001598358154297 seconds
+2019-10-24 14:48:05,014 - root - INFO - SUCCESS    Typed element: <id->kw> content: selenium, Spend 0.5270304679870605 seconds
+2019-10-24 14:48:05,041 - root - INFO - SUCCESS    Typed element id: <id->su>, Spend 0.026001691818237305 seconds
+2019-10-24 14:48:05,053 - root - INFO - SUCCESS    Get attribute element: <id->su>,attribute: 百度一下, Spend 0.03800201416015625 seconds
+2019-10-24 14:48:05,053 - root - INFO - SUCCESS    Print current value: 测试一下打印, Spend 0.0 seconds
+2019-10-24 14:48:05,054 - root - INFO - SUCCESS    Print current value: 百度一下, Spend 0.0 seconds
+2019-10-24 14:48:06,060 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0040571689605713 seconds
+2019-10-24 14:48:09,060 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.0001718997955322 seconds
+2019-10-24 14:48:09,061 - root - INFO - SUCCESS    Print current value: 测试一下调用basepage, Spend 0.0 seconds
+2019-10-24 14:48:16,576 - root - INFO - ###############################  END  ###############################
+2019-10-24 15:54:13,744 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 19.49811553955078 seconds
+2019-10-24 15:54:13,772 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.026001453399658203 seconds
+2019-10-24 15:54:13,773 - root - INFO - SUCCESS    Print current value: 开始测试, Spend 0.0 seconds
+2019-10-24 15:55:32,752 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 4.139236688613892 seconds
+2019-10-24 15:55:32,762 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.008000373840332031 seconds
+2019-10-24 15:55:32,763 - root - INFO - SUCCESS    Print current value: 开始测试, Spend 0.0 seconds
+2019-10-24 15:55:33,612 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 0.8490486145019531 seconds
+2019-10-24 15:55:33,646 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.03200197219848633 seconds
+2019-10-24 15:55:34,113 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.5000286102294922 seconds
+2019-10-24 15:55:34,118 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.003999948501586914 seconds
+2019-10-24 15:55:34,140 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.021001100540161133 seconds
+2019-10-24 15:55:34,684 - root - INFO - SUCCESS    Clear and send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.5660324096679688 seconds
+2019-10-24 15:55:34,725 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.039002180099487305 seconds
+2019-10-24 15:55:35,143 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.45702600479125977 seconds
+2019-10-24 15:55:35,173 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.029001474380493164 seconds
+2019-10-24 15:55:49,274 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 14.129808187484741 seconds
+2019-10-24 15:55:54,277 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0019998550415039062 seconds
+2019-10-24 15:55:54,306 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.02800130844116211 seconds
+2019-10-24 15:55:54,523 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.24501395225524902 seconds
+2019-10-24 15:55:59,564 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.024001359939575195 seconds
+2019-10-24 15:55:59,884 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.34401988983154297 seconds
+2019-10-24 15:56:01,909 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.024001359939575195 seconds
+2019-10-24 15:56:02,107 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input> content: test, Spend 0.22101259231567383 seconds
+2019-10-24 15:56:04,135 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.027001619338989258 seconds
+2019-10-24 15:56:04,325 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.21801280975341797 seconds
+2019-10-24 15:56:06,349 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.022001266479492188 seconds
+2019-10-24 15:56:06,431 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.10400581359863281 seconds
+2019-10-24 15:56:06,458 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.026001453399658203 seconds
+2019-10-24 15:56:06,584 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.1520087718963623 seconds
+2019-10-24 15:56:08,608 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.024001598358154297 seconds
+2019-10-24 15:56:08,989 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea> content: select, Spend 0.4040229320526123 seconds
+2019-10-24 15:56:09,015 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.02500152587890625 seconds
+2019-10-24 15:56:09,132 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.14200806617736816 seconds
+2019-10-24 15:58:23,874 - root - INFO - ############################### START ###############################
+2019-10-24 15:59:00,517 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 35.499030351638794 seconds
+2019-10-24 15:59:00,579 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.059003591537475586 seconds
+2019-10-24 15:59:00,873 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.02300119400024414 seconds
+2019-10-24 15:59:03,785 - root - INFO - ###############################  END  ###############################
+2019-10-24 16:01:12,242 - root - INFO - ############################### START ###############################
+2019-10-24 16:01:20,669 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 7.294417381286621 seconds
+2019-10-24 16:01:20,969 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.29901719093322754 seconds
+2019-10-24 16:01:21,604 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.029001712799072266 seconds
+2019-10-24 16:01:23,055 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0000572204589844 seconds
+2019-10-24 16:01:23,093 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.03600168228149414 seconds
+2019-10-24 16:02:15,904 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 52.84702253341675 seconds
+2019-10-24 16:02:20,905 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 16:02:20,931 - root - INFO - SUCCESS    Typed element xpath: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.02500152587890625 seconds
+2019-10-24 16:02:21,170 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.03300189971923828 seconds
+2019-10-24 16:02:21,205 - root - INFO - SUCCESS    Move to element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.06800365447998047 seconds
+2019-10-24 16:02:21,230 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001359939575195 seconds
+2019-10-24 16:02:21,311 - root - INFO - SUCCESS    Right click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.10600614547729492 seconds
+2019-10-24 16:02:21,332 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.019001007080078125 seconds
+2019-10-24 16:02:21,364 - root - INFO - SUCCESS    Double click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.05200314521789551 seconds
+2019-10-24 16:02:21,388 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.02300119400024414 seconds
+2019-10-24 16:02:21,422 - root - INFO - SUCCESS    Click and hold to element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.05600309371948242 seconds
+2019-10-24 16:02:21,438 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.016000747680664062 seconds
+2019-10-24 16:02:21,483 - root - INFO - SUCCESS    Drag and drop by offset element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.06000328063964844 seconds
+2019-10-24 16:02:26,484 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 16:02:26,495 - root - INFO - SUCCESS    Get current window title: 规则引擎 _ AEP, Spend 0.009000539779663086 seconds
+2019-10-24 16:02:29,207 - root - INFO - ###############################  END  ###############################
+2019-10-24 16:03:05,002 - root - INFO - ############################### START ###############################
+2019-10-24 16:03:09,750 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.5592033863067627 seconds
+2019-10-24 16:03:09,826 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.0760047435760498 seconds
+2019-10-24 16:03:09,858 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.03000164031982422 seconds
+2019-10-24 16:03:10,423 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.596034049987793 seconds
+2019-10-24 16:03:10,449 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.024001359939575195 seconds
+2019-10-24 16:03:13,095 - root - INFO - ###############################  END  ###############################
+2019-10-24 16:03:46,761 - root - INFO - ############################### START ###############################
+2019-10-24 16:05:52,527 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 124.6161277294159 seconds
+2019-10-24 16:05:52,584 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.05500316619873047 seconds
+2019-10-24 16:05:52,606 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.021001100540161133 seconds
+2019-10-24 16:05:52,882 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.29701709747314453 seconds
+2019-10-24 16:05:52,910 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.027001380920410156 seconds
+2019-10-24 16:05:52,932 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.021001100540161133 seconds
+2019-10-24 16:05:53,151 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.24001383781433105 seconds
+2019-10-24 16:05:54,153 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0000572204589844 seconds
+2019-10-24 16:05:54,177 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.023001432418823242 seconds
+2019-10-24 16:06:36,034 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 41.879395484924316 seconds
+2019-10-24 16:06:41,034 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 16:06:41,060 - root - INFO - SUCCESS    Typed element xpath: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001359939575195 seconds
+2019-10-24 16:06:41,077 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.017000913619995117 seconds
+2019-10-24 16:06:41,381 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.3200185298919678 seconds
+2019-10-24 16:06:41,426 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.044002532958984375 seconds
+2019-10-24 16:06:41,463 - root - INFO - SUCCESS    Move to element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.08100438117980957 seconds
+2019-10-24 16:06:41,483 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.019001245498657227 seconds
+2019-10-24 16:06:41,588 - root - INFO - SUCCESS    Right click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.12500715255737305 seconds
+2019-10-24 16:06:41,608 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.018001317977905273 seconds
+2019-10-24 16:06:41,704 - root - INFO - SUCCESS    Double click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.11500668525695801 seconds
+2019-10-24 16:06:41,791 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.08500480651855469 seconds
+2019-10-24 16:06:41,855 - root - INFO - SUCCESS    Click and hold to element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.14900875091552734 seconds
+2019-10-24 16:06:41,895 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.04000234603881836 seconds
+2019-10-24 16:06:41,958 - root - INFO - SUCCESS    Drag and drop by offset element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.1020059585571289 seconds
+2019-10-24 16:06:46,959 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 16:06:46,984 - root - INFO - FAIL       Unable find element xpath: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.02300119400024414 seconds
+2019-10-24 16:06:49,871 - root - INFO - ###############################  END  ###############################
+2019-10-24 16:09:23,112 - root - INFO - ############################### START ###############################
+2019-10-24 16:09:34,813 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 10.54460334777832 seconds
+2019-10-24 16:09:34,880 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.06600379943847656 seconds
+2019-10-24 16:09:34,898 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.01700115203857422 seconds
+2019-10-24 16:09:35,149 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.2670154571533203 seconds
+2019-10-24 16:09:35,180 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.03000187873840332 seconds
+2019-10-24 16:09:35,196 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.016000986099243164 seconds
+2019-10-24 16:09:35,447 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.26601505279541016 seconds
+2019-10-24 16:09:36,447 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0000572204589844 seconds
+2019-10-24 16:09:36,472 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.024001598358154297 seconds
+2019-10-24 16:10:30,838 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 54.389111042022705 seconds
+2019-10-24 16:10:35,839 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 16:10:35,867 - root - INFO - FAIL       Unable find element xpath: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.0260012149810791 seconds
+2019-10-24 16:10:38,277 - root - INFO - ###############################  END  ###############################
+2019-10-24 16:11:05,641 - root - INFO - ############################### START ###############################
+2019-10-24 16:11:11,269 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 4.472255706787109 seconds
+2019-10-24 16:11:11,569 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.29901719093322754 seconds
+2019-10-24 16:11:11,629 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.059003353118896484 seconds
+2019-10-24 16:11:12,106 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.5360305309295654 seconds
+2019-10-24 16:11:12,138 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.03000187873840332 seconds
+2019-10-24 16:11:12,158 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.019001007080078125 seconds
+2019-10-24 16:11:12,610 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.4710268974304199 seconds
+2019-10-24 16:11:13,611 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0000569820404053 seconds
+2019-10-24 16:11:13,642 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.029001474380493164 seconds
+2019-10-24 16:11:33,777 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 20.16415286064148 seconds
+2019-10-24 16:11:38,779 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.001285791397095 seconds
+2019-10-24 16:11:38,806 - root - INFO - SUCCESS    Typed element xpath: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.026001453399658203 seconds
+2019-10-24 16:11:38,825 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.019001007080078125 seconds
+2019-10-24 16:11:39,071 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.26401519775390625 seconds
+2019-10-24 16:11:39,136 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.06500363349914551 seconds
+2019-10-24 16:11:39,189 - root - INFO - SUCCESS    Move to element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.11800670623779297 seconds
+2019-10-24 16:11:39,215 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.02500152587890625 seconds
+2019-10-24 16:11:39,333 - root - INFO - SUCCESS    Right click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.14400815963745117 seconds
+2019-10-24 16:11:39,356 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.022001266479492188 seconds
+2019-10-24 16:11:39,500 - root - INFO - SUCCESS    Double click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.1650094985961914 seconds
+2019-10-24 16:11:39,535 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.03300189971923828 seconds
+2019-10-24 16:11:39,584 - root - INFO - SUCCESS    Click and hold to element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.08200478553771973 seconds
+2019-10-24 16:11:39,624 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.039002418518066406 seconds
+2019-10-24 16:11:39,680 - root - INFO - SUCCESS    Drag and drop by offset element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.09500551223754883 seconds
+2019-10-24 16:11:44,681 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 16:11:44,707 - root - INFO - FAIL       Unable find element xpath: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.024001598358154297 seconds
+2019-10-24 16:11:47,574 - root - INFO - ###############################  END  ###############################
+2019-10-24 16:12:08,490 - root - INFO - ############################### START ###############################
+2019-10-24 16:12:32,110 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 22.464284896850586 seconds
+2019-10-24 16:12:32,187 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.0760042667388916 seconds
+2019-10-24 16:12:32,204 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.016000986099243164 seconds
+2019-10-24 16:12:32,505 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.31601810455322266 seconds
+2019-10-24 16:12:32,529 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.023001432418823242 seconds
+2019-10-24 16:12:32,551 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.022001266479492188 seconds
+2019-10-24 16:12:32,791 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.2610149383544922 seconds
+2019-10-24 16:12:33,791 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0000572204589844 seconds
+2019-10-24 16:12:33,817 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.024001598358154297 seconds
+2019-10-24 16:13:10,129 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 36.33607840538025 seconds
+2019-10-24 16:13:15,130 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 16:13:15,156 - root - INFO - SUCCESS    Typed element xpath: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001359939575195 seconds
+2019-10-24 16:13:15,173 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.016000747680664062 seconds
+2019-10-24 16:13:15,483 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.3260185718536377 seconds
+2019-10-24 16:13:15,514 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.029001712799072266 seconds
+2019-10-24 16:13:15,554 - root - INFO - SUCCESS    Move to element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.06900405883789062 seconds
+2019-10-24 16:13:15,580 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001598358154297 seconds
+2019-10-24 16:13:15,720 - root - INFO - SUCCESS    Double click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.16400957107543945 seconds
+2019-10-24 16:13:15,746 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001598358154297 seconds
+2019-10-24 16:13:15,796 - root - INFO - SUCCESS    Click and hold to element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.0740041732788086 seconds
+2019-10-24 16:13:15,829 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.031001806259155273 seconds
+2019-10-24 16:13:15,897 - root - INFO - SUCCESS    Drag and drop by offset element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.1000058650970459 seconds
+2019-10-24 16:13:20,898 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 16:13:20,922 - root - INFO - FAIL       Unable find element xpath: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.02300119400024414 seconds
+2019-10-24 16:13:23,926 - root - INFO - ###############################  END  ###############################
+2019-10-24 16:13:46,094 - root - INFO - ############################### START ###############################
+2019-10-24 16:14:01,464 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 14.234814167022705 seconds
+2019-10-24 16:14:01,523 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.05700325965881348 seconds
+2019-10-24 16:14:01,572 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.04800271987915039 seconds
+2019-10-24 16:14:01,918 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.39402246475219727 seconds
+2019-10-24 16:14:01,946 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.02800154685974121 seconds
+2019-10-24 16:14:01,963 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.015001058578491211 seconds
+2019-10-24 16:14:02,205 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.2570149898529053 seconds
+2019-10-24 16:14:03,205 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0000572204589844 seconds
+2019-10-24 16:14:03,230 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.023001432418823242 seconds
+2019-10-24 16:14:06,577 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 3.3711929321289062 seconds
+2019-10-24 16:14:11,578 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 16:14:11,604 - root - INFO - SUCCESS    Typed element xpath: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001359939575195 seconds
+2019-10-24 16:14:11,621 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.016000986099243164 seconds
+2019-10-24 16:14:11,955 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.350020170211792 seconds
+2019-10-24 16:14:12,014 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.05800342559814453 seconds
+2019-10-24 16:14:12,073 - root - INFO - SUCCESS    Move to element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.11700677871704102 seconds
+2019-10-24 16:14:12,101 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.027001619338989258 seconds
+2019-10-24 16:14:12,197 - root - INFO - SUCCESS    Double click element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.12300705909729004 seconds
+2019-10-24 16:14:12,221 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.023001432418823242 seconds
+2019-10-24 16:14:12,270 - root - INFO - SUCCESS    Click and hold to element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.07200407981872559 seconds
+2019-10-24 16:14:17,270 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 16:14:17,294 - root - INFO - FAIL       Unable find element xpath: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.023001432418823242 seconds
+2019-10-24 16:14:20,041 - root - INFO - ###############################  END  ###############################
+2019-10-24 16:14:45,984 - root - INFO - ############################### START ###############################
+2019-10-24 16:14:53,336 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 6.168352842330933 seconds
+2019-10-24 16:14:53,393 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.05500316619873047 seconds
+2019-10-24 16:14:53,439 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.04600238800048828 seconds
+2019-10-24 16:14:54,332 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.9370534420013428 seconds
+2019-10-24 16:14:54,362 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.029001474380493164 seconds
+2019-10-24 16:14:54,388 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.02500152587890625 seconds
+2019-10-24 16:14:54,817 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.45502591133117676 seconds
+2019-10-24 16:14:55,818 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0000572204589844 seconds
+2019-10-24 16:14:55,845 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.02500128746032715 seconds
+2019-10-24 16:15:52,587 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 56.76824688911438 seconds
+2019-10-24 16:15:57,588 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 16:15:57,616 - root - INFO - SUCCESS    Typed element xpath: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.027001619338989258 seconds
+2019-10-24 16:15:57,635 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.018001079559326172 seconds
+2019-10-24 16:15:57,768 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.15100884437561035 seconds
+2019-10-24 16:15:57,788 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.01800084114074707 seconds
+2019-10-24 16:15:57,821 - root - INFO - SUCCESS    Move to element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.05100274085998535 seconds
+2019-10-24 16:16:02,821 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286340713501 seconds
+2019-10-24 16:16:04,425 - root - INFO - FAIL       Unable find element xpath: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 1.6010916233062744 seconds
+2019-10-24 16:16:07,228 - root - INFO - ###############################  END  ###############################
+2019-10-24 16:16:53,848 - root - INFO - ############################### START ###############################
+2019-10-24 16:16:58,807 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.7692153453826904 seconds
+2019-10-24 16:16:58,916 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.10700631141662598 seconds
+2019-10-24 16:16:58,940 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.023001432418823242 seconds
+2019-10-24 16:16:59,378 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.4610261917114258 seconds
+2019-10-24 16:16:59,408 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.029001474380493164 seconds
+2019-10-24 16:16:59,432 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.02300119400024414 seconds
+2019-10-24 16:16:59,939 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.5300302505493164 seconds
+2019-10-24 16:17:00,939 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0000574588775635 seconds
+2019-10-24 16:17:00,966 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.02500128746032715 seconds
+2019-10-24 16:17:08,488 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 7.547431468963623 seconds
+2019-10-24 16:17:13,488 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 16:17:13,520 - root - INFO - SUCCESS    Typed element xpath: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.03000164031982422 seconds
+2019-10-24 16:17:13,537 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.016000986099243164 seconds
+2019-10-24 16:17:13,845 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.3240184783935547 seconds
+2019-10-24 16:17:18,846 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 16:17:18,868 - root - INFO - SUCCESS    Typed element xpath: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.021001100540161133 seconds
+2019-10-24 16:17:18,886 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.017000913619995117 seconds
+2019-10-24 16:17:19,165 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.2950170040130615 seconds
+2019-10-24 16:17:21,165 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 16:17:21,192 - root - INFO - SUCCESS    Typed element xpath: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.02500128746032715 seconds
+2019-10-24 16:17:21,208 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.01500082015991211 seconds
+2019-10-24 16:17:21,428 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input> content: test, Spend 0.23501324653625488 seconds
+2019-10-24 16:17:23,430 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0011143684387207 seconds
+2019-10-24 16:17:23,455 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.02500128746032715 seconds
+2019-10-24 16:17:23,472 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.016000747680664062 seconds
+2019-10-24 16:17:23,669 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.21201205253601074 seconds
+2019-10-24 16:17:25,669 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 16:17:25,697 - root - INFO - SUCCESS    Typed element xpath: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.026001453399658203 seconds
+2019-10-24 16:17:25,714 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.016000747680664062 seconds
+2019-10-24 16:17:25,799 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.10100555419921875 seconds
+2019-10-24 16:17:25,826 - root - INFO - SUCCESS    Typed element xpath: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.0260012149810791 seconds
+2019-10-24 16:17:25,843 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.01700115203857422 seconds
+2019-10-24 16:17:25,957 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.13000750541687012 seconds
+2019-10-24 16:17:27,958 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 16:17:27,983 - root - INFO - SUCCESS    Typed element xpath: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.02300119400024414 seconds
+2019-10-24 16:17:27,999 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.01500082015991211 seconds
+2019-10-24 16:17:28,277 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea> content: select, Spend 0.2930169105529785 seconds
+2019-10-24 16:17:28,302 - root - INFO - SUCCESS    Typed element xpath: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.02500152587890625 seconds
+2019-10-24 16:17:28,321 - root - INFO - SUCCESS    Typed element xpaht: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.017000913619995117 seconds
+2019-10-24 16:17:28,432 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.12900733947753906 seconds
+2019-10-24 16:17:33,434 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000286102294922 seconds
+2019-10-24 16:17:33,444 - root - INFO - SUCCESS    Get current window title: 规则引擎 _ AEP, Spend 0.008000373840332031 seconds
+2019-10-24 16:17:36,099 - root - INFO - ###############################  END  ###############################
+2019-10-24 16:20:16,778 - root - INFO - ############################### START ###############################
+2019-10-24 16:20:36,032 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 18.02903151512146 seconds
+2019-10-24 16:20:36,076 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.04300260543823242 seconds
+2019-10-24 16:20:36,108 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.031001567840576172 seconds
+2019-10-24 16:20:36,351 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.2740154266357422 seconds
+2019-10-24 16:20:36,382 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.029001712799072266 seconds
+2019-10-24 16:20:36,398 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.016000747680664062 seconds
+2019-10-24 16:20:36,666 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.2830162048339844 seconds
+2019-10-24 16:20:37,666 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0000574588775635 seconds
+2019-10-24 16:20:37,690 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.023001432418823242 seconds
+2019-10-24 16:21:51,551 - root - INFO - SUCCESS    Submit form args element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 73.88322591781616 seconds
+2019-10-24 16:21:56,552 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 16:21:56,580 - root - INFO - FAIL       Unable find element xpath: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.027001619338989258 seconds
+2019-10-24 16:21:59,174 - root - INFO - ###############################  END  ###############################
+2019-10-24 16:22:47,594 - root - INFO - ############################### START ###############################
+2019-10-24 16:26:54,347 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 245.61604857444763 seconds
+2019-10-24 16:26:54,383 - root - INFO - FAIL       Unable find element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.034001827239990234 seconds
+2019-10-24 16:26:56,823 - root - INFO - ###############################  END  ###############################
+2019-10-24 16:28:36,924 - root - INFO - ############################### START ###############################
+2019-10-24 16:30:38,720 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 120.65490102767944 seconds
+2019-10-24 16:30:38,724 - root - INFO - FAIL       Unable find element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.003000020980834961 seconds
+2019-10-24 16:30:41,275 - root - INFO - ###############################  END  ###############################
+2019-10-24 16:31:15,230 - root - INFO - ############################### START ###############################
+2019-10-24 16:33:16,393 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 119.97286200523376 seconds
+2019-10-24 16:33:16,462 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.06700396537780762 seconds
+2019-10-24 16:33:16,482 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.019001483917236328 seconds
+2019-10-24 16:33:16,776 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.3130180835723877 seconds
+2019-10-24 16:33:16,812 - root - INFO - SUCCESS    Typed element xpath: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.03500199317932129 seconds
+2019-10-24 16:33:16,832 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.019001007080078125 seconds
+2019-10-24 16:33:17,094 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.2820162773132324 seconds
+2019-10-24 16:33:18,095 - root - INFO - SUCCESS    Sleep time: 1s, Spend 1.0000572204589844 seconds
+2019-10-24 16:33:18,122 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.026001453399658203 seconds
+2019-10-24 16:51:54,184 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4980859756469727 seconds
+2019-10-24 16:51:59,185 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 16:52:03,624 - root - INFO - SUCCESS    Click by text content: 新闻, Spend 4.437253475189209 seconds
+2019-10-24 16:52:05,624 - root - INFO - SUCCESS    Sleep time: 2s, Spend 2.0001144409179688 seconds
+2019-10-24 16:52:10,735 - root - INFO - SUCCESS    Switch to the new window, new window's url: http://news.baidu.com/, Spend 5.109292268753052 seconds
+2019-10-24 16:52:13,737 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 16:52:18,738 - root - INFO - SUCCESS    Sleep time: 5s, Spend 5.000285863876343 seconds
+2019-10-24 16:52:18,767 - root - INFO - SUCCESS    Typed element xpaht: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, Spend 0.027001380920410156 seconds
+2019-10-24 16:52:18,796 - root - INFO - SUCCESS    Get element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a>, connect: 国内, Spend 0.05600309371948242 seconds
+2019-10-24 16:52:21,796 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000171422958374 seconds
+2019-10-24 16:52:21,813 - root - INFO - SUCCESS    Set wait current element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> display in 5 seconds, Spend 0.016000986099243164 seconds
+2019-10-24 16:52:21,814 - root - INFO - SUCCESS    Find element: <xpath->//*[@id="channel-all"]/div/ul/li[2]/a> is exist, Spend 0.017000913619995117 seconds
+2019-10-24 16:52:21,815 - root - INFO - SUCCESS    Print current value: True, Spend 0.0 seconds
+2019-10-24 16:52:21,816 - root - INFO - SUCCESS    Print current value: 元素存在！！！, Spend 0.0 seconds
+2019-10-24 16:52:21,817 - root - INFO - SUCCESS    Print current value: 测试一下单独执行清除操作02, Spend 0.0 seconds
+2019-10-24 16:58:22,291 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.6460943222045898 seconds
+2019-10-24 16:58:25,292 - root - INFO - SUCCESS    Print current value: 测试1, Spend 0.0 seconds
+2019-10-24 16:58:25,293 - root - INFO - SUCCESS    Print current value: 测试2, Spend 0.0 seconds
+2019-10-24 16:58:25,294 - root - INFO - SUCCESS    Return current browser session id: 1b2058ef22cf1c49c0ccd8d139e93228, Spend 0.0 seconds
+2019-10-24 16:58:25,295 - root - INFO - SUCCESS    Print current value: 测试3, Spend 0.0 seconds
+2019-10-24 16:58:25,295 - root - INFO - SUCCESS    Print current value: 测试4, Spend 0.0 seconds
+2019-10-24 16:58:25,296 - root - INFO - SUCCESS    Print current value: 1b2058ef22cf1c49c0ccd8d139e93228, Spend 0.0 seconds
+2019-10-24 16:58:25,309 - root - INFO - SUCCESS    Get current window title: 百度一下，你就知道, Spend 0.013000726699829102 seconds

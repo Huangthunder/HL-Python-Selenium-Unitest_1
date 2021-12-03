@@ -1,0 +1,1581 @@
+2019-10-17 09:19:23,048 - root - INFO - ############################### START ###############################
+2019-10-17 09:19:36,088 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 13.034745454788208 seconds
+2019-10-17 09:19:36,112 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.024001359939575195 seconds
+2019-10-17 09:19:36,273 - root - INFO - SUCCESS    Typed element: <id->kw> content: ceshi, Spend 0.18401050567626953 seconds
+2019-10-17 09:19:36,293 - root - INFO - FAIL       Unable to click element: <id->dddu>, Spend 0.019001245498657227 seconds
+2019-10-17 09:19:38,888 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.592148542404175 seconds
+2019-10-17 09:19:38,893 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:22:13,132 - root - INFO - ############################### START ###############################
+2019-10-17 09:22:14,296 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1620664596557617 seconds
+2019-10-17 09:22:16,905 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.6071488857269287 seconds
+2019-10-17 09:22:16,932 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.02500128746032715 seconds
+2019-10-17 09:22:17,051 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试, Spend 0.14400815963745117 seconds
+2019-10-17 09:22:17,080 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.027001619338989258 seconds
+2019-10-17 09:22:17,171 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.11800670623779297 seconds
+2019-10-17 09:22:19,569 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.394137144088745 seconds
+2019-10-17 09:22:19,571 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:23:04,146 - root - INFO - ############################### START ###############################
+2019-10-17 09:23:05,294 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1450655460357666 seconds
+2019-10-17 09:23:06,544 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2480714321136475 seconds
+2019-10-17 09:23:06,570 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.024001359939575195 seconds
+2019-10-17 09:23:06,700 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试, Spend 0.15300869941711426 seconds
+2019-10-17 09:23:06,730 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.029001712799072266 seconds
+2019-10-17 09:23:06,842 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.14000797271728516 seconds
+2019-10-17 09:23:09,278 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.4171383380889893 seconds
+2019-10-17 09:23:09,280 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:24:37,231 - root - INFO - ############################### START ###############################
+2019-10-17 09:24:38,359 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1260643005371094 seconds
+2019-10-17 09:24:40,582 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.2201271057128906 seconds
+2019-10-17 09:24:40,610 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.02500152587890625 seconds
+2019-10-17 09:24:40,732 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试, Spend 0.14700818061828613 seconds
+2019-10-17 09:24:40,763 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.029001951217651367 seconds
+2019-10-17 09:24:40,867 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.13400769233703613 seconds
+2019-10-17 09:24:43,667 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.770158529281616 seconds
+2019-10-17 09:24:43,672 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:32:49,970 - root - INFO - ############################### START ###############################
+2019-10-17 09:32:55,857 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.661151885986328 seconds
+2019-10-17 09:32:58,415 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.5551459789276123 seconds
+2019-10-17 09:32:58,419 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:33:13,646 - root - INFO - ############################### START ###############################
+2019-10-17 09:33:17,704 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.307074785232544 seconds
+2019-10-17 09:33:18,863 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1570661067962646 seconds
+2019-10-17 09:33:18,864 - root - INFO - FAIL       Unable to send element: <id->kw> content: 测试, Spend 0.0 seconds
+2019-10-17 09:33:21,444 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.5791473388671875 seconds
+2019-10-17 09:33:21,446 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:34:46,558 - root - INFO - ############################### START ###############################
+2019-10-17 09:34:50,183 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.8550488948822021 seconds
+2019-10-17 09:34:51,354 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1690669059753418 seconds
+2019-10-17 09:34:51,355 - root - INFO - FAIL       Unable to send element: <id->kw> content: 测试, Spend 0.0 seconds
+2019-10-17 09:34:53,896 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.5391452312469482 seconds
+2019-10-17 09:34:53,898 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:35:24,460 - root - INFO - ############################### START ###############################
+2019-10-17 09:35:29,192 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5970911979675293 seconds
+2019-10-17 09:35:30,354 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1600663661956787 seconds
+2019-10-17 09:35:30,404 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.046002864837646484 seconds
+2019-10-17 09:35:30,546 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试, Spend 0.1890110969543457 seconds
+2019-10-17 09:35:30,576 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.027001380920410156 seconds
+2019-10-17 09:35:30,665 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.11700654029846191 seconds
+2019-10-17 09:35:43,327 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.648151159286499 seconds
+2019-10-17 09:35:43,330 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:35:59,674 - root - INFO - ############################### START ###############################
+2019-10-17 09:36:03,617 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.1240642070770264 seconds
+2019-10-17 09:36:04,798 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.180067539215088 seconds
+2019-10-17 09:36:04,820 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.019001007080078125 seconds
+2019-10-17 09:36:04,940 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试, Spend 0.14000773429870605 seconds
+2019-10-17 09:36:04,970 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02800154685974121 seconds
+2019-10-17 09:36:05,055 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.11200618743896484 seconds
+2019-10-17 09:36:07,616 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.5501458644866943 seconds
+2019-10-17 09:36:07,618 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:36:29,786 - root - INFO - ############################### START ###############################
+2019-10-17 09:36:30,945 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1570663452148438 seconds
+2019-10-17 09:36:32,452 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5030860900878906 seconds
+2019-10-17 09:36:32,482 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.027001619338989258 seconds
+2019-10-17 09:36:32,609 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试, Spend 0.1540088653564453 seconds
+2019-10-17 09:36:32,648 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.036002159118652344 seconds
+2019-10-17 09:36:32,785 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.17301011085510254 seconds
+2019-10-17 09:36:35,411 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.608149290084839 seconds
+2019-10-17 09:36:35,417 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:36:58,682 - root - INFO - ############################### START ###############################
+2019-10-17 09:36:59,852 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1680667400360107 seconds
+2019-10-17 09:37:01,153 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2960741519927979 seconds
+2019-10-17 09:37:01,181 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.026001453399658203 seconds
+2019-10-17 09:37:01,304 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试, Spend 0.14900827407836914 seconds
+2019-10-17 09:37:01,339 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03200173377990723 seconds
+2019-10-17 09:37:01,466 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.1540086269378662 seconds
+2019-10-17 09:37:03,968 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.488142251968384 seconds
+2019-10-17 09:37:03,973 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:37:14,094 - root - INFO - ############################### START ###############################
+2019-10-17 09:37:18,654 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.0980627536773682 seconds
+2019-10-17 09:37:19,791 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1360650062561035 seconds
+2019-10-17 09:37:19,814 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.02000117301940918 seconds
+2019-10-17 09:37:19,958 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试, Spend 0.16400957107543945 seconds
+2019-10-17 09:37:19,983 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02200150489807129 seconds
+2019-10-17 09:37:20,087 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.1260073184967041 seconds
+2019-10-17 09:37:22,521 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.418138265609741 seconds
+2019-10-17 09:37:22,523 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:41:50,993 - root - INFO - ############################### START ###############################
+2019-10-17 09:41:52,151 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1570661067962646 seconds
+2019-10-17 09:41:53,776 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.6220929622650146 seconds
+2019-10-17 09:41:53,805 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.02500152587890625 seconds
+2019-10-17 09:41:53,917 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试, Spend 0.1370079517364502 seconds
+2019-10-17 09:41:53,949 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.031001806259155273 seconds
+2019-10-17 09:41:54,051 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.13200736045837402 seconds
+2019-10-17 09:41:56,491 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.4261386394500732 seconds
+2019-10-17 09:41:56,494 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:42:03,184 - root - INFO - ############################### START ###############################
+2019-10-17 09:42:07,028 - root - INFO - ############################### START ###############################
+2019-10-17 09:42:10,084 - root - INFO - ############################### START ###############################
+2019-10-17 09:42:11,767 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.6810963153839111 seconds
+2019-10-17 09:42:12,928 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1580660343170166 seconds
+2019-10-17 09:42:12,954 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.026001691818237305 seconds
+2019-10-17 09:42:13,068 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试, Spend 0.14000821113586426 seconds
+2019-10-17 09:42:13,099 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03000187873840332 seconds
+2019-10-17 09:42:13,191 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.12100696563720703 seconds
+2019-10-17 09:42:15,803 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.5991485118865967 seconds
+2019-10-17 09:42:15,807 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:47:09,522 - root - INFO - ############################### START ###############################
+2019-10-17 09:47:12,294 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.7711586952209473 seconds
+2019-10-17 09:47:13,451 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1540658473968506 seconds
+2019-10-17 09:47:17,398 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.944225549697876 seconds
+2019-10-17 09:47:17,426 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.026001453399658203 seconds
+2019-10-17 09:47:17,585 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.18501043319702148 seconds
+2019-10-17 09:47:17,605 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.018001317977905273 seconds
+2019-10-17 09:47:17,703 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.11600685119628906 seconds
+2019-10-17 09:47:20,137 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.4211385250091553 seconds
+2019-10-17 09:47:20,140 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:47:26,994 - root - INFO - ############################### START ###############################
+2019-10-17 09:47:32,170 - root - INFO - ############################### START ###############################
+2019-10-17 09:47:34,951 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.7801589965820312 seconds
+2019-10-17 09:47:36,128 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1750671863555908 seconds
+2019-10-17 09:47:38,827 - root - INFO - ############################### START ###############################
+2019-10-17 09:47:40,750 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.9221100807189941 seconds
+2019-10-17 09:47:41,890 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1370651721954346 seconds
+2019-10-17 09:47:41,917 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.026001453399658203 seconds
+2019-10-17 09:47:42,120 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.22901320457458496 seconds
+2019-10-17 09:47:42,146 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02300119400024414 seconds
+2019-10-17 09:47:42,253 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.13100743293762207 seconds
+2019-10-17 09:47:44,656 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.380136251449585 seconds
+2019-10-17 09:47:44,660 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:49:55,463 - root - INFO - ############################### START ###############################
+2019-10-17 09:49:58,493 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.0291733741760254 seconds
+2019-10-17 09:49:59,653 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1580662727355957 seconds
+2019-10-17 09:50:05,893 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 6.238356828689575 seconds
+2019-10-17 09:50:05,921 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.027001619338989258 seconds
+2019-10-17 09:50:06,098 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.20501160621643066 seconds
+2019-10-17 09:50:06,124 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.024001598358154297 seconds
+2019-10-17 09:50:06,245 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.14500832557678223 seconds
+2019-10-17 09:50:08,700 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.4321389198303223 seconds
+2019-10-17 09:50:08,704 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:50:20,915 - root - INFO - ############################### START ###############################
+2019-10-17 09:50:29,668 - root - INFO - ############################### START ###############################
+2019-10-17 09:50:32,206 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.5361452102661133 seconds
+2019-10-17 09:50:33,358 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1510660648345947 seconds
+2019-10-17 09:50:36,547 - root - INFO - ############################### START ###############################
+2019-10-17 09:50:38,095 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.548088550567627 seconds
+2019-10-17 09:50:39,295 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.198068380355835 seconds
+2019-10-17 09:50:39,318 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.022001266479492188 seconds
+2019-10-17 09:50:39,486 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.1890108585357666 seconds
+2019-10-17 09:50:39,517 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.029001712799072266 seconds
+2019-10-17 09:50:39,641 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.1520087718963623 seconds
+2019-10-17 09:50:42,084 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.4251387119293213 seconds
+2019-10-17 09:50:42,085 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:52:14,901 - root - INFO - ############################### START ###############################
+2019-10-17 09:52:16,209 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.307074785232544 seconds
+2019-10-17 09:52:17,393 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.183067798614502 seconds
+2019-10-17 09:52:17,418 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.024001121520996094 seconds
+2019-10-17 09:52:17,569 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.1740097999572754 seconds
+2019-10-17 09:52:17,595 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.024001359939575195 seconds
+2019-10-17 09:52:17,688 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.11700654029846191 seconds
+2019-10-17 09:52:35,988 - root - INFO - ############################### START ###############################
+2019-10-17 09:52:38,559 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.5691468715667725 seconds
+2019-10-17 09:52:39,687 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1260645389556885 seconds
+2019-10-17 09:52:41,068 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3800790309906006 seconds
+2019-10-17 09:52:41,094 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.02500152587890625 seconds
+2019-10-17 09:52:41,265 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.19501113891601562 seconds
+2019-10-17 09:52:41,286 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.020000934600830078 seconds
+2019-10-17 09:52:41,377 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.11100625991821289 seconds
+2019-10-17 09:52:43,845 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.4481401443481445 seconds
+2019-10-17 09:52:43,848 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:52:50,674 - root - INFO - ############################### START ###############################
+2019-10-17 09:52:56,964 - root - INFO - ############################### START ###############################
+2019-10-17 09:52:58,509 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.544088363647461 seconds
+2019-10-17 09:52:59,670 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1590662002563477 seconds
+2019-10-17 09:52:59,698 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.026001691818237305 seconds
+2019-10-17 09:52:59,905 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.23301362991333008 seconds
+2019-10-17 09:52:59,927 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.021001100540161133 seconds
+2019-10-17 09:53:00,056 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.14900851249694824 seconds
+2019-10-17 09:56:08,016 - root - INFO - ############################### START ###############################
+2019-10-17 09:56:10,792 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.7741587162017822 seconds
+2019-10-17 09:56:11,955 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1610665321350098 seconds
+2019-10-17 09:56:13,416 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4590835571289062 seconds
+2019-10-17 09:56:13,445 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.027001619338989258 seconds
+2019-10-17 09:56:13,601 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.18401050567626953 seconds
+2019-10-17 09:56:13,624 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.021001338958740234 seconds
+2019-10-17 09:56:13,728 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.1260073184967041 seconds
+2019-10-17 09:56:16,157 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.416138172149658 seconds
+2019-10-17 09:56:16,160 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:57:12,172 - root - INFO - ############################### START ###############################
+2019-10-17 09:57:15,425 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.252185821533203 seconds
+2019-10-17 09:57:16,571 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1440656185150146 seconds
+2019-10-17 09:57:17,474 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.9010512828826904 seconds
+2019-10-17 09:57:17,502 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.026001453399658203 seconds
+2019-10-17 09:57:17,682 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.20601177215576172 seconds
+2019-10-17 09:57:17,705 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.021001100540161133 seconds
+2019-10-17 09:57:17,813 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.12900733947753906 seconds
+2019-10-17 09:57:20,235 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.410137891769409 seconds
+2019-10-17 09:57:20,237 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:57:24,249 - root - INFO - ############################### START ###############################
+2019-10-17 09:57:27,326 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.0741755962371826 seconds
+2019-10-17 09:57:28,495 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1660666465759277 seconds
+2019-10-17 09:57:31,604 - root - INFO - ############################### START ###############################
+2019-10-17 09:57:36,648 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.373135805130005 seconds
+2019-10-17 09:57:36,649 - root - INFO - ###############################  END  ###############################
+2019-10-17 09:57:40,656 - root - INFO - ############################### START ###############################
+2019-10-17 09:57:43,771 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.112178087234497 seconds
+2019-10-17 09:57:44,895 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1220645904541016 seconds
+2019-10-17 09:57:47,969 - root - INFO - ############################### START ###############################
+2019-10-17 09:57:48,875 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.9040517807006836 seconds
+2019-10-17 09:57:50,032 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1550660133361816 seconds
+2019-10-17 09:57:50,059 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.024001121520996094 seconds
+2019-10-17 09:57:50,212 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.1780099868774414 seconds
+2019-10-17 09:57:50,237 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.022001266479492188 seconds
+2019-10-17 09:57:50,325 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.11100649833679199 seconds
+2019-10-17 09:57:52,953 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.613149642944336 seconds
+2019-10-17 09:57:52,955 - root - INFO - ###############################  END  ###############################
+2019-10-17 10:04:13,766 - root - INFO - ############################### START ###############################
+2019-10-17 10:04:16,822 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.0551748275756836 seconds
+2019-10-17 10:04:18,012 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.18806791305542 seconds
+2019-10-17 10:04:19,118 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.1030628681182861 seconds
+2019-10-17 10:04:19,151 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03000164031982422 seconds
+2019-10-17 10:04:19,317 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.19601130485534668 seconds
+2019-10-17 10:04:19,340 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.021001100540161133 seconds
+2019-10-17 10:04:19,432 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.113006591796875 seconds
+2019-10-17 10:04:21,913 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.4631409645080566 seconds
+2019-10-17 10:04:21,915 - root - INFO - ###############################  END  ###############################
+2019-10-17 10:04:28,807 - root - INFO - ############################### START ###############################
+2019-10-17 10:04:34,848 - root - INFO - ############################### START ###############################
+2019-10-17 10:04:36,381 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5300877094268799 seconds
+2019-10-17 10:04:37,538 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1550660133361816 seconds
+2019-10-17 10:04:37,565 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.026001453399658203 seconds
+2019-10-17 10:04:37,713 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.17300987243652344 seconds
+2019-10-17 10:04:37,750 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03300213813781738 seconds
+2019-10-17 10:04:37,846 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.12900733947753906 seconds
+2019-10-17 10:07:25,802 - root - INFO - FAIL       Unable to load https://www.baidu.com/, Spend 0.0 seconds
+2019-10-17 10:07:28,506 - root - INFO - ############################### START ###############################
+2019-10-17 10:07:42,894 - root - INFO - ############################### START ###############################
+2019-10-17 10:08:20,036 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.1471800804138184 seconds
+2019-10-17 10:08:22,246 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.2061262130737305 seconds
+2019-10-17 10:08:25,789 - root - INFO - ############################### START ###############################
+2019-10-17 10:08:32,318 - root - INFO - ############################### START ###############################
+2019-10-17 10:08:34,001 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.68009614944458 seconds
+2019-10-17 10:08:35,288 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2860732078552246 seconds
+2019-10-17 10:08:35,324 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03500175476074219 seconds
+2019-10-17 10:08:35,563 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.27501559257507324 seconds
+2019-10-17 10:08:35,591 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.027001380920410156 seconds
+2019-10-17 10:08:35,754 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.1890106201171875 seconds
+2019-10-17 10:09:57,335 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.208183526992798 seconds
+2019-10-17 10:09:58,232 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.8930511474609375 seconds
+2019-10-17 10:10:18,624 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.9161670207977295 seconds
+2019-10-17 10:10:19,773 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.1450657844543457 seconds
+2019-10-17 10:10:20,919 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1440656185150146 seconds
+2019-10-17 10:10:20,947 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.027001619338989258 seconds
+2019-10-17 10:10:21,160 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.24001383781433105 seconds
+2019-10-17 10:10:21,189 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.026001453399658203 seconds
+2019-10-17 10:10:21,308 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.14500808715820312 seconds
+2019-10-17 10:21:45,903 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.757157802581787 seconds
+2019-10-17 10:21:48,849 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.9441683292388916 seconds
+2019-10-17 10:21:48,854 - root - INFO - ############################### START ###############################
+2019-10-17 10:21:53,372 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.515258312225342 seconds
+2019-10-17 10:21:54,534 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1610665321350098 seconds
+2019-10-17 10:21:54,571 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03500175476074219 seconds
+2019-10-17 10:21:54,736 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.20101141929626465 seconds
+2019-10-17 10:21:54,759 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.021001100540161133 seconds
+2019-10-17 10:21:54,845 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.10700607299804688 seconds
+2019-10-17 10:21:58,362 - root - INFO - ############################### START ###############################
+2019-10-17 10:22:06,503 - root - INFO - ############################### START ###############################
+2019-10-17 10:22:08,484 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.9791133403778076 seconds
+2019-10-17 10:22:09,639 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1530659198760986 seconds
+2019-10-17 10:22:09,665 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.024001359939575195 seconds
+2019-10-17 10:22:09,833 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.19201111793518066 seconds
+2019-10-17 10:22:09,855 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.019001007080078125 seconds
+2019-10-17 10:22:09,942 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.10600590705871582 seconds
+2019-10-17 10:22:10,635 - root - INFO - ############################### START ###############################
+2019-10-17 10:22:13,564 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.9261674880981445 seconds
+2019-10-17 10:22:14,693 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1270644664764404 seconds
+2019-10-17 10:22:16,197 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5020859241485596 seconds
+2019-10-17 10:22:16,204 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.00500035285949707 seconds
+2019-10-17 10:22:16,237 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.031001567840576172 seconds
+2019-10-17 10:22:16,430 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.2240128517150879 seconds
+2019-10-17 10:22:16,456 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.024001121520996094 seconds
+2019-10-17 10:22:16,578 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.14600801467895508 seconds
+2019-10-17 10:22:19,033 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.4391393661499023 seconds
+2019-10-17 10:22:19,036 - root - INFO - ###############################  END  ###############################
+2019-10-17 10:34:13,595 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.852163076400757 seconds
+2019-10-17 10:34:16,316 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.7191555500030518 seconds
+2019-10-17 10:34:16,319 - root - INFO - ############################### START ###############################
+2019-10-17 10:34:19,821 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.5002002716064453 seconds
+2019-10-17 10:34:20,984 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1620666980743408 seconds
+2019-10-17 10:34:21,013 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.026001453399658203 seconds
+2019-10-17 10:34:21,226 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.24001359939575195 seconds
+2019-10-17 10:34:21,247 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.019001007080078125 seconds
+2019-10-17 10:34:21,358 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.12900733947753906 seconds
+2019-10-17 10:34:24,606 - root - INFO - ############################### START ###############################
+2019-10-17 10:34:40,743 - root - INFO - ############################### START ###############################
+2019-10-17 10:34:42,890 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.144122838973999 seconds
+2019-10-17 10:34:44,038 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1460654735565186 seconds
+2019-10-17 10:34:44,066 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.027001380920410156 seconds
+2019-10-17 10:34:44,278 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.24001359939575195 seconds
+2019-10-17 10:34:44,303 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.023001432418823242 seconds
+2019-10-17 10:34:44,427 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.14700865745544434 seconds
+2019-10-17 10:34:45,149 - root - INFO - ############################### START ###############################
+2019-10-17 10:34:47,960 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.8101608753204346 seconds
+2019-10-17 10:34:50,019 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.0591177940368652 seconds
+2019-10-17 10:34:51,191 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1700670719146729 seconds
+2019-10-17 10:34:51,219 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.02500128746032715 seconds
+2019-10-17 10:34:51,418 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.22501277923583984 seconds
+2019-10-17 10:34:51,447 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.026001691818237305 seconds
+2019-10-17 10:34:51,565 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.14400815963745117 seconds
+2019-10-17 10:34:53,986 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.401137590408325 seconds
+2019-10-17 10:34:53,987 - root - INFO - ###############################  END  ###############################
+2019-10-17 10:35:54,671 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.876164197921753 seconds
+2019-10-17 10:35:57,945 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.2721872329711914 seconds
+2019-10-17 10:35:57,951 - root - INFO - ############################### START ###############################
+2019-10-17 10:36:03,970 - root - INFO - FAIL       Unable to load https://www.baidu.com/, Spend 6.01634407043457 seconds
+2019-10-17 10:36:49,932 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.1821820735931396 seconds
+2019-10-17 10:36:52,679 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.744156837463379 seconds
+2019-10-17 10:36:52,684 - root - INFO - ############################### START ###############################
+2019-10-17 10:36:53,829 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1420650482177734 seconds
+2019-10-17 10:36:55,437 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.6050920486450195 seconds
+2019-10-17 10:36:55,470 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.031001567840576172 seconds
+2019-10-17 10:36:55,647 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.20801162719726562 seconds
+2019-10-17 10:36:55,674 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.024001121520996094 seconds
+2019-10-17 10:36:55,792 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.14200806617736816 seconds
+2019-10-17 10:37:00,139 - root - INFO - ############################### START ###############################
+2019-10-17 10:37:06,143 - root - INFO - ############################### START ###############################
+2019-10-17 10:37:07,492 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3470771312713623 seconds
+2019-10-17 10:37:08,727 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2320706844329834 seconds
+2019-10-17 10:37:08,754 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.024001359939575195 seconds
+2019-10-17 10:37:08,990 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.2610149383544922 seconds
+2019-10-17 10:37:09,012 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02000117301940918 seconds
+2019-10-17 10:37:09,133 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.14000821113586426 seconds
+2019-10-17 10:37:10,069 - root - INFO - ############################### START ###############################
+2019-10-17 10:37:12,878 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.8061606884002686 seconds
+2019-10-17 10:37:14,704 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.8241043090820312 seconds
+2019-10-17 10:37:14,737 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.031002044677734375 seconds
+2019-10-17 10:37:14,988 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.2830162048339844 seconds
+2019-10-17 10:37:15,011 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.021001338958740234 seconds
+2019-10-17 10:37:15,169 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.17901039123535156 seconds
+2019-10-17 10:37:17,580 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.393136978149414 seconds
+2019-10-17 10:37:17,583 - root - INFO - ###############################  END  ###############################
+2019-10-17 10:40:21,022 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.250185966491699 seconds
+2019-10-17 10:40:21,025 - root - INFO - ############################### START ###############################
+2019-10-17 10:40:24,154 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.12717866897583 seconds
+2019-10-17 10:40:25,306 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1500661373138428 seconds
+2019-10-17 10:40:31,671 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 6.362363815307617 seconds
+2019-10-17 10:40:31,705 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03200221061706543 seconds
+2019-10-17 10:40:31,866 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.19301128387451172 seconds
+2019-10-17 10:40:31,892 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02500152587890625 seconds
+2019-10-17 10:40:32,006 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.1390080451965332 seconds
+2019-10-17 10:40:34,639 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.617149591445923 seconds
+2019-10-17 10:40:34,641 - root - INFO - ###############################  END  ###############################
+2019-10-17 10:42:09,862 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.7071549892425537 seconds
+2019-10-17 10:42:09,868 - root - INFO - ############################### START ###############################
+2019-10-17 10:42:12,703 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.833162307739258 seconds
+2019-10-17 10:42:13,880 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1760673522949219 seconds
+2019-10-17 10:42:15,262 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3790786266326904 seconds
+2019-10-17 10:42:15,293 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.029001712799072266 seconds
+2019-10-17 10:42:15,475 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.21001195907592773 seconds
+2019-10-17 10:42:15,510 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03200173377990723 seconds
+2019-10-17 10:42:15,644 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.16600918769836426 seconds
+2019-10-17 10:42:18,335 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.6671524047851562 seconds
+2019-10-17 10:42:18,337 - root - INFO - ###############################  END  ###############################
+2019-10-17 10:43:03,977 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.368192672729492 seconds
+2019-10-17 10:43:03,981 - root - INFO - ############################### START ###############################
+2019-10-17 10:43:06,686 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.7041547298431396 seconds
+2019-10-17 10:43:22,869 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.3901939392089844 seconds
+2019-10-17 10:43:22,874 - root - INFO - ############################### START ###############################
+2019-10-17 10:43:24,032 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1570663452148438 seconds
+2019-10-17 10:43:25,275 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2400708198547363 seconds
+2019-10-17 10:43:25,306 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03000164031982422 seconds
+2019-10-17 10:43:25,477 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.2000114917755127 seconds
+2019-10-17 10:43:25,505 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.024001359939575195 seconds
+2019-10-17 10:43:25,634 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.15300869941711426 seconds
+2019-10-17 10:43:38,561 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.751157283782959 seconds
+2019-10-17 10:43:41,179 - root - INFO - ############################### START ###############################
+2019-10-17 10:44:58,763 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.838276624679565 seconds
+2019-10-17 10:45:03,356 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.5872626304626465 seconds
+2019-10-17 10:45:03,359 - root - INFO - ############################### START ###############################
+2019-10-17 10:45:05,183 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.8221042156219482 seconds
+2019-10-17 10:45:06,363 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1770672798156738 seconds
+2019-10-17 10:45:06,401 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03500175476074219 seconds
+2019-10-17 10:45:06,845 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.47902703285217285 seconds
+2019-10-17 10:45:06,899 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.05100274085998535 seconds
+2019-10-17 10:45:07,192 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.34401965141296387 seconds
+2019-10-17 10:45:46,678 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.195240020751953 seconds
+2019-10-17 10:45:46,684 - root - INFO - ############################### START ###############################
+2019-10-17 10:46:48,512 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.728213310241699 seconds
+2019-10-17 10:46:52,018 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.480198860168457 seconds
+2019-10-17 10:46:52,023 - root - INFO - ############################### START ###############################
+2019-10-17 10:46:53,179 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1550660133361816 seconds
+2019-10-17 10:47:01,363 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 8.1804678440094 seconds
+2019-10-17 10:47:01,417 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04000234603881836 seconds
+2019-10-17 10:47:01,707 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.3430197238922119 seconds
+2019-10-17 10:47:01,734 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.026001691818237305 seconds
+2019-10-17 10:47:01,937 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.22701287269592285 seconds
+2019-10-17 10:47:04,790 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.8361623287200928 seconds
+2019-10-17 10:47:04,792 - root - INFO - ###############################  END  ###############################
+2019-10-17 10:47:20,881 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.874278545379639 seconds
+2019-10-17 10:47:26,577 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 5.6693243980407715 seconds
+2019-10-17 10:47:26,582 - root - INFO - ############################### START ###############################
+2019-10-17 10:47:36,750 - root - INFO - SUCCESS    Set browser window maximized, Spend 10.164581537246704 seconds
+2019-10-17 10:47:43,065 - root - INFO - FAIL       Unable to load https://www.baidu.com/, Spend 6.312361240386963 seconds
+2019-10-17 10:47:56,351 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.290245294570923 seconds
+2019-10-17 10:47:59,903 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.5252015590667725 seconds
+2019-10-17 10:47:59,908 - root - INFO - ############################### START ###############################
+2019-10-17 10:48:01,219 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.309074878692627 seconds
+2019-10-17 10:48:05,461 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.242242813110352 seconds
+2019-10-17 10:48:05,527 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.0630037784576416 seconds
+2019-10-17 10:48:05,894 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.4300243854522705 seconds
+2019-10-17 10:48:05,967 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.07000422477722168 seconds
+2019-10-17 10:48:06,270 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.37302136421203613 seconds
+2019-10-17 10:48:34,274 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.854220151901245 seconds
+2019-10-17 10:48:34,305 - root - INFO - ############################### START ###############################
+2019-10-17 10:49:11,961 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.316246747970581 seconds
+2019-10-17 10:49:15,127 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.1381797790527344 seconds
+2019-10-17 10:49:15,133 - root - INFO - ############################### START ###############################
+2019-10-17 10:49:18,148 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.012172222137451 seconds
+2019-10-17 10:49:18,183 - root - INFO - FAIL       Unable to send element: <id->kw> content: 测试01, Spend 0.03300213813781738 seconds
+2019-10-17 10:49:49,531 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.9072234630584717 seconds
+2019-10-17 10:49:49,560 - root - INFO - ############################### START ###############################
+2019-10-17 10:49:50,689 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1260645389556885 seconds
+2019-10-17 10:50:27,254 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.8632209300994873 seconds
+2019-10-17 10:50:30,688 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.387193441390991 seconds
+2019-10-17 10:50:30,691 - root - INFO - ############################### START ###############################
+2019-10-17 10:50:32,000 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.305074691772461 seconds
+2019-10-17 10:50:50,152 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 18.149038314819336 seconds
+2019-10-17 10:50:50,186 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03200173377990723 seconds
+2019-10-17 10:50:50,405 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.2520146369934082 seconds
+2019-10-17 10:50:50,430 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.023001432418823242 seconds
+2019-10-17 10:50:50,626 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.21901273727416992 seconds
+2019-10-17 10:50:54,874 - root - INFO - ############################### START ###############################
+2019-10-17 10:51:20,651 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.541259765625 seconds
+2019-10-17 10:51:20,654 - root - INFO - ############################### START ###############################
+2019-10-17 10:51:28,831 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 8.176467657089233 seconds
+2019-10-17 10:51:29,982 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1480655670166016 seconds
+2019-10-17 10:51:30,011 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.026001453399658203 seconds
+2019-10-17 10:51:30,248 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.2630150318145752 seconds
+2019-10-17 10:51:30,274 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.024001359939575195 seconds
+2019-10-17 10:51:30,456 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.20501160621643066 seconds
+2019-10-17 10:51:30,991 - root - INFO - ############################### START ###############################
+2019-10-17 10:51:32,412 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.4180810451507568 seconds
+2019-10-17 10:51:36,151 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.7372138500213623 seconds
+2019-10-17 10:51:36,193 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04000234603881836 seconds
+2019-10-17 10:51:36,430 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.27701568603515625 seconds
+2019-10-17 10:51:36,468 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03600192070007324 seconds
+2019-10-17 10:51:36,667 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.23601317405700684 seconds
+2019-10-17 10:51:39,338 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.658151865005493 seconds
+2019-10-17 10:51:39,339 - root - INFO - ###############################  END  ###############################
+2019-10-17 10:52:41,146 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.34324836730957 seconds
+2019-10-17 10:52:46,947 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 5.771330118179321 seconds
+2019-10-17 10:52:46,949 - root - INFO - ############################### START ###############################
+2019-10-17 10:52:48,399 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.4480829238891602 seconds
+2019-10-17 10:52:50,072 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.671095609664917 seconds
+2019-10-17 10:52:50,082 - root - INFO - FAIL       Unable to send element: <id->kw> content: 测试01, Spend 0.00700068473815918 seconds
+2019-10-17 10:53:00,430 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.682267904281616 seconds
+2019-10-17 10:53:04,422 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.961226463317871 seconds
+2019-10-17 10:53:04,425 - root - INFO - ############################### START ###############################
+2019-10-17 10:53:05,745 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.319075345993042 seconds
+2019-10-17 10:53:07,871 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.123121500015259 seconds
+2019-10-17 10:53:07,970 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.09700560569763184 seconds
+2019-10-17 10:53:08,552 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.6790385246276855 seconds
+2019-10-17 10:53:08,675 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.12100696563720703 seconds
+2019-10-17 10:53:08,890 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.33601903915405273 seconds
+2019-10-17 10:53:48,124 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.344248294830322 seconds
+2019-10-17 10:53:51,614 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.460198163986206 seconds
+2019-10-17 10:53:51,616 - root - INFO - ############################### START ###############################
+2019-10-17 10:53:56,378 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.758272171020508 seconds
+2019-10-17 10:53:56,405 - root - INFO - FAIL       Unable to send element: <id->kw> content: 测试01, Spend 0.027001619338989258 seconds
+2019-10-17 10:54:43,833 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.26124382019043 seconds
+2019-10-17 10:54:54,759 - root - INFO - ############################### START ###############################
+2019-10-17 10:54:54,765 - root - INFO - FAIL       Unable to load https://www.baidu.com/, Spend 0.0 seconds
+2019-10-17 10:56:28,351 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.2402424812316895 seconds
+2019-10-17 10:56:28,382 - root - INFO - ############################### START ###############################
+2019-10-17 10:56:29,531 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1460654735565186 seconds
+2019-10-17 10:56:51,537 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 22.002258777618408 seconds
+2019-10-17 10:56:51,563 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.02500152587890625 seconds
+2019-10-17 10:56:51,794 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.2560145854949951 seconds
+2019-10-17 10:56:51,821 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02500152587890625 seconds
+2019-10-17 10:56:51,991 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.19501113891601562 seconds
+2019-10-17 10:56:54,699 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.6961541175842285 seconds
+2019-10-17 10:56:54,701 - root - INFO - ###############################  END  ###############################
+2019-10-17 10:57:17,761 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.8622207641601562 seconds
+2019-10-17 10:57:21,268 - root - INFO - ############################### START ###############################
+2019-10-17 10:57:22,656 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.3860793113708496 seconds
+2019-10-17 10:57:31,101 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 8.442482948303223 seconds
+2019-10-17 10:57:31,134 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.031001567840576172 seconds
+2019-10-17 10:57:31,349 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.24601411819458008 seconds
+2019-10-17 10:57:31,380 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.029001712799072266 seconds
+2019-10-17 10:57:31,584 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.23301339149475098 seconds
+2019-10-17 10:57:36,094 - root - INFO - ############################### START ###############################
+2019-10-17 10:57:51,385 - root - INFO - ############################### START ###############################
+2019-10-17 10:57:54,643 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.254185914993286 seconds
+2019-10-17 10:57:55,913 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2680726051330566 seconds
+2019-10-17 10:57:55,955 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.039002180099487305 seconds
+2019-10-17 10:57:56,270 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.3540201187133789 seconds
+2019-10-17 10:57:56,300 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02800154685974121 seconds
+2019-10-17 10:57:56,591 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.31801795959472656 seconds
+2019-10-17 10:57:57,281 - root - INFO - ############################### START ###############################
+2019-10-17 10:57:58,540 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2570719718933105 seconds
+2019-10-17 10:58:02,007 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.46219801902771 seconds
+2019-10-17 10:58:02,053 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.044002532958984375 seconds
+2019-10-17 10:58:02,350 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.3410193920135498 seconds
+2019-10-17 10:58:02,406 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.054003238677978516 seconds
+2019-10-17 10:58:02,605 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.25301456451416016 seconds
+2019-10-17 10:58:05,420 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.748157262802124 seconds
+2019-10-17 10:58:05,423 - root - INFO - ###############################  END  ###############################
+2019-10-17 11:00:18,362 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.931224822998047 seconds
+2019-10-17 11:00:18,398 - root - INFO - ############################### START ###############################
+2019-10-17 11:00:19,723 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.323075771331787 seconds
+2019-10-17 11:00:22,286 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.5591461658477783 seconds
+2019-10-17 11:00:22,332 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04300236701965332 seconds
+2019-10-17 11:00:22,659 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.37002110481262207 seconds
+2019-10-17 11:00:22,716 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.05500316619873047 seconds
+2019-10-17 11:00:22,958 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.29701709747314453 seconds
+2019-10-17 11:00:25,836 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.857163190841675 seconds
+2019-10-17 11:00:25,839 - root - INFO - ###############################  END  ###############################
+2019-10-17 11:01:04,671 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.304246187210083 seconds
+2019-10-17 11:01:08,269 - root - INFO - ############################### START ###############################
+2019-10-17 11:01:16,386 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 8.114463806152344 seconds
+2019-10-17 11:01:17,716 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.329075813293457 seconds
+2019-10-17 11:01:17,761 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04300236701965332 seconds
+2019-10-17 11:01:18,253 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.5340304374694824 seconds
+2019-10-17 11:01:18,309 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.054003238677978516 seconds
+2019-10-17 11:01:18,657 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.4020230770111084 seconds
+2019-10-17 11:03:02,205 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.931224822998047 seconds
+2019-10-17 11:03:06,552 - root - INFO - ############################### START ###############################
+2019-10-17 11:03:07,841 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2890739440917969 seconds
+2019-10-17 11:03:09,666 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.8241045475006104 seconds
+2019-10-17 11:03:09,725 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.05700325965881348 seconds
+2019-10-17 11:03:10,582 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.9140522480010986 seconds
+2019-10-17 11:03:10,650 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.06600379943847656 seconds
+2019-10-17 11:03:10,934 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.34902000427246094 seconds
+2019-10-17 11:04:55,727 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.108234882354736 seconds
+2019-10-17 11:04:59,210 - root - INFO - ############################### START ###############################
+2019-10-17 11:05:28,630 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.645265817642212 seconds
+2019-10-17 11:05:32,382 - root - INFO - ############################### START ###############################
+2019-10-17 11:05:34,633 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.249128580093384 seconds
+2019-10-17 11:05:40,778 - root - INFO - FAIL       Unable to send element: <id->kw> content: 测试01, Spend 6.143351316452026 seconds
+2019-10-17 11:06:03,768 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.2661867141723633 seconds
+2019-10-17 11:06:07,275 - root - INFO - ############################### START ###############################
+2019-10-17 11:06:29,240 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.820218324661255 seconds
+2019-10-17 11:06:29,268 - root - INFO - ############################### START ###############################
+2019-10-17 11:06:30,440 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1700670719146729 seconds
+2019-10-17 11:06:33,424 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.982170343399048 seconds
+2019-10-17 11:06:33,494 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.06700372695922852 seconds
+2019-10-17 11:06:33,854 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试01, Spend 0.42702436447143555 seconds
+2019-10-17 11:06:33,884 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02800154685974121 seconds
+2019-10-17 11:06:34,303 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.4470255374908447 seconds
+2019-10-17 11:06:37,761 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.8261613845825195 seconds
+2019-10-17 11:06:37,763 - root - INFO - ###############################  END  ###############################
+2019-10-17 11:26:17,324 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 6.399366140365601 seconds
+2019-10-17 11:26:21,309 - root - INFO - ############################### START ###############################
+2019-10-17 11:26:23,267 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.9551115036010742 seconds
+2019-10-17 11:26:23,320 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.05100274085998535 seconds
+2019-10-17 11:26:23,817 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.5480313301086426 seconds
+2019-10-17 11:26:23,856 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.0370023250579834 seconds
+2019-10-17 11:26:24,125 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.3060176372528076 seconds
+2019-10-17 11:26:44,402 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.498257160186768 seconds
+2019-10-17 11:26:48,664 - root - INFO - ############################### START ###############################
+2019-10-17 11:26:54,078 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 5.410309553146362 seconds
+2019-10-17 11:26:54,192 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.11100649833679199 seconds
+2019-10-17 11:26:54,583 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.5020284652709961 seconds
+2019-10-17 11:26:54,660 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.0740041732788086 seconds
+2019-10-17 11:26:54,883 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2980170249938965 seconds
+2019-10-17 11:27:45,038 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.024230241775513 seconds
+2019-10-17 11:27:48,893 - root - INFO - ############################### START ###############################
+2019-10-17 11:27:50,931 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.031116008758545 seconds
+2019-10-17 11:27:50,978 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04400229454040527 seconds
+2019-10-17 11:27:51,305 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.3720211982727051 seconds
+2019-10-17 11:27:51,354 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.047002553939819336 seconds
+2019-10-17 11:27:51,601 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2930169105529785 seconds
+2019-10-17 11:30:14,541 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 5.399308919906616 seconds
+2019-10-17 11:30:14,570 - root - INFO - ############################### START ###############################
+2019-10-17 11:30:20,192 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1700668334960938 seconds
+2019-10-17 11:30:22,444 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.248128652572632 seconds
+2019-10-17 11:30:22,490 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04500246047973633 seconds
+2019-10-17 11:30:22,817 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.3710212707519531 seconds
+2019-10-17 11:30:22,849 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.031001806259155273 seconds
+2019-10-17 11:30:23,020 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2020115852355957 seconds
+2019-10-17 11:30:29,103 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0711755752563477 seconds
+2019-10-17 11:30:29,106 - root - INFO - ###############################  END  ###############################
+2019-10-17 11:33:25,786 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 5.116292476654053 seconds
+2019-10-17 11:33:25,816 - root - INFO - ############################### START ###############################
+2019-10-17 11:33:39,637 - root - INFO - ###############################  END  ###############################
+2019-10-17 11:37:02,195 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 5.219298362731934 seconds
+2019-10-17 11:37:02,226 - root - INFO - ############################### START ###############################
+2019-10-17 11:37:07,198 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2200698852539062 seconds
+2019-10-17 11:37:09,022 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.8221039772033691 seconds
+2019-10-17 11:37:09,034 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.010000467300415039 seconds
+2019-10-17 11:37:09,078 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04200243949890137 seconds
+2019-10-17 11:37:09,497 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.4610264301300049 seconds
+2019-10-17 11:37:09,527 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.029001474380493164 seconds
+2019-10-17 11:37:09,733 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.23501348495483398 seconds
+2019-10-17 11:37:16,091 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.1861822605133057 seconds
+2019-10-17 11:37:16,094 - root - INFO - ###############################  END  ###############################
+2019-10-17 11:40:39,516 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.069232702255249 seconds
+2019-10-17 11:40:39,546 - root - INFO - ############################### START ###############################
+2019-10-17 11:40:44,362 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1570661067962646 seconds
+2019-10-17 11:40:45,568 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2030689716339111 seconds
+2019-10-17 11:40:45,576 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.006000518798828125 seconds
+2019-10-17 11:40:45,578 - root - INFO - FAIL       Unable to send element: <id->kw> content: 测试03, Spend 0.0 seconds
+2019-10-17 11:40:48,207 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.627150058746338 seconds
+2019-10-17 11:40:48,209 - root - INFO - ###############################  END  ###############################
+2019-10-17 11:41:28,627 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.30824613571167 seconds
+2019-10-17 11:41:28,656 - root - INFO - ############################### START ###############################
+2019-10-17 11:41:37,804 - root - INFO - ###############################  END  ###############################
+2019-10-17 11:45:37,440 - root - INFO - ############################### START ###############################
+2019-10-17 11:45:51,728 - root - INFO - ###############################  END  ###############################
+2019-10-17 11:46:39,936 - root - INFO - ############################### START ###############################
+2019-10-17 11:46:46,337 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1320648193359375 seconds
+2019-10-17 11:46:47,723 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3830788135528564 seconds
+2019-10-17 11:46:47,772 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04800271987915039 seconds
+2019-10-17 11:46:48,072 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.34701991081237793 seconds
+2019-10-17 11:46:48,102 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02800154685974121 seconds
+2019-10-17 11:46:48,440 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.36602091789245605 seconds
+2019-10-17 11:46:54,424 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.972169876098633 seconds
+2019-10-17 11:46:54,426 - root - INFO - ###############################  END  ###############################
+2019-10-17 11:47:11,889 - root - INFO - ############################### START ###############################
+2019-10-17 11:47:17,558 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1380653381347656 seconds
+2019-10-17 11:47:18,869 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3090746402740479 seconds
+2019-10-17 11:47:18,879 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.007000446319580078 seconds
+2019-10-17 11:47:18,913 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03200173377990723 seconds
+2019-10-17 11:47:19,171 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.29001641273498535 seconds
+2019-10-17 11:47:19,200 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.027001619338989258 seconds
+2019-10-17 11:47:19,380 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.20701193809509277 seconds
+2019-10-17 11:47:25,437 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.866163969039917 seconds
+2019-10-17 11:47:25,439 - root - INFO - ###############################  END  ###############################
+2019-10-17 11:47:55,549 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.852277517318726 seconds
+2019-10-17 11:47:55,582 - root - INFO - ############################### START ###############################
+2019-10-17 11:48:53,735 - root - INFO - ############################### START ###############################
+2019-10-17 11:48:58,951 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.194068193435669 seconds
+2019-10-17 11:49:00,852 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.898108720779419 seconds
+2019-10-17 11:49:00,861 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.006000518798828125 seconds
+2019-10-17 11:49:00,896 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03300189971923828 seconds
+2019-10-17 11:49:01,166 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.30301737785339355 seconds
+2019-10-17 11:49:01,196 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.028001785278320312 seconds
+2019-10-17 11:49:01,345 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.17701053619384766 seconds
+2019-10-17 11:49:07,508 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.1521801948547363 seconds
+2019-10-17 11:49:07,510 - root - INFO - ###############################  END  ###############################
+2019-10-17 11:49:57,123 - root - INFO - ############################### START ###############################
+2019-10-17 11:50:02,177 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.200068712234497 seconds
+2019-10-17 11:50:03,016 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 0.837047815322876 seconds
+2019-10-17 11:50:03,091 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.07200407981872559 seconds
+2019-10-17 11:50:03,218 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.19901132583618164 seconds
+2019-10-17 11:50:03,246 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02500152587890625 seconds
+2019-10-17 11:50:04,393 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 1.1720671653747559 seconds
+2019-10-17 11:50:08,196 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.7922167778015137 seconds
+2019-10-17 11:50:08,198 - root - INFO - ###############################  END  ###############################
+2019-10-17 11:50:12,371 - root - INFO - ############################### START ###############################
+2019-10-17 11:50:22,174 - root - INFO - ###############################  END  ###############################
+2019-10-17 11:50:26,207 - root - INFO - ############################### START ###############################
+2019-10-17 11:50:31,843 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1300644874572754 seconds
+2019-10-17 11:50:32,929 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.084061861038208 seconds
+2019-10-17 11:50:32,938 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.00700068473815918 seconds
+2019-10-17 11:50:32,975 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03600192070007324 seconds
+2019-10-17 11:50:33,229 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.29001641273498535 seconds
+2019-10-17 11:50:33,253 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.024001359939575195 seconds
+2019-10-17 11:50:33,451 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.22101259231567383 seconds
+2019-10-17 11:50:36,173 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.7091548442840576 seconds
+2019-10-17 11:50:36,175 - root - INFO - ###############################  END  ###############################
+2019-10-17 11:50:40,182 - root - INFO - ############################### START ###############################
+2019-10-17 11:50:44,891 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.706269264221191 seconds
+2019-10-17 11:50:46,057 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1620664596557617 seconds
+2019-10-17 11:50:47,418 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3590779304504395 seconds
+2019-10-17 11:50:47,467 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04700279235839844 seconds
+2019-10-17 11:50:47,794 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.3740217685699463 seconds
+2019-10-17 11:50:47,824 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.029001712799072266 seconds
+2019-10-17 11:50:48,036 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.241013765335083 seconds
+2019-10-17 11:50:51,522 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.458197832107544 seconds
+2019-10-17 11:50:51,524 - root - INFO - ###############################  END  ###############################
+2019-10-17 11:53:13,541 - root - INFO - ############################### START ###############################
+2019-10-17 11:53:19,846 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1330649852752686 seconds
+2019-10-17 11:53:23,151 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.3021888732910156 seconds
+2019-10-17 11:53:23,163 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.010000467300415039 seconds
+2019-10-17 11:53:23,196 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03000164031982422 seconds
+2019-10-17 11:53:23,449 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.2830162048339844 seconds
+2019-10-17 11:53:23,482 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03000164031982422 seconds
+2019-10-17 11:53:23,691 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.239013671875 seconds
+2019-10-17 11:53:46,602 - root - INFO - ############################### START ###############################
+2019-10-17 11:53:52,006 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1510658264160156 seconds
+2019-10-17 11:53:53,228 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2190697193145752 seconds
+2019-10-17 11:53:53,246 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.01500082015991211 seconds
+2019-10-17 11:53:53,283 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.034001827239990234 seconds
+2019-10-17 11:53:53,536 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.2870163917541504 seconds
+2019-10-17 11:53:53,568 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.029001951217651367 seconds
+2019-10-17 11:53:53,723 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.18401074409484863 seconds
+2019-10-17 11:55:18,725 - root - INFO - ############################### START ###############################
+2019-10-17 11:55:24,292 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2400708198547363 seconds
+2019-10-17 11:55:25,463 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.1680669784545898 seconds
+2019-10-17 11:55:25,471 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.0070002079010009766 seconds
+2019-10-17 11:55:25,507 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03300213813781738 seconds
+2019-10-17 11:55:25,795 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.3210184574127197 seconds
+2019-10-17 11:55:25,834 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.0370023250579834 seconds
+2019-10-17 11:55:25,983 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.18501043319702148 seconds
+2019-10-17 11:55:29,079 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.081176280975342 seconds
+2019-10-17 11:55:29,081 - root - INFO - ###############################  END  ###############################
+2019-10-17 12:31:14,400 - root - INFO - ############################### START ###############################
+2019-10-17 12:31:19,895 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1540658473968506 seconds
+2019-10-17 12:31:21,720 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.8231043815612793 seconds
+2019-10-17 12:31:21,740 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.017000913619995117 seconds
+2019-10-17 12:31:21,781 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03800225257873535 seconds
+2019-10-17 12:31:22,210 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.46802687644958496 seconds
+2019-10-17 12:31:22,257 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.04300236701965332 seconds
+2019-10-17 12:31:22,528 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.31401777267456055 seconds
+2019-10-17 12:32:51,783 - root - INFO - ############################### START ###############################
+2019-10-17 12:32:56,546 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1560659408569336 seconds
+2019-10-17 12:32:58,014 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4640836715698242 seconds
+2019-10-17 12:32:58,022 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.005000114440917969 seconds
+2019-10-17 12:32:58,054 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.029001474380493164 seconds
+2019-10-17 12:32:58,346 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.3210179805755615 seconds
+2019-10-17 12:32:58,388 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.039002180099487305 seconds
+2019-10-17 12:32:58,604 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.25501465797424316 seconds
+2019-10-17 12:33:01,664 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0411739349365234 seconds
+2019-10-17 12:33:01,666 - root - INFO - ###############################  END  ###############################
+2019-10-17 12:34:32,245 - root - INFO - ############################### START ###############################
+2019-10-17 12:34:38,118 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1310646533966064 seconds
+2019-10-17 12:34:39,353 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2330701351165771 seconds
+2019-10-17 12:34:39,401 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04600262641906738 seconds
+2019-10-17 12:34:39,773 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.41802382469177246 seconds
+2019-10-17 12:34:39,813 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03800225257873535 seconds
+2019-10-17 12:34:40,103 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.3280186653137207 seconds
+2019-10-17 12:34:43,318 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.108177661895752 seconds
+2019-10-17 12:34:43,320 - root - INFO - ###############################  END  ###############################
+2019-10-17 12:34:47,339 - root - INFO - ############################### START ###############################
+2019-10-17 12:34:57,722 - root - INFO - ###############################  END  ###############################
+2019-10-17 12:35:01,738 - root - INFO - ############################### START ###############################
+2019-10-17 12:35:06,610 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2050690650939941 seconds
+2019-10-17 12:35:07,911 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.299074411392212 seconds
+2019-10-17 12:35:07,920 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.006000518798828125 seconds
+2019-10-17 12:35:07,962 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04100227355957031 seconds
+2019-10-17 12:35:08,242 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.32001805305480957 seconds
+2019-10-17 12:35:08,319 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.07500457763671875 seconds
+2019-10-17 12:35:08,464 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.22001266479492188 seconds
+2019-10-17 12:35:12,208 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.98417067527771 seconds
+2019-10-17 12:35:12,210 - root - INFO - ###############################  END  ###############################
+2019-10-17 12:35:12,213 - root - INFO - ############################### START ###############################
+2019-10-17 12:35:16,308 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.094234466552734 seconds
+2019-10-17 12:35:17,437 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1250643730163574 seconds
+2019-10-17 12:35:18,736 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2970740795135498 seconds
+2019-10-17 12:35:18,776 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03800225257873535 seconds
+2019-10-17 12:35:19,343 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.605034589767456 seconds
+2019-10-17 12:35:19,374 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.029001712799072266 seconds
+2019-10-17 12:35:19,778 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.43302464485168457 seconds
+2019-10-17 12:35:23,842 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.324190378189087 seconds
+2019-10-17 12:35:23,844 - root - INFO - ###############################  END  ###############################
+2019-10-17 12:37:21,645 - root - INFO - ############################### START ###############################
+2019-10-17 12:37:26,398 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.748271703720093 seconds
+2019-10-17 12:37:27,631 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2300703525543213 seconds
+2019-10-17 12:37:29,035 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4020800590515137 seconds
+2019-10-17 12:37:29,080 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04300260543823242 seconds
+2019-10-17 12:37:29,485 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.4480254650115967 seconds
+2019-10-17 12:37:29,549 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.06200385093688965 seconds
+2019-10-17 12:37:29,905 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.4190242290496826 seconds
+2019-10-17 12:38:46,306 - root - INFO - ############################### START ###############################
+2019-10-17 12:38:49,920 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.611206531524658 seconds
+2019-10-17 12:38:51,084 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1600663661956787 seconds
+2019-10-17 12:38:53,603 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.516143798828125 seconds
+2019-10-17 12:38:53,645 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.039002180099487305 seconds
+2019-10-17 12:38:54,017 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.4110236167907715 seconds
+2019-10-17 12:38:54,081 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.06100344657897949 seconds
+2019-10-17 12:38:54,285 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2650148868560791 seconds
+2019-10-17 12:38:58,426 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.1901824474334717 seconds
+2019-10-17 12:38:58,428 - root - INFO - ###############################  END  ###############################
+2019-10-17 12:40:35,501 - root - INFO - FAIL       Unable to load https://www.baidu.com/, Spend 0.0 seconds
+2019-10-17 12:40:49,075 - root - INFO - ############################### START ###############################
+2019-10-17 12:40:54,277 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 5.1982972621917725 seconds
+2019-10-17 12:40:55,588 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.308074951171875 seconds
+2019-10-17 12:40:58,985 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.3931941986083984 seconds
+2019-10-17 12:40:59,023 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03500223159790039 seconds
+2019-10-17 12:40:59,388 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.4000227451324463 seconds
+2019-10-17 12:40:59,433 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.04200243949890137 seconds
+2019-10-17 12:40:59,655 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.26401495933532715 seconds
+2019-10-17 12:41:02,728 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.961169481277466 seconds
+2019-10-17 12:41:02,730 - root - INFO - ###############################  END  ###############################
+2019-10-17 13:44:35,780 - root - INFO - ############################### START ###############################
+2019-10-17 13:44:41,286 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1550657749176025 seconds
+2019-10-17 13:44:43,141 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.8501060009002686 seconds
+2019-10-17 13:44:43,151 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.0060002803802490234 seconds
+2019-10-17 13:44:43,192 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.039002418518066406 seconds
+2019-10-17 13:44:43,932 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.7780444622039795 seconds
+2019-10-17 13:44:44,021 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.0870048999786377 seconds
+2019-10-17 13:44:44,184 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.24901413917541504 seconds
+2019-10-17 13:44:59,988 - root - INFO - ############################### START ###############################
+2019-10-17 13:45:05,129 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1490657329559326 seconds
+2019-10-17 13:45:06,395 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2610721588134766 seconds
+2019-10-17 13:45:06,407 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.009000301361083984 seconds
+2019-10-17 13:45:06,441 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.031002044677734375 seconds
+2019-10-17 13:45:06,699 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.2890167236328125 seconds
+2019-10-17 13:45:06,733 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.031001806259155273 seconds
+2019-10-17 13:45:06,897 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.19301128387451172 seconds
+2019-10-17 13:45:41,968 - root - INFO - ############################### START ###############################
+2019-10-17 13:45:46,888 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1270644664764404 seconds
+2019-10-17 13:45:48,921 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.029115915298462 seconds
+2019-10-17 13:45:48,933 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.009000301361083984 seconds
+2019-10-17 13:45:48,976 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04000234603881836 seconds
+2019-10-17 13:45:49,328 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.39202260971069336 seconds
+2019-10-17 13:45:49,391 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.06100344657897949 seconds
+2019-10-17 13:45:49,605 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.27501606941223145 seconds
+2019-10-17 13:45:56,269 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.647151231765747 seconds
+2019-10-17 13:45:56,272 - root - INFO - ###############################  END  ###############################
+2019-10-17 13:47:51,030 - root - INFO - ############################### START ###############################
+2019-10-17 13:47:55,439 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.405251979827881 seconds
+2019-10-17 13:47:56,594 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1520662307739258 seconds
+2019-10-17 13:47:58,125 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5270872116088867 seconds
+2019-10-17 13:47:58,136 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.009000301361083984 seconds
+2019-10-17 13:47:58,177 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03800201416015625 seconds
+2019-10-17 13:47:58,690 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.5510313510894775 seconds
+2019-10-17 13:47:58,730 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.0370020866394043 seconds
+2019-10-17 13:47:58,920 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.22701311111450195 seconds
+2019-10-17 13:48:05,701 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.765158176422119 seconds
+2019-10-17 13:48:05,704 - root - INFO - ###############################  END  ###############################
+2019-10-17 13:49:05,243 - root - INFO - ############################### START ###############################
+2019-10-17 13:49:20,057 - root - INFO - ###############################  END  ###############################
+2019-10-17 13:50:08,488 - root - INFO - ############################### START ###############################
+2019-10-17 13:50:13,608 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1450655460357666 seconds
+2019-10-17 13:50:18,138 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.526258945465088 seconds
+2019-10-17 13:50:18,174 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03300166130065918 seconds
+2019-10-17 13:50:18,467 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.3260185718536377 seconds
+2019-10-17 13:50:18,492 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.023001432418823242 seconds
+2019-10-17 13:50:18,676 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.20701193809509277 seconds
+2019-10-17 13:50:25,662 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.973170042037964 seconds
+2019-10-17 13:50:25,664 - root - INFO - ###############################  END  ###############################
+2019-10-17 13:50:37,993 - root - INFO - ############################### START ###############################
+2019-10-17 13:50:43,430 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1300647258758545 seconds
+2019-10-17 13:50:45,955 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.522144317626953 seconds
+2019-10-17 13:50:45,989 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.031001567840576172 seconds
+2019-10-17 13:50:46,219 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.2610149383544922 seconds
+2019-10-17 13:50:46,250 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02800154685974121 seconds
+2019-10-17 13:50:46,445 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2240128517150879 seconds
+2019-10-17 13:50:53,583 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.125178813934326 seconds
+2019-10-17 13:50:53,585 - root - INFO - ###############################  END  ###############################
+2019-10-17 13:54:05,227 - root - INFO - ############################### START ###############################
+2019-10-17 13:54:09,593 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.3642497062683105 seconds
+2019-10-17 13:55:11,881 - root - INFO - ############################### START ###############################
+2019-10-17 13:55:15,914 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.030230522155762 seconds
+2019-10-17 13:55:17,137 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2220697402954102 seconds
+2019-10-17 13:55:26,728 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 9.586548328399658 seconds
+2019-10-17 13:55:26,771 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.041002511978149414 seconds
+2019-10-17 13:55:27,145 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.4150238037109375 seconds
+2019-10-17 13:55:27,179 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.031001806259155273 seconds
+2019-10-17 13:55:27,456 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.3080174922943115 seconds
+2019-10-17 13:55:34,544 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.076176166534424 seconds
+2019-10-17 13:56:49,810 - root - INFO - ############################### START ###############################
+2019-10-17 13:56:53,271 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.458198070526123 seconds
+2019-10-17 13:56:54,414 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1400651931762695 seconds
+2019-10-17 13:56:55,966 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5460882186889648 seconds
+2019-10-17 13:56:56,003 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.034002065658569336 seconds
+2019-10-17 13:56:56,283 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.31401801109313965 seconds
+2019-10-17 13:56:56,312 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.026001453399658203 seconds
+2019-10-17 13:56:56,458 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.17200970649719238 seconds
+2019-10-17 13:57:03,562 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.092176914215088 seconds
+2019-10-17 13:57:03,565 - root - INFO - ###############################  END  ###############################
+2019-10-17 13:58:05,917 - root - INFO - ############################### START ###############################
+2019-10-17 13:58:09,780 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.8602206707000732 seconds
+2019-10-17 13:58:10,947 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1640665531158447 seconds
+2019-10-17 13:58:13,267 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.3151323795318604 seconds
+2019-10-17 13:58:13,324 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.05400276184082031 seconds
+2019-10-17 13:58:13,670 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.4000227451324463 seconds
+2019-10-17 13:58:13,720 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.047002553939819336 seconds
+2019-10-17 13:58:13,937 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2630147933959961 seconds
+2019-10-17 13:58:20,861 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.9091663360595703 seconds
+2019-10-17 13:58:20,864 - root - INFO - ###############################  END  ###############################
+2019-10-17 14:06:16,899 - root - INFO - ############################### START ###############################
+2019-10-17 14:06:21,133 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.2332422733306885 seconds
+2019-10-17 14:06:22,268 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1310644149780273 seconds
+2019-10-17 14:06:23,642 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3710782527923584 seconds
+2019-10-17 14:06:23,682 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.0370020866394043 seconds
+2019-10-17 14:06:23,945 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.3000171184539795 seconds
+2019-10-17 14:06:23,985 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.037001848220825195 seconds
+2019-10-17 14:06:24,139 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.1910107135772705 seconds
+2019-10-17 14:06:31,348 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.1931827068328857 seconds
+2019-10-17 14:06:31,350 - root - INFO - ###############################  END  ###############################
+2019-10-17 14:14:40,205 - root - INFO - ############################### START ###############################
+2019-10-17 14:14:44,676 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.467255115509033 seconds
+2019-10-17 14:14:46,011 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.3320763111114502 seconds
+2019-10-17 14:14:53,405 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 7.390422821044922 seconds
+2019-10-17 14:14:53,444 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.037001848220825195 seconds
+2019-10-17 14:14:53,700 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.2930169105529785 seconds
+2019-10-17 14:14:53,727 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02500128746032715 seconds
+2019-10-17 14:14:53,928 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.22501301765441895 seconds
+2019-10-17 14:15:00,768 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.827162027359009 seconds
+2019-10-17 14:15:00,770 - root - INFO - ###############################  END  ###############################
+2019-10-17 14:15:32,877 - root - INFO - ############################### START ###############################
+2019-10-17 14:15:37,485 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.6042633056640625 seconds
+2019-10-17 14:15:39,147 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.659095048904419 seconds
+2019-10-17 14:15:42,308 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.1581807136535645 seconds
+2019-10-17 14:15:42,347 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03800225257873535 seconds
+2019-10-17 14:15:42,728 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.4190239906311035 seconds
+2019-10-17 14:15:42,816 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.08600497245788574 seconds
+2019-10-17 14:15:43,076 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.3460197448730469 seconds
+2019-10-17 14:15:49,802 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.7161552906036377 seconds
+2019-10-17 14:15:49,804 - root - INFO - ###############################  END  ###############################
+2019-10-17 14:18:21,457 - root - INFO - ############################### START ###############################
+2019-10-17 14:18:25,968 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.508257865905762 seconds
+2019-10-17 14:18:27,208 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2370707988739014 seconds
+2019-10-17 14:18:29,864 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.6521518230438232 seconds
+2019-10-17 14:18:29,924 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.05800318717956543 seconds
+2019-10-17 14:18:30,271 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.4060232639312744 seconds
+2019-10-17 14:18:30,317 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.044002532958984375 seconds
+2019-10-17 14:18:30,519 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.24601411819458008 seconds
+2019-10-17 14:18:37,461 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.9151670932769775 seconds
+2019-10-17 14:18:37,464 - root - INFO - ###############################  END  ###############################
+2019-10-17 14:21:10,186 - root - INFO - ############################### START ###############################
+2019-10-17 14:21:14,666 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.478255987167358 seconds
+2019-10-17 14:21:15,868 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1990687847137451 seconds
+2019-10-17 14:21:17,377 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5060861110687256 seconds
+2019-10-17 14:21:17,409 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03000187873840332 seconds
+2019-10-17 14:21:17,692 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.31201767921447754 seconds
+2019-10-17 14:21:17,719 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.025001049041748047 seconds
+2019-10-17 14:21:17,884 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.1910107135772705 seconds
+2019-10-17 14:21:24,896 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.962169647216797 seconds
+2019-10-17 14:21:24,898 - root - INFO - ###############################  END  ###############################
+2019-10-17 14:25:40,312 - root - INFO - ############################### START ###############################
+2019-10-17 14:25:44,177 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.863220691680908 seconds
+2019-10-17 14:25:45,470 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.291074275970459 seconds
+2019-10-17 14:25:47,243 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.7691009044647217 seconds
+2019-10-17 14:25:47,284 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.0390019416809082 seconds
+2019-10-17 14:25:47,571 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.3260185718536377 seconds
+2019-10-17 14:25:47,602 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.031001806259155273 seconds
+2019-10-17 14:25:47,768 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.19601106643676758 seconds
+2019-10-17 14:25:54,515 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.732156276702881 seconds
+2019-10-17 14:25:54,517 - root - INFO - ###############################  END  ###############################
+2019-10-17 14:30:47,111 - root - INFO - ############################### START ###############################
+2019-10-17 14:30:51,576 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.462255239486694 seconds
+2019-10-17 14:30:52,805 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2260699272155762 seconds
+2019-10-17 14:30:54,085 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2770731449127197 seconds
+2019-10-17 14:30:54,120 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03300166130065918 seconds
+2019-10-17 14:30:54,377 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.29001641273498535 seconds
+2019-10-17 14:30:54,401 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02200150489807129 seconds
+2019-10-17 14:30:54,592 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2110121250152588 seconds
+2019-10-17 14:31:01,401 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.7981600761413574 seconds
+2019-10-17 14:31:01,403 - root - INFO - ###############################  END  ###############################
+2019-10-17 14:37:38,090 - root - INFO - ############################### START ###############################
+2019-10-17 14:37:42,183 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.091233968734741 seconds
+2019-10-17 14:37:43,327 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1420655250549316 seconds
+2019-10-17 14:37:47,897 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.565261125564575 seconds
+2019-10-17 14:37:47,941 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04100227355957031 seconds
+2019-10-17 14:37:48,276 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.3760213851928711 seconds
+2019-10-17 14:37:48,333 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.054003000259399414 seconds
+2019-10-17 14:37:48,584 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.30101704597473145 seconds
+2019-10-17 14:37:55,789 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.1921825408935547 seconds
+2019-10-17 14:37:55,792 - root - INFO - ###############################  END  ###############################
+2019-10-17 14:38:36,701 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.006228923797607 seconds
+2019-10-17 14:38:37,874 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1710669994354248 seconds
+2019-10-17 14:38:39,721 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.8441054821014404 seconds
+2019-10-17 14:38:39,781 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.05800318717956543 seconds
+2019-10-17 14:38:40,110 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.3870220184326172 seconds
+2019-10-17 14:38:40,140 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02800130844116211 seconds
+2019-10-17 14:38:40,297 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.18501043319702148 seconds
+2019-10-17 14:38:47,004 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.6951541900634766 seconds
+2019-10-17 14:53:40,234 - root - INFO - ############################### START ###############################
+2019-10-17 14:56:43,742 - root - INFO - ############################### START ###############################
+2019-10-17 14:56:48,691 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.9462831020355225 seconds
+2019-10-17 14:56:49,859 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1670668125152588 seconds
+2019-10-17 14:56:51,097 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2340705394744873 seconds
+2019-10-17 14:56:51,134 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.034002065658569336 seconds
+2019-10-17 14:56:51,475 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.37502169609069824 seconds
+2019-10-17 14:56:51,535 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.05700325965881348 seconds
+2019-10-17 14:56:51,708 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.23101305961608887 seconds
+2019-10-17 14:56:58,494 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.767158269882202 seconds
+2019-10-17 14:56:58,495 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:03:40,135 - root - INFO - ############################### START ###############################
+2019-10-17 15:03:43,962 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.823218822479248 seconds
+2019-10-17 15:03:45,164 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.199068546295166 seconds
+2019-10-17 15:03:46,556 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.3880794048309326 seconds
+2019-10-17 15:03:46,595 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03500175476074219 seconds
+2019-10-17 15:03:46,868 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.3090176582336426 seconds
+2019-10-17 15:03:46,894 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.024001121520996094 seconds
+2019-10-17 15:03:47,092 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.22201251983642578 seconds
+2019-10-17 15:03:53,877 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.768158197402954 seconds
+2019-10-17 15:03:53,878 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:04:29,100 - root - INFO - ############################### START ###############################
+2019-10-17 15:04:33,359 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.255243301391602 seconds
+2019-10-17 15:04:34,521 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1590664386749268 seconds
+2019-10-17 15:04:36,133 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.6110923290252686 seconds
+2019-10-17 15:04:36,175 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.040001869201660156 seconds
+2019-10-17 15:04:36,446 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.3110177516937256 seconds
+2019-10-17 15:04:36,478 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03000164031982422 seconds
+2019-10-17 15:04:36,619 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.17100977897644043 seconds
+2019-10-17 15:12:57,832 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.589205265045166 seconds
+2019-10-17 15:12:57,835 - root - INFO - ############################### START ###############################
+2019-10-17 15:12:58,988 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1500658988952637 seconds
+2019-10-17 15:13:00,761 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.7681009769439697 seconds
+2019-10-17 15:13:00,801 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.0370020866394043 seconds
+2019-10-17 15:13:01,049 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.2850162982940674 seconds
+2019-10-17 15:13:01,086 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03500199317932129 seconds
+2019-10-17 15:13:01,280 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.22901296615600586 seconds
+2019-10-17 15:13:04,261 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.9291675090789795 seconds
+2019-10-17 15:13:04,262 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:13:18,043 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.024230241775513 seconds
+2019-10-17 15:13:18,046 - root - INFO - ############################### START ###############################
+2019-10-17 15:13:19,469 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.421081304550171 seconds
+2019-10-17 15:13:22,674 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.202183485031128 seconds
+2019-10-17 15:13:22,730 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.05200314521789551 seconds
+2019-10-17 15:13:23,267 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.589033842086792 seconds
+2019-10-17 15:13:23,324 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.054003000259399414 seconds
+2019-10-17 15:13:23,686 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.41602396965026855 seconds
+2019-10-17 15:13:31,518 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.8151612281799316 seconds
+2019-10-17 15:13:31,519 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:13:44,173 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.819218635559082 seconds
+2019-10-17 15:13:44,176 - root - INFO - ############################### START ###############################
+2019-10-17 15:13:45,667 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.4890851974487305 seconds
+2019-10-17 15:13:48,444 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.774158477783203 seconds
+2019-10-17 15:13:48,490 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04400229454040527 seconds
+2019-10-17 15:13:48,766 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.32001805305480957 seconds
+2019-10-17 15:13:48,809 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.04100227355957031 seconds
+2019-10-17 15:13:49,019 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.25101447105407715 seconds
+2019-10-17 15:13:56,745 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.7121551036834717 seconds
+2019-10-17 15:13:56,747 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:14:56,492 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 5.088291168212891 seconds
+2019-10-17 15:14:56,497 - root - INFO - ############################### START ###############################
+2019-10-17 15:14:57,647 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1490657329559326 seconds
+2019-10-17 15:15:02,318 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.669266939163208 seconds
+2019-10-17 15:15:02,389 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.06700348854064941 seconds
+2019-10-17 15:15:02,792 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.47002673149108887 seconds
+2019-10-17 15:15:02,826 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.031001567840576172 seconds
+2019-10-17 15:15:03,091 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2960169315338135 seconds
+2019-10-17 15:15:10,933 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.8321621417999268 seconds
+2019-10-17 15:15:10,934 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:16:15,996 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.453254699707031 seconds
+2019-10-17 15:16:16,000 - root - INFO - ############################### START ###############################
+2019-10-17 15:16:17,152 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1500656604766846 seconds
+2019-10-17 15:16:21,576 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.421252965927124 seconds
+2019-10-17 15:16:21,625 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04600262641906738 seconds
+2019-10-17 15:16:21,955 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.37702155113220215 seconds
+2019-10-17 15:16:21,987 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.029001474380493164 seconds
+2019-10-17 15:16:22,228 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.27001523971557617 seconds
+2019-10-17 15:16:29,988 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.745157241821289 seconds
+2019-10-17 15:16:29,990 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:17:06,189 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.052232027053833 seconds
+2019-10-17 15:17:06,193 - root - INFO - ############################### START ###############################
+2019-10-17 15:17:07,350 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1560661792755127 seconds
+2019-10-17 15:17:09,172 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.8181040287017822 seconds
+2019-10-17 15:17:09,211 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.036002397537231445 seconds
+2019-10-17 15:17:09,472 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.29701709747314453 seconds
+2019-10-17 15:17:09,496 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.021001100540161133 seconds
+2019-10-17 15:17:09,686 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.21101164817810059 seconds
+2019-10-17 15:17:17,523 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.8221614360809326 seconds
+2019-10-17 15:17:17,524 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:18:41,877 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.276244640350342 seconds
+2019-10-17 15:18:41,917 - root - INFO - ############################### START ###############################
+2019-10-17 15:18:43,066 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1470656394958496 seconds
+2019-10-17 15:18:44,828 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.7591006755828857 seconds
+2019-10-17 15:18:44,867 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03500175476074219 seconds
+2019-10-17 15:18:45,134 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.3020172119140625 seconds
+2019-10-17 15:18:45,167 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03000164031982422 seconds
+2019-10-17 15:18:45,349 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.21201229095458984 seconds
+2019-10-17 15:18:53,237 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.873164415359497 seconds
+2019-10-17 15:18:53,239 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:19:57,160 - root - INFO - ############################### START ###############################
+2019-10-17 15:19:58,384 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2220699787139893 seconds
+2019-10-17 15:20:00,106 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.7180984020233154 seconds
+2019-10-17 15:20:00,153 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04500269889831543 seconds
+2019-10-17 15:20:00,680 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.5730328559875488 seconds
+2019-10-17 15:20:00,729 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.04600262641906738 seconds
+2019-10-17 15:20:01,066 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.38302183151245117 seconds
+2019-10-17 15:20:08,959 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.882164716720581 seconds
+2019-10-17 15:20:08,961 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:22:21,602 - root - INFO - ############################### START ###############################
+2019-10-17 15:22:22,813 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.209069013595581 seconds
+2019-10-17 15:22:25,791 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.974170207977295 seconds
+2019-10-17 15:22:25,828 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03500199317932129 seconds
+2019-10-17 15:22:26,089 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.2960169315338135 seconds
+2019-10-17 15:22:26,131 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.04000234603881836 seconds
+2019-10-17 15:22:26,291 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2000112533569336 seconds
+2019-10-17 15:22:35,829 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.456197738647461 seconds
+2019-10-17 15:22:35,832 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:23:21,839 - root - INFO - ############################### START ###############################
+2019-10-17 15:23:23,115 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2700729370117188 seconds
+2019-10-17 15:23:24,627 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5080859661102295 seconds
+2019-10-17 15:23:24,673 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04500246047973633 seconds
+2019-10-17 15:23:25,051 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.4220237731933594 seconds
+2019-10-17 15:23:25,098 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.04500293731689453 seconds
+2019-10-17 15:23:25,250 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.19701147079467773 seconds
+2019-10-17 15:23:33,326 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0611753463745117 seconds
+2019-10-17 15:23:33,329 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:24:12,341 - root - INFO - ############################### START ###############################
+2019-10-17 15:24:13,726 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.3830792903900146 seconds
+2019-10-17 15:24:19,463 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 5.735327959060669 seconds
+2019-10-17 15:24:19,510 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04500269889831543 seconds
+2019-10-17 15:24:19,827 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.36202096939086914 seconds
+2019-10-17 15:24:19,871 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.04200243949890137 seconds
+2019-10-17 15:24:20,048 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.21901249885559082 seconds
+2019-10-17 15:24:28,610 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.9711697101593018 seconds
+2019-10-17 15:24:28,613 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:25:51,181 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1460652351379395 seconds
+2019-10-17 15:25:52,629 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.445082664489746 seconds
+2019-10-17 15:25:52,666 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03500199317932129 seconds
+2019-10-17 15:25:53,069 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.43802499771118164 seconds
+2019-10-17 15:25:53,098 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.027001619338989258 seconds
+2019-10-17 15:25:53,245 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.1760098934173584 seconds
+2019-10-17 15:26:01,155 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.892165184020996 seconds
+2019-10-17 15:26:19,569 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1560661792755127 seconds
+2019-10-17 15:26:21,091 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5200867652893066 seconds
+2019-10-17 15:26:21,126 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03300213813781738 seconds
+2019-10-17 15:26:21,382 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.2890167236328125 seconds
+2019-10-17 15:26:21,411 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.026001691818237305 seconds
+2019-10-17 15:26:21,567 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.18201065063476562 seconds
+2019-10-17 15:26:30,207 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0271732807159424 seconds
+2019-10-17 15:29:36,465 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 8.913509845733643 seconds
+2019-10-17 15:29:36,501 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03300166130065918 seconds
+2019-10-17 15:29:36,803 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.3350191116333008 seconds
+2019-10-17 15:29:36,838 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03200197219848633 seconds
+2019-10-17 15:29:37,039 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.23301339149475098 seconds
+2019-10-17 15:36:14,324 - root - INFO - FAIL       Unable to send element: <id->kw> content: 测试04, Spend 0.0740041732788086 seconds
+2019-10-17 15:37:11,539 - root - INFO - FAIL       Unable to send element: <id->kw> content: 测试04, Spend 0.0890049934387207 seconds
+2019-10-17 15:37:52,064 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.65309476852417 seconds
+2019-10-17 15:37:52,102 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03300189971923828 seconds
+2019-10-17 15:37:52,463 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.39402246475219727 seconds
+2019-10-17 15:37:52,509 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.04300260543823242 seconds
+2019-10-17 15:37:52,667 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.20101189613342285 seconds
+2019-10-17 15:38:41,894 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.9991142749786377 seconds
+2019-10-17 15:38:41,931 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03400158882141113 seconds
+2019-10-17 15:38:42,162 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.26601505279541016 seconds
+2019-10-17 15:38:42,193 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.029001712799072266 seconds
+2019-10-17 15:38:42,398 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.23301339149475098 seconds
+2019-10-17 15:40:00,551 - root - INFO - ############################### START ###############################
+2019-10-17 15:40:07,325 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.6090919971466064 seconds
+2019-10-17 15:40:07,402 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.05800318717956543 seconds
+2019-10-17 15:40:08,182 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.838047981262207 seconds
+2019-10-17 15:40:08,228 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.04400229454040527 seconds
+2019-10-17 15:40:08,526 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.34201955795288086 seconds
+2019-10-17 15:40:15,666 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:41:20,005 - root - INFO - ############################### START ###############################
+2019-10-17 15:41:36,881 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 11.346648931503296 seconds
+2019-10-17 15:41:36,941 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.05200314521789551 seconds
+2019-10-17 15:41:37,234 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.3430197238922119 seconds
+2019-10-17 15:41:37,372 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.1370077133178711 seconds
+2019-10-17 15:41:37,996 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.7590432167053223 seconds
+2019-10-17 15:41:43,199 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:41:46,064 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.7030973434448242 seconds
+2019-10-17 15:41:46,105 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.039002418518066406 seconds
+2019-10-17 15:41:46,342 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.2760157585144043 seconds
+2019-10-17 15:41:46,369 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02500152587890625 seconds
+2019-10-17 15:41:46,548 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2040116786956787 seconds
+2019-10-17 15:43:11,696 - root - INFO - ############################### START ###############################
+2019-10-17 15:43:17,201 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.067060947418213 seconds
+2019-10-17 15:43:17,247 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03300189971923828 seconds
+2019-10-17 15:43:17,532 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.31801819801330566 seconds
+2019-10-17 15:43:17,570 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03600192070007324 seconds
+2019-10-17 15:43:17,726 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.19201087951660156 seconds
+2019-10-17 15:43:21,349 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:43:21,350 - root - INFO - ############################### START ###############################
+2019-10-17 15:43:23,955 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4160807132720947 seconds
+2019-10-17 15:43:24,008 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.05100297927856445 seconds
+2019-10-17 15:43:24,435 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.47902750968933105 seconds
+2019-10-17 15:43:24,562 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.12500715255737305 seconds
+2019-10-17 15:43:24,892 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.4560260772705078 seconds
+2019-10-17 15:43:33,348 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:46:24,045 - root - INFO - ############################### START ###############################
+2019-10-17 15:46:29,958 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2870733737945557 seconds
+2019-10-17 15:46:30,002 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03300189971923828 seconds
+2019-10-17 15:46:30,249 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.2800161838531494 seconds
+2019-10-17 15:46:30,280 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.029001712799072266 seconds
+2019-10-17 15:46:30,450 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.19901132583618164 seconds
+2019-10-17 15:46:34,034 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:46:34,035 - root - INFO - ############################### START ###############################
+2019-10-17 15:46:50,222 - root - INFO - FAIL       Unable to load https://www.baidu.com/, Spend 6.030344724655151 seconds
+2019-10-17 15:46:58,642 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:47:10,146 - root - INFO - ############################### START ###############################
+2019-10-17 15:47:17,145 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4730842113494873 seconds
+2019-10-17 15:47:17,188 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.031001806259155273 seconds
+2019-10-17 15:47:17,454 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.29701709747314453 seconds
+2019-10-17 15:47:17,483 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.027001380920410156 seconds
+2019-10-17 15:47:17,632 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.1760098934173584 seconds
+2019-10-17 15:47:21,132 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:47:25,063 - root - INFO - ############################### START ###############################
+2019-10-17 15:47:28,181 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.9781129360198975 seconds
+2019-10-17 15:47:28,233 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.0500028133392334 seconds
+2019-10-17 15:47:28,732 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.5490312576293945 seconds
+2019-10-17 15:47:28,770 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03600192070007324 seconds
+2019-10-17 15:47:29,065 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.33101892471313477 seconds
+2019-10-17 15:47:37,536 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:48:34,936 - root - INFO - ############################### START ###############################
+2019-10-17 15:48:41,364 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2640721797943115 seconds
+2019-10-17 15:48:41,417 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03300213813781738 seconds
+2019-10-17 15:48:41,886 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.5030288696289062 seconds
+2019-10-17 15:48:41,917 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.029001474380493164 seconds
+2019-10-17 15:48:42,188 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.3000171184539795 seconds
+2019-10-17 15:48:45,155 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:49:00,488 - root - INFO - ############################### START ###############################
+2019-10-17 15:49:04,781 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 3.124178647994995 seconds
+2019-10-17 15:49:04,826 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.044002532958984375 seconds
+2019-10-17 15:49:05,197 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.4150238037109375 seconds
+2019-10-17 15:49:05,263 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.0630035400390625 seconds
+2019-10-17 15:49:05,500 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.30101728439331055 seconds
+2019-10-17 15:49:13,691 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:50:31,814 - root - INFO - ############################### START ###############################
+2019-10-17 15:50:38,112 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4570832252502441 seconds
+2019-10-17 15:50:38,156 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03300189971923828 seconds
+2019-10-17 15:50:38,482 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.358020544052124 seconds
+2019-10-17 15:50:38,484 - root - INFO - FAIL       Unable to click element: <id-su>, Spend 0.0 seconds
+2019-10-17 15:50:42,051 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:50:46,339 - root - INFO - ############################### START ###############################
+2019-10-17 15:50:48,667 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.208069086074829 seconds
+2019-10-17 15:50:48,703 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.034002065658569336 seconds
+2019-10-17 15:50:48,946 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.2780160903930664 seconds
+2019-10-17 15:50:49,026 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.07800459861755371 seconds
+2019-10-17 15:50:49,173 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.22501301765441895 seconds
+2019-10-17 15:50:57,832 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:51:56,553 - root - INFO - ############################### START ###############################
+2019-10-17 15:52:06,885 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:52:10,902 - root - INFO - ############################### START ###############################
+2019-10-17 15:52:17,189 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.6620948314666748 seconds
+2019-10-17 15:52:17,234 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03500223159790039 seconds
+2019-10-17 15:52:17,509 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.31001782417297363 seconds
+2019-10-17 15:52:17,511 - root - INFO - FAIL       Unable to click element: <id-su>, Spend 0.0 seconds
+2019-10-17 15:52:21,352 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:52:25,251 - root - INFO - ############################### START ###############################
+2019-10-17 15:52:27,874 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.4640841484069824 seconds
+2019-10-17 15:52:27,912 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03600192070007324 seconds
+2019-10-17 15:52:28,190 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.31401777267456055 seconds
+2019-10-17 15:52:28,228 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.036002159118652344 seconds
+2019-10-17 15:52:28,378 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.18601059913635254 seconds
+2019-10-17 15:52:37,402 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:53:51,016 - root - INFO - ############################### START ###############################
+2019-10-17 15:53:56,553 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:54:20,660 - root - INFO - ############################### START ###############################
+2019-10-17 15:54:28,348 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:54:28,350 - root - INFO - ############################### START ###############################
+2019-10-17 15:54:35,240 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.774101734161377 seconds
+2019-10-17 15:54:35,379 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.11800670623779297 seconds
+2019-10-17 15:54:35,725 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.46402668952941895 seconds
+2019-10-17 15:54:35,727 - root - INFO - FAIL       Unable to click element: <id-su>, Spend 0.0 seconds
+2019-10-17 15:54:40,293 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:54:44,088 - root - INFO - ############################### START ###############################
+2019-10-17 15:54:47,662 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.3561348915100098 seconds
+2019-10-17 15:54:47,707 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04300236701965332 seconds
+2019-10-17 15:54:48,142 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.47902750968933105 seconds
+2019-10-17 15:54:48,183 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.039002418518066406 seconds
+2019-10-17 15:54:48,423 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.27901601791381836 seconds
+2019-10-17 15:54:56,820 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:58:03,860 - root - INFO - ############################### START ###############################
+2019-10-17 15:58:09,141 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.156237840652466 seconds
+2019-10-17 15:58:09,184 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04100227355957031 seconds
+2019-10-17 15:58:09,469 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.32701873779296875 seconds
+2019-10-17 15:58:09,504 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.034001827239990234 seconds
+2019-10-17 15:58:09,693 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.22201275825500488 seconds
+2019-10-17 15:58:16,458 - root - INFO - ###############################  END  ###############################
+2019-10-17 15:59:38,021 - root - INFO - ############################### START ###############################
+2019-10-17 15:59:47,342 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 8.170467138290405 seconds
+2019-10-17 15:59:47,389 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04500293731689453 seconds
+2019-10-17 15:59:47,720 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.3760216236114502 seconds
+2019-10-17 15:59:47,798 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.0760042667388916 seconds
+2019-10-17 15:59:48,062 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.34001946449279785 seconds
+2019-10-17 15:59:54,992 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:00:13,272 - root - INFO - ############################### START ###############################
+2019-10-17 16:00:16,770 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.3611350059509277 seconds
+2019-10-17 16:00:16,808 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.036002159118652344 seconds
+2019-10-17 16:00:17,050 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.27901601791381836 seconds
+2019-10-17 16:00:17,083 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03200173377990723 seconds
+2019-10-17 16:00:17,233 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.18101048469543457 seconds
+2019-10-17 16:00:24,194 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:00:28,387 - root - INFO - ############################### START ###############################
+2019-10-17 16:00:36,682 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:00:36,684 - root - INFO - ############################### START ###############################
+2019-10-17 16:00:43,110 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.6420938968658447 seconds
+2019-10-17 16:00:43,153 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03200173377990723 seconds
+2019-10-17 16:00:43,380 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.2590148448944092 seconds
+2019-10-17 16:00:43,382 - root - INFO - FAIL       Unable to click element: <id-su>, Spend 0.0 seconds
+2019-10-17 16:00:46,742 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:00:50,802 - root - INFO - ############################### START ###############################
+2019-10-17 16:00:56,108 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 4.171238660812378 seconds
+2019-10-17 16:00:56,152 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04100203514099121 seconds
+2019-10-17 16:00:56,375 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.26401495933532715 seconds
+2019-10-17 16:00:56,402 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.026001691818237305 seconds
+2019-10-17 16:00:56,565 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.18801069259643555 seconds
+2019-10-17 16:01:05,341 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:03:19,083 - root - INFO - ############################### START ###############################
+2019-10-17 16:03:20,305 - root - INFO - FAIL       Unable to send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.08100438117980957 seconds
+2019-10-17 16:03:23,030 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:04:34,003 - root - INFO - ############################### START ###############################
+2019-10-17 16:04:35,228 - root - INFO - FAIL       Unable to load https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 0.0 seconds
+2019-10-17 16:04:37,950 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:05:03,015 - root - INFO - ############################### START ###############################
+2019-10-17 16:05:13,841 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 9.275530576705933 seconds
+2019-10-17 16:05:13,918 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.07500433921813965 seconds
+2019-10-17 16:05:14,334 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.4910280704498291 seconds
+2019-10-17 16:05:14,341 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.00500035285949707 seconds
+2019-10-17 16:05:14,363 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.021001100540161133 seconds
+2019-10-17 16:05:14,741 - root - INFO - SUCCESS    Clear and send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.3980228900909424 seconds
+2019-10-17 16:05:14,777 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.034001827239990234 seconds
+2019-10-17 16:05:15,109 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.36602115631103516 seconds
+2019-10-17 16:05:15,141 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.03000164031982422 seconds
+2019-10-17 16:05:39,131 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 24.020373821258545 seconds
+2019-10-17 16:05:44,135 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-17 16:05:44,165 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.02800154685974121 seconds
+2019-10-17 16:05:44,390 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.25301432609558105 seconds
+2019-10-17 16:05:49,429 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.022001028060913086 seconds
+2019-10-17 16:05:49,647 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.24001359939575195 seconds
+2019-10-17 16:05:51,675 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.026001453399658203 seconds
+2019-10-17 16:05:51,897 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input> content: test, Spend 0.24801397323608398 seconds
+2019-10-17 16:05:53,924 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.02500128746032715 seconds
+2019-10-17 16:05:54,096 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.19701123237609863 seconds
+2019-10-17 16:05:56,128 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.023001432418823242 seconds
+2019-10-17 16:05:56,201 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.09600543975830078 seconds
+2019-10-17 16:05:56,227 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.024001121520996094 seconds
+2019-10-17 16:05:56,348 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.14500832557678223 seconds
+2019-10-17 16:05:58,374 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.024001359939575195 seconds
+2019-10-17 16:05:58,653 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea> content: select, Spend 0.30301713943481445 seconds
+2019-10-17 16:05:58,679 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.024001121520996094 seconds
+2019-10-17 16:05:58,771 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.11600661277770996 seconds
+2019-10-17 16:06:06,695 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:06:59,403 - root - INFO - ############################### START ###############################
+2019-10-17 16:07:08,818 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 8.218470096588135 seconds
+2019-10-17 16:07:08,853 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.03300213813781738 seconds
+2019-10-17 16:07:09,259 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.4390251636505127 seconds
+2019-10-17 16:07:09,266 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.00500035285949707 seconds
+2019-10-17 16:07:09,294 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.026001453399658203 seconds
+2019-10-17 16:07:09,669 - root - INFO - SUCCESS    Clear and send element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input> content: guoxiaofeng, Spend 0.40102291107177734 seconds
+2019-10-17 16:07:09,699 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.02800154685974121 seconds
+2019-10-17 16:07:10,132 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input> content: Guo521521???, Spend 0.4610264301300049 seconds
+2019-10-17 16:07:10,168 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.034001827239990234 seconds
+2019-10-17 16:07:29,311 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 19.177096605300903 seconds
+2019-10-17 16:07:34,315 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002000093460083008 seconds
+2019-10-17 16:07:34,341 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001598358154297 seconds
+2019-10-17 16:07:34,558 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.241013765335083 seconds
+2019-10-17 16:07:39,598 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.02300095558166504 seconds
+2019-10-17 16:07:39,800 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.22501277923583984 seconds
+2019-10-17 16:07:41,830 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.02800154685974121 seconds
+2019-10-17 16:07:42,008 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input> content: test, Spend 0.20601153373718262 seconds
+2019-10-17 16:07:44,032 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.02200150489807129 seconds
+2019-10-17 16:07:44,337 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.32701873779296875 seconds
+2019-10-17 16:07:46,365 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.02500152587890625 seconds
+2019-10-17 16:07:46,435 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.09500551223754883 seconds
+2019-10-17 16:07:46,462 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.02500152587890625 seconds
+2019-10-17 16:07:46,557 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.12000703811645508 seconds
+2019-10-17 16:07:48,580 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.021001100540161133 seconds
+2019-10-17 16:07:48,810 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea> content: select, Spend 0.25101423263549805 seconds
+2019-10-17 16:07:48,840 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.02800154685974121 seconds
+2019-10-17 16:07:48,928 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.11600661277770996 seconds
+2019-10-17 16:07:56,705 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:13:40,366 - root - INFO - ############################### START ###############################
+2019-10-17 16:13:47,386 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 5.8073320388793945 seconds
+2019-10-17 16:13:47,430 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.04200243949890137 seconds
+2019-10-17 16:13:47,814 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.030002117156982422 seconds
+2019-10-17 16:13:48,121 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.02500152587890625 seconds
+2019-10-17 16:14:41,955 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001359939575195 seconds
+2019-10-17 16:14:47,098 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.022001028060913086 seconds
+2019-10-17 16:14:49,388 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.026001691818237305 seconds
+2019-10-17 16:14:51,600 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.019001245498657227 seconds
+2019-10-17 16:14:53,791 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.024001598358154297 seconds
+2019-10-17 16:14:53,883 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.023001432418823242 seconds
+2019-10-17 16:14:56,001 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.02500152587890625 seconds
+2019-10-17 16:14:56,263 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.02300119400024414 seconds
+2019-10-17 16:15:04,138 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:15:44,932 - root - INFO - ############################### START ###############################
+2019-10-17 16:16:08,022 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 21.847249507904053 seconds
+2019-10-17 16:16:08,110 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.08600473403930664 seconds
+2019-10-17 16:16:08,406 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.028001785278320312 seconds
+2019-10-17 16:16:08,692 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.03000187873840332 seconds
+2019-10-17 16:16:39,743 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001359939575195 seconds
+2019-10-17 16:16:44,991 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.027001380920410156 seconds
+2019-10-17 16:16:47,281 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.02300119400024414 seconds
+2019-10-17 16:16:49,505 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.023001432418823242 seconds
+2019-10-17 16:16:51,730 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.02200150489807129 seconds
+2019-10-17 16:16:51,827 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[3]/div/div[3]/div/button[2]>, Spend 0.024001121520996094 seconds
+2019-10-17 16:16:53,967 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[4]/div/div[2]/div/div/div[2]/textarea>, Spend 0.024001359939575195 seconds
+2019-10-17 16:16:54,295 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/div[2]/div/button[2]>, Spend 0.026001453399658203 seconds
+2019-10-17 16:17:02,157 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:19:48,264 - root - INFO - ############################### START ###############################
+2019-10-17 16:19:56,394 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 6.916395425796509 seconds
+2019-10-17 16:19:56,438 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.04200243949890137 seconds
+2019-10-17 16:19:56,919 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.031001806259155273 seconds
+2019-10-17 16:19:57,430 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.03200173377990723 seconds
+2019-10-17 16:20:57,863 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:21:26,028 - root - INFO - ############################### START ###############################
+2019-10-17 16:21:37,389 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 10.1815824508667 seconds
+2019-10-17 16:21:37,434 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.04300260543823242 seconds
+2019-10-17 16:21:37,720 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.02500152587890625 seconds
+2019-10-17 16:21:38,204 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.03300189971923828 seconds
+2019-10-17 16:22:59,099 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:30:14,731 - root - INFO - ############################### START ###############################
+2019-10-17 16:30:19,341 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.474198818206787 seconds
+2019-10-17 16:30:19,429 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.08500480651855469 seconds
+2019-10-17 16:30:19,900 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.027001142501831055 seconds
+2019-10-17 16:30:20,164 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.027001380920410156 seconds
+2019-10-17 16:30:29,302 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.023001432418823242 seconds
+2019-10-17 16:30:34,490 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.027001380920410156 seconds
+2019-10-17 16:30:36,741 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.02500152587890625 seconds
+2019-10-17 16:30:38,955 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.022001266479492188 seconds
+2019-10-17 16:30:44,004 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:35:43,761 - root - INFO - ############################### START ###############################
+2019-10-17 16:35:50,135 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 5.223298788070679 seconds
+2019-10-17 16:35:50,184 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.047002553939819336 seconds
+2019-10-17 16:35:50,578 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.024001598358154297 seconds
+2019-10-17 16:35:50,950 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.02500128746032715 seconds
+2019-10-17 16:36:02,098 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001359939575195 seconds
+2019-10-17 16:36:07,267 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.04500269889831543 seconds
+2019-10-17 16:36:09,506 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.024001359939575195 seconds
+2019-10-17 16:36:11,665 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.02300119400024414 seconds
+2019-10-17 16:36:16,557 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:38:45,571 - root - INFO - ############################### START ###############################
+2019-10-17 16:38:50,621 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.8792219161987305 seconds
+2019-10-17 16:38:50,706 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.08300495147705078 seconds
+2019-10-17 16:38:51,141 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.02800154685974121 seconds
+2019-10-17 16:38:51,456 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.024001598358154297 seconds
+2019-10-17 16:39:00,474 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.02800154685974121 seconds
+2019-10-17 16:39:05,644 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.023001432418823242 seconds
+2019-10-17 16:39:07,905 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.02500128746032715 seconds
+2019-10-17 16:39:10,124 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.022001266479492188 seconds
+2019-10-17 16:39:15,132 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:41:38,795 - root - INFO - ############################### START ###############################
+2019-10-17 16:41:43,809 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.8672211170196533 seconds
+2019-10-17 16:41:43,947 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.13600802421569824 seconds
+2019-10-17 16:41:44,349 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.034001827239990234 seconds
+2019-10-17 16:41:44,610 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.029001712799072266 seconds
+2019-10-17 16:41:57,281 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.023001432418823242 seconds
+2019-10-17 16:42:02,428 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.02300119400024414 seconds
+2019-10-17 16:42:04,665 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.026001691818237305 seconds
+2019-10-17 16:42:06,891 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.023001432418823242 seconds
+2019-10-17 16:42:11,909 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:48:27,983 - root - INFO - ############################### START ###############################
+2019-10-17 16:48:37,587 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 8.333476543426514 seconds
+2019-10-17 16:48:37,657 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.06800389289855957 seconds
+2019-10-17 16:48:40,847 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:51:49,696 - root - INFO - ############################### START ###############################
+2019-10-17 16:51:56,794 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 5.94133996963501 seconds
+2019-10-17 16:51:56,937 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.1410081386566162 seconds
+2019-10-17 16:51:57,305 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.02800154685974121 seconds
+2019-10-17 16:51:57,609 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.024001121520996094 seconds
+2019-10-17 16:52:08,864 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.026001453399658203 seconds
+2019-10-17 16:52:14,044 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.024001359939575195 seconds
+2019-10-17 16:52:16,280 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.026001691818237305 seconds
+2019-10-17 16:52:18,497 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.02300119400024414 seconds
+2019-10-17 16:52:23,434 - root - INFO - ###############################  END  ###############################
+2019-10-17 16:53:39,961 - root - INFO - ############################### START ###############################
+2019-10-17 16:53:44,285 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 3.1841819286346436 seconds
+2019-10-17 16:53:44,330 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.04300236701965332 seconds
+2019-10-17 16:53:44,927 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.031001806259155273 seconds
+2019-10-17 16:53:45,192 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.029001474380493164 seconds
+2019-10-17 16:53:54,840 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001598358154297 seconds
+2019-10-17 16:54:00,170 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.027001619338989258 seconds
+2019-10-17 16:54:02,410 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.0260012149810791 seconds
+2019-10-17 16:54:04,631 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.026001453399658203 seconds
+2019-10-17 16:54:06,813 - root - INFO - FAIL       Unable find element: <xpath>/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.0 seconds
+2019-10-17 16:54:09,739 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:10:38,947 - root - INFO - ############################### START ###############################
+2019-10-17 17:10:44,623 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 4.339248180389404 seconds
+2019-10-17 17:10:44,807 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.18401050567626953 seconds
+2019-10-17 17:10:45,579 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.046002864837646484 seconds
+2019-10-17 17:10:47,371 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.35502028465270996 seconds
+2019-10-17 17:11:00,302 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.024001359939575195 seconds
+2019-10-17 17:11:05,608 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.02500152587890625 seconds
+2019-10-17 17:11:07,929 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.02200150489807129 seconds
+2019-10-17 17:11:10,134 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.024001598358154297 seconds
+2019-10-17 17:11:12,325 - root - INFO - FAIL       Unable find element: <xpath>/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.0 seconds
+2019-10-17 17:11:15,630 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:20:58,876 - root - INFO - ############################### START ###############################
+2019-10-17 17:21:02,815 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.8021605014801025 seconds
+2019-10-17 17:21:02,851 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03300166130065918 seconds
+2019-10-17 17:21:03,109 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.2910163402557373 seconds
+2019-10-17 17:21:03,136 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.024001121520996094 seconds
+2019-10-17 17:21:03,354 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.24301385879516602 seconds
+2019-10-17 17:21:11,152 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:21:44,889 - root - INFO - ############################### START ###############################
+2019-10-17 17:21:52,273 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 6.0303449630737305 seconds
+2019-10-17 17:21:52,334 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.059003353118896484 seconds
+2019-10-17 17:21:52,715 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.44002509117126465 seconds
+2019-10-17 17:21:52,762 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.04500293731689453 seconds
+2019-10-17 17:21:53,022 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.30501770973205566 seconds
+2019-10-17 17:22:02,156 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:24:06,081 - root - INFO - ############################### START ###############################
+2019-10-17 17:24:09,112 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.8221044540405273 seconds
+2019-10-17 17:24:09,159 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04500246047973633 seconds
+2019-10-17 17:24:09,618 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.5030286312103271 seconds
+2019-10-17 17:24:09,655 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03500223159790039 seconds
+2019-10-17 17:24:09,910 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.29001688957214355 seconds
+2019-10-17 17:24:18,361 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:26:19,297 - root - INFO - ############################### START ###############################
+2019-10-17 17:26:29,256 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 8.800503253936768 seconds
+2019-10-17 17:26:29,293 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03500199317932129 seconds
+2019-10-17 17:26:29,691 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.43302464485168457 seconds
+2019-10-17 17:26:29,723 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.03000164031982422 seconds
+2019-10-17 17:26:29,982 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2890164852142334 seconds
+2019-10-17 17:26:38,875 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:39:56,583 - root - INFO - ############################### START ###############################
+2019-10-17 17:39:59,318 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.5960910320281982 seconds
+2019-10-17 17:39:59,360 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04000210762023926 seconds
+2019-10-17 17:39:59,573 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.2540144920349121 seconds
+2019-10-17 17:39:59,603 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02800154685974121 seconds
+2019-10-17 17:39:59,750 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.17501020431518555 seconds
+2019-10-17 17:40:08,786 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:44:15,989 - root - INFO - ############################### START ###############################
+2019-10-17 17:44:19,552 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.425138473510742 seconds
+2019-10-17 17:44:19,859 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.30501747131347656 seconds
+2019-10-17 17:44:20,776 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 1.2210698127746582 seconds
+2019-10-17 17:44:20,777 - root - INFO - FAIL       Unable to click element: <id>su>, Spend 0.0 seconds
+2019-10-17 17:44:24,728 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:45:16,289 - root - INFO - ############################### START ###############################
+2019-10-17 17:45:19,569 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.783102035522461 seconds
+2019-10-17 17:45:19,661 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.09100532531738281 seconds
+2019-10-17 17:45:20,209 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.6390366554260254 seconds
+2019-10-17 17:45:20,310 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.1000056266784668 seconds
+2019-10-17 17:45:20,713 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.5020287036895752 seconds
+2019-10-17 17:45:28,464 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:46:50,416 - root - INFO - ############################### START ###############################
+2019-10-17 17:46:53,101 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.554088830947876 seconds
+2019-10-17 17:46:53,141 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03800177574157715 seconds
+2019-10-17 17:46:53,421 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.31801795959472656 seconds
+2019-10-17 17:46:53,447 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.024001359939575195 seconds
+2019-10-17 17:46:53,611 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.18801069259643555 seconds
+2019-10-17 17:47:01,418 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:48:22,299 - root - INFO - ############################### START ###############################
+2019-10-17 17:48:25,897 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.4171383380889893 seconds
+2019-10-17 17:48:25,952 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.05300307273864746 seconds
+2019-10-17 17:48:26,700 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.03300189971923828 seconds
+2019-10-17 17:48:27,136 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.027001619338989258 seconds
+2019-10-17 17:48:34,366 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.03300189971923828 seconds
+2019-10-17 17:48:39,608 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.02300119400024414 seconds
+2019-10-17 17:48:41,920 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.02300119400024414 seconds
+2019-10-17 17:48:44,151 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.026001453399658203 seconds
+2019-10-17 17:48:46,316 - root - INFO - FAIL       Unable find element: <xpath>/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.0 seconds
+2019-10-17 17:48:50,118 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:48:54,247 - root - INFO - ############################### START ###############################
+2019-10-17 17:48:58,314 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.9231672286987305 seconds
+2019-10-17 17:48:58,351 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.034001827239990234 seconds
+2019-10-17 17:48:58,511 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.19401097297668457 seconds
+2019-10-17 17:48:58,542 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.028001785278320312 seconds
+2019-10-17 17:49:03,238 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 4.725270509719849 seconds
+2019-10-17 17:49:10,218 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:49:14,334 - root - INFO - ############################### START ###############################
+2019-10-17 17:49:21,181 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:49:21,182 - root - INFO - ############################### START ###############################
+2019-10-17 17:49:27,846 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.548088550567627 seconds
+2019-10-17 17:49:27,904 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04500269889831543 seconds
+2019-10-17 17:49:28,356 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.4970285892486572 seconds
+2019-10-17 17:49:28,357 - root - INFO - FAIL       Unable to click element: <id-su>, Spend 0.0 seconds
+2019-10-17 17:49:32,256 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:49:36,340 - root - INFO - ############################### START ###############################
+2019-10-17 17:49:39,603 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.1131210327148438 seconds
+2019-10-17 17:49:39,648 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.04300236701965332 seconds
+2019-10-17 17:49:39,979 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.3740212917327881 seconds
+2019-10-17 17:49:40,029 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.04800248146057129 seconds
+2019-10-17 17:49:40,245 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.26401519775390625 seconds
+2019-10-17 17:49:48,035 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:54:17,660 - root - INFO - ############################### START ###############################
+2019-10-17 17:54:23,676 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:54:58,488 - root - INFO - ############################### START ###############################
+2019-10-17 17:55:02,383 - root - INFO - SUCCESS    Navigated to https://rule.aeptest.ctwing.cn/index.html?token=cbc41f4e-d4b6-4a67-950-050a1eb44b4&true#/rule?t=10070570&token=cbc41f4e-d4b6-4a67-9a50-050a1eb44a, Spend 2.6831536293029785 seconds
+2019-10-17 17:55:02,534 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[1]/div/div[1]/input>, Spend 0.1500084400177002 seconds
+2019-10-17 17:55:03,213 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[2]/div/div[1]/input>, Spend 0.03000164031982422 seconds
+2019-10-17 17:55:03,657 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="fm1"]/div[4]/div/div[1]/button>, Spend 0.03300189971923828 seconds
+2019-10-17 17:55:23,994 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div/div/div/section/main/div[1]/div/div[8]/button>, Spend 0.02500128746032715 seconds
+2019-10-17 17:55:29,299 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/div[3]/div/div[3]/span/button[1]>, Spend 0.02300119400024414 seconds
+2019-10-17 17:55:31,589 - root - INFO - SUCCESS    Typed element: <xpath->/html/body/div[1]/div/div/section/main/div[2]/div/section/div/div/div[2]/form/div[1]/div/div[1]/input>, Spend 0.024001359939575195 seconds
+2019-10-17 17:55:33,816 - root - INFO - SUCCESS    Typed element: <xpath->//*[@id="select-append"]/button[1]>, Spend 0.023001432418823242 seconds
+2019-10-17 17:55:36,006 - root - INFO - FAIL       Unable find element: <xpath>/html/body/div[3]/div/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[2]>, Spend 0.0 seconds
+2019-10-17 17:55:39,884 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:55:44,641 - root - INFO - ############################### START ###############################
+2019-10-17 17:55:47,817 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 2.04111647605896 seconds
+2019-10-17 17:55:47,858 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.03500175476074219 seconds
+2019-10-17 17:55:48,165 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.34201955795288086 seconds
+2019-10-17 17:55:48,214 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.04600262641906738 seconds
+2019-10-17 17:55:48,376 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.20801210403442383 seconds
+2019-10-17 17:55:55,300 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:55:59,752 - root - INFO - ############################### START ###############################
+2019-10-17 17:56:06,924 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:56:06,925 - root - INFO - ############################### START ###############################
+2019-10-17 17:56:13,365 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.2130694389343262 seconds
+2019-10-17 17:56:13,417 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.044002532958984375 seconds
+2019-10-17 17:56:13,696 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试03, Spend 0.32301855087280273 seconds
+2019-10-17 17:56:13,698 - root - INFO - FAIL       Unable to click element: <id-su>, Spend 0.0 seconds
+2019-10-17 17:56:17,711 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:56:21,764 - root - INFO - ############################### START ###############################
+2019-10-17 17:56:24,349 - root - INFO - SUCCESS    Navigated to https://www.baidu.com/, Spend 1.425081729888916 seconds
+2019-10-17 17:56:24,391 - root - INFO - SUCCESS    Typed element: <id->kw>, Spend 0.039002180099487305 seconds
+2019-10-17 17:56:24,651 - root - INFO - SUCCESS    Typed element: <id->kw> content: 测试04, Spend 0.29901719093322754 seconds
+2019-10-17 17:56:24,675 - root - INFO - SUCCESS    Typed element: <id->su>, Spend 0.02200150489807129 seconds
+2019-10-17 17:56:24,824 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.17101001739501953 seconds
+2019-10-17 17:56:32,582 - root - INFO - ###############################  END  ###############################
+2019-10-17 17:56:35,948 - root - INFO - 发送邮件成功

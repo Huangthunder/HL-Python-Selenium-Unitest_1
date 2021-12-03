@@ -1,0 +1,17 @@
+2020-06-19 09:23:00,227 - root - INFO - ############################### START ###############################
+2020-06-19 09:23:06,605 - root - INFO - SUCCESS    Navigated to https://www.jd.com, Spend 6.250602960586548 seconds
+2020-06-19 09:23:09,608 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.00185227394104 seconds
+2020-06-19 09:23:09,621 - root - INFO - SUCCESS    Execute javascript script to the bottom: window.scrollTo(0, document.body.scrollHeight), Spend 0.012191057205200195 seconds
+2020-06-19 09:23:12,624 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.001999855041504 seconds
+2020-06-19 09:23:13,031 - root - INFO - ###############################  END  ###############################
+2020-06-19 09:54:49,451 - root - INFO - ############################### START ###############################
+2020-06-19 09:54:51,363 - root - INFO - SUCCESS    Navigated to https://www.taobao.com, Spend 1.7450730800628662 seconds
+2020-06-19 09:55:01,367 - root - INFO - SUCCESS    Sleep time: 10s, Spend 10.003203868865967 seconds
+2020-06-19 09:55:01,386 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.01813030242919922 seconds
+2020-06-19 09:55:01,395 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.008912086486816406 seconds
+2020-06-19 09:55:01,396 - root - INFO - SUCCESS    Get the number of current elements: name->q, count: 1, Spend 0.00948190689086914 seconds
+2020-06-19 09:55:01,406 - root - INFO - SUCCESS    Typed element name: <name->q>, Spend 0.009551048278808594 seconds
+2020-06-19 09:55:01,482 - root - INFO - SUCCESS    Typed element: <name->q> content: selenium, Spend 0.08562994003295898 seconds
+2020-06-19 09:55:04,483 - root - INFO - SUCCESS    Sleep time: 3s, Spend 3.000757932662964 seconds
+2020-06-19 09:55:04,484 - root - INFO - FAIL       Unable element <name>q> input content: 男士冬装, sleep 2s,input ENTER key, Spend 1.0967254638671875e-05 seconds
+2020-06-19 09:55:04,781 - root - INFO - ###############################  END  ###############################
